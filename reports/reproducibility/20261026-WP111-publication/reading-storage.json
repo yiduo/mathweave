@@ -1,0 +1,11 @@
+{
+  "at": "2026-10-26T07:56:35.759373+00:00",
+  "members": 9,
+  "compressed_sha256": "d485b8d3cc00791cf62c7bc99cee6e789f8a02e91b91ab209df2ca95a9243f09",
+  "decompressed_sha256": "0384b6dc65015cf489c69ecf483832d9359295afab5a808ce0c010184724f5d8",
+  "all_members_verified": true,
+  "source_hashes_verified": 11,
+  "third_party_bodies_included": false,
+  "temporary_work_retained_for_incomplete_task": true,
+  "scope": "Incomplete WP112; source bodies retained temporarily to resume, no experiment or application credit."
+}

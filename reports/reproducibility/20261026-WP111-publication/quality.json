@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-26T08:00:01.897544+00:00",
+  "files": 2006,
+  "bytes": 76725404,
+  "official_math_paths": 0,
+  "copy_hashes_verified": true,
+  "core_exit_code": 0,
+  "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "core_tests": 69,
+  "local_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "science_code_tests_corpus_exports_unchanged_from": "1a8a2b9",
+  "prior_WP111_archive_roundtrip_verified": true,
+  "prior_full_graph_impact_archive_evidence": "reports/reproducibility/20261026-F300-paving/quality.json.gz",
+  "new_scientific_experiments": 0,
+  "incomplete_WP112_actual_lines": 983,
+  "helper_members_verified": 4,
+  "helper_compressed_sha256": "90e35c3a7026e69ec5221d3c7fa7a32f75e187679d9d1e110832cf04b96d812e",
+  "helper_decompressed_sha256": "a1423148e66c823bd0cbd7f81d41c62229706dfdc814f78df7dca5dd87d4e8f3",
+  "scope": "Publication checks,not new scientific replays,proof review or application validation."
+}

@@ -385,6 +385,12 @@
       "Selected4oldworks/8actualPDFpages;1994Talagrand author version separated from1988workand1995publication;otherroot/recursivehistoryopen",
       "All68sourceC/fullchainunknown;noexactformalregistrationidentified inchecked scope,noLeanbuild/Comparator/humanreview",
       "Ten-domain/threecross-familyattempts;no newcandidate,initialcheck,numericexperiment orpilot"
+    ],
+    "F-300": [
+      "Both currentmanuscripts22TeX7647lines and2READMEs actuallyread/source-qualified;56namedbindings,20methodcontracts,notnewmath orfullfamily.",
+      "Fourselected original works/10PDFpages/927983newbytes;27distinctexternalroots,23rootbodiesandrecursivehistoryunread.",
+      "No matching formal entry identified inchecked pinnedmetadata/pathscope;56localC/fullchainunknown,noLeanbuild/Comparator/human/provider review.",
+      "10domain/3crossfamily attempts and4explicitapplicationgaps;no newcandidate/scientificrun/initialcheck."
     ]
   },
   "withdrawal_notices_checked": [
@@ -442,7 +448,12 @@
     "F-196",
     "F-198",
     "F-360",
-    "F-239"
+    "F-239",
+    "F-174",
+    "F-300",
+    "F-304"
   ],
-  "updated_at": "2026-10-26T04:55:38.485166+00:00"
+  "updated_at": "2026-10-26T05:55:05.770051+00:00",
+  "update_reason": "WP111 actual source decomposition andboundedhistorical/formal qualification,notfullfamily acceptance;reconcile stale mirror list F174/F304 to already-curated analysis flags,no extra old-family credit",
+  "prior_version_archive": "data/graph/history/GEN-20261026-108-reading-coverage-before.json.gz"
 }

@@ -2,7 +2,7 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；58族有实际阅读记录；54份族分析、53份全文草稿；45候选、13实际检验。
+372族登记；59族有实际阅读记录；55份族分析、54份全文草稿；45候选、13实际检验。
 
 其中19候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。11候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
@@ -356,7 +356,7 @@
 | [F-297 · A ZFC counterexample to Naimark's problem.](index.html#F-297) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-298 · Two notions of free entropy differ even when both are finite.](index.html#F-298) | Operator algebras | 有选读记录 | [全文草稿](../families/F-298.md) | 9／11 | 0 |
 | [F-299 · The Kirchberg–Rørdam character criterion and infinite tensor-power Jiang–Su stability.](index.html#F-299) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-300 · Approximation and quadratic strong-operator paving.](index.html#F-300) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-300 · Approximation and quadratic strong-operator paving.](index.html#F-300) | Operator algebras | 有选读记录 | [全文草稿](../families/F-300.md) | 56／20 | 0 |
 | [F-301 · Trace cones and Razak–Jacelon stabilization.](index.html#F-301) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-302 · Radius of comparison equals half the mean dimension.](index.html#F-302) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-303 · Weak pure infiniteness and Cuntz-algebra absorption.](index.html#F-303) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

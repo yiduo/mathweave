@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-26T05:25:11.405729+00:00",
+  "saved_at": "2026-10-26T08:16:52.866060+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "/Users/smzdm/.codex/attachments/9889aa5b-5623-4db2-8f84-3b34de21114d/goal-objective.md",
   "latest_retrospective": "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md",
@@ -114,15 +114,16 @@
     "WP-107",
     "WP-108",
     "WP-109",
-    "WP-110"
+    "WP-110",
+    "WP-111"
   ],
-  "work_packages_since_last_retrospective": 0,
-  "retrospective_due_after": "WP111-113 or earliermajorevidence/dataissue",
+  "work_packages_since_last_retrospective": 1,
+  "retrospective_due_after": "After WP113(third substantive package sinceglobal039),or earliermajorcounterevidence/dataissue",
   "metrics": {
-    "nodes": 7955,
-    "research_nodes": 4938,
-    "edges": 22511,
-    "citations_checked": 8606,
+    "nodes": 8091,
+    "research_nodes": 5048,
+    "edges": 23129,
+    "citations_checked": 8790,
     "candidate_connections": 45,
     "externally_checked_cards": 13,
     "effective_leads": 5,
@@ -133,8 +134,8 @@
     "registered_manuscripts": 719,
     "complete_family_decompositions": 0,
     "structured_decomposition_fraction": 0.0,
-    "partial_reading_families": 58,
-    "source_decomposition_drafts": 53,
+    "partial_reading_families": 59,
+    "source_decomposition_drafts": 54,
     "component_checks": 2,
     "all_six_stages_complete_families": 0,
     "human_fact_error_rate": null,
@@ -554,81 +555,95 @@
     "CurrentWP108 and postpublicationreceipts are localonly;do not automaticallypush toGitHub."
   ],
   "next_work_package": {
-    "id": "WP-111",
+    "id": "WP-112",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Read and decompose both current F300 approximation/quadratic strong-operator paving manuscripts,compare natural/formal/historical scope and transferable finite input/output contracts",
-    "selection_reason": "Global039 rotates from three probability/consumer packages toward operator algebras2/19. Test whether strong-operator nearidentity compression and approximation claims supply a finite error/cost interface,comparing existing paving/null routes;do not assume practical algorithm from quadratic block-count title.",
+    "objective": "Qualify real consumers of spectral block partitioning or state-budget compression against F300 transfer contracts and old finite-paving baselines",
+    "selection_reason": "WP111 now separates actual finite rooted-cost components from general strong-topology existence;before proposing applications,check whether real callers consume the same compressed/state-budget output andcharge full construction/validation costs. This directly targets application qualification rather than another known-formula demo.",
     "inputs": [
       "F-300",
-      "P-095dcf7bab0be0ae",
-      "P-8a687a97b053c803",
-      "state/reading-progress/WP-111.json",
-      "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
+      "data/provenance/readings/F-300.json",
+      "reports/paving-F300-reading.md",
+      "PROB-300-FINITE-COST",
+      "PROB-300-OUTPUT-SEMANTICS",
+      "PROB-300-STATE-INTERFACE"
     ],
-    "resource_limit": "Read-only fixedmath;complete2current source/include/reference/figure closures22TeX7647lines. Atmost4necessarypublicoriginals/8MiBnewbodydownloads,normalTLS;no clone/install/caches. No numerical/symbolicoutput before preregistered executable specification. Compress ownoutputs andverifyroundtrip beforecleanup.",
-    "acceptance": "Bind actual main/supporting results by manuscript/file,compare approximation versus exact/strong versus norm topology,compression projection quantifiers,epsilon/block counts,constants,subalgebra and conditional-expectation scope. Read actual selected formal statements and old paving bounds. Extract transferable contracts andten-domain/threecrossfamily attempts without forcedcards;preserveunknowns/human gates. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
-    "stop_or_redirect": "No new theorem proof or smallmatrixdemo presented as strongoperator theorem validation. If effective witness or real identical-output need absent,retainpreciseconditionalmapping androtate;do not silently replace uniformoperatornorm target by compressedstrongtopology.",
-    "created_at": "2026-10-26T05:06:01.708590+00:00",
+    "resource_limit": "Atmost3first-party publicsoftwareprojects,fixactualcommits andreadatmost12selectedsource/licensefiles/2MiBnewbodies. No clone,install,modelAPIor scientificoutput without separate executable preregistration. Reuse pinnedMSS/PV/RS/AS selected scopes;do not redownload them merelyforfingerprint.",
+    "acceptance": "Identify actual input matrix/operator,state/cocycle/expectation certificate,projection/partition output,allowed loss/error andreal consumer;compare identical-output oldmethods andcomplete cost. Preserve genuine mismatch andconditional clues. No candidate quota or mock application credit. Allgraph/source/gates/impact/export/core/archive/no-math checks foraccepted records.",
+    "stop_or_redirect": "Stop at3projects or12files ifno admitted identical-output workload;retain precise premises androute nextpackage towarda different low-coverage area. Do not present finite smallmatrix root identities asnewgeneralMASA validation.",
+    "created_at": "2026-10-26T06:06:17.987894+00:00",
+    "depends_on": [
+      "WP-111"
+    ],
     "github_push": false,
-    "retrospective_due": "After next3substantivepackages WP111-113,or earliermajorcounterevidence/dataissue",
-    "execution_journal": "state/reading-progress/WP-111.json",
-    "selection_read_scope": "Two READMEs plus22TeX7647line hashinventory only;zeroTeXbodyread orcoveragecredit",
-    "started_at": "2026-10-26T05:08:27.322428+00:00",
-    "execution_progress": {
-      "files_fully_read": 15,
-      "full_file_tex_lines_read": 4500,
-      "partial_file_tex_lines_read": 245,
-      "tex_lines_read": 4745,
-      "selected_total_tex_lines": 7647,
-      "new_full_manuscripts": 1,
-      "canonical_credit_added": false
-    },
-    "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts."
+    "retrospective_due": "AfterWP113 (third substantive package afterglobal039),or earliermajorcounterevidence/dataissue.",
+    "selection_source_reading_credit": false,
+    "next_action": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
+    "started_at": "2026-10-26T06:18:27.059284+00:00",
+    "selected_qualification_routes": [
+      "PETSc spectral deflation:coarse correction andfullsystem consumer",
+      "Ginkgo block-Jacobi:block partition/inversion/storage accuracy consumer",
+      "TeNPy Schmidt truncation:discarded state weight andtensorstructured output consumer"
+    ],
+    "selection_evidence": "Initial first-party PETSc andGinkgo documentation located concrete deflation/Jacobi consumers;TeNPy truncation interface chosen as distinct state-loss contract pendingactualsource. Documentation not counted asqualified source credit.",
+    "source_reading_progress": {
+      "projects_pinned": 3,
+      "files_downloaded": 11,
+      "body_bytes": 202494,
+      "selected_lines_actually_read": 983,
+      "new_application_checks": 0
+    }
   },
-  "release_state": "Public MathWeave b31ffce90304ca541c6ec4d08cc04c7b3cd38988 through WP109 plus unfinished WP110 reading; exact tree and7anonymousfiles verified; CI separately observed.",
-  "last_quality_evidence": "reports/reproducibility/20261026-F238-companions",
+  "release_state": "Public MathWeave 453a806aecb454c3581726a8e949e439cd3bdb66 through WP110/global039 plus unfinished WP1114745/7647lines;exact tree and7anonymous files verified;scoped CI success observed separately.",
+  "last_quality_evidence": "reports/reproducibility/20261026-F300-paving",
   "previous_goal_turn_classification": {
     "classification": "progress",
-    "evidence": "WP111 source reading advanced to4500full-file lines plus245partial;no canonical credit. Current explicit publication request takes priority over further reading."
+    "evidence": "Prior research WP111 complete and WP112 actual983-line checkpoint preserved. Current explicit owner publication request takes priority;no additional reading or application credit."
   },
   "active_work_package": {
-    "id": "WP-111",
+    "id": "WP-112",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Read and decompose both current F300 approximation/quadratic strong-operator paving manuscripts,compare natural/formal/historical scope and transferable finite input/output contracts",
-    "selection_reason": "Global039 rotates from three probability/consumer packages toward operator algebras2/19. Test whether strong-operator nearidentity compression and approximation claims supply a finite error/cost interface,comparing existing paving/null routes;do not assume practical algorithm from quadratic block-count title.",
+    "objective": "Qualify real consumers of spectral block partitioning or state-budget compression against F300 transfer contracts and old finite-paving baselines",
+    "selection_reason": "WP111 now separates actual finite rooted-cost components from general strong-topology existence;before proposing applications,check whether real callers consume the same compressed/state-budget output andcharge full construction/validation costs. This directly targets application qualification rather than another known-formula demo.",
     "inputs": [
       "F-300",
-      "P-095dcf7bab0be0ae",
-      "P-8a687a97b053c803",
-      "state/reading-progress/WP-111.json",
-      "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
+      "data/provenance/readings/F-300.json",
+      "reports/paving-F300-reading.md",
+      "PROB-300-FINITE-COST",
+      "PROB-300-OUTPUT-SEMANTICS",
+      "PROB-300-STATE-INTERFACE"
     ],
-    "resource_limit": "Read-only fixedmath;complete2current source/include/reference/figure closures22TeX7647lines. Atmost4necessarypublicoriginals/8MiBnewbodydownloads,normalTLS;no clone/install/caches. No numerical/symbolicoutput before preregistered executable specification. Compress ownoutputs andverifyroundtrip beforecleanup.",
-    "acceptance": "Bind actual main/supporting results by manuscript/file,compare approximation versus exact/strong versus norm topology,compression projection quantifiers,epsilon/block counts,constants,subalgebra and conditional-expectation scope. Read actual selected formal statements and old paving bounds. Extract transferable contracts andten-domain/threecrossfamily attempts without forcedcards;preserveunknowns/human gates. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
-    "stop_or_redirect": "No new theorem proof or smallmatrixdemo presented as strongoperator theorem validation. If effective witness or real identical-output need absent,retainpreciseconditionalmapping androtate;do not silently replace uniformoperatornorm target by compressedstrongtopology.",
-    "created_at": "2026-10-26T05:06:01.708590+00:00",
+    "resource_limit": "Atmost3first-party publicsoftwareprojects,fixactualcommits andreadatmost12selectedsource/licensefiles/2MiBnewbodies. No clone,install,modelAPIor scientificoutput without separate executable preregistration. Reuse pinnedMSS/PV/RS/AS selected scopes;do not redownload them merelyforfingerprint.",
+    "acceptance": "Identify actual input matrix/operator,state/cocycle/expectation certificate,projection/partition output,allowed loss/error andreal consumer;compare identical-output oldmethods andcomplete cost. Preserve genuine mismatch andconditional clues. No candidate quota or mock application credit. Allgraph/source/gates/impact/export/core/archive/no-math checks foraccepted records.",
+    "stop_or_redirect": "Stop at3projects or12files ifno admitted identical-output workload;retain precise premises androute nextpackage towarda different low-coverage area. Do not present finite smallmatrix root identities asnewgeneralMASA validation.",
+    "created_at": "2026-10-26T06:06:17.987894+00:00",
+    "depends_on": [
+      "WP-111"
+    ],
     "github_push": false,
-    "retrospective_due": "After next3substantivepackages WP111-113,or earliermajorcounterevidence/dataissue",
-    "execution_journal": "state/reading-progress/WP-111.json",
-    "selection_read_scope": "Two READMEs plus22TeX7647line hashinventory only;zeroTeXbodyread orcoveragecredit",
-    "started_at": "2026-10-26T05:08:27.322428+00:00",
-    "execution_progress": {
-      "files_fully_read": 15,
-      "full_file_tex_lines_read": 4500,
-      "partial_file_tex_lines_read": 245,
-      "tex_lines_read": 4745,
-      "selected_total_tex_lines": 7647,
-      "new_full_manuscripts": 1,
-      "canonical_credit_added": false
-    },
-    "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts."
+    "retrospective_due": "AfterWP113 (third substantive package afterglobal039),or earliermajorcounterevidence/dataissue.",
+    "selection_source_reading_credit": false,
+    "next_action": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
+    "started_at": "2026-10-26T06:18:27.059284+00:00",
+    "selected_qualification_routes": [
+      "PETSc spectral deflation:coarse correction andfullsystem consumer",
+      "Ginkgo block-Jacobi:block partition/inversion/storage accuracy consumer",
+      "TeNPy Schmidt truncation:discarded state weight andtensorstructured output consumer"
+    ],
+    "selection_evidence": "Initial first-party PETSc andGinkgo documentation located concrete deflation/Jacobi consumers;TeNPy truncation interface chosen as distinct state-loss contract pendingactualsource. Documentation not counted asqualified source credit.",
+    "source_reading_progress": {
+      "projects_pinned": 3,
+      "files_downloaded": 11,
+      "body_bytes": 202494,
+      "selected_lines_actually_read": 983,
+      "new_application_checks": 0
+    }
   },
   "publication_work": {
-    "status": "qa_passed_awaiting_single_push",
+    "status": "preparing_owner_requested_WP111_batch",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/mathweave",
     "official_math_excluded": true,
@@ -640,49 +655,61 @@
     "initial_remote_ci_failure_preserved": true,
     "macos_strict_replay_passed": true,
     "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-    "latest_public_commit": "b31ffce90304ca541c6ec4d08cc04c7b3cd38988",
+    "latest_public_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
     "latest_ci": [
       {
-        "id": 40269977360,
+        "id": 40274241467,
         "name": "offline-core",
-        "head_sha": "b31ffce90304ca541c6ec4d08cc04c7b3cd38988",
+        "head_sha": "453a806aecb454c3581726a8e949e439cd3bdb66",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40269977360",
-        "created_at": "2026-10-26T04:36:53Z",
-        "updated_at": "2026-10-26T04:41:26Z"
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40274241467",
+        "created_at": "2026-10-26T05:26:41Z",
+        "updated_at": "2026-10-26T05:29:13Z"
       }
     ],
-    "current_local_research_not_yet_pushed": "WP110 canonical GEN107,global039 and incomplete WP111 4745/7647line checkpoint are being prepared for this explicit owner-requested batch;current verified public commit remains b31ffce until actual remote readback.",
+    "current_local_research_not_yet_pushed": "WP111 GEN108 complete;WP112 in progress,983 actual source/license lines only. This explicit owner-requested batch is pending push/readback.",
     "synchronization_status": "published_verified",
     "pending_public_commit": null,
     "pending_public_tree": null,
     "active_push_exec_session": null,
-    "scientific_local_commit": "c5f2c006e056ff42e734bfd017499264dc6e940e",
-    "prepush_audit": "reports/reproducibility/20261026-WP110-publication/final-audit.json.gz",
-    "latest_public_tree": "fc779fc65b5a0d6033ac118293f91bd730911a57",
-    "latest_verification_receipt": "reports/reproducibility/20261026-owner-batch/verification.json.gz",
-    "latest_ci_receipt": "reports/reproducibility/20261026-owner-batch/CI-observation.json.gz",
+    "scientific_local_commit": "54c062327899a45a0385d10aab8f48a6e343447a",
+    "prepush_audit": "reports/reproducibility/20261026-WP111-publication/final-audit.json.gz",
+    "latest_public_tree": "f5c404d9caa2e45bdf65ab66e89e4d8d25ada1c7",
+    "latest_verification_receipt": "reports/reproducibility/20261026-WP110-publication/verification.json.gz",
+    "latest_ci_receipt": "reports/reproducibility/20261026-WP110-publication/CI-observation.json.gz",
     "update_policy": "User reaffirmed fewer GitHub updates2026-10-23:local routine checkpoints/commits,meaningful milestone batches only;publication_policy in configs/research.json;no scheduler.",
-    "receipt_storage_scope": "Saved and locally committed after public snapshot; deliberately not pushed again. Current public tree retains prepush preparation state and prior verified receipt; actual readback here supersedes it locally.",
+    "receipt_storage_scope": "Saved and locally committed after public snapshot;not pushed again. The public tree records preparation and previous verification;this subsequent local receipt verifies actual publication and CI.",
     "current_batch_qa": {
-      "core_tests": 69,
-      "core_exit_code": 0,
-      "no_math_core_exit_code": 0,
-      "clean_files": 1983,
-      "clean_bytes": 74866959,
-      "source_inventory_hashes_verified": 24,
+      "at": "2026-10-26T08:00:01.897544+00:00",
+      "files": 2006,
+      "bytes": 76725404,
       "official_math_paths": 0,
-      "scope": "Current publication preparation;exact staged audit and remote verification follow"
-    }
+      "copy_hashes_verified": true,
+      "core_exit_code": 0,
+      "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+      "core_tests": 69,
+      "local_core_exit_code": 0,
+      "clean_directory_removed": true,
+      "science_code_tests_corpus_exports_unchanged_from": "1a8a2b9",
+      "prior_WP111_archive_roundtrip_verified": true,
+      "prior_full_graph_impact_archive_evidence": "reports/reproducibility/20261026-F300-paving/quality.json.gz",
+      "new_scientific_experiments": 0,
+      "incomplete_WP112_actual_lines": 983,
+      "helper_members_verified": 4,
+      "helper_compressed_sha256": "90e35c3a7026e69ec5221d3c7fa7a32f75e187679d9d1e110832cf04b96d812e",
+      "helper_decompressed_sha256": "a1423148e66c823bd0cbd7f81d41c62229706dfdc814f78df7dca5dd87d4e8f3",
+      "scope": "Publication checks,not new scientific replays,proof review or application validation."
+    },
+    "pending_ci_run": null
   },
   "recovery_commands": [
-    "Read goal/AGENTS/charter/roadmap/status/checkpoint/backlog/latestglobal039;verifydisk/processesandWP110storage first.",
-    "WP110/039completedlocal11fcd13;storagehelpers33membersgzip199999bytes/decompressedhashverified. No rerun curator or prior238/325experiments.",
-    "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts.",
-    "Retain difference between strong-operator compression and uniformnorm/finite algorithm;oldpaving mayalready suffice. No numericaloutput before executablepreregistration.",
-    "Publicb31ffce throughWP109+oldincompleteWP110journal/CI40269977360success;currentGEN107/039localonly. No routineGitHubpush.",
-    "Officialmathread-only,noinstalls/clone/caches;compress ownoutput/snapshot andhashverify beforedeletion."
+    "Read goal/AGENTS/charter/roadmap/status/checkpoint/backlog/latestglobal039;verifydisk/processes andWP111storage before continuing.",
+    "WP111 GEN108 source/history/graph/core/clean checks complete;do not rerun one-shotcurator or redownload four originals merelyforfingerprint.",
+    "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
+    "Admit no scientificoutput until separate executable preregistration;compare exact target/error/state/partition/Q output andfull oldbaselinecost.",
+    "Owner-requested WP111/unfinishedWP112 batch in preparation;see state/publication.json for actual verified public boundary.",
+    "Officialmath read-only;compress own outputs/snapshots andverifyroundtrip before deletingtemporaryplaintext."
   ],
   "recovery_observation": {
     "at": "2026-10-26T04:08:53.951075+00:00",
@@ -725,6 +752,54 @@
       "available_disk_observed": "19GiB;system observation",
       "running_project_processes": [],
       "math_clean": true
+    },
+    "publication_boundary": {
+      "at": "2026-10-26T05:30:12.092658+00:00",
+      "running_project_processes": [],
+      "new_scientific_experiments": 0,
+      "expensive_experiments_repeated": false,
+      "math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "math_clean": true,
+      "public_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+      "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts.",
+      "temporary_roots_removed": [
+        "/private/tmp/ai-paper-WP111",
+        "/private/tmp/mathweave-publish-WP110-20261026"
+      ],
+      "disk_available_GiB_observed": 16.78,
+      "all_tool_sessions_terminal": true
+    },
+    "WP111_after_publication_recovery": {
+      "at": "2026-10-26T05:35:46.784745+00:00",
+      "base_commit": "5cfd31a",
+      "available_disk_GiB_observed": 16.8,
+      "project_processes_at_recovery": [],
+      "math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "math_clean": true,
+      "new_scientific_experiments": 0
+    },
+    "WP111_final_boundary": {
+      "at": "2026-10-26T06:10:41.984900+00:00",
+      "core_tests": 69,
+      "clean_exit_code": 0,
+      "all_quality_tool_handles_terminal": true,
+      "running_project_processes": [],
+      "new_scientific_experiments": 0,
+      "external_temporaries_removed": true,
+      "helpers_compressed_roundtrip_verified": true,
+      "next_package_source_reads": 0,
+      "temporary_work_root_removed": true,
+      "disk_available_GiB_observed": 15.68,
+      "disk_change_not_attributed_to_project": true
+    },
+    "WP112_recovery": {
+      "at": "2026-10-26T06:18:27.059284+00:00",
+      "working_tree_before_start": "clean",
+      "base_commit": "1a8a2b9",
+      "available_disk_GiB_observed": 15.68,
+      "running_project_processes": [],
+      "math_clean": true,
+      "previous_package_compressed_hashes_reverified": true
     }
   },
   "runtime_resolution": {
@@ -734,55 +809,14 @@
     "failed_clean_receipt": "reports/reproducibility/20261022-bernoulli/clean-directory-incompatible-python.json.gz"
   },
   "last_completed_work_package": {
-    "id": "WP-110",
-    "priority": 1,
-    "status": "completed",
-    "parent_task": "WP-006",
-    "objective": "Actually read and qualify two still-unread F238 companion manuscripts:random coordinate frames/partial permutation laws and partial information-to-Fourier interfaces;preserve complete12-manuscript family scope and remaining gaps",
-    "selection_reason": "Three F239 consumer projects identify a qualified producer but no actual rank decision,so stop same-law search. F238 remains4/12read despite existing small-deck checks;the coordinate-frame and Fourier transfer seam can expose omitted conditions and reusable parts. Alternative is unread operator-algebra/dynamical-family coverage;choose this bounded closure gap now,then compare again in mandatory039,without calling6/12 a completedfamily.",
-    "inputs": [
-      "F-238",
-      "P-33d1bc7e07c70610",
-      "P-d7bc9b13ce9fc85f",
-      "state/reading-progress/WP-110.json",
-      "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
-    ],
-    "source_inventory_only": {
-      "manuscripts": 2,
-      "tex_files": 38,
-      "tex_lines": 10336,
-      "actual_scope": "Two README files and filesystem/hash inventory only;zero TeX body reading claimed. F238current4/12coverageunchanged."
-    },
-    "resource_limit": "Read-only fixedmath;read complete selected source/include/reference closure,not clone/install. Atmost4necessaryoriginals/8MiBnewbodydownloads,normalTLS,existingruntimesonly. Compress ownoutputs androundtriphash beforecleanup. No numeric/symbolicexperiment before independent executable specification.",
-    "acceptance": "Bind all selected main/auxiliary results with manuscript+file qualification,coordinate choices/reveals/frame symmetries and exact constants/quantifiers. Compare actual historical/formal scopes and endpoints,not generic O(logn) or small-deck inference. Preserve already-read4manuscripts and8unreadscope untilnewreadingactuallydone;never callselected2or6/12fullfamily. Ten-domain/cross-family attempts may yield no candidate;newhypothesis gets isolatedauxiliaryroles,not independentprovider/human. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
-    "stop_or_redirect": "Do not prove new Fourier inequalities or enlarge shuffle small-deck frequencies as fulltheorem/applicationvalidation. If transfer premises or effective constructor are unavailable,retain conditional routes/gaps and compare a materiallydifferent lowcoverage subject at039.",
-    "created_at": "2026-10-26T04:08:53.951075+00:00",
-    "retrospective_due": "Mandatory039 afterWP110,the third substantive package WP108-110 since038;earliermajorcounterevidence/dataissue",
-    "github_push": false,
-    "execution_journal": "state/reading-progress/WP-110.json",
-    "started_at": "2026-10-26T04:17:34.845201+00:00",
-    "execution_progress": {
-      "source_files_fully_read": 38,
-      "source_lines_read": 10336,
-      "new_source_decompositions": 2,
-      "family_source_drafts": "6/12",
-      "new_named_bindings": 132,
-      "new_method_contracts": 30,
-      "new_candidates": 0,
-      "new_application_checks": 0
-    },
-    "completed_at": "2026-10-26T05:06:01.708590+00:00",
-    "evidence": [
-      "reports/F238-frames-fourier-reading.md",
-      "reports/families/F-238.md",
-      "data/provenance/readings/F-238-frames.json",
-      "data/provenance/readings/F-238-fourier.json",
-      "reports/reproducibility/20261026-F238-companions",
-      "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
-    ]
+    "id": "WP-111",
+    "generation": "GEN-20261026-108",
+    "at": "2026-10-26T06:10:41.984900+00:00",
+    "scope": "Two current F300source drafts,56C/unknownchains,20contracts,fourhistoricalselectedscopes/10PDFviews;notcompletefamily/history/humanorapplicationacceptance",
+    "quality": "reports/reproducibility/20261026-F300-paving"
   },
   "project_goal_prompt": "prompts/continuous-research-goal.md",
   "goal_objective_version_receipt": "state/goal-objective-version.json",
-  "storage_receipt": "reports/reproducibility/20261026-F238-companions/storage.json",
-  "publication_qa_evidence": "reports/reproducibility/20261026-WP110-publication"
+  "storage_receipt": "reports/reproducibility/20261026-F300-paving/storage.json",
+  "publication_qa_evidence": "reports/reproducibility/20261026-WP111-publication"
 }

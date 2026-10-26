@@ -1,0 +1,277 @@
+{
+  "work_package": "WP-112",
+  "family_id": "F-300",
+  "status": "in_progress",
+  "started_at": "2026-10-26T06:18:27.059284+00:00",
+  "base_commit": "1a8a2b933b94a1df0f20b37081fb0db31c18b794",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "resource_limits": {
+    "first_party_projects": 3,
+    "source_license_files": 12,
+    "new_body_bytes": 2097152
+  },
+  "planned_projects": [
+    "petsc/petsc",
+    "ginkgo-project/ginkgo",
+    "tenpy/tenpy"
+  ],
+  "source_files": [
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/LICENSE",
+      "at": "2026-10-26T07:43:26.657477+00:00",
+      "bytes": 1536,
+      "lines": 27,
+      "sha256": "efc206ebe66fda24a32ebe69e81caa2c5595e093626170e57fbeff522507cc54",
+      "git_blob_sha1": "37aa71d7e041475a828c01b51ad653df1a2b1b9e",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "actual_lines_read": 27,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution"
+    },
+    {
+      "project": "ginkgo",
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/ginkgo-project/ginkgo/e008bfdee4fdda56d4defa63443df0ff871e6be7/LICENSE",
+      "at": "2026-10-26T07:43:29.399413+00:00",
+      "bytes": 1495,
+      "lines": 29,
+      "sha256": "a1e7286d4ff2e9e878b93787fbb1aeb1890ef26aace051911c4e4fceebae6e5a",
+      "git_blob_sha1": "1ec07f5aa7e86d1f9848a03a44a2a02d137ef979",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "actual_lines_read": 29,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution"
+    },
+    {
+      "project": "tenpy",
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/tenpy/tenpy/8444a0320e0775b3ded0be974d509842fe3ba541/LICENSE",
+      "at": "2026-10-26T07:43:33.180063+00:00",
+      "bytes": 11358,
+      "lines": 202,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "git_blob_sha1": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          202
+        ]
+      ],
+      "actual_lines_read": 202,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution"
+    },
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "src/ksp/pc/impls/deflation/deflation.c",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/src/ksp/pc/impls/deflation/deflation.c",
+      "at": "2026-10-26T07:43:27.531593+00:00",
+      "bytes": 35780,
+      "lines": 873,
+      "sha256": "1f559b287abad3e9330ad13f742bb13d6185c7103d396c0ad67aed0fab8f1e5f",
+      "git_blob_sha1": "be04b8b1cdc4d93a9710b3c655cf92da641b5466",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          215,
+          277
+        ],
+        [
+          380,
+          675
+        ],
+        [
+          752,
+          873
+        ]
+      ],
+      "actual_lines_read": 481,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution"
+    },
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "src/ksp/ksp/tutorials/ex11.c",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/src/ksp/ksp/tutorials/ex11.c",
+      "at": "2026-10-26T07:43:28.536191+00:00",
+      "bytes": 8449,
+      "lines": 244,
+      "sha256": "ff4f7d01956530e207c6fb310ebf73bfbffaed27d39340febfd6cd207748771d",
+      "git_blob_sha1": "5c0de22826de069e62cbe1a2c068947b0ace7de9",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          244
+        ]
+      ],
+      "actual_lines_read": 244,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution"
+    }
+  ],
+  "actual_read_ranges": [],
+  "external_metadata": [],
+  "new_source_body_bytes": 202494,
+  "scientific_experiments": [],
+  "new_application_check_credit": 0,
+  "mathematical_scope": "F300sourceC/fullchainunknown;oldfiniteMSS/RSbounds andall normalexpectation/state/tensor-output constraints retained;no finiteconstructor orbenefit inferredfromcolorcount.",
+  "pins": {
+    "petsc": {
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "branch": "main",
+      "paths": [
+        "LICENSE",
+        "src/ksp/pc/impls/deflation/deflation.c",
+        "src/ksp/ksp/tutorials/ex11.c"
+      ]
+    },
+    "ginkgo": {
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "branch": "develop",
+      "paths": [
+        "LICENSE",
+        "include/ginkgo/core/preconditioner/jacobi.hpp",
+        "core/preconditioner/jacobi.cpp",
+        "examples/preconditioned-solver/preconditioned-solver.cpp"
+      ]
+    },
+    "tenpy": {
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "branch": "main",
+      "paths": [
+        "LICENSE",
+        "tenpy/linalg/truncation.py",
+        "tenpy/algorithms/tebd.py"
+      ]
+    }
+  },
+  "source_files_downloaded": 11,
+  "actual_lines_read": 983,
+  "updated_at": "2026-10-26T07:50:27.648464+00:00",
+  "batches": [
+    {
+      "at": "2026-10-26T07:50:27.648464+00:00",
+      "files": [
+        {
+          "project": "petsc",
+          "path": "LICENSE",
+          "ranges": [
+            [
+              1,
+              27
+            ]
+          ]
+        },
+        {
+          "project": "ginkgo",
+          "path": "LICENSE",
+          "ranges": [
+            [
+              1,
+              29
+            ]
+          ]
+        },
+        {
+          "project": "tenpy",
+          "path": "LICENSE",
+          "ranges": [
+            [
+              1,
+              202
+            ]
+          ]
+        },
+        {
+          "project": "petsc",
+          "path": "src/ksp/pc/impls/deflation/deflation.c",
+          "ranges": [
+            [
+              215,
+              277
+            ],
+            [
+              380,
+              675
+            ],
+            [
+              752,
+              873
+            ]
+          ]
+        },
+        {
+          "project": "petsc",
+          "path": "src/ksp/ksp/tutorials/ex11.c",
+          "ranges": [
+            [
+              1,
+              244
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Threeactual HEADs pinned via gitls-remote andconfirmed byGitHubconnector sources:PETSc ef2932a3562721ceda7312b5bddd3fabb82cd7fa(main),Ginkgo e008bfdee4fdda56d4defa63443df0ff871e6be7(develop),TeNPy8444a0320e0775b3ded0be974d509842fe3ba541(main). Initialrelease/master/developmentdocumentationversionsare discoveryonly;qualifiedclaimsbindactualcommits.",
+        "Selectedlicenses actuallyread:PETScBSD2-style withseparatelicensesfordownload-package dependencies,GinkgoBSD3,TeNPyApache2. No installing orredistributing fullthirdpartysources;temporarysourcehashes retainedforlatercleanup.",
+        "PETScselectedimplementation actuallyreadsPCPreSolve/PCApply/Setup andW-spaceAPI. SetupassemblesW'*AandW'*A*W,coarseKSP choosesFCGonlyifSPDknownelseFGMRESonnestedbranch,bottomPREONLY/telescope/LU;additionalPCdefaultsnone. Actualpresolve formsr=b-Ax thenx+=Q*r. Documentation'sminusconventionisnotlabelledbugwithoutresidualdefinition.",
+        "The preconditionerappliesP*M^-1+factor*Q withQ=W*(W'*A*W)^-1W' andP=I-QA;the code'sQ/P arenotautomatically the selfadjointprojectionq ofF300. Coarsesolvabilityandconditioningneedseparatequalification;fullrankWalonewithgeneralAisnotacceptedasinvertibilitycertificate.",
+        "Actualex11complexHelmholtzcaller formsfivepointstencilwithimaginarydiagonal,setsKSPOperatorsA/A,solvesAx=b,andchecksfullvector2-normerroragainstknownsolution. Deflationtestsetexplicitlyrequirescomplex/SuperLU_DISTandcoarse/multilevelvariants;notexecutedhere. Itdoesnotconsume state-weighted discardedsubspaceerror. GenericPETScSPDbranchdoesnotmake thisinspectedcallerHermitian;no identical-outputF300benchmark admitted."
+      ]
+    }
+  ],
+  "qualified_notes": [
+    "Threeactual HEADs pinned via gitls-remote andconfirmed byGitHubconnector sources:PETSc ef2932a3562721ceda7312b5bddd3fabb82cd7fa(main),Ginkgo e008bfdee4fdda56d4defa63443df0ff871e6be7(develop),TeNPy8444a0320e0775b3ded0be974d509842fe3ba541(main). Initialrelease/master/developmentdocumentationversionsare discoveryonly;qualifiedclaimsbindactualcommits.",
+    "Selectedlicenses actuallyread:PETScBSD2-style withseparatelicensesfordownload-package dependencies,GinkgoBSD3,TeNPyApache2. No installing orredistributing fullthirdpartysources;temporarysourcehashes retainedforlatercleanup.",
+    "PETScselectedimplementation actuallyreadsPCPreSolve/PCApply/Setup andW-spaceAPI. SetupassemblesW'*AandW'*A*W,coarseKSP choosesFCGonlyifSPDknownelseFGMRESonnestedbranch,bottomPREONLY/telescope/LU;additionalPCdefaultsnone. Actualpresolve formsr=b-Ax thenx+=Q*r. Documentation'sminusconventionisnotlabelledbugwithoutresidualdefinition.",
+    "The preconditionerappliesP*M^-1+factor*Q withQ=W*(W'*A*W)^-1W' andP=I-QA;the code'sQ/P arenotautomatically the selfadjointprojectionq ofF300. Coarsesolvabilityandconditioningneedseparatequalification;fullrankWalonewithgeneralAisnotacceptedasinvertibilitycertificate.",
+    "Actualex11complexHelmholtzcaller formsfivepointstencilwithimaginarydiagonal,setsKSPOperatorsA/A,solvesAx=b,andchecksfullvector2-normerroragainstknownsolution. Deflationtestsetexplicitlyrequirescomplex/SuperLU_DISTandcoarse/multilevelvariants;notexecutedhere. Itdoesnotconsume state-weighted discardedsubspaceerror. GenericPETScSPDbranchdoesnotmake thisinspectedcallerHermitian;no identical-outputF300benchmark admitted."
+  ],
+  "source_acquisition_failures": [
+    {
+      "channel": "web.open",
+      "scope": "Ginkgoexamples andTeNPyalgorithms pinnedcommitdirectorypages",
+      "result": "cache miss;not sourceabsence"
+    },
+    {
+      "channel": "GitHubMCPfetch",
+      "scope": "Ginkgoexamplesdirectoryfirstcall",
+      "result": "transport error"
+    },
+    {
+      "channel": "anonymousAPI",
+      "scope": "samefixeddirectory",
+      "result": "HTTP403rate limit;authenticatedconnectorretry succeeded"
+    }
+  ],
+  "next_action": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators."
+}

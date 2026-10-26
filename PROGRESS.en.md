@@ -1,13 +1,13 @@
 # MathWeave — Research progress
 
-Snapshot: October 26, 2026, curated through WP-110 and retrospective 039, with an unfinished WP-111 reading checkpoint (4,745/7,647 lines). This explicit owner-requested batch is prepared for one GitHub update. Prior verified public commit `b31ffce` and its successful scoped CI apply to the previous snapshot; the new push and CI require separate observation. Exact evidence is in [publication state](state/publication.json). **Phase one remains incomplete.**
+Snapshot: October 26, 2026, curated through WP-111 / GEN108, with unfinished WP-112 selected-source qualification. This explicit owner request prepares one publication batch. Global retrospective039 remains the latest review. The previous verified public `453a806` and its scoped CI cover the older snapshot; this batch requires separate remote verification. **Phase one remains incomplete.**
 
 | Measure | Actual progress | Meaning and remaining gap |
 | --- | --- | --- |
 | Catalogue | 372 families; 719 current manuscripts | Registration is complete at the pinned revision; the historical 722 records are reconciled individually |
-| Actual reading | 58/372 families, about 15.6% | Includes partial reading; at least one family in each of 17 subject categories |
-| Full-source decomposition drafts | 53/372, about 14.2% | Drafts cover current source bodies; they do not establish complete historical lineages or reviewed proof specifications |
-| Source-result bindings in those drafts | 1,530 labelled results plus two unlabelled main theorems, one unlabelled corollary and one unlabelled flow-iterate consequence | Source propositions, not application candidates; F238's partial6/12-manuscript source decomposition has a further227 bindings |
+| Actual reading | 59/372 families, about 15.9% | Includes partial reading; at least one family in each of 17 subject categories |
+| Full-source decomposition drafts | 54/372, about 14.5% | Drafts cover current source bodies; they do not establish complete historical lineages or reviewed proof specifications |
+| Source-result bindings in those drafts | 1,586 labelled results plus two unlabelled main theorems, one unlabelled corollary and one unlabelled flow-iterate consequence | Source propositions, not application candidates; F238's partial6/12-manuscript source decomposition has a further227 bindings |
 | Fully completed families and historical lineages | 0/372 | Unread original inputs, unresolved dependencies, and review requirements remain explicit |
 | Candidate application connections | 45/500 | Ten-domain attempts and search counts are not counted as candidates |
 | Real human classification | 0/150 | Deferred by the project owner; never replaced by model self-review |
@@ -16,7 +16,7 @@ Snapshot: October 26, 2026, curated through WP-110 and retrospective 039, with a
 | Separate component checks | 2 | Excluded from the application-hypothesis count |
 | Complete experiment archives | 15 | Thirteen application checks plus two component checks, with compressed data and source snapshots |
 | Independent second-provider reviews / human specification reviews / pilots | 0 / 0 / 0 | No engineering deployment or fully reviewed mathematical assurance is claimed |
-| Knowledge graph | 7,955 nodes;22,511 relations;8,616 canonical citation annotations (8,606 in core-validated research types) | A mix of research records, corpus records, and projected source artifacts; size is not research completion |
+| Knowledge graph | 8,091 nodes;23,129 relations;8,800 canonical citation annotations (8,790 in core-validated research types) | A mix of research records, corpus records, and projected source artifacts; size is not research completion |
 
 ## Latest source-reading package
 
@@ -110,7 +110,7 @@ The canonical graph, generated cards, compressed exports, experiment archives, a
 
 The public snapshot was pushed and anonymously verified. Initial remote CI passed 68 core tests and 11 archived replays before EXP076 failed strict raw equality on Linux; its summary matched. A fresh strict replay on the original macOS/Python 3.14.7 runtime matched both complete payloads. The scoped Linux workflow covers 13 other archives; cross-platform equality for EXP076 is not claimed. Failed evidence and original criteria are preserved. [Retrospective 031](reports/retrospectives/031-publication-and-platform-scope.md) records the initial publication milestone. Retrospective 032 records the subsequent source, metadata and consumer work; publication synchronization and CI are verified separately.
 
-Publication boundary: the previously verified public [`b31ffce`](https://github.com/yiduo/mathweave/commit/b31ffce90304ca541c6ec4d08cc04c7b3cd38988) contains WP-109 and the earlier unfinished WP-110 journal. Its [scoped CI passed](https://github.com/yiduo/mathweave/actions/runs/40269977360). The owner now explicitly requests one update containing the completed WP-110, retrospective 039, and unfinished WP-111 checkpoint. Post-push verification will be saved locally, avoiding a second routine push solely for receipts. No official `math/` content or bulk local history is included.
+Publication boundary: this batch includes the completed F300 draft and the unfinished WP112 journal. The official `math/` directory, third-party source downloads and bulk local Git history remain excluded. Post-push receipts stay local until the next meaningful batch, avoiding a second push solely for metadata.
 
 
 ## WP110: coordinate frames and Fourier scope
@@ -120,6 +120,17 @@ Both selected companions are fully read:38 TeX files/10,336 lines,132 source-qua
 Two originals were checked in selected scopes with five PDF pages viewed;1,094,354 bytes downloaded. The Larsen-Shalev2008 mirror returned non-PDF,and its original remains unread. Thirty methods,four premise gaps,ten domains and three cross-family attempts add no candidate or application check. The176 new records/482 explicit relations preserve4,748 unmodified old record lines;18 revisions have exact prior objects. Full exports,nine impact cases,15 archives/267 members and actual238/325 replays passed. Core and clean-copy outcomes are separate receipts. See [source and limits](reports/F238-frames-fourier-reading.md). [Retrospective 039](reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md) compares the remaining six Thorp companions with operator-algebra F300 and selects F300 for the next substantive package. These packages are included in the present owner-requested publication batch.
 
 
-## WP111: incomplete source reading
+## WP111: F300 source drafts and paving contracts
 
-Both selected F300 manuscripts total 22 TeX files / 7,647 lines. Actual reading covers 15 complete files (4,500 lines) and lines 1–245 of the second polynomial section, totaling 4,745 lines. The first manuscript is fully read; the second has 2,902 unread lines. Formal comparisons, historical originals, canonical decomposition and application mappings remain pending. No curated family, source-binding, candidate or experiment credit is added. The first manuscript distinguishes strong approximation of a nearby operator from the second manuscript’s strong-operator compression of the original operator; neither statement by itself supplies a practical finite algorithm. These are provisional reading notes, not a proof review. Resume at quadratic `sections/polynomials.tex` line 246, as recorded in the [journal](state/reading-progress/WP-111.json).
+Both current F300 source closures are fully read: 22 TeX files / 7,647 lines, including 266 reference lines and two figure sources, plus two READMEs. Fifty-six manuscript-qualified claims retain local C and unknown full dependency grades. Twenty transferable contracts separate nearby-operator approximation, strong compression of the original operator, normal-expectation conversions and ultrapower norm paving. The quadratic proof controls its two operator terms with the same partition, avoiding a second refinement, but still passes through non-effective limits, fixed scalar moments and spectral clipping. No practical finite constructor or application benefit is established.
+
+Four originals were checked in selected scopes, with ten PDF pages viewed and 927,983 bytes downloaded. Twenty-seven external works remain after qualified alias reconciliation; 23 root bodies and recursive history are unread. No matching formal endpoint was identified within the checked pinned registry, 242 formal descriptions, 417 Comparator metadata files and precise pathname scope; this does not establish absence of all possible Lean proofs. No Lean build, Comparator, human or independent-provider review occurred.
+
+GEN108 adds 110 canonical records and 434 explicit relations, preserving all 4,942 old canonical lines and previous edges. Full exports, fifteen positive/negative dependency-impact cases, 15 archives / 267 source members and 69 core checks passed. The stale coverage mirror omitted previously curated F174/F304; those were reconciled without adding new research credit. An incorrect first dependency-test expectation was retained and repaired: the old initial root bound affects the final paving theorem but is not a premise of the general 24m single-color estimate. Clean-copy/storage outcomes remain separately evidenced.
+
+Ten domains and three cross-family attempts add no application candidate or check. Existing finite MSS/RS bounds may already meet a finite consumer’s mathematical target. Next WP112 bounds actual consumer qualification at three first-party projects, retaining output/cost mismatches rather than running a known-formula demo. See [F300 evidence and limitations](reports/paving-F300-reading.md). Routine work remains local.
+
+
+## WP112: unfinished consumer qualification
+
+Three pinned first-party projects (PETSc, Ginkgo and TeNPy) supply 11 selected source/license files, totaling 202,494 downloaded bytes. Actual reading covers 983 lines: all three licenses, the PETSc Helmholtz caller and selected deflation implementation ranges. The selected Ginkgo and TeNPy code bodies remain unread apart from locators, and their consumer qualification is pending. These provisional notes add no canonical records, candidate, experiment or application-check credit. Resume at the pinned Ginkgo Jacobi API, generation/application and caller, then TeNPy truncation/TEBD and parent error handling. The [journal](state/reading-progress/WP-112.json) records exact ranges, hashes, pins, acquisition failures and limits.

@@ -1,0 +1,152 @@
+{
+  "at": "2026-10-26T06:10:41.984900+00:00",
+  "work_package": "WP-111",
+  "new_original_pdf_bytes": 927983,
+  "original_works": 4,
+  "actually_viewed_pdf_pages": 10,
+  "external_temporary_files_hash_verified_and_removed": [
+    {
+      "name": "RS2017-v2-view-7.png",
+      "bytes": 228123,
+      "sha256": "919058c983cb30a5ff3ce065c500bc8e8999aa92f5fb151424b420a3dc44f18a",
+      "retained": false
+    },
+    {
+      "name": "MSS2015-v4-view-11.png",
+      "bytes": 247952,
+      "sha256": "3b3a8c80f1e3306a1d8f95f5b057d34898146f1677e9802d7a8caf306f659abc",
+      "retained": false
+    },
+    {
+      "name": "MSS2015-v4.txt",
+      "bytes": 68263,
+      "sha256": "e627bde5f876d93470fc5fc8c4fe9d52d1ef7d971111748cd7685ab6b45c5ebb",
+      "retained": false
+    },
+    {
+      "name": "RS2017-v2.txt",
+      "bytes": 85600,
+      "sha256": "2997618be63f45609a2101bf8d5617538b9ef9f413620ddf951cb9cfd4c16662",
+      "retained": false
+    },
+    {
+      "name": "MSS2015-v4.pdf",
+      "bytes": 230495,
+      "sha256": "fbb75cd47493cce225f80783ee40fd3cc84bd586f3c7308d14aa1ed78c65e782",
+      "retained": false
+    },
+    {
+      "name": "RS2017-v2.pdf",
+      "bytes": 258946,
+      "sha256": "f45d9226c1707d7c429045a203bc56fd27c09b38e7ed2bb04fe4a9df7c99c870",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3-view-16.png",
+      "bytes": 322843,
+      "sha256": "adae9d6aab377ffd2c2ad08aa4dad3f13a5df01d5d86a9d343d9ab15d22caa98",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3-view-7.png",
+      "bytes": 374559,
+      "sha256": "6c6e9cc98cc822074e730d9563af8c7458779e27f1c8ebbfe76e834b261f6610",
+      "retained": false
+    },
+    {
+      "name": "AS2012.pdf",
+      "bytes": 161054,
+      "sha256": "e6971065b85dca6e19765fa5014c90f8d393b99d106a633eaea8d0263ff1502c",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3-view-18.png",
+      "bytes": 431370,
+      "sha256": "de84a446150c3e318115d6a6ec1f582a74fcc99592498f3a80e945df0a8e1a6c",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3.pdf",
+      "bytes": 277488,
+      "sha256": "e6a64aa3659594e34a10d323c6314a7932dc3d267313aa9ea48520635b3b403c",
+      "retained": false
+    },
+    {
+      "name": "MSS2015-v4-view-8.png",
+      "bytes": 255058,
+      "sha256": "150aa59a7486a260ee6aac1a0fc5057f85ac34a8c136ac431d27be315d586898",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3-view-3.png",
+      "bytes": 338269,
+      "sha256": "e03c3cc02388cd782f7eedc367506aa8737275768f67fe016f7c47c978ed22ac",
+      "retained": false
+    },
+    {
+      "name": "AS2012.txt",
+      "bytes": 30506,
+      "sha256": "638de23ee4a404d490dc4ef200263415c62cc9a06c79b5c3a2b8daad01cdf17b",
+      "retained": false
+    },
+    {
+      "name": "RS2017-v2-view-17.png",
+      "bytes": 215675,
+      "sha256": "ce1bcfe701870f1e5ebe5085a8715952fce00e1c29c7fcd919547fba238a8825",
+      "retained": false
+    },
+    {
+      "name": "PV2015-v3.txt",
+      "bytes": 84443,
+      "sha256": "5dca0db5aed6d3e9de29eedb9f53e9af6e2029c3fbe074948208bb26f9cd6c62",
+      "retained": false
+    },
+    {
+      "name": "AS2012-view-7.png",
+      "bytes": 340191,
+      "sha256": "ad8cb1fd1b71b4b595657e88f39179feeaa83a9d800b5e6c431ace3e30d7764d",
+      "retained": false
+    },
+    {
+      "name": "AS2012-view-6.png",
+      "bytes": 302087,
+      "sha256": "d77c85e381542cdf67c1339372e18bfc6873f5e8e49da2ce88b1dc05c1c0c8e3",
+      "retained": false
+    }
+  ],
+  "external_temporary_bytes_removed": 4252922,
+  "helper_members_verified": 30,
+  "helpers_archive_bytes": 87674,
+  "helpers_compressed_sha256": "ae5928701d8c44f221625c096e9b11bbfed4ea8b97c897a534b775829c4e0d39",
+  "helpers_decompressed_sha256": "b37f7bc9ab7ebf9f65e35d79f5b4d698871e82d524baa7c923dc6ae26aa2d17f",
+  "reused_helper_references_verified": [
+    {
+      "temporary": "previous-curator-reference.py",
+      "retained_archive": "reports/reproducibility/20261026-F238-companions/helpers-and-logs.tar.gz",
+      "member": "curate.py",
+      "sha256": "b87bff865bbbf18329921a2e94b598874159fe08121a4da4b74ba3099727609e"
+    },
+    {
+      "temporary": "reference-quality.py",
+      "retained_archive": "reports/reproducibility/20261026-F238-companions/helpers-and-logs.tar.gz",
+      "member": "quality.py",
+      "sha256": "715b4d071d0eca27484446e86c8e8a966b0ba5f74f5e4006403b2ace056cd1bc"
+    },
+    {
+      "temporary": "reference-clean_check.py",
+      "retained_archive": "reports/reproducibility/20261026-F238-companions/helpers-and-logs.tar.gz",
+      "member": "clean_check.py",
+      "sha256": "c50993279ead45e50437038dfff42ec2b1869ce839a8534a78bc3c7193e22812"
+    }
+  ],
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 2000,
+  "clean_bytes": 76506226,
+  "all_copy_hashes_verified": true,
+  "work_root_removed": true,
+  "scientific_experiments_added": 0,
+  "scope": "Own helper/source/log snapshots compressed and every member round-tripped. Third-party fulltexts/text/pixels removed after exact hashes;only locators/hash/qualified scopes retained. Clean tested tree precedes closure receipt metadata;no claim of local Lean/human/provider/application acceptance.",
+  "removed_at": "2026-10-26T06:12:05.502659+00:00",
+  "final_member_comparison_before_removal": true
+}

@@ -1,0 +1,26 @@
+{
+  "at": "2026-10-26T05:30:12.092658+00:00",
+  "archive_members_verified": 8,
+  "archive_bytes": 7826,
+  "archive_sha256": "5aafdd6cd19cf508e5ae2c7df245685e2dc141f63d4a0ff5c095ca8d8993ee40",
+  "decompressed_sha256": "96663d3e2775dd721d16c8483b145722e7b7cc08a245ee7cfe031dcd3d0465ef",
+  "temporary_reading_helpers_removed_after_member_verification": true,
+  "publication_temporary_files_removed": true,
+  "next_cleanup": null,
+  "removed_at": "2026-10-26T05:31:00.833867+00:00",
+  "temporary_file_hashes": {
+    "prepare.py": "caade92c7d2fcdd9772177475edfba99929f8bbf7fbc4de693f91d7a36ad7f93",
+    "qa.py": "7420ee4612e2821ca4b4b5c3adbea591e90dab25a79aef643f582dfce01d58f5",
+    "core.log": "d0f02a7670c2a4b2dcb57dafcb2872439a0cc0cade5b3d3276e690b737819d96",
+    "no-math-core.log": "7edb25d4e5a2928686be9ea01144cbb8cb82473ea5b73688aca0bb6e76b03722",
+    "create_public_commit.py": "5a4b651360ed6bf9cf0bf9025bacee74d6ceeca7965b7a286eb32be4e485431f",
+    "verify.py": "2375977e03ace08b5099094970130778e4adeffc660d3a3e614d07f0fcbc9164",
+    "finalize.py": "6ee648f2513a4d405df2efe7ff3ba09f5aa9f3b73d4c72a3c3e0c9fa49d8e59b",
+    "final-audit.json": "31f65a57e001906464d23264239134af6350142e5ce6570b60dd47d0f2f4ec37",
+    "public-candidate.json": "8699c498aaed5bcfcc8b0ee99cbadbc7243a71d76fbf9b926487ecdc08e215d1",
+    "verification.json.gz": "da4fc13f2f72f583c6117cad3e1fcbba428ae2bfc62781f78286c8fe2747b8d3",
+    "CI-first-observation.json.gz": "3c4e14b969e8611c8f8a6b0e6c861ba2a7d55d77667c51d2268789a1490117b7",
+    "CI-observation.json.gz": "65719106ec0110061be39f4cff885245913965dc46cd55698a9726751d56878b"
+  },
+  "temporary_plaintext_bytes_removed": 56565
+}

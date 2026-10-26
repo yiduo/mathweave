@@ -1,0 +1,2311 @@
+{
+  "family_id": "F-300",
+  "work_package": "WP-111",
+  "generation_id": "GEN-20261026-108",
+  "at": "2026-10-26T05:55:05.770051+00:00",
+  "base_commit": "5cfd31afb5314894d6255d90d6fea68cc3f3a360",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-095dcf7bab0be0ae",
+    "P-8a687a97b053c803"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "sha256": "31c871535d5d160aae7bc9f4cb8dd2536e826e3a5e5f02ebe5b70f4fca1290c5",
+      "lines": 66,
+      "actually_read_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "lines": 158,
+      "actually_read_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1945,
+          "statement_start": 1976,
+          "statement_end": 2705
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:so-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 3335,
+          "statement_start": 3373,
+          "statement_end": 3911
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:quadratic-expected-approximation",
+          "title_tex": "Quadratic approximation paving for expected MASAs",
+          "label_aliases": [],
+          "start": 4419,
+          "statement_start": 4532,
+          "statement_end": 4894
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "sha256": "6bad91192e35b6ca35f2dab5204fca1001446ce7636fb40b6d2afa3a5f3bfee7",
+      "lines": 151,
+      "actually_read_ranges": [
+        [
+          1,
+          151
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:compression-net",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1736,
+          "statement_start": 1776,
+          "statement_end": 2139
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:sequence-quotient",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 3368,
+          "statement_start": 3410,
+          "statement_end": 3879
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "sha256": "788a37eec774623ad6564ba0a125013316fe2d54fdca0e692c9fda8820d0cfd4",
+      "lines": 51,
+      "actually_read_ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "79bc826e2775af465f2fcf18f4c6efc71562e45430247727a5437a3918e259e2",
+      "lines": 89,
+      "actually_read_ranges": [
+        [
+          1,
+          89
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1275,
+          "statement_start": 1306,
+          "statement_end": 1791
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:ultrapower-paving",
+          "title_tex": "Quadratic norm paving in Ocneanu ultrapowers",
+          "label_aliases": [],
+          "start": 2405,
+          "statement_start": 2497,
+          "statement_end": 3098
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "lines": 690,
+      "actually_read_ranges": [
+        [
+          1,
+          690
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:stability",
+          "title_tex": "Stability",
+          "label_aliases": [],
+          "start": 1718,
+          "statement_start": 1763,
+          "statement_end": 2802
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:local-data",
+          "title_tex": "Local spectral data",
+          "label_aliases": [],
+          "start": 5904,
+          "statement_start": 5960,
+          "statement_end": 8487
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:mss-paving",
+          "title_tex": "Initial largest-root bound",
+          "label_aliases": [],
+          "start": 12562,
+          "statement_start": 12625,
+          "statement_end": 13010
+        },
+        {
+          "kind": "lemma",
+          "label": "poly:tail-control",
+          "title_tex": "Control of the residues",
+          "label_aliases": [],
+          "start": 18261,
+          "statement_start": 18324,
+          "statement_end": 18743
+        },
+        {
+          "kind": "lemma",
+          "label": "poly:boole",
+          "title_tex": "Boole length identity",
+          "label_aliases": [],
+          "start": 20993,
+          "statement_start": 21047,
+          "statement_end": 21480
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:buffered-pin",
+          "title_tex": "Buffered pin inequality",
+          "label_aliases": [],
+          "start": 22770,
+          "statement_start": 22832,
+          "statement_end": 23467
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "lines": 700,
+      "actually_read_ranges": [
+        [
+          1,
+          700
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:measured-paving",
+          "title_tex": "One-sided measured paving",
+          "label_aliases": [],
+          "start": 1498,
+          "statement_start": 1568,
+          "statement_end": 2104
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:slab-limits",
+          "title_tex": "Local limits on a bounded slab",
+          "label_aliases": [],
+          "start": 7473,
+          "statement_start": 7542,
+          "statement_end": 8635
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:far-deletion",
+          "title_tex": "Far-deletion comparison",
+          "label_aliases": [],
+          "start": 13447,
+          "statement_start": 13510,
+          "statement_end": 14076
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:coherent-choice",
+          "title_tex": "Coherent choices",
+          "label_aliases": [],
+          "start": 28834,
+          "statement_start": 28893,
+          "statement_end": 29722
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+      "sha256": "89e474f474fe75037802ea18511c443ab28f00adf9ca9bc9ba1a15d048266e76",
+      "lines": 67,
+      "actually_read_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "sha256": "fb823f84e413d1dc64d26071aabfa35cbe28b47a4c5a15756d4bae2bbfbb0f4a",
+      "lines": 405,
+      "actually_read_ranges": [
+        [
+          1,
+          405
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "prop:sparse-pinning",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 554,
+          "statement_start": 600,
+          "statement_end": 1373
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:descent",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 12575,
+          "statement_start": 12607,
+          "statement_end": 13420
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "lines": 594,
+      "actually_read_ranges": [
+        [
+          1,
+          594
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:state-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 718,
+          "statement_start": 757,
+          "statement_end": 1295
+        },
+        {
+          "kind": "lemma",
+          "label": "exp:normalizer-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 5057,
+          "statement_start": 5099,
+          "statement_end": 5465
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:off-normalizer",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 7402,
+          "statement_start": 7448,
+          "statement_end": 7672
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:random-freeness",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8033,
+          "statement_start": 8073,
+          "statement_end": 8732
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:free-compression",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 19704,
+          "statement_start": 19745,
+          "statement_end": 20055
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+      "sha256": "333d692339a69549b2e2ee74f78728413e738e9705f9370a70cf4336d3114290",
+      "lines": 231,
+      "actually_read_ranges": [
+        [
+          1,
+          231
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:atomless",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1625,
+          "statement_start": 1658,
+          "statement_end": 1735
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "lines": 444,
+      "actually_read_ranges": [
+        [
+          1,
+          444
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:separable-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 730,
+          "statement_start": 774,
+          "statement_end": 911
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:no-central-functional",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 4107,
+          "statement_start": 4153,
+          "statement_end": 4567
+        },
+        {
+          "kind": "corollary",
+          "label": "gen:no-central-approximation",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8571,
+          "statement_start": 8624,
+          "statement_end": 9099
+        },
+        {
+          "kind": "lemma",
+          "label": "gen:support-decomposition",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 9831,
+          "statement_start": 9877,
+          "statement_end": 10221
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex",
+      "sha256": "4a8c8f50420234c2e8ecb2161fd9bff7f59e52402091bec631f324df0cc9950e",
+      "lines": 144,
+      "actually_read_ranges": [
+        [
+          1,
+          144
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "lines": 360,
+      "actually_read_ranges": [
+        [
+          1,
+          360
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:no-central",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 2716,
+          "statement_start": 2751,
+          "statement_end": 3244
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:state-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 7835,
+          "statement_start": 7882,
+          "statement_end": 8598
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:pinching",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 11357,
+          "statement_start": 11390,
+          "statement_end": 11966
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:separable-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 13200,
+          "statement_start": 13244,
+          "statement_end": 13739
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "sha256": "38e9733d73361206c9a187eead062504416f5fd9e23112cf4360bc1f8e9f8d10",
+      "lines": 350,
+      "actually_read_ranges": [
+        [
+          1,
+          350
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:type-i-normalizers",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 5276,
+          "statement_start": 5319,
+          "statement_end": 5624
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:atomless-kernels",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 9444,
+          "statement_start": 9492,
+          "statement_end": 10045
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "lines": 681,
+      "actually_read_ranges": [
+        [
+          1,
+          681
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:mixed-bounds",
+          "title_tex": "Mixed determinantal bounds",
+          "label_aliases": [],
+          "start": 2635,
+          "statement_start": 2700,
+          "statement_end": 3810
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:polynomial-quotients",
+          "title_tex": "Polynomial quotients",
+          "label_aliases": [],
+          "start": 5141,
+          "statement_start": 5208,
+          "statement_end": 7161
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:finite-cost-endpoints",
+          "title_tex": "Initial cost and detection of excessive norm",
+          "label_aliases": [],
+          "start": 11806,
+          "statement_start": 11899,
+          "statement_end": 12450
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:positive-cost",
+          "title_tex": "Deletion costs and their tails",
+          "label_aliases": [],
+          "start": 14739,
+          "statement_start": 14809,
+          "statement_end": 15419
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:rooted-locality",
+          "title_tex": "Rooted locality and bounds",
+          "label_aliases": [],
+          "start": 16843,
+          "statement_start": 16911,
+          "statement_end": 18284
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:assignment",
+          "title_tex": "Assigning one color",
+          "label_aliases": [],
+          "start": 21407,
+          "statement_start": 21463,
+          "statement_end": 21858
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "sha256": "368883c2881aa8311dbd85d4dbe60702167d3caff892a3329d7150c38c0e3f96",
+      "lines": 493,
+      "actually_read_ranges": [
+        [
+          1,
+          493
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:bounded-costs",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 3127,
+          "statement_start": 3165,
+          "statement_end": 4250
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:integral-change",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8450,
+          "statement_start": 8490,
+          "statement_end": 9283
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:rank-comparison",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 12482,
+          "statement_start": 12522,
+          "statement_end": 13655
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "lines": 850,
+      "actually_read_ranges": [
+        [
+          1,
+          850
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:bernoulli-coloring",
+          "title_tex": "Bernoulli coloring",
+          "label_aliases": [],
+          "start": 4599,
+          "statement_start": 4665,
+          "statement_end": 5683
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:homogeneous-costs",
+          "title_tex": "Homogeneous costs",
+          "label_aliases": [],
+          "start": 9137,
+          "statement_start": 9199,
+          "statement_end": 10325
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:strip-locality",
+          "title_tex": "Strip averages and locality",
+          "label_aliases": [],
+          "start": 20077,
+          "statement_start": 20146,
+          "statement_end": 21261
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:bad-balls",
+          "title_tex": "Initial cost and bad balls",
+          "label_aliases": [],
+          "start": 23618,
+          "statement_start": 23681,
+          "statement_end": 24349
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:hazard-step",
+          "title_tex": "One assignment step",
+          "label_aliases": [],
+          "start": 29564,
+          "statement_start": 29622,
+          "statement_end": 30163
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "lines": 769,
+      "actually_read_ranges": [
+        [
+          1,
+          769
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:bernoulli-model",
+          "title_tex": "The Bernoulli free-product model",
+          "label_aliases": [],
+          "start": 1788,
+          "statement_start": 1863,
+          "statement_end": 2840
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:free-compression",
+          "title_tex": "Free compression",
+          "label_aliases": [],
+          "start": 6295,
+          "statement_start": 6355,
+          "statement_end": 6627
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:state-multipliers",
+          "title_tex": "Uniform right multiplication in the state norm",
+          "label_aliases": [],
+          "start": 10784,
+          "statement_start": 10874,
+          "statement_end": 12194
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:moment-transfer",
+          "title_tex": "Transfer of fixed scalar moments",
+          "label_aliases": [],
+          "start": 14186,
+          "statement_start": 14268,
+          "statement_end": 14987
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:cylinder-partitions",
+          "title_tex": "Cylinder approximation of projection partitions",
+          "label_aliases": [],
+          "start": 35161,
+          "statement_start": 35255,
+          "statement_end": 35818
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+      "sha256": "4b77217911b369a5abf65db04161b8f3afd5f188361fb9e1053398f3a63068f6",
+      "lines": 193,
+      "actually_read_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:multiplier-calculus",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 576,
+          "statement_start": 620,
+          "statement_end": 1479
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:expected",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 2706,
+          "statement_start": 2746,
+          "statement_end": 3239
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/references.tex",
+      "sha256": "ac8240cbc473da137e63ec87b27c6f420a3afe0a9a835206b0188e4581c1d9c9",
+      "lines": 122,
+      "actually_read_ranges": [
+        [
+          1,
+          122
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/shortest-pair.tex",
+      "sha256": "974569da0d17031354da095a0a72683ce4894bab5ef86b65702815df1ac8455e",
+      "lines": 39,
+      "actually_read_ranges": [
+        [
+          1,
+          39
+        ]
+      ],
+      "source_result_inventory_only": []
+    }
+  ],
+  "readmes": [
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/README.md",
+      "lines": 18,
+      "bytes": 827,
+      "sha256": "97b87ae365256208e75d19077b572d8c26e7d42196f8a7f72c3e292da13ec328",
+      "actually_read": true
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/README.md",
+      "lines": 18,
+      "bytes": 911,
+      "sha256": "207fd754eb46480315d0b9a392361fc6e6efba1f55835a0c6d682485dda931a1",
+      "actually_read": true
+    }
+  ],
+  "actual_read_ranges": "All22TeXfiles full1-last,7647lines;both18line READMEs. Earlier515/4500/4745counts retained in journal batches/history.",
+  "manual_file_reading_notes": [
+    "Firstmain claims expectation-free approximation withR<=C_ap epsilon^-6,ystrong-nearx onfiniteF,||y||<=3||x||,normpaving error relative to actual||y||. DoesnotclaimquadraticapproximationforarbitraryMASAs. Proof notyetread.",
+    "Firstcorollaries:strongoperatorpaving conversion retainsnormalconditionalexpectation;quadraticapproximationcorollary likewiseexpectedMASA,using separatequadraticcompanion. Twomainproofsclaimindependent;do notpromoteunreadproofs.",
+    "Preliminaries151lines read:faithfulnormalstate phi andMASA initscentralizer;pinchingnet converge in boundedstate strong*/E_A;sequencequotient uses two-sided multiplier algebra C_phi,not allboundedsequences in nontracialcase. ConstantM andboundedAsequences aremultipliers;clipping convertsquotient normestimate intostate-small correction.",
+    "Quadraticintro definesr_epsilon beforeinclusion/operator/F/delta;requires q inM with(1-q)smallonlyonfiniteF and normofq(S_P(x)-a)q<=epsilon||x||. Explicitceil400000000epsilon^-2+ceil4/epsilon+1<=500000000epsilon^-2. Not globalnormoforiginalpinching withoutcompression.",
+    "Quadraticultrapowercorollary additionallycountablydecomposableMASA,normalexpectation,freeultrafilter;neither arbitraryunseparableuniformnormpavingnorfinitealgorithm suppliedbyintro alone. OldMSS/PV/RS claimsremainuncrosscheckedhere.",
+    "Entire690line finite mixed polynomial section read. Zero-diagonal HermitianW,independent possiblynonuniform color probabilities and realpenalties;complex identity extends algebraically,butreal-rootedness uses Hermitian/realdata. Derivatives deletevertices;coefficientnormalizationsr! andr scaling retained.",
+    "Rootedarrowquotient h=z+a-sum nu/(z-s),nonnegative residues andG=1/h spectral probability;m_v distributespositive root cost whereasell_v is insertionresponse. Expected polynomial rootcost is generally NOT expectationofpositive-parttraceofrandompavedmatrix.",
+    "Initial largestroot2sqrt(2/r)+2/r followsMSS covariance theorem withpositive-defect completion,splittingdeterministiccolumns,Gram-stabilityanddeletioninterlacing;oldRS21/MSS2015 exactscope notyetchecked.",
+    "Boole one-sidedlength identity overR hasmass/c,nottwice;zero/repeatedpolesmerged/omitted. Bufferedpin holds min overpositive-probabilitychoices with penaltyKa,fixedpolesandaverageresidues;coefficient1 onoldell plusCm dimensionfree. m=0/L=0 andrightlimitsincluded;K,C globallyfixed largeconstants,not efficientpracticalimplementation claim.",
+    "Slabs700lines andfigure67fullyread:principal Hermitianzero-diagonalcontractions oncountablenonsingularBorelrelation;boundeddegreeD/edgecocycleJ firstfixed. Lift(v,s)->(w,s+logomega) invariantmu*exp(-s)ds;weights exp(s)cancel. Absoluteheightsnotresetonreroot,gaugesdiagonalunitaryonly;fibersinfigurearenotliftedorbits.",
+    "Far high deletions controlledbyinvariantmeasureexp(-R),lowbycutmatrixnormexp(-R). Fixed-slab spectral/normal-familybounds differfromslab-independentupperhalf-plane/localmomentbounds. One coherentbasecoloratallheights usesuniformL1comparisonoverpartialassignments,but no practicaleffectivecutoff/runtime extracted.",
+    "Sparsepinning405linesread:auxiliarydistance2k Borelclasses useindependentBernoulliindicators onlyacrossclasses/localcandidatepins,notallbaseverticesIID. FinitehistoryMarkovselection;parametersS,tau0/tau,L,B/P,C_P,alphachoseninthatorder. e^(C(S+1))growth andC_Pcost retained,notuniformefficientalgorithm.",
+    "Deletionmonotonicityis integratedrootcost viaresponseandmasstransport,not pointwisepositivepartmonotonicity. Deletionerrorchargedoncetoeachvertex,notnumberofbatches. DescenteigenvalueboundusesA<=A_plus thencompression/congruence,doesnotcommutepositivepartwiththem.",
+    "Measuredpavingcompletion:chosenr by2sqrt(2/r)+2/r<b,finalr+1colors;extraslab/auxiliarygraphcolors/degree/updatecount do notincreasefinalpalette. Those resourcecostsmaydependonD,J/system andtolerance. Positive-part squarederror integral small,not globalnormpavingoforiginaloperator.",
+    "Expected594+includedatomless231linesfullyread. Separablepredual,faithfulnormalstatephi,MASA inphicentralizer;normalizeralgebraN modularinvariant permitsphi-preservingE_N. Decompositionx-E_Ax=(E_Nx-E_Ax)+(x-E_Nx) handledseparately;one-sidedmeasuredboundsfor±Y refinedto(r+1)^2palette,thenoffnormalizer n partition givesR_st=(r+1)^2*n,notquadraticclaim.",
+    "Atomlessproof:jointleft/rightstandardL2spectralmeasure firstcoordinateRIGHT;E_NX=0 forcesa.e.diffusekernel. An atomicgraphselectionF neednotinjective;polarintertwiner initiallyneednotnormalizeA. ExpectedtypeI intermediateD andAS12abelianprojectionpartition splitrightsupportintoequalcorneralgebras beforegroupoidnormalizers. OldAS/Hiai/FeldmanMooreoriginalscopesnotyetchecked.",
+    "AtomicMASAsummands inexpectedsettinglieinN soZvanishes;extenddiffusepartpartitionwithoutaddingcolors. Randomfreeness usesrefiningdiffusecells,finite-orderuniformrootlabels,shortestrepeated-cellcompressionwithindependentINTERIORHaarphases;independenceofouterPRE/POSTnotasserted. Kerneliteratesnonsingular/diffusea.e.,limitsQthenE;nontracialrightmultiplicationrequiresmodularanalyticapproximantschosenrighttoleft.",
+    "ConcentrationboundswordinfluencebyC_word*phi(q),sumphi(q)^2->0,selectdeterministiclabelsforcountablymanywordsbydiagonalargument. No effectivefinitecutofformomentcost extracted.",
+    "Naive2x2dilationcanhaveatomiccrosskernel evenz=0;free-diffuseB0 replacessecondMASA. Freecompressionnorm2/sqrt(n) appliedafterjointmoments;momentconvergencegivesstate-smallcontinuousspectralexcess,NOToperatornormconvergence. Multiplierquotientthenfirstcornerrecoversoffnormalizer4/sqrt(n). Finalblockdiagonalclipgamma yieldsselfadjointw_j norm<=2,state-null andnormpavingresidual<=gamma.",
+    "Firstgeneral444+references144read,completingfirstall11TeX3650lines. Separable-reductionconstructscountablealgebra includingE_Avaluesandnearcompressionpartitions soA∩M1remainsMASA;notarbitraryseparable subalgebra. Samepaletteboundpreserved.",
+    "No-central-normal-functionalcorner usesstandardformnaturalcone/PowersStormer andrandomfinite-orderdiagonalconjugation toseparatefinitecollectionofstates. Pairwiseseparatingprojectionsneednotorthogonal;sequentialpositiveeffects V_j* b_j V_j telescope sum<=I,areeffectsnotprojections. Theircyclicaveragepositivecontractions>=1-alpha state mass givep_i s p_i<=p_i/m. sxsstrong-nearxrequiresfinitevectortestsANDx-images,notglobalnormcloseness.",
+    "SupporteofcentralizingnormalpositivefunctionalsliesinA,expectedcorner eMe;h=1-e hasnone. e,hnotnecessarilycentralinM. AfterFselectedsplit e=f+g,faithfulstateonfcorner,gannihilatestests. Preserveoriginaloffdiagonalxblocks untilfinaldisjointpalettekills them;norm(y-x)<=2 andnormy<=3afterunitnormalization.",
+    "Mainexplicitcolors R=(r+1)^2*n+m+1 withb=epsilon/[96(K+1)],r=ceil32/b²,n=ceil1024/epsilon²,m=ceil4/epsilon,soO(epsilon^-6)onlyuniversalKenterspalette. Constructionresources stilldependongraph/slab/moments. Addnormingvector||xξ0||>3/4,approxerror<1/4 ensures||y||>1/2;clipdiagonaltoactual||y|| toobtainrelativeepsilon||y||,notreplacebyoriginalnorm.",
+    "Conversioncorollariesretainnormalexpectation:PV15Prop2.4(1)parameters epsilon/12,3,epsilon/6 produceerror epsilon;quadraticexpectedapproximation additionallyuses companionmain thenPV15Prop2.4(2). Mainproofindependentofquadraticcompanion;don'tcreateproofcycle via corollaries. Bibliography22external? keycountsnotyetqualified;exactRS21 arxiv1706.03737v2 versuspublication2021/secondRS17identitymustcheck,notassumeseparateworks.",
+    "Secondreductions360+kernels350fullyread. No-centralbranchusesHaagerupsymmetricseminormT(y)=h_phi^(1/4)y h_phi^(1/4),whichdoesNOTcontrolusualstate-norm;positivecone/Jordanseparatingprojectionq0 givesphi(1-q0)+psi(q0)<=t thenstatebound3sqrt(t) andspectralcutlostmass<=(1+36/epsilon²)t. Two randomizations withfixedceil4/epsilon colors andstate-selected finepartition;notautomaticCPUbound.",
+    "Cornerassemblyp/e neednotcentral;disjointpalettes killcross-corner terms soR+ceil4/epsilon+1 ratherthanmultiplying. echosenfromdirectedsupportsafterfiniteF;smallfaithfulstatemasscontrols eachfixednormalfunctional. Separable-reductionincludesstoredE_A/partitionwitnesses,keepsMASA/expectation scope.",
+    "KernelsinmeasuredCartanrepresentationgaugeconsistentunderrootchange;normalizers'log h cutsareentiremodularanalytic. TypeIlemma requiresfaithfulcentralnormalstate (orrelatedexpectedscope);cannotapplytoarbitrarydiffuseMASAintypeIwithoutnormalexpectation.",
+    "Positivekernel fixed-null-set property means for eachfixedmu-nullS,almosteveryrow gives0,NOT allrowmeasures absolutelycontinuouswithmu orjointmeasureproduct-AC. Atomlessnessalmosteveryrow viaatomgraphselectionnotnecessarilyinjective,normalhomomorphism/intertwiner,typeIcorner andnormalizercontradiction. CompositionsavoidONEfixedexceptionalsetthenareatomlesssimultaneouslyonsingletons. AtomicA part kills y∈kerE_N onbothsides.",
+    "Quadratic polynomial681lines now fullyread,finishing recoveredpartial1-245 with actual246-681. Independent color-sign pairs retain randomsigns evenafterallcolorsassigned;fullyassigned polynomial factors mixed chi[T_i,-T_i],not ordinarycharacteristicpolynomial of pinchedT. RS17 original bounds remainunverified.",
+    "Positive-root totalcost s(P) is not expectationofpositiveparttraceofrandomoutcomes. Rootedcostm_v and deletionincrementd_v aredifferent;d integratesinterlacingcount and0<=d<=2m+a. Positivecost detects fullyassigned pinched norm>2beta*t+alpha withroot>=alpha/2*minimumweight;requiresallprincipalpositivity/monotonecoordinates,notpositivepartoperator monotonicity.",
+    "RootedLaurentcoefficients haveconnected-support locality;secondmoment includes paircollision probability,ratioK bound C0=sqrt((beta*t)^2+K),globallyboundedweights implycompactrootsupport. No uniform compact support across unbounded weights/slabs inferred.",
+    "Single-site color assignment beta80 satisfies somechild d_i-d<=24m,arbitrarypositiveweights,dimensionindependent. Conditionalresidues average whiledeletionpolesfixed; proof splitsm>=a (21m) andm<a (7m),usespositive/negativearrowblocks,Markovtests andsubadditivityofpositiveTRACE. Emptyblocks,zeroresidues andzero-denominators handledonnonzerosupport. Thisisfinite existenceofacolor,notyet infinitecoloring/runtime algorithm.",
+    "Invariant493lines fullyread:finite invariant measure,boundeddegree/boundedpositiveweights,zero-diagonalHermitiancontractions. Rootedlimits independentofexhaustion bylocalmoments/compactmomentdeterminacy;deletionincrements needpolynomial derivativeL1 approximation ratherthanjustuniformfunction approximation. LocalityconstantsmaydependonH0;deletedverticesretainoriginalgraphdistances.",
+    "Orderedintegralchange identity usesmeasurableclass-injective realorder,NOT well-order or firstvertex. Polynomiallocalchanges telescopeonlyfiniteaffectedvertices thenmass transport;L1derivative controlpassespositivepart. Deletionalone decreases INTEGRATEDrootcost,notnecessarilyeachrootcost orpointwiseoperatorpositivepart.",
+    "Largestweight-independent fixed-band deletioncomparison controlsbothG and conditionalcolorfield J_i=(F_i0-z-a)G. Singledeletion logquotient derivative viaupperhalfplanezero-freeness;analytic offdiagscalingusesno conjugationofcomplexparameter,diagonalshiftsfixed. Coloredderivative2/r factor includesbothsigns andunassignedcolorprobability.",
+    "Set-deletionanalyticidentity firstprovedforlocalLaurentcoefficients nearinfinity (regionmaydependH0),thenholomorphiccontinuationusinguniformsingledeletion sums;no unjustifiedinfinitepointwise telescoping. Phase directionschosenatfixedzneednotanalytic. Fixed-band comparison constant independentofH0,totalmass/graph/coloring,butdependsdegree,ratioK,band,r,t,compactzset;notyeta runtime orunbounded-weight theorem.",
+    "Coloring850lines fullyread. Bernoullicoloring onrelative extension ofnonsingular boundeddegree measuredgraph,edgecocycles[K^-1,K],zero-diagonalHermitiancontraction;fixedr,t>3/sqrt(r),beta80,for eachm,alpha,eta apossiblydifferent measurablecoloring has finiteballpinchingnorm<=160t+alpha withprobability>1-eta. Eachrootcolorconditionallyuniform1/r overoriginalbase,NOTjointIIDcolors oronecoloring allradii/tolerances.",
+    "SecondMaharamconvention isnu=mu*exp(s)ds,W=exp(-s),destinationheight s-logDelta. Signsoppositefirstmanuscript'sheightcoordinatebutinvariantcancellationexplicit. Cutl<=W<=H finiteinvariantmass1/l-1/H. Highcutcomparison O(1/H)usesGandJ;lowcut usesfixeduppercutoff/locality. Joint L1normalizedcostlimits independentheight viaallrationaltranslations andmeasurability.",
+    "RecoverdeletioncostusingargF Poissonsmoothing,tailC/B fromsecondmoment andspectralshiftin[0,1];orderB theny thenH. Uniformsecondmoments implyweakcompactness/uniformintegrabilityofxplus andnonzeroG boundonband,notuniformcompact spectral support. StripaveragecancelsWdensity;L1localitygamma(R)->0 hasno explicitcomputable rate extracted.",
+    "Bad-ball detectionusesmeasurablefinite propercoloringofdistance2m+1graph,disjointnonadjacentballs,integrateddeletionmonotonicity andmasstransport. Cost>=alpha/2*K^-m*Wcenter;badmeasure<=C4*SwithC4dependingm,degree,K,alpha. Extraauxiliarycentercolors do notincreasefinalrpalette.",
+    "Hazardstep choosesminimizingcolor usingolddata/freshuniformtiepermutations BEFOREfreshindependenttimes. Orderedfinite-strip identity conditionsonalltimesexceptroot,uses strict U<theta andsurvival1-theta cancellation. Homogeneousversions passedin integrated theta-productspace,notundefined randomdiagonal evaluationtheta=U_v. Snew<=(1+24h)Sold+h*g(h),g(h)->0 viaRfirstthenh;no quantitativeg supplied.",
+    "N=ceil(T0/h),S_N<=g(h)/24*((1+24h)^N-1);chooseT0forunassignedballs Dm exp(-T0),thenhforbadcost. CompleteleftoverswithuniformcolorsinsideSAMErpalette. Colorpermutationequivariancewithfiniteconull/saturatedset givesconditionaluniformmarginals;not independenceamongvertices. Finite-stepexistence dependsnonexplicitlimits/stepchoice,notprovenpractical algorithm.",
+    "Transfer769lines,completion193,reference122andfigure39fullyread;bothcurrentmanuscripts all22TeX7647linesread. This closes body/include/reference/figure reading,NOT formal/historical proofaudit orcanonical decomposition. One wrong assumed quadratic sources/references.tex path failed after completionprinted;inventorylocatedrootreferences.tex,thenreadit andfigure;failure/recoveryretained.",
+    "Bernoulli model usesnormalfaithfulconditionalexpectation Ntilde->N bylabelintegration,thenreduced amalgamatedfreeproduct M*_N Ntilde withfaithfulnormalstate andB initscentralizer. Nottracial-only. Aprojectionp withconditionalE_N(p)=lambda1 gives||pwp||<=(lambda+2sqrtlambda)||w|| forw∈kerE_N;proofsplitsreducedwordsusingP,notindependenceofcolorprojections. OldUeda/Takesakioriginalscopes remainunverified.",
+    "Finitecylinder evaluation preservesmultiplication/adjoints/almosteverywhereidentities becauseallassignmentsatdistinctsites havepositiveconditionalprobability. Normboundforcoefficients andeachFIXEDfinite normalizersum,notuniformallrepresentations. Momenttransfer fixes finitealphabet,wordlengthandfactors,usesSAMEsymbolsforwholeword,thenpartitionlimit ofAVERAGEDscalarstate moments;notoperatornormconvergence orallmomentsuniformly.",
+    "State multiplierlemma:boundedstate-null errors small afterfixedrightfactor,orstate-normprecompactboundedfamilies/centralizerfactors. Notarbitraryboundedrightmultipliers in nontracialcase. Analyticmodularapproximants fixedbeforepartitionlimit,KMSuses sigma_-i andboundedcomplexnorms,notcyclictraceassumption.",
+    "Momentproof keepscenteredmodelfactors evenifevaluationsnotcentered. Fouriernonzeroexponents surviveonlyequalityclasseswithatleast2occurrences;finiteinclusion-exclusionremovesinequalities,so distinctclassesmayuseequalnumericindices. Spanningtreeauxiliaryphasesyielddiagonalunitariesindependentofretainedindices butcorrelatedwithoneanother;uniformbounds precedephaseaveraging.",
+    "Shortestcyclicpair interiorclassesdistinct,endpointsoutsideallinteriormates. CauchySchwarz exterior squaresum boundedbyonce-onlymateprojectionpinching;interior nestedpinchings convergeinside-outuniformoverphases. FIXcoarseQ thenfineP limit,thenrefineQ;composedatomlesskernelsavoidfixedexceptionalnullsets andinjectiveendpointautomorphismgraph. Do notinterchangefine/coarse limits orassumeproduct-AC. Sourcefigureeightblocks/twodistinctmatesinblock5consistentwiththispattern.",
+    "Cylinderapproximation disjointizesandassignscomplementwithinexactlyrpieces;commonfinitedyadicalphabet,substitutiongivesgenuinepartitionA. Central-statecompletion usesr=ceil20000^2 eps^-2;finite-supportCartanapproximationsdegree/cocycleratiosmayvaryn butrunchanged. Coloringchosenforradiusn andeta=(eps/16)^(2n),t4/sqrt(r),alphaeps/32.",
+    "CrucialsamepartitioncontrolsCartan y andoffnormalizerw:uniformconditionalcolorE_N(p)=1/r givesfreecompressionbound,soNOsecondpartitionrefinement here. Cartan numericalbound253/2000eps<eps/4,offnormalizer40001/200000000eps<eps/4. Firstmanuscript insteadmultiplies(r+1)^2*n;can'ttransfercostbetweenproofs.",
+    "Highmodelmoment2n controlsclippedCartanapproximant;spectralexcessstate-null andright-multiplieralgebracontinuouscalculus transferclippingtooriginaly. ThenFIXk afterrho,choose nlarge,approximatefinitecylinderpartition,choosefinebasepartition,andpickdeterministicnonnegativeevenmoment belowrho eps^(2k). Noexponentiallyprescribed originalstrongapproximationrate needed. Finalq spectralcut losesphi-mass<rho;notfulloperatornormboundwithoutq.",
+    "Arbitraryinclusionmain viafaithfulcentralcornerstate-reduction addsceil4/eps+1 colors toceil400000000eps^-2;palettechosenbeforeF/delta,xzerohandled,differentcornersnotcentralM,partitions/diagonal/q maydependF/delta. r<=400000007eps^-2<500000000eps^-2. Thisisstrong-operatorpavingoforiginalx,notnormpavingorfiniteeffectiveconstructor.",
+    "Bothbibliographiesnowread;firstRS21andsecondRS17 nameSAMEauthors/title/IMRN2021 DOI10.1093/imrn/rnz111 andarxiv1706.03737v2. Treatassameexternalworkwithmanuscript-qualifiedkeys;originaltextnotyetchecked. Completionneverinvokesapproximationcompanionmain;internalApproxCompanion26citationbackgroundmustnotcreateproofcycleautomatically.",
+    "All22TeX7647lines verifiedread. Pinned300.md absent;registry+242formalmd+417Comparatormetadata andnarrowfilenamepattern yieldnomatchingpavingentry. Thisisboundednegativeidentification,notabsenceofallproofs. NoLeanbuild/Comparator/humanreview. Firstbibliography21entries(1internal),second19(1internal),notearlierquestioned22external;RS21/RS17sameversionedwork. Formal/history/canonical qualification remainspending.",
+    "Fouroriginals selectedscopes/10actualPDFviews/927983newbytes checked;first21andsecond19referenceentries include2internal,38externalkeys reduceby11qualifiedsharedaliases to27distinctworks,23rootbodiesplusrecursivehistoryunread. MSSPSD/trace/fullcovarianceconditions,PVnormalexpectation/epsilonprime/countablydecomposable/oldsingularbounds,RSnormalizedHermitianrootinputs,andASnormalexpectedtypeI projectionpartition retained. No complete proofchain/human/provider orapplicationvalidation."
+  ],
+  "source_sections": [
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+    "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/references.tex",
+    "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/shortest-pair.tex"
+  ],
+  "source_tex_lines": 7647,
+  "bibliography_lines_included_in_tex": 266,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/references.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "target": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+      "exists_and_fully_read": true
+    },
+    {
+      "source": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "target": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/shortest-pair.tex",
+      "exists_and_fully_read": true
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-300-A-THM-MAIN",
+      "qualified_label": "A:thm:main",
+      "label": "thm:main",
+      "kind": "theorem",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "statement_lines": [
+        38,
+        58
+      ],
+      "summary": "任意MASA上的强逼近与六次阶范数铺砌",
+      "conditions": "任意复von Neumann代数、任意表示和MASA，自伴x；先固定epsilon再定R，后给有限F/delta；强近似y满足||y||<=3||x||，误差相对实际||y||；R<=C_ap epsilon^-6，无正常期望/可分性假设。不是原x的全空间范数铺砌。",
+      "aliases": [],
+      "statement_tex": "There is a universal constant \\(C_{\\mathrm{ap}}>0\\) such that for every\n\\(0<\\varepsilon<1\\) there is an integer\n\\(R(\\varepsilon)\\leq C_{\\mathrm{ap}}\\varepsilon^{-6}\\)\nwith the following property.\nLet \\(M\\subseteq\\mathcal B(H)\\) be a complex von Neumann algebra,\nlet \\(A\\subseteq M\\) be a MASA, and let \\(x=x^*\\in M\\).\nFor every finite \\(F\\subset H\\) and every \\(\\delta>0\\), there exist\n\\(y=y^*\\in M\\), a partition \\(\\mathcal P=(p_i)_{i=1}^{R(\\varepsilon)}\\)\nof the unit in \\(A\\), and \\(a=a^*\\in A\\), such that\n\\[\n \\norm{y}\\leq3\\norm{x},\\qquad\n \\norm{(y-x)\\xi}<\\delta\\quad(\\xi\\in F),\n\\]\nand\n\\[\n \\norm{a}\\leq\\norm{y},\\qquad\n \\norm{C_{\\mathcal P}(y)-a}\\leq\\varepsilon\\norm{y}.\n\\]\nZero projections may be included in the partition."
+    },
+    {
+      "id": "CLM-300-A-COR-SO-PAVING",
+      "qualified_label": "A:cor:so-paving",
+      "label": "cor:so-paving",
+      "kind": "corollary",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "statement_lines": [
+        73,
+        85
+      ],
+      "summary": "正常期望MASA上的强算子铺砌转换",
+      "conditions": "保留正常条件期望，用PV15 Proposition2.4(1)及严格epsilonprime松弛；压缩补投影只需强趋零，不是去掉q后的范数界。",
+      "aliases": [],
+      "statement_tex": "Suppose that a MASA \\(A\\subseteq M\\) is the range of a normal\nconditional expectation. For each \\(0<\\varepsilon<1\\) there is an\ninteger \\(R_s(\\varepsilon)\\), independent of the inclusion, such that\nfor every \\(x=x^*\\in M\\) and every strong-operator neighborhood\n\\(\\mathcal V\\) of zero, there exist an \\(R_s(\\varepsilon)\\)-partition\n\\(\\mathcal P\\) in \\(A\\), an \\(a=a^*\\in A\\) with\n\\(\\norm{a}\\leq\\norm{x}\\), and a projection \\(q\\in M\\) with\n\\(\\one-q\\in\\mathcal V\\), satisfying\n\\[\n \\norm{q(C_{\\mathcal P}(x)-a)q}\\leq\\varepsilon\\norm{x}.\n\\]"
+    },
+    {
+      "id": "CLM-300-A-COR-QUADRATIC-EXPECTED-APPROXIMATION",
+      "qualified_label": "A:cor:quadratic-expected-approximation",
+      "label": "cor:quadratic-expected-approximation",
+      "kind": "corollary",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "statement_lines": [
+        96,
+        103
+      ],
+      "summary": "正常期望MASA上的二次阶逼近铺砌",
+      "conditions": "先用二次伴随主结论，再用PV15 Proposition2.4(2)；正常条件期望、y范数放大3及相对y误差保留。不能扩大为任意MASA的二次阶app-paving。",
+      "aliases": [],
+      "statement_tex": "There is a universal constant \\(C>0\\) such that for every\n\\(0<\\varepsilon<1\\) one can choose an integer\n\\(N(\\varepsilon)\\leq C\\varepsilon^{-2}\\) with the following property.\nIf the MASA \\(A\\subseteq M\\) is the range of a normal conditional expectation,\nthen the conclusion of Theorem~\\ref{thm:main} holds with\n\\(N(\\varepsilon)\\) in place of \\(R(\\varepsilon)\\)."
+    },
+    {
+      "id": "CLM-300-A-LEM-COMPRESSION-NET",
+      "qualified_label": "A:lem:compression-net",
+      "label": "lem:compression-net",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "sha256": "6bad91192e35b6ca35f2dab5204fca1001446ce7636fb40b6d2afa3a5f3bfee7",
+      "statement_lines": [
+        43,
+        53
+      ],
+      "summary": "中央化状态下分割压缩网趋条件期望",
+      "conditions": "忠实正常状态phi、A在其centralizer；有限A分割细化网，在有界集合上以状态双半范数收敛，序列需生成A。非任意非中央化分割。",
+      "aliases": [],
+      "statement_tex": "Every \\(A\\)-partition compression \\(C_{\\mathcal Q}\\) preserves\n\\(\\varphi\\) and is contractive for both state seminorms.\nAs \\(\\mathcal Q\\) refines through all finite \\(A\\)-partitions,\n\\[\n C_{\\mathcal Q}(z)\\longrightarrow E_A(z)\n \\quad\\text{in }\\norm{\\cdot}_\\varphi^\\#\n \\qquad(z\\in M).\n\\]\nThe same holds along any refining sequence of partitions generating \\(A\\)."
+    },
+    {
+      "id": "CLM-300-A-LEM-SEQUENCE-QUOTIENT",
+      "qualified_label": "A:lem:sequence-quotient",
+      "label": "lem:sequence-quotient",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "sha256": "6bad91192e35b6ca35f2dab5204fca1001446ce7636fb40b6d2afa3a5f3bfee7",
+      "statement_lines": [
+        84,
+        101
+      ],
+      "summary": "双侧乘子序列商与状态小修正",
+      "conditions": "非迹态的有界state-sharp-null序列不假设是全部ell-infinity的双侧理想；先取双侧乘子C_phi，固定M和有界A序列在内，再作商与连续截断。",
+      "aliases": [],
+      "statement_tex": "Let\n\\[\n \\mathcal I_\\varphi=\n \\{(z_j)\\in\\ell^\\infty(M):\\norm{z_j}_\\varphi^\\#\\to0\\},\n\\]\nand let\n\\[\n \\mathcal C_\\varphi=\n \\{t\\in\\ell^\\infty(M):\n t\\mathcal I_\\varphi\\subseteq\\mathcal I_\\varphi,\\\n \\mathcal I_\\varphi t\\subseteq\\mathcal I_\\varphi\\}.\n\\]\nThen \\(\\mathcal C_\\varphi\\) is a unital \\(C^*\\)-algebra and\n\\(\\mathcal I_\\varphi\\) is a closed two-sided ideal in it.\nConstant sequences from \\(M\\) and all sequences in\n\\(\\ell^\\infty(A)\\) belong to \\(\\mathcal C_\\varphi\\)."
+    },
+    {
+      "id": "CLM-300-Q-THM-MAIN",
+      "qualified_label": "Q:thm:main",
+      "label": "thm:main",
+      "kind": "theorem",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "79bc826e2775af465f2fcf18f4c6efc71562e45430247727a5437a3918e259e2",
+      "statement_lines": [
+        18,
+        26
+      ],
+      "summary": "任意MASA上的二次阶强算子铺砌",
+      "conditions": "先epsilon固定r=ceil(400000000epsilon^-2)+ceil(4/epsilon)+1；任意自伴x/表示/有限F/delta，存在A分割、||a||<=||x||及q对F强近I，使压缩残差<=epsilon||x||。无正常期望或可分性假设，但不去掉q。",
+      "aliases": [],
+      "statement_tex": "For every $0<\\eps<1$, set\n\\[\n r_\\eps=\\left\\lceil400000000\\eps^{-2}\\right\\rceil\n              +\\left\\lceil4/\\eps\\right\\rceil+1\n          \\le500000000\\eps^{-2}.\n\\]\nFor every masa $A\\subseteq M\\subseteq\\mathcal B(H)$ and every $x=x^*\\in M$, the element $x$ is $(\\eps,r_\\eps)$ so-pavable over $A$. In particular, the number of projections is fixed before the inclusion, operator, and strong neighborhood. No separability or conditional-expectation assumption is imposed on the inclusion."
+    },
+    {
+      "id": "CLM-300-Q-COR-ULTRAPOWER-PAVING",
+      "qualified_label": "Q:cor:ultrapower-paving",
+      "label": "cor:ultrapower-paving",
+      "kind": "corollary",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "79bc826e2775af465f2fcf18f4c6efc71562e45430247727a5437a3918e259e2",
+      "statement_lines": [
+        32,
+        40
+      ],
+      "summary": "正常期望且可数可分解MASA的超幂范数铺砌",
+      "conditions": "保留正常条件期望、A可数可分解、自由超滤及Ocneanu双正规化子商；由PV15 Theorem2.7(3)前向转移同误差/同块数，不推广为原M范数铺砌。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subseteq M$ be a masa. Suppose that $A$ is countably decomposable and is the range of a normal conditional expectation from $M$. Let $\\omega$ be a free ultrafilter on $\\mathbb N$, and let $A^\\omega\\subseteq M^\\omega$ be the associated inclusion in the Ocneanu von Neumann ultrapower. For every $0<\\eps<1$ and every $x=x^*\\in M^\\omega$, there are a partition $p_1,\\ldots,p_{r_\\eps}\\in A^\\omega$ and an element $a=a^*\\in A^\\omega$ such that\n\\[\n \\|a\\|\\le\\|x\\|,\n \\qquad\n \\left\\|\\sum_{i=1}^{r_\\eps}p_i x p_i-a\\right\\|\\le\\eps\\|x\\|.\n\\]\nHere $r_\\eps$ is the same integer as in Theorem~\\ref{thm:main}."
+    },
+    {
+      "id": "CLM-300-A-LEM-STABILITY",
+      "qualified_label": "A:lem:stability",
+      "label": "lem:stability",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        34,
+        54
+      ],
+      "summary": "非均匀独立颜色的稳定多项式恒等式",
+      "conditions": "有限零对角Hermitian W、各点独立颜色概率及实惩罚；保留r!导数和r权重缩放。代数恒等式可复化，实根/稳定性仍需原Hermitian或指定半平面条件。",
+      "aliases": [],
+      "statement_tex": "Put $t_i^{1/2}=\\diag(\\sqrt{t_{vi}})_{v\\in Q}$. Then\n\\begin{equation}\\label{poly:differential-formula}\n f_Q(Y)=\n \\left(\\prod_{v\\in Q}\\frac{1}{r!}\\partial_{Y_v}^{r-1}\\right)\n \\prod_{i=1}^r\n \\det\\bigl(\\diag(Y+a)-r t_i^{1/2}Wt_i^{1/2}\\bigr).\n\\end{equation}\nThis identity remains valid for complex $t_{vi}$ with $\\sum_i t_{vi}=1$,\nwhere the expectation means the finite algebraic sum with the corresponding\nproduct weights, and the same square root is used in both occurrences of\n$t_i^{1/2}$. The algebraic identity also holds with complex penalties\nand arbitrary complex off-diagonal entries of $W$, still with zero diagonal.\n\nMore generally, let $\\mathcal H$ be an open half-plane. If the product of\ndeterminants on the right of \\eqref{poly:differential-formula}, for every\nprincipal restriction, is nonzero whenever all its variables lie in\n$\\mathcal H$, then the same holds for $f_Q$. In particular, for Hermitian\n$W$ and real probabilities and penalties, $f_Q$ is upper-half-plane stable and\nits univariate specialization is real-rooted."
+    },
+    {
+      "id": "CLM-300-A-LEM-LOCAL-DATA",
+      "qualified_label": "A:lem:local-data",
+      "label": "lem:local-data",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        113,
+        182
+      ],
+      "summary": "删除商的箭头表示与根部谱概率",
+      "conditions": "h=f/g=z+a-sum nu/(z-s)，非负留数；G=1/h为谱概率，根部成本m与插入响应ell不同；总根成本一般不是随机结果正部迹的期望。",
+      "aliases": [],
+      "statement_tex": "Fix $v\\in Q$, put $f=f_Q$, $g=f_{Q\\setminus\\{v\\}}$, and write\n$h=f/g$, $G=1/h$ at univariate arguments. For $z\\in\\C$ with\n$\\operatorname{Im}z>0$,\n\\begin{equation}\\label{poly:pick-inequality}\n \\operatorname{Im}h(z)\\geq\\operatorname{Im}z.\n\\end{equation}\nIf $s_j$ are the roots of $g$, with multiplicities, there are\n$\\nu_j\\geq0$ such that\n\\begin{equation}\\label{poly:arrow-quotient}\n h(z)=z+a_v-\\sum_j\\frac{\\nu_j}{z-s_j}.\n\\end{equation}\nConsequently, on choosing $|c_j|^2=\\nu_j$,\n\\begin{equation}\\label{poly:arrow-matrix}\n B=\\begin{pmatrix}-a_v&c^*\\\\ c&S\\end{pmatrix},\n \\qquad S=\\diag(s_j),\n \\qquad \\det(zI-B)=f(z).\n\\end{equation}\nThe function $G$ is the transform\n\\begin{equation}\\label{poly:stieltjes}\n G(z)=\\int_\\R\\frac{d\\gamma_v(x)}{z-x}\n\\end{equation}\nof the spectral probability measure of $B$ at its first coordinate.\nIts first two moments are\n\\begin{equation}\\label{poly:moments}\n \\begin{gathered}\n \\int x\\,d\\gamma_v(x)=-a_v,\n \\qquad\n \\int x^2\\,d\\gamma_v(x)=a_v^2+\\sum_j\\nu_j,\n \\\\\n \\sum_j\\nu_j=\\sum_{w\\ne v}|W_{vw}|^2\\sum_i t_{vi}t_{wi}.\n \\end{gathered}\n\\end{equation}\n\nLet $N_f(x)$ and $N_g(x)$ count roots strictly greater than $x$, including\nmultiplicities, and define\n\\begin{equation}\\label{poly:local-functionals}\n \\xi_h(x)=N_f(x)-N_g(x),\\qquad\n \\ell_v=\\int_0^\\infty\\xi_h(x)\\,dx,\\qquad\n m_v=\\int_\\R x_+\\,d\\gamma_v(x).\n\\end{equation}\nThen $\\xi_h=\\mathbf1_{\\{h<0\\}}$ off a finite subset of $\\R$, and\n\\begin{equation}\\label{poly:poisson}\n \\frac{1}{\\pi}\\arg h(x+i\\eta)\n   =(P_\\eta*\\xi_h)(x),\n \\qquad P_\\eta(x)=\\frac{\\eta}{\\pi(x^2+\\eta^2)},\\quad\\eta>0,\n\\end{equation}\nwhere $\\arg h\\in(0,\\pi)$. Moreover,\n\\begin{equation}\\label{poly:sum-local-measures}\n \\sum_{v\\in Q}G_{v,Q}(z)=\\frac{f'_Q(z)}{f_Q(z)},\n \\qquad\n \\sum_{v\\in Q}\\gamma_v=\\sum_{f_Q(\\lambda)=0}\\delta_\\lambda,\n\\end{equation}\nwith multiplicities on the right.\n\nIf $v$ is made deterministic of color $i$, write $h_i$ for the new quotient\nrelative to the same $g$, and put $R_i=h_i/h$. Its representation has the same $a_v$ and poles\n$s_j$, and masses $\\nu_{ij}\\geq0$ which can be chosen so that\n\\begin{equation}\\label{poly:pin-average}\n h=\\sum_i t_{vi}h_i,\\qquad\n \\nu_j=\\sum_i t_{vi}\\nu_{ij}.\n\\end{equation}\nIf the penalty at $v$ is also changed to $Ka_v$, the quotient becomes\n\\begin{equation}\\label{poly:buffered-quotient}\n h_i'=h_i+(K-1)a_v.\n\\end{equation}\nHere the prime with a color index denotes the buffered quotient, not a\nderivative. We write $\\ell'_{v,i}$ for the positive-axis integral of\nthe spectral shift defined using $h_i'$ and the unchanged $g$."
+    },
+    {
+      "id": "CLM-300-A-LEM-MSS-PAVING",
+      "qualified_label": "A:lem:mss-paving",
+      "label": "lem:mss-paving",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        260,
+        269
+      ],
+      "summary": "有限均匀颜色初始最大根界",
+      "conditions": "非空有限零对角Hermitian压缩、零惩罚、均匀r色；界2sqrt(2/r)+2/r，经MSS PSD补全/列拆分/Gram删除取得，不把任意W直接当PSD协方差。",
+      "aliases": [],
+      "statement_tex": "Let $T$ be a Hermitian contraction on a nonempty finite index set $Q$,\nwith zero diagonal. In \\eqref{poly:definition}, take $W=T$, $a_v=0$,\nand $t_{vi}=1/r$. Then\n\\begin{equation}\\label{poly:mss-bound}\n \\max\\operatorname{root}(f_Q)\\leq2\\sqrt{2/r}+2/r.\n\\end{equation}\nIn particular, giving every vertex the same penalty $b$ places all\nroots strictly below zero if $2\\sqrt{2/r}+2/r<b$."
+    },
+    {
+      "id": "CLM-300-A-POLY-TAIL-CONTROL",
+      "qualified_label": "A:poly:tail-control",
+      "label": "poly:tail-control",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        384,
+        396
+      ],
+      "summary": "单位移位箭头的近远极点留数控制",
+      "conditions": "a=1，H=integral|x|=1+2m；近极点总留数O(H^2)，正负远尾不同；尺度和非负留数保留，不能混成统一紧谱支撑。",
+      "aliases": [],
+      "statement_tex": "Suppose $a=1$ in \\eqref{poly:general-arrow}, and set\n$H=\\int|x|\\,d\\gamma(x)=1+2m$. There is a universal $C_0$ such that\n\\begin{align}\n \\sum_{|s_j|\\leq60H}\\nu_j&\\leq C_0H^2,\n       \\label{poly:near-mass}\\\\\n \\sum_{s_j\\geq20H}\\frac{\\nu_j}{s_j}&\\leq C_0m,\n       \\label{poly:positive-tail}\\\\\n \\sum_{s_j\\leq-20H}\\frac{\\nu_j}{|s_j|}&\\leq C_0H.\n       \\label{poly:negative-tail}\n\\end{align}\nFor example, $C_0=6000$ suffices."
+    },
+    {
+      "id": "CLM-300-A-POLY-BOOLE",
+      "qualified_label": "A:poly:boole",
+      "label": "poly:boole",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        461,
+        472
+      ],
+      "summary": "正留数有理函数的一侧超阈值长度",
+      "conditions": "有限实极点、非负权和正阈值c；并合重复极点并去零项，一侧Lebesgue长度sum w/c，不额外乘2。",
+      "aliases": [],
+      "statement_tex": "For finitely many real poles $s_j$, nonnegative weights $w_j$, and $c>0$,\n\\begin{equation}\\label{poly:boole-identities}\n \\left|\\left\\{\\lambda\\in\\R:\n       \\sum_j\\frac{w_j}{\\lambda-s_j}>c\\right\\}\\right|\n =\\left|\\left\\{\\lambda\\in\\R:\n       \\sum_j\\frac{w_j}{\\lambda-s_j}<-c\\right\\}\\right|\n =\\frac{\\sum_jw_j}{c}.\n\\end{equation}\nIf every pole carrying positive weight is strictly positive, the first\nexceedance set lies in $(0,\\infty)$."
+    },
+    {
+      "id": "CLM-300-A-LEM-BUFFERED-PIN",
+      "qualified_label": "A:lem:buffered-pin",
+      "label": "lem:buffered-pin",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "statement_lines": [
+        499,
+        515
+      ],
+      "summary": "固定极点下某个合法选色只增加受控响应",
+      "conditions": "选择留数非负且概率平均为旧留数；仅选正概率颜色；增大原a至Ka后，ell_child<=ell_old+C*m，旧ell系数1；大常数存在性不提供低成本执行。",
+      "aliases": [],
+      "statement_tex": "There are universal constants $K\\geq1$ and $C>0$ with the following\nproperty. In \\eqref{poly:general-arrow}, let a finite family of choices\nhave masses $\\nu_{ij}\\geq0$ and probabilities $t_i\\geq0$ such that\n$\\sum_i t_i=1$ and $\\sum_i t_i\\nu_{ij}=\\nu_j$. Keep the poles $s_j$\nunchanged, and define\n\\[\n h_i'(z)=z+Ka-\\sum_j\\frac{\\nu_{ij}}{z-s_j},\n \\qquad \\ell_i'=L(Ka,\\nu_i),\\qquad \\ell=L(a,\\nu).\n\\]\nThen\n\\begin{equation}\\label{poly:buffered-pin-bound}\n \\min_{i:t_i>0}\\ell_i'\\leq\\ell+Cm.\n\\end{equation}\nThe constants have no dependence on the number or positions of the\npoles, the masses, the probabilities, or the positive penalty $a$."
+    },
+    {
+      "id": "CLM-300-A-THM-MEASURED-PAVING",
+      "qualified_label": "A:thm:measured-paving",
+      "label": "thm:measured-paving",
+      "kind": "theorem",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "statement_lines": [
+        35,
+        50
+      ],
+      "summary": "非奇异测度关系上的单侧正部平方成本铺砌",
+      "conditions": "固定有界度、边cocycle比及Hermitian零对角压缩；r满足初始根界<b，最终r+1色；归一化积分正部平方成本可任意小，不是原算子的全空间范数界。",
+      "aliases": [],
+      "statement_tex": "There is a universal constant $K\\geq1$ with the following property.\nSuppose $T$, $\\mathcal R$, $\\mathcal G$, and $\\omega$ satisfy the preceding\nassumptions. Let $b>0$, and choose a positive integer $r$ such that\n\\begin{equation}\n 2\\sqrt{2/r}+2/r<b.\n \\label{slab:r-choice}\n\\end{equation}\nFor every $\\sigma>0$ and $\\rho>0$, there is a measurable coloring of $V$\nwith $r+1$ colors for which\n\\begin{equation}\n \\int_V \\bigl((T_{\\mathrm{pav}}-(Kb+\\sigma)\\one)_+^2\\bigr)_{vv}\n \\,d\\mu(v)<\\rho.\n \\label{slab:measured-conclusion}\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-LEM-SLAB-LIMITS",
+      "qualified_label": "A:lem:slab-limits",
+      "label": "lem:slab-limits",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "statement_lines": [
+        170,
+        191
+      ],
+      "summary": "有界Maharam条带上的局部谱数据极限",
+      "conditions": "固定有界条带、原图距离和保留主限制；局部矩与紧谱确定唯一极限，常数可依条带；不能当全高度统一紧谱界。",
+      "aliases": [],
+      "statement_tex": "On each bounded slab, the finite local functions\n$h_u,G_u,h_{u,i},h_{u,i}',R_{u,i}$, the probability and residue\nmeasures, and the data $m_u,\\ell_u,\\ell_{u,i}'$ have unique limits as\nfinite graph balls increase to a component. They are measurable and\nindependent of the exhaustion, and the local Cauchy-transform and\nPoisson-transform identities pass to the limits.\nTheir supports have a common fixed-slab bound, and\nEquation~\\eqref{slab:local-bounds} continues to hold.\n\nThe Laurent coefficients through order $k$ of $h_u/z$, $zG_u$,\n$h_{u,i}/z$, $h_{u,i}'/z$, and $R_{u,i}$, and the moments of\n$\\gamma_u$ through order $k$, depend only on the data within graph\ndistance $k$ of $u$. The same assertion holds for coefficients of\nlogarithmic derivatives under data perturbations, with the local\nperturbation directions included in the data. It remains valid under\narbitrary deletion configurations.\n\nAt an unassigned vertex the buffered pin inequality\nof Lemma~\\ref{lem:buffered-pin} holds for these infinite local data.\nIf every base vertex is unassigned, then $m_u=0$ on every bounded slab."
+    },
+    {
+      "id": "CLM-300-A-LEM-FAR-DELETION",
+      "qualified_label": "A:lem:far-deletion",
+      "label": "lem:far-deletion",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "statement_lines": [
+        291,
+        301
+      ],
+      "summary": "远高与远低高度删除的不同控制",
+      "conditions": "固定中央测试带且不删其测试点；远高用不变测度小，远低用切矩阵范数小；实际高度不随改根重置，保留原图距离。",
+      "aliases": [],
+      "statement_tex": "Consider any bounded slab containing $V\\times[0,1]$, any base partial\nassignment, and any further measurable restriction that retains the\ncentral vertices being tested. Deleting a measurable set of vertices\nat heights $s>R$, or at heights $s<-R$, changes the tuple\nin Equation~\\eqref{slab:normalized-data} by an amount tending to zero\nin $L^1(d\\mu\\,ds)$ on the central unassigned band as $R\\to\\infty$.\nThe convergence is uniform in the slab, the partial assignment, and\nthe deletion set. The same conclusion holds for the union of a far\nhigh set and a far low set."
+    },
+    {
+      "id": "CLM-300-A-LEM-COHERENT-CHOICE",
+      "qualified_label": "A:lem:coherent-choice",
+      "label": "lem:coherent-choice",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "statement_lines": [
+        596,
+        615
+      ],
+      "summary": "跨高度统一选择同一基点颜色",
+      "conditions": "固定容差后存在足够长条带，远删除L1误差对所有当前赋色一致；同一基点各高度选同色。没有从该存在性抽取可用有限L/运行时界。",
+      "aliases": [],
+      "statement_tex": "For every $\\tau_0>0$ there are arbitrarily large integers $L\\geq1$\nwith the following property, uniformly over all base partial\nassignments. On the slab $V\\times[0,L]$ one can choose a measurable\nprospective color $i(v)$ at each unassigned base vertex, using the same\ncolor at every height, so that\n\\begin{equation}\n \\frac1L\\int_{\\mathrm{unassigned}\\ \\mathrm{in}\\ V\\times[0,L]}\n       (\\ell_{(v,s),i(v)}'-\\ell_{(v,s)})\\,d\\widetilde\\mu(v,s)\n \\leq C\\Phi+\\tau_0,\n \\qquad\n \\Phi=\\frac1L\\int_{V\\times[0,L]}m_{(v,s)}\\,d\\widetilde\\mu(v,s).\n \\label{slab:coherent-inequality}\n\\end{equation}\nHere $C$ is the universal constant in\nLemma~\\ref{lem:buffered-pin}, and every $\\ell_{u,i}'$ on the left is\nthe insertion cost after changing only the lifted vertex $u$.\nThe same $L$ can be used at every stage of a sequence of partial\nassignments."
+    },
+    {
+      "id": "CLM-300-A-PROP-SPARSE-PINNING",
+      "qualified_label": "A:prop:sparse-pinning",
+      "label": "prop:sparse-pinning",
+      "kind": "proposition",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "sha256": "fb823f84e413d1dc64d26071aabfa35cbe28b47a4c5a15756d4bae2bbfbb0f4a",
+      "statement_lines": [
+        14,
+        34
+      ],
+      "summary": "稀疏同步选色保持平均正根成本小",
+      "conditions": "辅助距离图类之间独立Bernoulli针，而非全部顶点IID；先S/容差后条带与多项式再步长，累计增长e^(C(S+1))；未赋色集合单独计代价。",
+      "aliases": [],
+      "statement_tex": "For every $\\zeta,\\eta>0$ and $L_0\\geq1$, there are an integer\n$L\\geq L_0$ and a measurable partition\n\\[\n V=\\mathcal U\\sqcup V_1\\sqcup\\cdots\\sqcup V_r\n\\]\nsuch that $\\mu(\\mathcal U)<\\eta$ and the following holds.  On the\nsurviving lifted vertices $(V\\setminus\\mathcal U)\\times[0,L]$, let\n$T_{\\mathrm{col}}^L$ be the restriction of $T$, keeping only entries\nbetween vertices whose basepoints belong to the same $V_i$, and put\n\\begin{equation}\\label{pin:surviving-operator}\n A_L=d^{1/2}(T_{\\mathrm{col}}^L-Kb\\one)d^{1/2},\n \\qquad d_{(v,s)}=e^s.\n\\end{equation}\nExtend $m_u^{\\mathrm{surv}}=((A_L)_+)_{uu}$ by zero on the deleted\nvertices.  Then\n\\begin{equation}\\label{pin:surviving-cost}\n \\frac1L\\int_{V\\times[0,L]}m_u^{\\mathrm{surv}}\\,\n d\\widetilde\\mu(u)<\\zeta.\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-LEM-DESCENT",
+      "qualified_label": "A:lem:descent",
+      "label": "lem:descent",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "sha256": "fb823f84e413d1dc64d26071aabfa35cbe28b47a4c5a15756d4bae2bbfbb0f4a",
+      "statement_lines": [
+        277,
+        299
+      ],
+      "summary": "由条带根成本下降回基点正部平方估计",
+      "conditions": "用次数k多项式近似目标正部平方，边比J和邻域N_k进入系数；先A<=A_plus再压缩/合同，不宣称正部与压缩可交换。",
+      "aliases": [],
+      "statement_tex": "Fix $\\sigma,\\beta>0$, and choose a real polynomial $p$ of degree at most\n$k\\geq1$ such that\n\\[\n \\sup_{x\\in[-1,1]}\n \\abs{p(x)-(x-(Kb+\\sigma))_+^2}\\leq\\beta.\n\\]\nSuppose a base partial assignment, with unassigned set $\\mathcal U$,\nand a slab length $L\\geq\\max\\{1,4k\\log J\\}$ have surviving cost\n\\[\n \\Psi=\\frac1L\\int_{V\\times[0,L]}m_u^{\\mathrm{surv}}\\,\n                         d\\widetilde\\mu(u),\n\\]\nwhere $m^{\\mathrm{surv}}$ is defined from\n\\eqref{pin:surviving-operator}.  Complete the base coloring by giving\n$\\mathcal U$ one additional color, and denote its paved matrix system\nby $T_{\\mathrm{pav}}$.  Then\n\\begin{equation}\\label{pin:descent-bound}\n \\int_V\\bigl((T_{\\mathrm{pav}}-(Kb+\\sigma)\\one)_+^2\\bigr)_{vv}\n                   \\,d\\mu(v)\n \\leq2\\beta+\\mu(\\mathcal U)+\\frac{2J^kN_k}{\\sigma}\\Psi.\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-THM-STATE-PAVING",
+      "qualified_label": "A:thm:state-paving",
+      "label": "thm:state-paving",
+      "kind": "theorem",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "statement_lines": [
+        14,
+        25
+      ],
+      "summary": "中央化忠实状态下有界小修正的范数铺砌",
+      "conditions": "首稿可分前提下，x自伴压缩，固定gamma后R_st；块对角w_j自伴、||w_j||<=2、state-sharp趋零，残差<=gamma。R_st乘积不是二次阶。",
+      "aliases": [],
+      "statement_tex": "For every $\\gamma>0$ there is an integer $R_{\\mathrm{st}}(\\gamma)$ with the following\nproperty. For every self-adjoint $x\\in M$ with $\\norm{x}\\leq1$, there are\npartitions $\\mathcal P_j$ of $1$ in $A$, each with $R_{\\mathrm{st}}(\\gamma)$ members,\nand self-adjoint $w_j\\in M$ such that\n\\begin{equation}\\label{exp:state-paving}\n \\norm{w_j}\\leq2,\\qquad\n \\norm{w_j}_\\varphi\\longrightarrow0,\\qquad\n \\norm{C_{\\mathcal P_j}(x-w_j)-E_A(x)}\\leq\\gamma.\n\\end{equation}\nThe integer $R_{\\mathrm{st}}(\\gamma)$ is independent of $M,A,\\varphi$, and $x$."
+    },
+    {
+      "id": "CLM-300-A-EXP-NORMALIZER-PAVING",
+      "qualified_label": "A:exp:normalizer-paving",
+      "label": "exp:normalizer-paving",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "statement_lines": [
+        97,
+        109
+      ],
+      "summary": "正规化子代数部分的正负单侧分割细化",
+      "conditions": "Y=E_Nx-E_Ax、||Y||<=2；分别处理正负并共同细化为(r+1)^2色，商范数界6(Kb+sigma)，不是两者取最大色数。",
+      "aliases": [],
+      "statement_tex": "Let $b,\\sigma>0$ and let $r$ be an integer such that\n\\[\n 2\\sqrt{2/r}+2/r<b.\n\\]\nThere are sequences of $A$-partitions with $(r+1)^2$ members whose\nquotient partition $\\mathcal P$ satisfies\n\\begin{equation}\\label{exp:normalizer-bound}\n \\norm{C_{\\mathcal P}[Y]}\\leq6(Kb+\\sigma),\n\\end{equation}\nwhere $K$ is the universal constant in\nTheorem~\\ref{thm:measured-paving}."
+    },
+    {
+      "id": "CLM-300-A-PROP-OFF-NORMALIZER",
+      "qualified_label": "A:prop:off-normalizer",
+      "label": "prop:off-normalizer",
+      "kind": "proposition",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "statement_lines": [
+        152,
+        158
+      ],
+      "summary": "正规化子核部分的自由压缩商界",
+      "conditions": "Z=x-E_Nx，||Z||<=2；n>=2时n分割商压缩<=4/sqrt(n)，借扩大的自由弥散第二MASA避免朴素2x2膨胀的原子核。",
+      "aliases": [],
+      "statement_tex": "For every $n\\geq2$, there are sequences of $n$-partitions in $A$\nwhose quotient partition $\\mathcal P$ satisfies\n\\begin{equation}\\label{exp:off-normalizer-bound}\n \\norm{C_{\\mathcal P}[Z]}\\leq\\frac4{\\sqrt n}.\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-LEM-RANDOM-FREENESS",
+      "qualified_label": "A:lem:random-freeness",
+      "label": "lem:random-freeness",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "statement_lines": [
+        169,
+        183
+      ],
+      "summary": "无原子核下随机根号标签的联合矩极限",
+      "conditions": "可分预对偶、弥散中央化MASA、自伴均值零对合及弥散正核；固定有限词后细分极限，内部相位独立，非迹态保留模解析近似；非范数收敛。",
+      "aliases": [],
+      "statement_tex": "Let $\\mathcal M$ have separable predual, let $\\phi_0$ be a faithful\nnormal state, and let $D\\subset\\mathcal M_{\\phi_0}$ be a diffuse MASA.\nSuppose that $U\\in\\mathcal M$ is a self-adjoint unitary with\n$\\phi_0(U)=0$, and that the normal positive map\n\\[\n \\mathcal K(a)=E_D(UaU),\\qquad a\\in D,\n\\]\nhas an almost everywhere diffuse kernel on a standard probability\nmodel of $(D,\\phi_0|_D)$. For every integer $n\\geq2$ there are unitaries\n$w_l\\in D$, with $w_l^n=1$, such that the joint star moments of\n$(w_l,U)$ converge to those of free unitaries $(w,U_{\\mathrm f})$,\nwhere $w$ is uniform on the $n$th roots of unity and $U_{\\mathrm f}$\nis uniform on $\\{-1,1\\}$."
+    },
+    {
+      "id": "CLM-300-A-LEM-FREE-COMPRESSION",
+      "qualified_label": "A:lem:free-compression",
+      "label": "lem:free-compression",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "statement_lines": [
+        402,
+        410
+      ],
+      "summary": "自由投影分割对称元的范数界",
+      "conditions": "在指定约化自由积表示和自由联合律中，n色等质量谱分割压缩自由对合<=2/sqrt(n)；从联合矩回原算子还需状态小谱超额和商代数。",
+      "aliases": [],
+      "statement_tex": "Let $w$ and $U_{\\mathrm f}$ have the free law in\nLemma~\\ref{lem:random-freeness}, in its reduced free-product\nrepresentation. If $p_1,\\ldots,p_n$ are the spectral projections of\n$w$, then\n\\begin{equation}\\label{exp:free-norm-bound}\n \\norm{\\sum_{j=1}^n p_j U_{\\mathrm f}p_j}\\leq\\frac2{\\sqrt n}.\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-LEM-ATOMLESS",
+      "qualified_label": "A:lem:atomless",
+      "label": "lem:atomless",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+      "sha256": "333d692339a69549b2e2ee74f78728413e738e9705f9370a70cf4336d3114290",
+      "statement_lines": [
+        33,
+        35
+      ],
+      "summary": "E_N核元素的左右谱条件核无原子",
+      "conditions": "在中央化正常期望设定，联合标准L2谱测度第一坐标为右作用；原子图选择不必单射，需正常期望typeI中间角和AS12投影分解后才得到正规化子矛盾。",
+      "aliases": [],
+      "statement_tex": "If $E_N(X)=0$, then $k_X(v,\\cdot)$ has no atoms for almost every $v\\in V$."
+    },
+    {
+      "id": "CLM-300-A-LEM-SEPARABLE-REDUCTION",
+      "qualified_label": "A:lem:separable-reduction",
+      "label": "lem:separable-reduction",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "statement_lines": [
+        16,
+        19
+      ],
+      "summary": "保留MASA和期望的可分约化",
+      "conditions": "构造可数代数时纳入E_A值及压缩分割见证；不是任意包含x的可分子代数都保留MASA。相同状态铺砌色数不变。",
+      "aliases": [],
+      "statement_tex": "The conclusion of Theorem~\\ref{thm:state-paving} holds without the\nassumption of separable predual, with the same partition-size bound."
+    },
+    {
+      "id": "CLM-300-A-LEM-NO-CENTRAL-FUNCTIONAL",
+      "qualified_label": "A:lem:no-central-functional",
+      "label": "lem:no-central-functional",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "statement_lines": [
+        89,
+        99
+      ],
+      "summary": "无正常中央化泛函角上的小块正收缩",
+      "conditions": "D为MASA且无非零D中央化正常正泛函；固定状态/m/alpha，构造近满状态质量的正收缩s及m分割，使p_i s p_i<=p_i/m。顺序分离得到正effects，不是互相正交投影。",
+      "aliases": [],
+      "statement_tex": "Let $D\\subset P$ be a MASA such that no nonzero normal positive\nfunctional on $P$ centralizes $D$. For every normal state $\\theta$ on\n$P$, every integer $m\\geq2$, and every $\\alpha>0$, there are a positive\ncontraction $s\\in P$ and an $m$-partition $(p_i)_{i=1}^m$ in $D$ such\nthat\n\\begin{equation}\\label{gen:small-diagonal}\n \\theta(s)>1-\\alpha,\\qquad p_i s p_i\\leq m^{-1}p_i\n \\quad(1\\leq i\\leq m).\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-A-GEN-NO-CENTRAL-APPROXIMATION",
+      "qualified_label": "A:gen:no-central-approximation",
+      "label": "gen:no-central-approximation",
+      "kind": "corollary",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "statement_lines": [
+        209,
+        221
+      ],
+      "summary": "无中央化泛函角的sxs强近似与m块界",
+      "conditions": "x自伴压缩，sxs对有限向量及x像强近似x；不是||sxs-x||趋零；m色残差界依s的块压缩控制。",
+      "aliases": [],
+      "statement_tex": "Under the hypotheses of Lemma~\\ref{lem:no-central-functional}, let\n$P$ act normally on a Hilbert space and let $x=x^*\\in P$ satisfy\n$\\norm{x}\\leq1$. For each $m\\geq2$, the operators $sxs$ supplied\nby that lemma approximate $x$ strongly, with associated\n$m$-partitions $\\mathcal P$ satisfying\n\\[\n \\norm{sxs}\\leq1,\\qquad\n \\norm{C_{\\mathcal P}(sxs)}\\leq1/m.\n\\]\nHere the approximation is on any prescribed finite set of vectors,\nto any positive accuracy, while $m$ stays fixed."
+    },
+    {
+      "id": "CLM-300-A-GEN-SUPPORT-DECOMPOSITION",
+      "qualified_label": "A:gen:support-decomposition",
+      "label": "gen:support-decomposition",
+      "kind": "lemma",
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "statement_lines": [
+        245,
+        254
+      ],
+      "summary": "中央化正常泛函支撑并与无支撑角分解",
+      "conditions": "e为全部中央化正常正泛函支撑并，e,h在A但不必中央于M；eMe有忠实正常期望，hMh无此泛函；保留交叉角直到最终不同色盘消除。",
+      "aliases": [],
+      "statement_tex": "For any MASA $A\\subset M$, set\n\\[\n e=\\bigvee\\{\\supp(\\lambda):\\lambda\\in M_*^+,\n                  \\ \\lambda\\text{ centralizes }A\\},\\qquad h=\\one-e.\n\\]\nThen $e,h\\in A$. If $e\\ne0$, there is a faithful normal conditional\nexpectation $E:eMe\\to Ae$. If $h\\ne0$, the inclusion\n$Ah\\subset hMh$ has no nonzero centralizing normal positive functional."
+    },
+    {
+      "id": "CLM-300-Q-LEM-NO-CENTRAL",
+      "qualified_label": "Q:lem:no-central",
+      "label": "lem:no-central",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "statement_lines": [
+        55,
+        68
+      ],
+      "summary": "无中央化泛函角的强算子铺砌",
+      "conditions": "自伴压缩、r_p=ceil4/epsilon；先Haagerup对称L2小，再分离投影转通常状态范数小，最终谱截断。对称L2不直接控制通常状态范数。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subseteq M$ be a masa such that $M$ has no nonzero $A$-central\nnormal positive functional.  Let $x=x^*\\in M$ satisfy $\\|x\\|\\leq1$,\nand let $0<\\eps<1$.  Put $r_{\\rm p}=\\lceil4/\\eps\\rceil$.\nFor every normal state $\\varphi$ on $M$ and every $\\rho>0$ there are a\npartition $p_1,\\ldots,p_{r_{\\rm p}}$ in $A$, an $a=a^*\\in A$ with\n$\\|a\\|\\leq1$, and a projection $q\\in M$ such that\n\\[\n \\varphi(1-q)<\\rho,\n \\qquad\n \\left\\|q\\left(\\sum_{i=1}^{r_{\\rm p}}p_i x p_i-a\\right)q\\right\\|\n \\leq\\eps.\n\\]"
+    },
+    {
+      "id": "CLM-300-Q-PROP-STATE-REDUCTION",
+      "qualified_label": "Q:prop:state-reduction",
+      "label": "prop:state-reduction",
+      "kind": "proposition",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "statement_lines": [
+        191,
+        209
+      ],
+      "summary": "从中央化忠实状态设定转任意包含",
+      "conditions": "已知每个忠实中央状态角R色，任意包含只加ceil4/epsilon+1色；角支撑在A但不必中央，有限F后选择支撑；不能把色数乘积或角中央性偷偷代入。",
+      "aliases": [],
+      "statement_tex": "Fix $0<\\eps<1$ and an integer $R\\geq1$.  Suppose that for every masa\n$A\\subseteq M$ admitting a faithful $A$-central normal state $\\varphi$,\nevery self-adjoint contraction $x\\in M$, and every $\\rho>0$, there exist\na partition of $1$ into $R$ projections of $A$, a self-adjoint\n$a\\in A$ of norm at most one, and a projection $q\\in M$ with\n$\\varphi(1-q)<\\rho$ and\n\\[\n \\left\\|q\\left(\\sum_{i=1}^R p_i x p_i-a\\right)q\\right\\|\\leq\\eps.\n\\]\nThen every masa in every represented von Neumann algebra has the\nstrong-operator paving property of Theorem~\\ref{thm:main} at error\n$\\eps$, with\n\\[\n r=R+\\lceil4/\\eps\\rceil+1.\n\\]\nIn particular this number is chosen before the finite vector set and\nthe strong-neighborhood tolerance."
+    },
+    {
+      "id": "CLM-300-Q-LEM-PINCHING",
+      "qualified_label": "Q:lem:pinching",
+      "label": "lem:pinching",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "statement_lines": [
+        271,
+        282
+      ],
+      "summary": "忠实中央状态给期望和状态压缩网",
+      "conditions": "A为MASA、phi忠实正常且A中央化；保留A分割细化网与有界状态范数/强拓扑关系，生成细分序列才有同极限。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subseteq M$ be a masa and $\\varphi$ a faithful $A$-central normal\nstate.  There is a faithful normal $\\varphi$-preserving conditional\nexpectation $E_A\\colon M\\to A$.  On bounded subsets of $M$, convergence\nto zero in $\\|\\cdot\\|_\\varphi$ is equivalent to strong convergence in the\nfaithful GNS representation.  For every $z\\in M$,\n\\begin{equation}\\label{eq:pinching-limit}\n \\|S_P(z)-E_A(z)\\|_\\varphi\\longrightarrow0\n\\end{equation}\nas the finite partitions $P$ of $A$ refine.  The same conclusion holds\nalong any increasing sequence of finite partitions generating $A$."
+    },
+    {
+      "id": "CLM-300-Q-LEM-SEPARABLE-REDUCTION",
+      "qualified_label": "Q:lem:separable-reduction",
+      "label": "lem:separable-reduction",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "statement_lines": [
+        307,
+        316
+      ],
+      "summary": "保留条件期望的可分MASA子包含",
+      "conditions": "固定x并反复纳入E_A与压缩见证，生成可分预对偶M0和MASA A0，phi限制忠实中央化；一般子代数不自动成立。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subseteq M$ be a masa with a faithful $A$-central normal state\n$\\varphi$, and let $x=x^*\\in M$.  There exist unital von Neumann\nsubalgebras $A_0\\subseteq A$ and $M_0\\subseteq M$ such that $x\\in M_0$,\n$M_0$ has separable predual, $A_0$ is a masa in $M_0$, and\n$E_A(M_0)\\subseteq A_0$.  The restriction of $\\varphi$ is faithful,\nnormal, and $A_0$-central.  Thus a uniform faithful-state paving result\nfor inclusions with separable predual implies the same result without\nthat restriction."
+    },
+    {
+      "id": "CLM-300-Q-LEM-TYPE-I-NORMALIZERS",
+      "qualified_label": "Q:lem:type-i-normalizers",
+      "label": "lem:type-i-normalizers",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "sha256": "38e9733d73361206c9a187eead062504416f5fd9e23112cf4360bc1f8e9f8d10",
+      "statement_lines": [
+        116,
+        122
+      ],
+      "summary": "正常中央状态typeI角的正规化子生成",
+      "conditions": "D typeI且可分预对偶、C MASA、忠实C中央化正常状态；C的groupoid normalizers生成D，abelian投影等价于C内投影。无期望弥散typeI MASA不准入。",
+      "aliases": [],
+      "statement_tex": "Let $D$ be a type I von Neumann algebra with separable predual, and let\n$C\\subseteq D$ be a masa.  Suppose $D$ admits a faithful $C$-central\nnormal state.  Then the groupoid normalizers of $C$ generate $D$.\nEvery abelian projection of $D$ is Murray--von Neumann equivalent in\n$D$ to a projection of $C$."
+    },
+    {
+      "id": "CLM-300-Q-PROP-ATOMLESS-KERNELS",
+      "qualified_label": "Q:prop:atomless-kernels",
+      "label": "prop:atomless-kernels",
+      "kind": "proposition",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "sha256": "38e9733d73361206c9a187eead062504416f5fd9e23112cf4360bc1f8e9f8d10",
+      "statement_lines": [
+        198,
+        213
+      ],
+      "summary": "正规化子核的弥散正核及其复合",
+      "conditions": "K_y(f)=E_A(y* f y)，y在kerE_N；行质量<=||y||^2、几乎处处无原子，有限复合仍如此。每个固定零集几乎处处零质量，不是每行对mu绝对连续。",
+      "aliases": [],
+      "statement_tex": "In the setting of this section, for every $y\\in M^\\circ$ the map\n\\[\n K_y(f)=E_A(y^*fy),\\qquad f\\in A,\n\\]\nhas a positive kernel whose mass is at most $\\|y\\|^2$ and which is\natomless for almost every output point $v\\in X$.\nFor $k\\geq1$ and $y_1,\\ldots,y_k\\in M^\\circ$, the composition\n$K_{y_1}\\circ\\cdots\\circ K_{y_k}$ has a positive kernel whose mass is at most\n$\\prod_{j=1}^k\\|y_j\\|^2$ and which is atomless almost everywhere.\nIf $p_{\\rm at}\\in A$ is the projection of\nthe atomic part of $A$, then\n\\[\n p_{\\rm at}y=yp_{\\rm at}=0\\qquad(y\\in M^\\circ).\n\\]"
+    },
+    {
+      "id": "CLM-300-Q-LEM-MIXED-BOUNDS",
+      "qualified_label": "Q:lem:mixed-bounds",
+      "label": "lem:mixed-bounds",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        67,
+        95
+      ],
+      "summary": "旧混合行列式的初始根与范数检测界",
+      "conditions": "均匀独立分配位点的k^-n归一化；k>=2零对角Hermitian压缩根<3sqrt(2)/sqrt(k)。对任意零对角Hermitian L，chi[L,-L]根>=||L||/2不要求||L||<=1。",
+      "aliases": [],
+      "statement_tex": "For a \\(k\\)-tuple of Hermitian matrices \\(A_1,\\ldots,A_k\\) on a common\nnonempty finite set, let\n\\[\n \\chi[A_1,\\ldots,A_k](z)\n =\\mathbb E\\prod_{j=1}^k\\det(zI-A_j|_{S_j}),\n\\]\nwhere each site is independently assigned uniformly to one of the \\(k\\)\nsets \\(S_j\\), and the determinant of an empty matrix is \\(1\\).\nThis polynomial is real-rooted.  If \\(k\\geq2\\) and the \\(A_j\\) are\nzero-diagonal contractions, then\n\\begin{equation}\n             \\lambda_{\\max}\\chi[A_1,\\ldots,A_k]\n                        <\\frac{3\\sqrt2}{\\sqrt{k}}.\n \\label{eq:poly-mixed-upper}\n\\end{equation}\nFor any zero-diagonal Hermitian matrix \\(L\\), without a norm restriction,\n\\begin{equation}\n                \\lambda_{\\max}\\chi[L,-L]\\geq\\frac{\\|L\\|}{2}.\n \\label{eq:poly-mixed-lower}\n\\end{equation}\nConsequently, on a nonempty finite set, if every site is unassigned, the unit-weight polynomial\nwithout diagonal shifts has largest root \\(<3/\\sqrt r\\).  If every site\nis assigned, that unit-weight unshifted polynomial is\n\\[\n                   \\prod_{i=1}^r\\chi[T|_{c^{-1}(i)},-T|_{c^{-1}(i)}],\n\\]\nwhere factors on empty color classes are \\(1\\)."
+    },
+    {
+      "id": "CLM-300-Q-LEM-POLYNOMIAL-QUOTIENTS",
+      "qualified_label": "Q:lem:polynomial-quotients",
+      "label": "lem:polynomial-quotients",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        128,
+        179
+      ],
+      "summary": "允许颜色符号对的稳定商和删除导数",
+      "conditions": "各点独立允许对，部分颜色固定后仍随机正负号；保留k_v!导数、删除同一Q以及Hermitian/半平面条件。商为箭头谱概率，留数非负。",
+      "aliases": [],
+      "statement_tex": "For the finite data above,\n\\begin{equation}\n P_I(Z)=\n \\left(\\prod_{v\\in I}\\frac{1}{k_v!}\n                  \\partial_{z_v}^{\\,k_v-1}\\right)\n            \\prod_j\\det\\bigl((Z-B_j)|_{U_j}\\bigr),\n \\qquad \\partial_{z_v}P_I=P_{-v}.\n \\label{eq:poly-differential}\n\\end{equation}\nMore generally, use any matrices \\(B_j\\) on \\(U_j\\) in the same\nindependent-choice construction.  If\n\\(\\operatorname{Im}B_j\\leq hI\\) for a real number \\(h\\), then \\(P_I(Z)\\)\nand every deletion polynomial are nonzero whenever\n\\(\\operatorname{Im}z_v>h\\) at every remaining site.  In this region,\n\\begin{equation}\n \\operatorname{Im}\\frac{P_I(Z)}{P_{-v}(Z|_{I\\setminus\\{v\\}})}\n                         \\geq\\operatorname{Im}z_v-h.\n \\label{eq:poly-half-plane}\n\\end{equation}\n\nReturn to the Hermitian data in Equation~\\eqref{eq:poly-definition}.\nFor \\(v\\in I\\), set\n\\[\n Q_v=P_{-v},\\qquad F_v(z)=\\frac{P_I(z)}{Q_v(z)},\n \\qquad G_v(z)=\\frac{Q_v(z)}{P_I(z)}.\n\\]\nThese rational functions are analytic in the upper half-plane, and\n\\begin{equation}\n F_v(z)=z+a_v-\\sum_{\\lambda}\\frac{b_{v,\\lambda}}{z-\\lambda},\n                      \\qquad b_{v,\\lambda}\\geq0,\n \\label{eq:poly-arrow-quotient}\n\\end{equation}\nwhere \\(\\lambda\\) ranges over the distinct roots of \\(Q_v\\).\nLet \\(\\Lambda_v\\) be the diagonal matrix listing those roots with\nmultiplicity.  There is a vector\n\\(g_v\\), with squared coordinate \\(b_{v,\\lambda}\\) on one copy of each\n\\(\\lambda\\) and zero on its other copies, such that\n\\begin{equation}\n                H_v=\\begin{pmatrix}-a_v&g_v^*\\\\ g_v&\\Lambda_v\\end{pmatrix}\n \\label{eq:poly-arrow}\n\\end{equation}\nhas characteristic polynomial \\(P_I\\).  Its first-coordinate spectral\nmeasure \\(\\rho_v\\) is a probability measure satisfying\n\\begin{equation}\n G_v(z)=\\int_{\\mathbb R}\\frac{1}{z-x}\\,\\rho_v(dx),\\qquad\n \\sum_{v\\in I}\\rho_v=\\sum_{P_I(x)=0}\\delta_x.\n \\label{eq:poly-root-measures}\n\\end{equation}\nThe roots on the right are counted with multiplicity, and \\(Q_v\\)\ninterlaces \\(P_I\\)."
+    },
+    {
+      "id": "CLM-300-Q-LEM-FINITE-COST-ENDPOINTS",
+      "qualified_label": "Q:lem:finite-cost-endpoints",
+      "label": "lem:finite-cost-endpoints",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        278,
+        295
+      ],
+      "summary": "全未赋色零成本与全赋色超范数检测",
+      "conditions": "t>3/sqrt(r)才初始无正根；全部赋色的块范数>2beta*t+alpha时根成本至少alpha*minW/2。依赖所有主限制的正性，不能拿任意局部颜色替代全部赋色。",
+      "aliases": [],
+      "statement_tex": "For the finite data of this section, the following hold.\n\\begin{enumerate}\n\\item If every site is unassigned and \\(t>3/\\sqrt r\\), then\n\\(P_I(x)>0\\) for every \\(x\\geq0\\), and \\(s(P_I)=0\\). This includes\n\\(I=\\varnothing\\), with \\(P_\\varnothing=1\\).\n\\item Suppose \\(I\\ne\\varnothing\\) and every site is assigned, and put\n\\[\n T_c=\\sum_{i=1}^r 1_{\\{c=i\\}}T1_{\\{c=i\\}}.\n\\]\nFor every \\(\\alpha>0\\), if \\(\\|T_c\\|>2\\beta t+\\alpha\\), then\n\\[\n \\lambda_{\\max}P_I\\geq\\frac\\alpha2\\min_{v\\in I}W_v,\n \\qquad\n s(P_I)\\geq\\frac\\alpha2\\min_{v\\in I}W_v.\n\\]\n\\end{enumerate}"
+    },
+    {
+      "id": "CLM-300-Q-LEM-POSITIVE-COST",
+      "qualified_label": "Q:lem:positive-cost",
+      "label": "lem:positive-cost",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        347,
+        362
+      ],
+      "summary": "删除根数差的积分及尾界",
+      "conditions": "有限Hermitian箭头、交错谱；d_v积分根数差，0<=d<=2m+a，B尾由根部谱正尾和(a+B)概率控制。是迹变分/交错，不是正部算子单调。",
+      "aliases": [],
+      "statement_tex": "For the finite Hermitian data above, let\n\\(n_P(x)=\\#\\{\\lambda:P(\\lambda)=0,\\ \\lambda>x\\}\\), with multiplicity.\nThen, for every \\(v\\in I\\),\n\\begin{align}\n 0&\\leq n_{P_I}(x)-n_{Q_v}(x)\\leq1, \\label{eq:poly-interlacing-count}\\\\\n d_v&=\\int_0^\\infty(n_{P_I}-n_{Q_v})(x)\\,dx, \\label{eq:poly-cost-integral}\\\\\n \\int_B^\\infty(n_{P_I}-n_{Q_v})(x)\\,dx\n &\\leq 2\\int(x-B)_+\\,\\rho_v(dx)\n              +(a_v+B)\\rho_v((B,\\infty)),\\qquad B\\geq0.\n \\label{eq:poly-cost-tail}\n\\end{align}\nIn particular \\(0\\leq d_v\\leq2m_v+a_v\\).\nAll these conclusions hold for either modification at \\(v\\), with its\nown shift and rooted measure."
+    },
+    {
+      "id": "CLM-300-Q-LEM-ROOTED-LOCALITY",
+      "qualified_label": "Q:lem:rooted-locality",
+      "label": "lem:rooted-locality",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        396,
+        432
+      ],
+      "summary": "根部矩的连通支撑局部性与权重界",
+      "conditions": "零对角Hermitian压缩，k阶Laurent系数由半径k控制；邻权比K才有第二矩<=((beta*t)^2+K)W_v^2，整体W<=H0才有紧谱支撑。",
+      "aliases": [],
+      "statement_tex": "Let a graph support the finite zero-diagonal Hermitian contraction \\(T\\).\nThe coefficient of \\(z^{-1-k}\\) in \\(G_v(z)\\) is\n\\(\\int x^k\\,\\rho_v(dx)\\) and is determined by the data on the radius-\\(k\\)\nball about \\(v\\).  The Laurent coefficients of \\(F_v(z)\\), and of the\ntwo options \\(F^0_{v,i}(z)\\) and \\(F_{v,i}(z)\\) at an unassigned site,\nlikewise depend only on a radius bounded by their order.\nMoreover,\n\\begin{equation}\n \\int x^2\\,\\rho_v(dx)\n =a_v^2+\\sum_{u\\ne v}W_vW_u|T_{vu}|^2\n                   \\mathbb P(\\omega_u=\\omega_v),\n \\qquad\n \\sum_\\lambda b_{v,\\lambda}\n =\\sum_{u\\ne v}W_vW_u|T_{vu}|^2\n                   \\mathbb P(\\omega_u=\\omega_v).\n \\label{eq:poly-second-moment}\n\\end{equation}\nThe same identities hold for either site option, using the corresponding\nlaw of the pairs and diagonal shift.\n\nIf neighboring weights have ratios in \\([K^{-1},K]\\), \\(K\\geq1\\), then\nfor all these data\n\\begin{equation}\n \\int x^2\\,\\rho_v(dx)\\leq\\bigl((\\beta t)^2+K\\bigr)W_v^2,\\quad\n m_v\\leq C_0W_v,\\quad d_v\\leq(2C_0+\\beta t)W_v,\n \\quad C_0=\\sqrt{(\\beta t)^2+K}.\n \\label{eq:poly-weight-bounds}\n\\end{equation}\nIf all weights are at most \\(H_0\\), every polynomial and every principal\nrestriction has all its roots in\n\\begin{equation}\n                     [-L,L],\\qquad L=(1+\\beta t)H_0.\n \\label{eq:poly-root-support}\n\\end{equation}\nThe rooted measures have the same support bound."
+    },
+    {
+      "id": "CLM-300-Q-LEM-ASSIGNMENT",
+      "qualified_label": "Q:lem:assignment",
+      "label": "lem:assignment",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "statement_lines": [
+        502,
+        512
+      ],
+      "summary": "同极点选色增加删除成本至多24倍根成本",
+      "conditions": "任意正权、r>=1/t>0、未赋色v、beta80；颜色条件留数平均且删除极点固定，某i有d_i-d<=24m。两个m/a情况和零留数边界保留，不给低成本无限图执行。",
+      "aliases": [],
+      "statement_tex": "For a finite zero-diagonal Hermitian contraction \\(T\\), arbitrary\npositive weights, \\(r\\geq1\\), \\(t>0\\), and a partial coloring as above,\nlet \\(v\\) be unassigned.  With \\(\\beta=80\\), there is\n\\(i\\in\\{1,\\ldots,r\\}\\) such that\n\\begin{equation}\n                         d_v^{\\,i}-d_v\\leq24m_v.\n \\label{eq:poly-assignment}\n\\end{equation}\nThe bound is independent of the finite set and its weights."
+    },
+    {
+      "id": "CLM-300-Q-LEM-BOUNDED-COSTS",
+      "qualified_label": "Q:lem:bounded-costs",
+      "label": "lem:bounded-costs",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "sha256": "368883c2881aa8311dbd85d4dbe60702167d3caff892a3329d7150c38c0e3f96",
+      "statement_lines": [
+        63,
+        83
+      ],
+      "summary": "有限不变测度有界图的谱成本局部极限",
+      "conditions": "有界度/权、有限不变测度；固定紧谱后局部矩决定G/F/m/d及有限虚拟选择，d需L1导数近似。常数可依H0，保留删点前的图距离。",
+      "aliases": [],
+      "statement_tex": "For the invariant measured graph data on the finite measure space\n$(X,\\nu)$ specified above, the rooted measures,\ntransforms, and costs have limits as finite principal subsets exhaust the\ngraph component of the root.  Denote them by\n$\\rho_v$, $G_v$, $F_v$, $m_v$, and $d_v$.  They are independent of the\nexhaustion and are measurable in $v$.  At each present vertex, $\\rho_v$ is a probability\nmeasure supported on $[-L,L]$, and, for $z$ in the open upper half-plane,\n\\[\n G_v(z)=\\int\\frac{1}{z-x}\\,\\rho_v(dx),\\qquad F_v(z)=\\frac1{G_v(z)}.\n\\]\nThe same assertions hold after conditioning the color at one unassigned\nvertex, with either its original shift or its increased shift.\n\nFor fixed $D_0,H_0,r,t$, the costs $m_v,d_v$ and the virtual shifted costs\n$d_v^{\\,i}$, $1\\leq i\\leq r$, are uniformly approximable by calculations on\na ball of finite radius about $v$.  The approximation radius is independent\nof the particular graph, weights, partial coloring, and set of deleted\nvertices.  These statements apply to a finite-measure restriction of an\ninvariant measured relation as well."
+    },
+    {
+      "id": "CLM-300-Q-LEM-INTEGRAL-CHANGE",
+      "qualified_label": "Q:lem:integral-change",
+      "label": "lem:integral-change",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "sha256": "368883c2881aa8311dbd85d4dbe60702167d3caff892a3329d7150c38c0e3f96",
+      "statement_lines": [
+        175,
+        190
+      ],
+      "summary": "无须良序的局部有序更新积分恒等式",
+      "conditions": "有界有限测度条件下类内可测单射实序；每个多项式局部只望有限次更新，再质量运输，最后导数L1极限。删除只减总积分成本，不保证逐点m下降。",
+      "aliases": [],
+      "statement_tex": "Under the bounded finite-measure hypotheses of\nLemma~\\ref{lem:bounded-costs}, let the old and new data differ only by\nchanges of partial coloring or deletion at a measurable set $E_0$ of\nvertices.  Fix a measurable real-valued function that is injective on\n$E_0$ in each relation class, and order these vertices by its values.\nAt $u\\in E_0$, use new data at all earlier vertices and old data at all\nlater vertices.  Let $\\delta d_u$ be the new-minus-old difference of the\nsingle-vertex deletion cost at $u$ in this environment, with cost zero\nwhen $u$ is absent.  Then\n\\begin{equation}\\label{inv:integral-change}\n \\int_X(m_v^{\\mathrm{new}}-m_v^{\\mathrm{old}})\\,d\\nu(v)\n       =\\int_{E_0}\\delta d_u\\,d\\nu(u).\n\\end{equation}\nIn particular, deletion alone cannot increase the integral of $m_v$."
+    },
+    {
+      "id": "CLM-300-Q-LEM-RANK-COMPARISON",
+      "qualified_label": "Q:lem:rank-comparison",
+      "label": "lem:rank-comparison",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "sha256": "368883c2881aa8311dbd85d4dbe60702167d3caff892a3329d7150c38c0e3f96",
+      "statement_lines": [
+        254,
+        278
+      ],
+      "summary": "固定权重带对外部删点的变换比较",
+      "conditions": "邻权比K、目标带[b1,b2]、删点不在目标带；同时控制G和条件色J，常数不依最大权H0/全测度，但可依度、带和r/t。解析行列缩放不共轭复参数。",
+      "aliases": [],
+      "statement_tex": "Consider the invariant measured graph data on the finite measure space\n$(X,\\nu)$ specified above and assume, in addition, that neighboring\nweights have ratios in $[K^{-1},K]$, where\n$K\\geq1$.  Fix $0<b_1<b_2<\\infty$ and the band\n\\[\n \\mathcal U=\\{v:b_1\\leq W_v\\leq b_2\\}.\n\\]\nDelete a measurable set $E_{\\mathrm{hi}}$ disjoint from $\\mathcal U$, without\nchanging the coloring at retained vertices.  Let $\\delta_{\\mathrm{tot}}$\ndenote the difference between the original and the deleted configurations,\nin either orientation.  For each compact set $\\Omega$ in the open upper\nhalf-plane there is a constant $C$ such that, for every $z\\in\\Omega$ and\n$1\\leq i\\leq r$,\n\\begin{equation}\\label{inv:rank-comparison}\n \\int_{\\mathcal U}|\\delta_{\\mathrm{tot}}G_v(z)|\\,d\\nu(v)\n +\\int_{\\mathcal U\\cap\\{c=0\\}}\n       |\\delta_{\\mathrm{tot}}J_i(v,z)|\\,d\\nu(v)\n \\leq C\\nu(E_{\\mathrm{hi}}).\n\\end{equation}\nOnly band vertices present before deletion are included in these integrals.\nThe constant may depend on $\\Omega,r,t,\\beta,D_0,K,b_1,b_2$, but not on\n$H_0$, the measure or its total mass, the partial coloring, the graph\nitself, or the deleted set."
+    },
+    {
+      "id": "CLM-300-Q-THM-BERNOULLI-COLORING",
+      "qualified_label": "Q:thm:bernoulli-coloring",
+      "label": "thm:bernoulli-coloring",
+      "kind": "theorem",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "statement_lines": [
+        95,
+        119
+      ],
+      "summary": "相对Bernoulli扩张上的均匀边际有限球铺砌",
+      "conditions": "有界度/边cocycle比、Hermitian零对角压缩、t>3/sqrt(r)；每个指定m/alpha/eta有可测r着色，有限球范数<=160t+alpha以概率>1-eta。条件均匀根边际不等于顶点独立。",
+      "aliases": [],
+      "statement_tex": "Let $(X,\\mu,\\mathcal R)$, $G$, $\\Delta$, and $T$ satisfy the assumptions\nabove: $\\mathcal R$ is countable and nonsingular on a standard probability\nspace, $G$ is undirected, has no loops, has degree at most $D_0<\\infty$, and satisfies\nEquation~\\eqref{eq:coloring-edge-ratios}, and $T$ is a measurable\nHermitian contraction with zero diagonal and support on $G$, allowing\ndiagonal unitary conjugacy under a change of root.  Fix an integer $r\\geq1$\nand a real number $t>3/\\sqrt r$, and put $\\beta=80$.\n\nFor every integer $m\\geq1$ and every $\\alpha,\\eta>0$, there is a measurable\ncoloring $c:\\widetilde X\\to\\{1,\\ldots,r\\}$ on the relative Bernoulli\nextension such that\n\\begin{equation}\n \\kappa_v\\{\\omega:c(v,\\omega)=i\\}=\\frac1r\n \\quad\\text{for every }i\\in\\{1,\\ldots,r\\}\n \\quad\\text{and almost every }v\\in X,\n \\label{eq:coloring-marginal}\n\\end{equation}\nand\n\\begin{equation}\n \\widetilde\\mu\\left\\{(v,\\omega):\n       \\|T_{B_G(v,m),c}\\|\\leq2\\beta t+\\alpha\\right\\}>1-\\eta.\n \\label{eq:coloring-ball-conclusion}\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-Q-LEM-HOMOGENEOUS-COSTS",
+      "qualified_label": "Q:lem:homogeneous-costs",
+      "label": "lem:homogeneous-costs",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "statement_lines": [
+        203,
+        231
+      ],
+      "summary": "去双截断后的高度无关归一化成本",
+      "conditions": "nu=mu exp(s)ds/W=exp(-s)，目标带上f/W联合L1趋base函数；高权用秩比较，低权先固定上界再局部性；第二矩/Poisson谱位移控制尾，不声称统一紧支撑。",
+      "aliases": [],
+      "statement_tex": "Fix $D_0,K,r,t$ and $\\beta=80$, and let the probability space, relation,\ngraph, matrix data, and partial coloring satisfy the assumptions above.\nFor each field $f$ in the finite list $m,d,d^1,\\ldots,d^r$, there is a\nbounded measurable function $\\bar f$ on $X$ such that, on every fixed band\n\\[\n \\mathcal U_{b_1,b_2}=\\{(v,s):b_1\\leq W(v,s)\\leq b_2\\},\n \\qquad 0<b_1<b_2<\\infty,\n\\]\none has\n\\begin{equation}\n \\frac{f^{l,H}}{W}\\longrightarrow\\bar f(v)\n \\quad\\text{in }L^1(\\mathcal U_{b_1,b_2},\\nu)\n \\quad\\text{jointly as }l\\downarrow0, H\\uparrow\\infty.\n \\label{eq:coloring-band-limit}\n\\end{equation}\nThe errors tend to zero uniformly over all such probability bases and\nconfigurations with the fixed parameters and bounds.  There is a constant\n$C_0$, depending only on those parameters, such that all the normalized\ncutoff fields on retained sites and all their limits have absolute value\nat most $C_0$.\nThe limit fields are independent of height and satisfy\n\\begin{equation}\n \\min_{1\\leq i\\leq r}\\bar d^{i}-\\bar d\n      \\leq24\\bar m\n \\quad\\text{almost everywhere on }\\{c=0\\}.\n \\label{eq:coloring-limit-assignment}\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-Q-LEM-STRIP-LOCALITY",
+      "qualified_label": "Q:lem:strip-locality",
+      "label": "lem:strip-locality",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "statement_lines": [
+        433,
+        464
+      ],
+      "summary": "长条带平均与同大球赋色的L1局部性",
+      "conditions": "固定图/边比/r/t，成本f=m,d,d_i；先共同上下截断再局部球，gamma(R)->0未给有效率，辅助参数沿关系固定。",
+      "aliases": [],
+      "statement_tex": "Under the assumptions of Lemma~\\ref{lem:homogeneous-costs}, put\n\\[\n \\Sigma_n=\\{e^{-n}\\leq W\\leq e^n\\},\n \\qquad f_{\\Sigma_n}=f^{e^{-n},e^n}.\n\\]\nFor every field $f$ in the list $m,d,d^1,\\ldots,d^r$,\n\\begin{equation}\n \\frac1{2n}\\int_{\\Sigma_n}\n       |f_{\\Sigma_n}-W\\bar f|\\,d\\nu\\longrightarrow0\n \\quad(n\\to\\infty),\n \\label{eq:coloring-strip}\n\\end{equation}\nuniformly over the configurations and probability bases with the fixed\nparameters.\n\nIf $c_1,c_2$ are two partial colorings on the same base with the same graph,\nmatrix, and cocycle data, and $E_R$ is the set where they agree on the\nradius-$R$ graph ball, then\n\\begin{equation}\n \\int_{E_R}|\\bar f(c_1)-\\bar f(c_2)|\\,d\\mu\n      \\leq\\gamma(R),\n \\qquad \\gamma(R)\\longrightarrow0,\n \\label{eq:coloring-locality}\n\\end{equation}\nwhere the same function $\\gamma$ may be used for the finite list of fields\nand is uniform over these configurations.\n\nBoth assertions hold after taking a product with an auxiliary probability\nspace and keeping the auxiliary parameter fixed along the equivalence\nrelation.  The cost fields may be chosen measurably on such product spaces."
+    },
+    {
+      "id": "CLM-300-Q-LEM-BAD-BALLS",
+      "qualified_label": "Q:lem:bad-balls",
+      "label": "lem:bad-balls",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "statement_lines": [
+        513,
+        530
+      ],
+      "summary": "全赋色坏球的概率由总根成本控制",
+      "conditions": "全未赋色S=0；坏球需全部点赋色且范数超阈值；距离2m+1类拆分、非邻接球、积分删除和质量运输，C4依m/度/K/alpha。",
+      "aliases": [],
+      "statement_tex": "Assume the hypotheses and parameter choices of\nTheorem~\\ref{thm:bernoulli-coloring}.  The all-unassigned partial coloring\nhas $\\mathcal S=0$.  Fix $m\\geq1$ and $\\alpha>0$.  For any measurable\npartial coloring $c$, let $\\operatorname{Bad}_m(c)$ be the set of vertices\n$v$ for which every vertex of $B_G(v,m)$ is assigned and\n\\[\n \\|T_{B_G(v,m),c}\\|>2\\beta t+\\alpha.\n\\]\nThere is a finite constant $C_4$, depending only on $m,D_0,K,\\alpha$, such\nthat\n\\begin{equation}\n \\mu(\\operatorname{Bad}_m(c))\\leq C_4\\mathcal S(c).\n \\label{eq:coloring-bad-balls}\n\\end{equation}\nThe same assertions hold on probability extensions with the pulled-back\ngraph, matrix, and cocycle data."
+    },
+    {
+      "id": "CLM-300-Q-LEM-HAZARD-STEP",
+      "qualified_label": "Q:lem:hazard-step",
+      "label": "lem:hazard-step",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "statement_lines": [
+        632,
+        644
+      ],
+      "summary": "选色先于新鲜时间的稀疏更新成本递推",
+      "conditions": "i(v)依旧坐标和新鲜tie随机排列，随后独立U_v；0<h<1/2，Snew<=(1+24h)S+h*g(h)，g(h)->0。1/(1-theta)需生存概率抵消，不能在未定L1版本上代theta=U_v。",
+      "aliases": [],
+      "statement_tex": "Under the hypotheses of Theorem~\\ref{thm:bernoulli-coloring}, let $c$ be\nany partial coloring determined before the fresh times, and choose\n$i(v)$ and $c^\\theta$ as just described.  There is a nonnegative function\n$g$, depending only on the fixed graph and polynomial parameters, such\nthat $g(h)\\to0$ as $h\\downarrow0$ and, for every $0<h<1/2$,\n\\begin{equation}\n \\mathcal S(c^h)\n      \\leq(1+24h)\\mathcal S(c)+h g(h).\n \\label{eq:coloring-step-bound}\n\\end{equation}\nThe same function $g$ works for all such steps and current configurations."
+    },
+    {
+      "id": "CLM-300-Q-LEM-BERNOULLI-MODEL",
+      "qualified_label": "Q:lem:bernoulli-model",
+      "label": "lem:bernoulli-model",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "statement_lines": [
+        34,
+        61
+      ],
+      "summary": "非迹正常期望下的Bernoulli合并自由积模型",
+      "conditions": "可分预对偶和忠实中央状态；B扩张向N有忠实正常标签积分期望，M*_N Ntilde和忠实正常Phi存在，B在其centralizer。不把迹态自由积证明直接代入。",
+      "aliases": [],
+      "statement_tex": "The pullback of base kernel operators identifies $N$ with a von Neumann\nsubalgebra of $\\widetilde N$. There is a faithful normal conditional\nexpectation\n\\[\n \\widetilde E_N:\\widetilde N\\longrightarrow N\n\\]\nwhose restriction to $B$ integrates labels conditional on the base\npoint. If $\\widetilde\\varphi$ denotes integration of the diagonal in\n$\\widetilde N$, then\n\\[\n (\\varphi|_N)\\circ\\widetilde E_N=\\widetilde\\varphi.\n\\]\nMoreover, the reduced amalgamated free product\n\\[\n \\mathcal K=M*_N\\widetilde N\n\\]\nhas a faithful normal conditional expectation $E_N^{\\mathcal K}$ onto\n$N$, restricting to $E_N$ and $\\widetilde E_N$. The state\n\\[\n \\Phi=(\\varphi|_N)\\circ E_N^{\\mathcal K}\n\\]\nis faithful and normal, restricts to $\\varphi$ and\n$\\widetilde\\varphi$ on the two constituent algebras, and satisfies\n$B\\subset\\mathcal K_\\Phi$. The two constituent algebras are free over\n$N$: the expectation of every alternating product of letters from\n$\\ker E_N$ and $\\ker\\widetilde E_N$ is zero."
+    },
+    {
+      "id": "CLM-300-Q-LEM-FREE-COMPRESSION",
+      "qualified_label": "Q:lem:free-compression",
+      "label": "lem:free-compression",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "statement_lines": [
+        124,
+        132
+      ],
+      "summary": "条件期望质量控制的自由压缩",
+      "conditions": "p∈B投影、E_N(p)=lambda1、w∈kerE_N；||pwp||<=(lambda+2sqrt(lambda))||w||。用约化词空间PpP=lambdaP，而非颜色独立或任意p满足。",
+      "aliases": [],
+      "statement_tex": "In the model of Lemma~\\ref{lem:bernoulli-model}, let $p\\in B$ be a\nprojection such that $\\widetilde E_N(p)=\\lambda1$, where\n$0\\le\\lambda\\le1$. For every $w\\in M^\\circ$,\n\\begin{equation}\n \\|pwp\\|\\le(\\lambda+2\\sqrt\\lambda)\\|w\\|.\n \\label{eq:free-compression}\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-Q-LEM-STATE-MULTIPLIERS",
+      "qualified_label": "Q:lem:state-multipliers",
+      "label": "lem:state-multipliers",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "statement_lines": [
+        221,
+        248
+      ],
+      "summary": "状态小误差对固定或预紧右乘子一致小",
+      "conditions": "误差算子范数一致有界；右因子固定、状态范数预紧有界集或centralizer有界集；不推广为任意有界变化右因子。固定词/解析近似次序保留。",
+      "aliases": [],
+      "statement_tex": "Let $\\varphi$ be a faithful normal state on a von Neumann algebra $M$.\nFor every $C<\\infty$, every fixed $z\\in M$, and every $\\eta>0$, there\nis $\\delta>0$ such that\n\\begin{equation}\\label{eq:uniform-fixed-right}\n \\|D\\|\\leq C,\\quad\\|D\\|_\\varphi<\\delta\n \\quad\\Longrightarrow\\quad \\|Dz\\|_\\varphi<\\eta.\n\\end{equation}\nThe choice of $\\delta$ is uniform over all such $D$.\nFor $U,D\\in M$ and $b\\in M_\\varphi$,\n\\begin{equation}\\label{eq:state-left-centralizer}\n \\|UD\\|_\\varphi\\leq\\|U\\|\\|D\\|_\\varphi,\n \\qquad\n \\|Db\\|_\\varphi\\leq\\|b\\|\\|D\\|_\\varphi.\n\\end{equation}\nMore generally, the right multiplier bound is uniform when $z$ ranges\nover a norm-bounded set that is precompact in state norm.\nConsequently, a bounded family of errors tending uniformly to zero in\nstate norm remains so after right multiplication by a fixed finite word\nwhose factors range over such precompact sets or over bounded subsets\nof the centralizer.  In particular, any specified bounded sequence\nconverging to a fixed operator in state norm can be used as a right\nfactor uniformly over its entire sequence.  These conclusions permit\nbounded strong-* approximation of fixed letters in fixed-length scalar\nwords, uniformly in the intervening bounded centralizer factors and in\nthe independently varying indices of other specified approximation\nsequences."
+    },
+    {
+      "id": "CLM-300-Q-PROP-MOMENT-TRANSFER",
+      "qualified_label": "Q:prop:moment-transfer",
+      "label": "prop:moment-transfer",
+      "kind": "proposition",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "statement_lines": [
+        299,
+        317
+      ],
+      "summary": "固定有限词的平均标量状态矩转移",
+      "conditions": "有限符号字母表、固定词长/因子和同一组独立标签，生成细分极限；粗端点先固定、细分先极限再细化粗端点，核无原子/KMS解析；不是范数或所有矩一致收敛。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subset M$, $\\varphi$, and $\\mathcal K$ be as in\nLemma~\\ref{lem:bernoulli-model}. Fix a finite symbol size $s$, the\ncorresponding cylinder algebra $\\mathcal Y$, and the generating\npartition sequence $(\\mathcal P_j)$ just described. For any fixed\ninteger $k\\ge1$ and fixed factors $Z_1,\\ldots,Z_k$, each chosen in\n$M$ or in $\\mathcal Y$, define $Z_h^{(j)}=Z_h$ for a factor chosen in\n$M$ and\n$Z_h^{(j)}=\\mathrm{ev}_{\\mathcal P_j}(Z_h)$ for a factor chosen in\n$\\mathcal Y$. Use the same independent symbols for all evaluations\nin a word. Then\n\\begin{equation}\n \\lim_{j\\to\\infty}\n \\mathbb E_{\\{z_a\\}}\n \\varphi\\bigl(Z_1^{(j)}\\cdots Z_k^{(j)}\\bigr)\n   =\\Phi(Z_1\\cdots Z_k).\n \\label{eq:moment-transfer}\n\\end{equation}"
+    },
+    {
+      "id": "CLM-300-Q-LEM-CYLINDER-PARTITIONS",
+      "qualified_label": "Q:lem:cylinder-partitions",
+      "label": "lem:cylinder-partitions",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "statement_lines": [
+        736,
+        748
+      ],
+      "summary": "可测投影分割的有限柱集合近似与合法代入",
+      "conditions": "保留恰好r块、共同有限dyadic字母表，依次去交并补余集；所有有限赋值正概率保证代入A后仍真投影分割，不假定每次代入保留模型中心化。",
+      "aliases": [],
+      "statement_tex": "In the Bernoulli extension of Lemma~\\ref{lem:bernoulli-model}, let\n$p_1,\\ldots,p_r\\in B$ be projections with $\\sum_i p_i=1$ and\n$p_ip_h=0$ for $i\\ne h$. For every $\\delta>0$ there is a projection\npartition $b_1,\\ldots,b_r\\in B$, each of whose members is a finite\ncylinder function for one common finite dyadic symbol size, such that\n\\[\n \\|b_i-p_i\\|_\\Phi<\\delta\\qquad(1\\le i\\le r).\n\\]\nEvery evaluation of this cylinder partition by the preceding\nfinite-symbol substitution gives a projection partition of $1$ in\n$A$, modulo the fixed null sets of its definition."
+    },
+    {
+      "id": "CLM-300-Q-LEM-MULTIPLIER-CALCULUS",
+      "qualified_label": "Q:lem:multiplier-calculus",
+      "label": "lem:multiplier-calculus",
+      "kind": "lemma",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+      "sha256": "4b77217911b369a5abf65db04161b8f3afd5f188361fb9e1053398f3a63068f6",
+      "statement_lines": [
+        7,
+        19
+      ],
+      "summary": "右乘子序列代数上的连续函数演算",
+      "conditions": "均匀有界状态小误差定义R_omega，含常量和centralizer序列、对小扰动封闭；自伴U/V在共同谱区间且均属于R，连续f的状态差才趋零。",
+      "aliases": [],
+      "statement_tex": "Let $\\mathcal L$ be a von Neumann algebra with a faithful normal state $\\omega$. Let $\\mathscr R_\\omega$ consist of all uniformly bounded sequences $(R_n)$ in $\\mathcal L$ such that\n\\[\n \\|D_nR_n\\|_\\omega\\longrightarrow0\n\\]\nwhenever $(D_n)$ is uniformly bounded and $\\|D_n\\|_\\omega\\to0$. Then $\\mathscr R_\\omega$ is an algebra, closed for the supremum operator norm. It contains all constant sequences and all uniformly bounded sequences in the centralizer of $\\omega$. It is also closed under adding uniformly bounded sequences converging to zero in $\\|\\cdot\\|_\\omega$.\n\nIf $(U_n),(V_n)\\in\\mathscr R_\\omega$ are self-adjoint, uniformly bounded, and $\\|U_n-V_n\\|_\\omega\\to0$, then for every continuous function $f$ on a compact interval containing their spectra,\n\\[\n (f(U_n)),(f(V_n))\\in\\mathscr R_\\omega,\n \\qquad \\|f(U_n)-f(V_n)\\|_\\omega\\longrightarrow0.\n\\]"
+    },
+    {
+      "id": "CLM-300-Q-PROP-EXPECTED",
+      "qualified_label": "Q:prop:expected",
+      "label": "prop:expected",
+      "kind": "proposition",
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+      "sha256": "4b77217911b369a5abf65db04161b8f3afd5f188361fb9e1053398f3a63068f6",
+      "statement_lines": [
+        39,
+        50
+      ],
+      "summary": "忠实中央状态情形的同一分割二次铺砌",
+      "conditions": "r_e=ceil20000^2 epsilon^-2在rho之前固定；自伴压缩x、A中央化phi；同一Bernoulli分割同时控制y和w，不二次细化；先连续截断，再固定k/n/柱近似/细分，最终谱q损失phi质量<rho。",
+      "aliases": [],
+      "statement_tex": "Let $A\\subseteq M$ be a masa and let $\\varphi$ be a faithful normal state on $M$ with $A$ in its centralizer. For $0<\\eps<1$, put\n\\[\n r_{\\mathrm e}=\\left\\lceil 20000^2\\eps^{-2}\\right\\rceil.\n\\]\nFor every self-adjoint contraction $x\\in M$ and every $\\rho>0$, there are a partition $P=(p_1,\\ldots,p_{r_{\\mathrm e}})$ in $A$ and a projection $q\\in M$ such that\n\\[\n \\varphi(1-q)<\\rho,\n \\qquad \\|q(S_P(x)-E_Ax)q\\|\\le\\eps.\n\\]\nHere $E_A$ is the $\\varphi$-preserving conditional expectation onto $A$."
+    }
+  ],
+  "methods": [
+    [
+      "APPROXIMATE-NORMING",
+      "A:thm:main",
+      "自伴算子、有限测试向量和epsilon",
+      "强近似y及相对实际||y||的铺砌",
+      "额外范数见证向量保证||y||下界，||y||<=3||x||",
+      "原x本身范数误差并未受控"
+    ],
+    [
+      "ARROW-COST",
+      "Q:lem:polynomial-quotients",
+      "独立允许颜色符号对的有限加权矩阵",
+      "箭头谱概率m和删除响应d",
+      "Hermitian/实惩罚，条件留数非负且同删除极点",
+      "m与d不同，不能换成随机结果正部迹期望"
+    ],
+    [
+      "BUFFERED-RESPONSE",
+      "A:lem:buffered-pin",
+      "同极点留数的概率混合",
+      "某正概率颜色ell_child<=ell+C*m",
+      "惩罚a放大到Ka，旧ell系数必须1",
+      "大K/C及有限表示全成本未给"
+    ],
+    [
+      "SINGLE-COLOR-COST",
+      "Q:lem:assignment",
+      "未赋色点、正权和r色",
+      "某颜色d_i-d<=24m",
+      "beta80，颜色条件化保留随机两符号",
+      "局部存在性不自动给快速全局着色"
+    ],
+    [
+      "ORDERED-TRANSPORT",
+      "Q:lem:integral-change",
+      "有限不变测度上的有序可测更新集",
+      "总成本变化等于局部删除响应积分",
+      "类内单射实序、多项式局部有限更新后质量运输",
+      "不可假设存在首点或逐点无限望远镜求和"
+    ],
+    [
+      "BAND-DELETION",
+      "Q:lem:rank-comparison",
+      "固定权重带和带外删除集",
+      "G及条件色J的L1变化<=C*删点测度",
+      "邻权比K；常数不依最大权但可依度/带/r/t",
+      "不同于逐点成本或无条件有效半径"
+    ],
+    [
+      "HOMOGENEOUS-LIFT",
+      "Q:lem:homogeneous-costs",
+      "非奇异关系、cocycle和基点颜色",
+      "高度无关的归一化m/d/d_i",
+      "nu=mu exp(s)ds、W=exp(-s)，上下截断联合L1极限",
+      "符号约定不可与首稿高度直接混用；无有效率"
+    ],
+    [
+      "HAZARD-STEP",
+      "Q:lem:hazard-step",
+      "旧颜色和旧成本最优选色",
+      "Snew<=(1+24h)S+h*g(h)",
+      "选色与tie先于新鲜独立U；生存概率抵消hazard分母",
+      "g(h)->0未给显式成本，不能代入随机对角L1版本"
+    ],
+    [
+      "UNIFORM-MARGINAL-COLOR",
+      "Q:thm:bernoulli-coloring",
+      "有界度非奇异Hermitian零对角图",
+      "r色、根条件均匀边际及指定有限球高概率范数界",
+      "每个m/alpha/eta选择颜色，r固定于t>3/sqrt(r)",
+      "根边际不等于联合独立；不是所有球同时零失误"
+    ],
+    [
+      "ATOMLESS-TRANSFER",
+      "Q:prop:atomless-kernels",
+      "kerE_N的算子及正核",
+      "几乎处处无原子核和有限复合",
+      "忠实中央正常状态；复合避开固定例外零集",
+      "固定零集a.e.无质量不等于所有行对mu绝对连续"
+    ],
+    [
+      "TYPE-I-CORNERS",
+      "A:lem:atomless",
+      "可能非单射的原子图与极分解交织子",
+      "细分后groupoid正规化子矛盾",
+      "正常期望typeI中间角和AS12 abelian投影分解",
+      "极分解自身未必立即正规化MASA"
+    ],
+    [
+      "CENTRALIZER-MULTIPLIERS",
+      "Q:lem:state-multipliers",
+      "算子范数有界的状态小误差",
+      "固定词右乘后仍一致状态小",
+      "右因子固定/状态范数预紧或centralizer，先固定解析近似",
+      "非迹态任意有界右因子不准入"
+    ],
+    [
+      "FINITE-CYLINDER-EVAL",
+      "Q:lem:cylinder-partitions",
+      "Bernoulli扩张中的r投影分割",
+      "有限dyadic柱分割及A中真投影分割",
+      "保留同一字母表和所有有限赋值正概率",
+      "代入不自动保留模型条件中心化"
+    ],
+    [
+      "SHORTEST-PAIR-MOMENTS",
+      "Q:prop:moment-transfer",
+      "固定有限词和同一标签求值",
+      "平均标量矩趋合并自由积模型矩",
+      "最短循环等号对、相位森林、粗Q先固定后细P再粗化极限",
+      "相位可相关；不许交换极限或升级为算子范数"
+    ],
+    [
+      "CONDITIONAL-FREE-COMPRESS",
+      "Q:lem:free-compression",
+      "p∈B且E_Np=lambda1、w∈kerE_N",
+      "||pwp||<=(lambda+2sqrt(lambda))||w||",
+      "正常期望合并自由积、忠实状态、约化词子空间",
+      "不要求顶点色独立，但也不适用于任意p/w"
+    ],
+    [
+      "CLIP-BEFORE-MOMENT",
+      "Q:prop:expected",
+      "有界Cartan近似、同r分割及高矩估计",
+      "固定阶矩的可转移小范数模型",
+      "先连续截断消除state-null误差，再固定k选择n",
+      "不能要求原逼近率随变动矩阶指数小来替代此步"
+    ],
+    [
+      "SAME-PARTITION-CONTROL",
+      "Q:prop:expected",
+      "y=E_Nx-E_Ax和w=x-E_Nx",
+      "同一r颜色同时控制两项",
+      "颜色条件E_Np_i=1/r及自由压缩",
+      "不是分别铺砌后共同细化；有限算法全成本未立"
+    ],
+    [
+      "STATE-TO-STRONG-CORNERS",
+      "Q:prop:state-reduction",
+      "中央化忠实状态角的R色结论",
+      "任意包含R+ceil4/epsilon+1色",
+      "有限向量后选支撑，角可非中央，色盘分离消交叉项",
+      "不能把无支持角的对称L2直接当通常状态范数"
+    ],
+    [
+      "SPECTRAL-CUT-CERTIFICATE",
+      "Q:prop:expected",
+      "已选A分割的固定2k矩<rho*epsilon^(2k)",
+      "q=1_[−epsilon,epsilon](z)，状态损失<rho",
+      "z自伴、忠实正常状态、非负偶矩才可选确定求值",
+      "状态损失/有限向量误差不是无压缩全范数保证"
+    ],
+    [
+      "NO-CENTRAL-EFFECTS",
+      "A:lem:no-central-functional",
+      "没有正常中央化泛函的MASA角",
+      "大状态质量正收缩s和小对角块",
+      "顺序effects分离与循环平均，有限向量兼顾x像",
+      "effects不是互相正交投影，sxs只强近似"
+    ]
+  ],
+  "historical_references_by_qualified_key": {
+    "A:AW15": "LIT-300-AW15",
+    "A:AS12": "LIT-300-AS12",
+    "A:Anderson79": "LIT-300-ANDERSON79",
+    "A:Araki74": "LIT-300-ARAKI74",
+    "A:Boole1857": "LIT-300-BOOLE1857",
+    "A:FM77": "LIT-300-FM77",
+    "A:Hiai20": "LIT-300-HIAI20",
+    "A:HU": "LIT-300-HU",
+    "A:KS59": "LIT-300-KS59",
+    "A:KST99": "LIT-300-KST99",
+    "A:Maharam64": "LIT-300-MAHARAM64",
+    "A:MSS15": "LIT-300-MSS15",
+    "A:OAQuadratic26": "P-8a687a97b053c803",
+    "A:PSZ09": "LIT-300-PSZ09",
+    "A:Popa14": "LIT-300-POPA14",
+    "A:PV15": "LIT-300-PV15",
+    "A:PV16": "LIT-300-PV16",
+    "A:RL20": "LIT-300-RL20",
+    "A:RS21": "LIT-300-RS21",
+    "A:RoySamorodnitsky06": "LIT-300-ROYSAMORODNITSKY06",
+    "A:Takesaki72": "LIT-300-TAKESAKI72",
+    "Q:AS12": "LIT-300-AS12",
+    "Q:Ara74": "LIT-300-ARAKI74",
+    "Q:FM77": "LIT-300-FM77",
+    "Q:Haa75": "LIT-300-HAA75",
+    "Q:Haa79": "LIT-300-HAA79",
+    "Q:KR86": "LIT-300-KR86",
+    "Q:Kec95": "LIT-300-KEC95",
+    "Q:Mah64": "LIT-300-MAHARAM64",
+    "Q:MSS15": "LIT-300-MSS15",
+    "Q:ApproxCompanion26": "P-095dcf7bab0be0ae",
+    "Q:Popa14": "LIT-300-POPA14",
+    "Q:PV15": "LIT-300-PV15",
+    "Q:PV16": "LIT-300-PV16",
+    "Q:PS70": "LIT-300-PS70",
+    "Q:RS17": "LIT-300-RS21",
+    "Q:RoySamorodnitsky06": "LIT-300-ROYSAMORODNITSKY06",
+    "Q:Tak72": "LIT-300-TAKESAKI72",
+    "Q:Ued99": "LIT-300-UED99",
+    "Q:Ued13": "LIT-300-UED13"
+  },
+  "historical_external_work_count": 27,
+  "historical_selected_originals": "data/provenance/readings/F-300-history.json",
+  "unread_root_work_ids": [
+    "LIT-300-AW15",
+    "LIT-300-ANDERSON79",
+    "LIT-300-ARAKI74",
+    "LIT-300-BOOLE1857",
+    "LIT-300-FM77",
+    "LIT-300-HIAI20",
+    "LIT-300-HU",
+    "LIT-300-KS59",
+    "LIT-300-KST99",
+    "LIT-300-MAHARAM64",
+    "LIT-300-PSZ09",
+    "LIT-300-POPA14",
+    "LIT-300-PV16",
+    "LIT-300-RL20",
+    "LIT-300-ROYSAMORODNITSKY06",
+    "LIT-300-TAKESAKI72",
+    "LIT-300-HAA75",
+    "LIT-300-HAA79",
+    "LIT-300-KR86",
+    "LIT-300-KEC95",
+    "LIT-300-PS70",
+    "LIT-300-UED99",
+    "LIT-300-UED13"
+  ],
+  "historical_versions_in_corpus": [
+    {
+      "evidence": [
+        "CONTENTS.md:old-and-current-exact-path"
+      ],
+      "family_id": "F-300",
+      "new_path": "preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
+      "old_path": "preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
+      "old_title": "Approximation Paving over Arbitrary Maximal Abelian Subalgebras",
+      "status": "unchanged_catalogue_path"
+    },
+    {
+      "evidence": [
+        "CONTENTS.md:old-and-current-exact-path"
+      ],
+      "family_id": "F-300",
+      "new_path": "preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
+      "old_path": "preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
+      "old_title": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
+      "status": "unchanged_catalogue_path"
+    }
+  ],
+  "version_history_scope": "Both current paths map unchanged inold/current catalogue reconciliation;noF300historical_versions row orwithdrawal. This doesnot assert earlier source bytes/proof editions independently read.",
+  "formal_status": "data/provenance/readings/F-300-formal.json",
+  "actual_pdf_pixels": {
+    "pages": 10,
+    "manifest_in_historical_packet": true
+  },
+  "acquisition": {
+    "new_body_bytes": 927983,
+    "maximum_original_works": 4,
+    "no_dependencies_installed": true
+  },
+  "domain_attempts": [
+    [
+      "分块数值线性代数",
+      "near",
+      "零对角Hermitian残差匹配有限根模型；旧RS有限二次铺砌已是强基线。尚无要求非迹强压缩输出的真实批次/完整成本，未新增候选。"
+    ],
+    [
+      "量子测量与控制",
+      "far",
+      "centralizer与条件期望可表述兼容观测块；实际通道误差、保真度和可实施投影不由state-small强压缩给出。"
+    ],
+    [
+      "硬件串扰隔离",
+      "near",
+      "Hermitian耦合块有结构类比；硬件需要原空间统一误差和可构造分组，不能删小状态质量子空间就宣称物理收益。"
+    ],
+    [
+      "交通调度",
+      "far",
+      "非奇异根重加权可提示需求不均图；实际容量/因果约束不是Hermitian主压缩算子范数，cocycle与独立标签尚未匹配。"
+    ],
+    [
+      "生物相互作用网络",
+      "far",
+      "根部谱成本提供局部影响描述；非对称和有向作用、数据误差与原始实验目标未准入，不搬用beta80。"
+    ],
+    [
+      "金融风险计算",
+      "far",
+      "有状态加权的损失切除类似尾部预算；罕见尾风险可能正是业务目标，不能由状态损失小推出风险可忽略。"
+    ],
+    [
+      "能源网络",
+      "far",
+      "对称线性化耦合可作有限模型；电网约束和安全输出需要全空间保证，旧有限矩阵方法可能已足够。"
+    ],
+    [
+      "语言注意力分组",
+      "bold",
+      "局部着色成本可作启发；一般注意力矩阵非Hermitian、行随机且数据依赖，不能当作测度关系等变压缩。"
+    ],
+    [
+      "艺术图形分区",
+      "bold",
+      "同色块与局部谱成本可作候选目标；感知质量不等于根部正成本，尚无可证伪收益或外部裁判。"
+    ],
+    [
+      "机器人多体感知",
+      "far",
+      "条件均匀边际有分配结构；碰撞/覆盖需要联合律和几何条件，边际均匀并不保证独立安全分配。"
+    ]
+  ],
+  "cross_family_attempts": [
+    {
+      "families": [
+        "F-300",
+        "F-174"
+      ],
+      "finding": "PSD补全与有限谱铺砌都有协方差接口；F174全切割/谱薄树需完整图输入及构造，F300强压缩不给该输出；旧MSS/RS可能已覆盖有限谱目标。"
+    },
+    {
+      "families": [
+        "F-300",
+        "F-294"
+      ],
+      "finding": "非迹态中的状态范数和正性重要；F294齐次拟迹/矩形缩放不自动提供F300正常条件期望、centralizer或cocycle，组合前提未建立。"
+    },
+    {
+      "families": [
+        "F-300",
+        "F-238"
+      ],
+      "finding": "两族都提醒边际均匀不等于独立；F300自由压缩只用指定合并自由积中的条件期望质量，F238条件乘积接口需要实际给定环境独立，不能相互替代。"
+    }
+  ],
+  "gaps": [
+    "Both current source bodies and56named results are qualified as drafts;no full proof audit or human specification acceptance.",
+    "27distinct external works:four selected scopes/10PDFpages,23root bodies andrecursive history unread;oldpublication andread arxivversions remain distinct.",
+    "No matching formal endpoint identified in the checked pinned registry/242docs/417Comparator metadata andpath scope;all56local sourceC andfullchainsunknown,noLeanbuild/Comparator/human review.",
+    "Strong approximation nearbyy withrelativeynorm,so-compressionoriginalx,andnormpaving/ultrapower aredifferent outputs;normalexpectation/countablydecomposable hypotheses stay onconversion corollaries.",
+    "Uniform color count andfinite-stepexistence do not provide computable g(h),cutoff/word/cylinder cost,actual consumer orengineering benefit;finite oldMSS/RSroutes mayalready suffice.",
+    "No new application candidate,scientific experiment,preliminary check,second-provider review or pilot;human grading remains pending."
+  ],
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "source_reuse_policy": "Officialmathread-only;onlyderived records,source locators andqualifiedstatement excerpts retained;no upstream directory or external fulltexts republished.",
+  "github_push": false
+}

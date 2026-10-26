@@ -51,3 +51,8 @@ The owner again requested current progress on GitHub. Retain **MathWeave (数学
 ## Current owner-requested batch: completed WP110 and unfinished WP111
 
 Retain **MathWeave (数学织网)** and the existing public address [yiduo/mathweave](https://github.com/yiduo/mathweave), whose stable repository ID is 1429150108. The repository and local origin already use this name, so no duplicate repository or local checkout rename is needed. Publish completed WP110 / GEN107 and retrospective039, plus WP111’s incomplete source-reading checkpoint: 15 complete TeX files / 4,500 lines and a further 245-line partial range, totaling 4,745/7,647 lines. No new application check or human/provider review is claimed. Create one reviewed public commit parented by the last public commit, excluding the official math directory and bulk local history. Save post-push verification locally for the next meaningful batch; routine publication remains disabled.
+
+
+## 2026-10-26 当前进展合并发布：WP111与WP112检查点
+
+用户再次要求先把当前进展提交GitHub。沿用易传播的MathWeave（数学织网），含义为把数学成果、历史方法和可检验应用织成证据网络。仓库及origin为https://github.com/yiduo/mathweave，仓库ID1429150108，已完成改名而无需重复建库。本批包含WP111 GEN108以及WP112未完成983行选读检查点；不增加应用／人审／第二供应商信用。官方math、第三方下载正文及批量本地历史排除。检查后一次推送；远端回读和CI另行记录，后验收据本地保存以减少频繁更新。

@@ -1,0 +1,3326 @@
+{
+  "at": "2026-10-26T05:38:53.284237+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "family_id": "F-300",
+  "manuscripts": [
+    "P-095dcf7bab0be0ae",
+    "P-8a687a97b053c803"
+  ],
+  "scope": "Pinned formalization registry,242markdownformal descriptions,417Comparator markdown/jsonmetadata files,andpathnamesunderlean. Actual matching Main/Models not identified in this bounded search. No full-library semantic/proof/build audit.",
+  "docs_300_exists": false,
+  "metadata_files": 660,
+  "metadata_search_pattern": "paving|kadison[ -]singer|maximal abelian subalgebras|\\b300\\b",
+  "metadata_hits": [],
+  "path_pattern": "paving|kadisonsinger|/masa(?:/|\\.)|maximalabeliansubalgebras",
+  "path_hits": [],
+  "input_manifest": [
+    {
+      "path": "math/lean/formalization.yaml",
+      "bytes": 79482,
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278"
+    },
+    {
+      "path": "math/lean/docs/003.md",
+      "bytes": 1911,
+      "sha256": "41e52ed718260e6feb1db218f8e97287e703cb63c6f16e6c36f5563e6e2395ce"
+    },
+    {
+      "path": "math/lean/docs/005.md",
+      "bytes": 600,
+      "sha256": "37dc6d183e395184ebfb3bf0f570603ab06e6640e7bda9cac9fa02736089f764"
+    },
+    {
+      "path": "math/lean/docs/007.md",
+      "bytes": 1331,
+      "sha256": "0ad2938aa412b0521890c05327e30567c815e781a9381b8c5ede9bf0553d3397"
+    },
+    {
+      "path": "math/lean/docs/008.md",
+      "bytes": 953,
+      "sha256": "45829bd7e8ea32a33fe881d5168307b2cd03dd50f4a5b34f0659f1211a6622e0"
+    },
+    {
+      "path": "math/lean/docs/009.md",
+      "bytes": 1248,
+      "sha256": "024d1fe5d1386214841b9fdca0ed9a3767bca2f854eaef187f3e5e0ea85cd30a"
+    },
+    {
+      "path": "math/lean/docs/012.md",
+      "bytes": 933,
+      "sha256": "8d35d76e45f9ce263f96f9b8f5560330ca73f3eba93a08d7c6060dfed1758bcb"
+    },
+    {
+      "path": "math/lean/docs/013.md",
+      "bytes": 1071,
+      "sha256": "989f16a964977adea6adc59698fa9db64b32bb1f6ace870314370cd16847f5a1"
+    },
+    {
+      "path": "math/lean/docs/015.md",
+      "bytes": 1014,
+      "sha256": "2eb9097c27c5ff8603aab35c72e7dd5830e45f2d3b4ff7af224c55aabc3615a0"
+    },
+    {
+      "path": "math/lean/docs/017.md",
+      "bytes": 893,
+      "sha256": "a738f64b79494db1ed2deacb26a8c0a2c0babe85c8153f75bcba388bc46a534c"
+    },
+    {
+      "path": "math/lean/docs/020.md",
+      "bytes": 1048,
+      "sha256": "c8a12f6f4c351e1c5b9ab413acc7bb20afdbf3ba5ceaa354e2edc47dc6ac3bc7"
+    },
+    {
+      "path": "math/lean/docs/021.md",
+      "bytes": 1051,
+      "sha256": "506a0d11753aa56926eb456406fcf975c17c0e604c3248c2500485825860f7a6"
+    },
+    {
+      "path": "math/lean/docs/023.md",
+      "bytes": 1020,
+      "sha256": "48a67baa24c21e0e5992470280925a9205c8776fd2d621732ba44aa9d34554be"
+    },
+    {
+      "path": "math/lean/docs/024.md",
+      "bytes": 1415,
+      "sha256": "13056416c388c8fac013d201ead954e5bcd521f542220b989d569b64eadbdd40"
+    },
+    {
+      "path": "math/lean/docs/025.md",
+      "bytes": 1443,
+      "sha256": "4c394b2fa0e7a176e2f68dfc2c9fccf0f16327f0959b2f4a7aa25117aca0e550"
+    },
+    {
+      "path": "math/lean/docs/026.md",
+      "bytes": 834,
+      "sha256": "f75ae21800250eb70265e6e2e77a59f6d54513b9494b9ad7488de2d3574b3959"
+    },
+    {
+      "path": "math/lean/docs/027.md",
+      "bytes": 1319,
+      "sha256": "51053f215beface5225aa3620a77199e7a7051d36b139f53fd4859f938e6940e"
+    },
+    {
+      "path": "math/lean/docs/028.md",
+      "bytes": 955,
+      "sha256": "8c84833b7ad47c59ee7e5392858ee2a3d410f3e082af31d064654202b5105521"
+    },
+    {
+      "path": "math/lean/docs/033.md",
+      "bytes": 1245,
+      "sha256": "ee8a912ca3648b62b35421d7f540e74dfaae0f9f6016ac0e6f4db2fecc67b330"
+    },
+    {
+      "path": "math/lean/docs/039.md",
+      "bytes": 1971,
+      "sha256": "6966058f029dfd9492d25d034928cb8e8eb344248888eda14e4c9cacfe843bbd"
+    },
+    {
+      "path": "math/lean/docs/047.md",
+      "bytes": 1007,
+      "sha256": "133fd3537a8cd213bf611b4bd2c7f71853aecd506adb8686dd1049e8b85324aa"
+    },
+    {
+      "path": "math/lean/docs/049.md",
+      "bytes": 2200,
+      "sha256": "8435f8f960425976c5f2060bb9a528216c3ed3c8e67c4f3b3944270d95661861"
+    },
+    {
+      "path": "math/lean/docs/050.md",
+      "bytes": 1142,
+      "sha256": "e8039639bd7441aa2e423080d2228b3c00969567cfa030d9f8b831402e0c670b"
+    },
+    {
+      "path": "math/lean/docs/052.md",
+      "bytes": 1981,
+      "sha256": "af28bd08cd595238706e7d9bb314b4b86cdb29f65eb60f5c71edda2b2f72ad1c"
+    },
+    {
+      "path": "math/lean/docs/058.md",
+      "bytes": 935,
+      "sha256": "c8a667c7631f5a333fc267c1aaf207eedcdcf411fbd4d7e84d070117bd12664a"
+    },
+    {
+      "path": "math/lean/docs/066.md",
+      "bytes": 1380,
+      "sha256": "257a68ba222d05d4833e32730d8543250ac8a11f26348fad82632a9fa73cbc5d"
+    },
+    {
+      "path": "math/lean/docs/071.md",
+      "bytes": 1672,
+      "sha256": "4e00731663104eef9e833f3e0a3ab3a588d795818a1e335e9b89a441cb8d8d9d"
+    },
+    {
+      "path": "math/lean/docs/072.md",
+      "bytes": 1981,
+      "sha256": "d5b47ea6180304b5aa5cc1ce6ebf304044bf65bf8529838e35866f117c00d4e0"
+    },
+    {
+      "path": "math/lean/docs/073.md",
+      "bytes": 965,
+      "sha256": "0ee505a263e39c8ac7064e89563187b88517f0d1b99ab98965f0012536ad0911"
+    },
+    {
+      "path": "math/lean/docs/075.md",
+      "bytes": 964,
+      "sha256": "06cc6a7bad49a7027ddd37e5f2533268630d822c32024e3c47fd5394aa361be5"
+    },
+    {
+      "path": "math/lean/docs/076.md",
+      "bytes": 1316,
+      "sha256": "7312cc588687637adba1db0343c62f03eece427bb61ddf90e1f100e3ed490cf5"
+    },
+    {
+      "path": "math/lean/docs/081.md",
+      "bytes": 1129,
+      "sha256": "eb66954084a4a5c7c9852494681ec82cc737a170de36d00d15b18ef78700b1a2"
+    },
+    {
+      "path": "math/lean/docs/082.md",
+      "bytes": 1008,
+      "sha256": "a010a21dcde470de99bcbf7db425e0213980e6b504462ba5a0d290634b0c2d97"
+    },
+    {
+      "path": "math/lean/docs/083.md",
+      "bytes": 1135,
+      "sha256": "5c8ba9579be3191c476d4b394597f52295b691b42a5d795ea3296d0a18d7151e"
+    },
+    {
+      "path": "math/lean/docs/084.md",
+      "bytes": 911,
+      "sha256": "f99894e7555f06b3f19195bc893e910884cd473755286e6006a6b96aae5ec01f"
+    },
+    {
+      "path": "math/lean/docs/085.md",
+      "bytes": 1296,
+      "sha256": "bfd5b491fe28ddae031bcb810987322bd0bc331c0e9ed8fed5b9c55db80bb275"
+    },
+    {
+      "path": "math/lean/docs/087.md",
+      "bytes": 2474,
+      "sha256": "85fdda35b4d2c609d330331cde9972b51dcda6127eef31d42e451c1bb644b0eb"
+    },
+    {
+      "path": "math/lean/docs/088.md",
+      "bytes": 1964,
+      "sha256": "ec69f1229043f34d0953ccce32c0adb9f51feba75a5dcfa94575d4023d5583cd"
+    },
+    {
+      "path": "math/lean/docs/089.md",
+      "bytes": 1761,
+      "sha256": "d912e138ed89a21cbc0b38663001c5f0e540400b03878e12e601cfad97c49b09"
+    },
+    {
+      "path": "math/lean/docs/090.md",
+      "bytes": 2364,
+      "sha256": "d349dc455d0c4c6621153f61ca639dd4932f0bbcb8fc5508e2a1805b95f6de26"
+    },
+    {
+      "path": "math/lean/docs/091.md",
+      "bytes": 986,
+      "sha256": "acbcff0c78fd7c308009732bb529fc5b5c6f48e39aea0fb84d07fc2d84951177"
+    },
+    {
+      "path": "math/lean/docs/092.md",
+      "bytes": 1469,
+      "sha256": "eb50ced10c26791524303fd75823a8f311259a4b6338f472a196009ab0c07008"
+    },
+    {
+      "path": "math/lean/docs/094.md",
+      "bytes": 1058,
+      "sha256": "b775e2436e3f78fab16d8dc27e6fd55e537ce140b16e40157f86c746eabd0156"
+    },
+    {
+      "path": "math/lean/docs/095.md",
+      "bytes": 891,
+      "sha256": "0c4f351e99145df6e4ef319c6f2e561f3e4638680ad578fef8914ba957d158c0"
+    },
+    {
+      "path": "math/lean/docs/096.md",
+      "bytes": 1025,
+      "sha256": "1acb27ad704ecaa1c1b91d7e8ecda7afd30f56cb5de955bbfe6bb4e6e8fd7528"
+    },
+    {
+      "path": "math/lean/docs/097.md",
+      "bytes": 1014,
+      "sha256": "fe10f69f8fbd488593d1d9b15632ccb8e086caf4c02877e5f598806b6e6d1472"
+    },
+    {
+      "path": "math/lean/docs/098.md",
+      "bytes": 1147,
+      "sha256": "d0961af63a6a2f393ccf0a2d818879a71613ac2b8998eecb64d306bc4cabb0e8"
+    },
+    {
+      "path": "math/lean/docs/099.md",
+      "bytes": 3003,
+      "sha256": "a8c5375d30d05225922161676d681963ee0f1eed2d0ec2b5b009a7116c3ed15f"
+    },
+    {
+      "path": "math/lean/docs/100.md",
+      "bytes": 4217,
+      "sha256": "6a19f5f806b650953329afe5d6226323c6426c63f4ff13d4b8afd6576f03f39e"
+    },
+    {
+      "path": "math/lean/docs/102.md",
+      "bytes": 3958,
+      "sha256": "c3e96a746042bf5aeb2f0ef8cdc8e27360785a7da8ac37ed69d6fd8c132f572f"
+    },
+    {
+      "path": "math/lean/docs/103.md",
+      "bytes": 1273,
+      "sha256": "21e0be3e46468655991435570d83521e12ab9c83ad76fa6f484c88edcbc0e139"
+    },
+    {
+      "path": "math/lean/docs/104.md",
+      "bytes": 1451,
+      "sha256": "cf1767b94264352e1d103549f54b27bd9d734ca4f19447b5aea540928fad202d"
+    },
+    {
+      "path": "math/lean/docs/105.md",
+      "bytes": 969,
+      "sha256": "94005d746a9a00d35cad0752dfa149bf4197b9003ec448f24dcc9f3f84cbf031"
+    },
+    {
+      "path": "math/lean/docs/106.md",
+      "bytes": 1123,
+      "sha256": "8fc9cabff385da43a195a707419f716d3602402f3893e1af1c422eed4b5ef1bd"
+    },
+    {
+      "path": "math/lean/docs/107.md",
+      "bytes": 2029,
+      "sha256": "7c7263cfecc5a16d20165952ac3010598c3770b441d7d8fe2c5ceb8eda1c3347"
+    },
+    {
+      "path": "math/lean/docs/108.md",
+      "bytes": 1386,
+      "sha256": "d30f6acbecf04da67f905cdd9b90533aa3ec38c404f4810edd36f51f802166db"
+    },
+    {
+      "path": "math/lean/docs/110.md",
+      "bytes": 2159,
+      "sha256": "398ad379c334661bdba0c43c96f500483c18f73efb94123e79a79cd7b76c8afc"
+    },
+    {
+      "path": "math/lean/docs/111.md",
+      "bytes": 1497,
+      "sha256": "738413ac4597f53c1b01a5cbc6c649f7a763337f5a843c200ca004d6375ff0b2"
+    },
+    {
+      "path": "math/lean/docs/112.md",
+      "bytes": 1057,
+      "sha256": "d1ce736cf05a87fab1354a91bd22b8ae11233d6c4f37c417c6c8ca41d6f4dda7"
+    },
+    {
+      "path": "math/lean/docs/113.md",
+      "bytes": 2781,
+      "sha256": "988234abb376528ffa180cd07778d5349ed15190b9d21c961117dd9d011c7e00"
+    },
+    {
+      "path": "math/lean/docs/114.md",
+      "bytes": 1050,
+      "sha256": "cd25483c953693a061aeb0da2ea51c152a749c9026cf48df17755f8d45884190"
+    },
+    {
+      "path": "math/lean/docs/115.md",
+      "bytes": 2251,
+      "sha256": "7503f6655041af845dd16fb16746316e877356e75bcb3793ba68917585e02fb6"
+    },
+    {
+      "path": "math/lean/docs/116.md",
+      "bytes": 2049,
+      "sha256": "c3b9d25576399946bc0bdb9f63cb8cb1a7f30161edb2319f120911fded2c8a63"
+    },
+    {
+      "path": "math/lean/docs/117.md",
+      "bytes": 1162,
+      "sha256": "c06829a8727d9ea91579c3855dfbd26c0b6fe6d3a296514cdbe031896541a272"
+    },
+    {
+      "path": "math/lean/docs/118.md",
+      "bytes": 1227,
+      "sha256": "80b5b09ed991ee4ef6826e2ee1f2c94de69dd0ee639375fbcbf74ee00652814f"
+    },
+    {
+      "path": "math/lean/docs/119.md",
+      "bytes": 1369,
+      "sha256": "402cb8d3a1043a4f7b4fe44983b258ca3d8e05a85642c55f92aacd403054ab9a"
+    },
+    {
+      "path": "math/lean/docs/121.md",
+      "bytes": 1116,
+      "sha256": "af8f60425f3bdd6c86070e615061686b0f781047e425ed691a46b3b0aa98e593"
+    },
+    {
+      "path": "math/lean/docs/122.md",
+      "bytes": 1222,
+      "sha256": "4bd3067e31390bc08d91e69ce143afd1460fed929fa8ce70d450add0a7b50ff3"
+    },
+    {
+      "path": "math/lean/docs/124.md",
+      "bytes": 977,
+      "sha256": "2d5e4213616aa59a02822ec073df5df1d057c1ee18d7a2ece021d3d660e26ff5"
+    },
+    {
+      "path": "math/lean/docs/125.md",
+      "bytes": 2408,
+      "sha256": "045cdf6a61cca1122b8ed8cc7d39b0229c1b4307d4cb2eb23fdf762339f855b7"
+    },
+    {
+      "path": "math/lean/docs/126.md",
+      "bytes": 1258,
+      "sha256": "a26a6efcfa8666482560d9c6eafbd1364fbf2e61a131a6c7b7bd4c07f5c79e4b"
+    },
+    {
+      "path": "math/lean/docs/127.md",
+      "bytes": 888,
+      "sha256": "a612cbc2218486fd07d4b118e3102776bf303a4e2f01d4e1f9817918a4a9d524"
+    },
+    {
+      "path": "math/lean/docs/128.md",
+      "bytes": 1007,
+      "sha256": "958fd23004a8d911fe1ae7a0a0f320e7f549a36f5297132cdba95316ab302d39"
+    },
+    {
+      "path": "math/lean/docs/129.md",
+      "bytes": 2306,
+      "sha256": "b9bde7a3b1ef6192426292ad23087eb424c81c1f2e825743c3661fbfac89f336"
+    },
+    {
+      "path": "math/lean/docs/130.md",
+      "bytes": 1952,
+      "sha256": "233cdd3c7fb22ee4cb8ba8d170a79dd3e3d4e30f513c940db55ec244a291c209"
+    },
+    {
+      "path": "math/lean/docs/131.md",
+      "bytes": 1176,
+      "sha256": "95890a0433c375da400f600f581f1eb352416bc25f720c3483767022ce3fba4c"
+    },
+    {
+      "path": "math/lean/docs/132.md",
+      "bytes": 1050,
+      "sha256": "2fd45b173892a873ff619558717e4130f07c28ba29bc5c643383d5f3d5831157"
+    },
+    {
+      "path": "math/lean/docs/133.md",
+      "bytes": 3780,
+      "sha256": "588164c3fc9150333108918c9644c521cb905d21f0bd641a0fd6cf4f1d83181e"
+    },
+    {
+      "path": "math/lean/docs/134.md",
+      "bytes": 2313,
+      "sha256": "5b9fdccbafa415c70b8dc442e39e51472f80018c5aae90d054c74bb39ebabf3a"
+    },
+    {
+      "path": "math/lean/docs/135.md",
+      "bytes": 1296,
+      "sha256": "baea76413169892e9baa9e36dda5b2c01ea78151e0bf693bbd9dd2fe61e393cc"
+    },
+    {
+      "path": "math/lean/docs/137.md",
+      "bytes": 1317,
+      "sha256": "f42fe0a6e7e9ce242c5402f1fa24d5e0715d85658c62291c70a2cde5aaa4bac0"
+    },
+    {
+      "path": "math/lean/docs/139.md",
+      "bytes": 1123,
+      "sha256": "01a80d3457fd2b8abf1a013c484a14dd7b52f4585a759f5aef3cfc9849d6ce27"
+    },
+    {
+      "path": "math/lean/docs/140.md",
+      "bytes": 7886,
+      "sha256": "71f6b45431c698c92960574de306b727271ea53b7b9e6b6a099d22f5a2336dd3"
+    },
+    {
+      "path": "math/lean/docs/143.md",
+      "bytes": 925,
+      "sha256": "eba1a207ef82be58eaf4ad9f6f1bfa1f49fda20099a2145f43144188c8344161"
+    },
+    {
+      "path": "math/lean/docs/144.md",
+      "bytes": 1078,
+      "sha256": "c4da13bb8027825775991976e888368a723668cd1503300a19e2153e8d664200"
+    },
+    {
+      "path": "math/lean/docs/145.md",
+      "bytes": 887,
+      "sha256": "ea72c0ad0646b0b425402ab4a0ccaa7f4aab5df3c1e0c71101f3ae5411fe04d9"
+    },
+    {
+      "path": "math/lean/docs/146.md",
+      "bytes": 1415,
+      "sha256": "cd5cd8e072d08c3a555c208ff9cc6a436b2a29d5b258b925da1288142302d750"
+    },
+    {
+      "path": "math/lean/docs/148.md",
+      "bytes": 1453,
+      "sha256": "340f3919c849c2485886b3df087cbb840cc770408f84c3fbbad7a4a0de898e60"
+    },
+    {
+      "path": "math/lean/docs/149.md",
+      "bytes": 1150,
+      "sha256": "97e1aa0f5884acd7606bbd374be3b038ecfd0425ffb9ba74981eb035e83ef15f"
+    },
+    {
+      "path": "math/lean/docs/150.md",
+      "bytes": 1134,
+      "sha256": "290fe54eafbe1c6c4257ffcd09f68f7cebd889bf73e9f2acb65584fd15af62aa"
+    },
+    {
+      "path": "math/lean/docs/151.md",
+      "bytes": 1052,
+      "sha256": "05329b44d70457879c2b8a7893f8b50e62a43554945f89780d6644b92377cdcc"
+    },
+    {
+      "path": "math/lean/docs/152.md",
+      "bytes": 1155,
+      "sha256": "23ec0c64877b645dd082996df4cf5205064f89ba422246470d07d22aa400b8fa"
+    },
+    {
+      "path": "math/lean/docs/155.md",
+      "bytes": 1071,
+      "sha256": "a4a8e34b1d3c463db615c2a1af9e8b78db28f6ffb1dbd0d7109d95fd0a5f6b82"
+    },
+    {
+      "path": "math/lean/docs/156.md",
+      "bytes": 955,
+      "sha256": "3734e435a27d9c0e206122088995fa6d6c9e4ad691e9aca27f07820ea3983341"
+    },
+    {
+      "path": "math/lean/docs/157.md",
+      "bytes": 1679,
+      "sha256": "67c9ebeee4d8afcc735c40f2b9b3e018cd713270dad245777d061db491228fe1"
+    },
+    {
+      "path": "math/lean/docs/158.md",
+      "bytes": 978,
+      "sha256": "f0b95c7c0bb3803202c634901c0f1dfc0d5a14234361f351ba3f9599b39729c0"
+    },
+    {
+      "path": "math/lean/docs/159.md",
+      "bytes": 1035,
+      "sha256": "747337764c8eddc074ba0400f11389a4678a38c63c4c608ccec72c347f1f2ab5"
+    },
+    {
+      "path": "math/lean/docs/160.md",
+      "bytes": 1004,
+      "sha256": "8189153b6a5747cbcbea25920f90ab907091d789586e39c8154a153ebe6fdb98"
+    },
+    {
+      "path": "math/lean/docs/161.md",
+      "bytes": 946,
+      "sha256": "a1da28a997a9a27cad57f0862cd18e7502aa3129730d3bc7fd7a45fde14d3b1d"
+    },
+    {
+      "path": "math/lean/docs/162.md",
+      "bytes": 1990,
+      "sha256": "f9e326e1034087151388c22c6eb6047cddc576848042b1ccee926e1cba2f0e9d"
+    },
+    {
+      "path": "math/lean/docs/165.md",
+      "bytes": 1545,
+      "sha256": "fd38e727e9e930ec2a98f66c111826cf2ced69a61e83473b881b0fc30ef37f49"
+    },
+    {
+      "path": "math/lean/docs/167.md",
+      "bytes": 1644,
+      "sha256": "271b91f6541dbb56317d94bb6aa7bfcf64ee5c026ef1113fc6b8e762c790b80d"
+    },
+    {
+      "path": "math/lean/docs/168.md",
+      "bytes": 921,
+      "sha256": "63811f74c612ada8f65759b4fc37d18cc0119dc02d5db50232562f23509c3ebb"
+    },
+    {
+      "path": "math/lean/docs/169.md",
+      "bytes": 1069,
+      "sha256": "cc93e64bb07cf14db5ee3895fb9057f0b230456bf79beb5de6016535fb3f3e39"
+    },
+    {
+      "path": "math/lean/docs/170.md",
+      "bytes": 1652,
+      "sha256": "ff3d74c0d4a490d2892bcf42530e7c0929b2c0f439b50d71bf6296f3505162c9"
+    },
+    {
+      "path": "math/lean/docs/172.md",
+      "bytes": 2287,
+      "sha256": "8e6450e976cda5c347c5eeeb6e2ddbf218bdd7586ce564b7a874120ce7f7b348"
+    },
+    {
+      "path": "math/lean/docs/173.md",
+      "bytes": 920,
+      "sha256": "c377bf61fe64db99f7edf87402ff402bed8c57ffed0a1663ee610e62a276e5a3"
+    },
+    {
+      "path": "math/lean/docs/174.md",
+      "bytes": 1683,
+      "sha256": "1ee196bda877c2d0410187f3ea19543e4249f3b2e0e08cda1c1b29eca27a141d"
+    },
+    {
+      "path": "math/lean/docs/175.md",
+      "bytes": 1724,
+      "sha256": "03f19c7994455cef409e5563915251c24411975c761760afc6a7b3941e010073"
+    },
+    {
+      "path": "math/lean/docs/176.md",
+      "bytes": 906,
+      "sha256": "7c73c040ee42d495c129267a4c98f37a1304264b67a000e6b5643a36dff72a1d"
+    },
+    {
+      "path": "math/lean/docs/177.md",
+      "bytes": 1043,
+      "sha256": "f4aa26f5a32a1b6f9e62044b97ce22f29084d567c79f6f7606a2866c04dd618c"
+    },
+    {
+      "path": "math/lean/docs/179.md",
+      "bytes": 1160,
+      "sha256": "47cf8bcf69c2cdf41b6b03051d8ae6cf998773c8fd85b83f1b15c130f166ce60"
+    },
+    {
+      "path": "math/lean/docs/180.md",
+      "bytes": 828,
+      "sha256": "e28de79463c5f9ded3cf6e0199749a7377f1d6b88317f7e7f55e66d2c602b4c8"
+    },
+    {
+      "path": "math/lean/docs/181.md",
+      "bytes": 940,
+      "sha256": "2e322b0000ff85fbb7c09603243df922d38e51b22799f44cddb40ec8f5165285"
+    },
+    {
+      "path": "math/lean/docs/182.md",
+      "bytes": 844,
+      "sha256": "7a8c0d6be5e30656602af80e2db041d9f495527194f4c8a319c583f4183a99a3"
+    },
+    {
+      "path": "math/lean/docs/183.md",
+      "bytes": 1001,
+      "sha256": "276ae3ef3a58367090659f808dd246d819254fb4ab5da911713825f9f74f83b0"
+    },
+    {
+      "path": "math/lean/docs/184.md",
+      "bytes": 871,
+      "sha256": "a4b14c7c7faf6610f3fb04d89a3496b21ac38a1d4ed692077ff4a078c78af85a"
+    },
+    {
+      "path": "math/lean/docs/185.md",
+      "bytes": 1403,
+      "sha256": "00d22dbd780928870fe1c9a9a63c31c202ef513df975d1f07bde4ffb2261a64d"
+    },
+    {
+      "path": "math/lean/docs/186.md",
+      "bytes": 1053,
+      "sha256": "51f459fd17a7497d3285c2762835d2b8d7927e023b656b15b491ff4220c454cd"
+    },
+    {
+      "path": "math/lean/docs/187.md",
+      "bytes": 1431,
+      "sha256": "4faf4c5d8fb5957cbe0b2c0b4728d99acefee79b05180e61354298fe9c8a3782"
+    },
+    {
+      "path": "math/lean/docs/188.md",
+      "bytes": 1035,
+      "sha256": "358522408d1f04e0df83dad8d575a7d5a013f44716aec109a6744302fd02892d"
+    },
+    {
+      "path": "math/lean/docs/189.md",
+      "bytes": 833,
+      "sha256": "89e8630c852f0408b0e0ad7be597e284d9a8936b1f4d3b398082fcfc3d9d219d"
+    },
+    {
+      "path": "math/lean/docs/190.md",
+      "bytes": 1029,
+      "sha256": "49953f7f760a262f20bf5b8876d42e0ce43f0d361505a05d51aa3d805a67595b"
+    },
+    {
+      "path": "math/lean/docs/191.md",
+      "bytes": 1063,
+      "sha256": "e2250c3010963320569247febbc795f9412f06a90d1fc6a408abb2ba93dcf721"
+    },
+    {
+      "path": "math/lean/docs/192.md",
+      "bytes": 1097,
+      "sha256": "2541e439837779913e446e3584cdf4c2454b4734d3e83dccf775497efccf26cf"
+    },
+    {
+      "path": "math/lean/docs/194.md",
+      "bytes": 1052,
+      "sha256": "9d92190a28df7e9d9daf0a822cdea6cf4d7aa74f7d0f5991d5bc6213ff58fcbe"
+    },
+    {
+      "path": "math/lean/docs/195.md",
+      "bytes": 1116,
+      "sha256": "8ebdbad0e8b398366ff1ede3cb5ec36c37d4a9a04981a2414a6c86eb92b48658"
+    },
+    {
+      "path": "math/lean/docs/196.md",
+      "bytes": 908,
+      "sha256": "5edd7a5890540622fdfa39349e8520d66e5edf7ebf2af1685b23125264008667"
+    },
+    {
+      "path": "math/lean/docs/197.md",
+      "bytes": 3629,
+      "sha256": "c9bd633a2d69dc39581a08db24f2a5ceac6d6395c47c938fc9f0f59b60fdca46"
+    },
+    {
+      "path": "math/lean/docs/198.md",
+      "bytes": 1270,
+      "sha256": "e2d8195941ced611e210088da40499b2060a6ecd7a476490166f933ed4dc170f"
+    },
+    {
+      "path": "math/lean/docs/199.md",
+      "bytes": 1907,
+      "sha256": "27686e448d5c025eeb124e80725d009363f04d97ebc1b063cfd8ef1fc7323ffb"
+    },
+    {
+      "path": "math/lean/docs/205.md",
+      "bytes": 1653,
+      "sha256": "91e9770aa1194b7bf1656f42ca0eeb9dc4481f64c73859851dafe5b4461313fd"
+    },
+    {
+      "path": "math/lean/docs/206.md",
+      "bytes": 1071,
+      "sha256": "7ec6b952d44f014dc470bfd16f594ac3ef9d07ecc3a396b5e0684194f3a577c1"
+    },
+    {
+      "path": "math/lean/docs/207.md",
+      "bytes": 1347,
+      "sha256": "6d16602bb8c9bc0e2931d5550f0cedd2b0b71e711955dd129a767a51e893231f"
+    },
+    {
+      "path": "math/lean/docs/210.md",
+      "bytes": 1048,
+      "sha256": "9b8b9f5be621d2f91791632a668f718f5664624ea3ce1fae7c0187af6aa65ad2"
+    },
+    {
+      "path": "math/lean/docs/211.md",
+      "bytes": 1065,
+      "sha256": "24ccc371a8f51e27614f5009dfaa1694c9a1529a1e1e10e651f1969010ddc31f"
+    },
+    {
+      "path": "math/lean/docs/212.md",
+      "bytes": 1281,
+      "sha256": "e78d41d6618323c4f74ca125a76f67a88bd3683b01e2083e94243c32f9d102d1"
+    },
+    {
+      "path": "math/lean/docs/213.md",
+      "bytes": 1491,
+      "sha256": "c42f93f6e99657086bb87d66e4b8c84e13f501decad985dde4474b5a0bb3d728"
+    },
+    {
+      "path": "math/lean/docs/214.md",
+      "bytes": 1455,
+      "sha256": "da93a0ed83eb2815e89c0993091833c7769f05f18dd60486a2ea306d8b8bca87"
+    },
+    {
+      "path": "math/lean/docs/215.md",
+      "bytes": 1031,
+      "sha256": "41ed31b3d5b0f9c0ce5df3604527f17b26eec23b225a7a2184f5a9c2d936ac30"
+    },
+    {
+      "path": "math/lean/docs/218.md",
+      "bytes": 1160,
+      "sha256": "1e56cf817147166594130cac3a34c1f559754f8df664ab950d8967ad3ef04423"
+    },
+    {
+      "path": "math/lean/docs/220.md",
+      "bytes": 2241,
+      "sha256": "90b55d223fd20468ee5f1d481d3d16b76eb7a54ba2ffa2b160cf35f60980dce3"
+    },
+    {
+      "path": "math/lean/docs/221.md",
+      "bytes": 987,
+      "sha256": "e814a7bb867d610dde4e7d6061365e4c302be5d4e06ff63d00a9a39c6954c5f9"
+    },
+    {
+      "path": "math/lean/docs/222.md",
+      "bytes": 2127,
+      "sha256": "3edd641684ef6c65973f830ea2a31d9d33aae077c73a2c60d3e93a527449fc98"
+    },
+    {
+      "path": "math/lean/docs/227.md",
+      "bytes": 4377,
+      "sha256": "ecacd9dd0af0bf4f53804288815f2b6d286dcfd2abae45f11b0de7a99ab3f863"
+    },
+    {
+      "path": "math/lean/docs/228.md",
+      "bytes": 2034,
+      "sha256": "26930fec584054fcda2cc217462cfdbba9aef28ab56dcecd4f13759fb4114501"
+    },
+    {
+      "path": "math/lean/docs/229.md",
+      "bytes": 1429,
+      "sha256": "58030cb8b8a8b994f80e24a9d3f34788081ef8a1bcc90d7bb777ade0ba25d5bb"
+    },
+    {
+      "path": "math/lean/docs/230.md",
+      "bytes": 1159,
+      "sha256": "49930254a299e52e97bd89d72c7b7fa4b4b498ebc2bac782d48b93b40ca773e4"
+    },
+    {
+      "path": "math/lean/docs/231.md",
+      "bytes": 1407,
+      "sha256": "845749e5c67607039ce5a266a849a1d5c239ca34f063f37aad0787c6eec360c1"
+    },
+    {
+      "path": "math/lean/docs/234.md",
+      "bytes": 1363,
+      "sha256": "1e483bc7d54fd2d118f1c072974ba97a4c16eb3c51d609f6b65dfb9fd8d53ae5"
+    },
+    {
+      "path": "math/lean/docs/235.md",
+      "bytes": 2877,
+      "sha256": "9358e46cd9f3104ceaf11000d5afe3eac26c48bebb7329f1a19fc5d3c55e987b"
+    },
+    {
+      "path": "math/lean/docs/236.md",
+      "bytes": 1001,
+      "sha256": "495552b15acee5c71d186e8059ad04e480ed549ba8c5996fe13aeb932fd516dc"
+    },
+    {
+      "path": "math/lean/docs/237.md",
+      "bytes": 3614,
+      "sha256": "a54f7576239850c680c1c10e3a76f948a9e6c9d035f07a37291ee56d140a3452"
+    },
+    {
+      "path": "math/lean/docs/238.md",
+      "bytes": 9797,
+      "sha256": "90935144b3f4346476ff852911ad709fe354446bc383e291db4afb90a98aaa49"
+    },
+    {
+      "path": "math/lean/docs/240.md",
+      "bytes": 1123,
+      "sha256": "27e8169666e3b3fc26a80938e7ab0b7e65648ae2a68086ade757446eb2a715eb"
+    },
+    {
+      "path": "math/lean/docs/241.md",
+      "bytes": 815,
+      "sha256": "d893e329edd81ca351f34d4e0af6213e84f3f3f4b3de73fab2b021824bff105c"
+    },
+    {
+      "path": "math/lean/docs/242.md",
+      "bytes": 1027,
+      "sha256": "c7759c6d6d1dc254a199367aa70e173e86b5c330fc9ac65e12a39bc047af8935"
+    },
+    {
+      "path": "math/lean/docs/243.md",
+      "bytes": 1842,
+      "sha256": "6a3c435ae959a77a239d73802b178acae826a9577a4daf51de136aada4e93ed4"
+    },
+    {
+      "path": "math/lean/docs/244.md",
+      "bytes": 1395,
+      "sha256": "89f64ddf86918d62ff704b44f8395932eb38c697c6a9a97675ed883fa9acfd5d"
+    },
+    {
+      "path": "math/lean/docs/245.md",
+      "bytes": 980,
+      "sha256": "d05302b4c350e522680f61473d849ae2eae567d20a73da624948f533fee813f6"
+    },
+    {
+      "path": "math/lean/docs/246.md",
+      "bytes": 894,
+      "sha256": "db0e0226d99cd432d833eaccb72bd40b418c49aa6204468ae68edd98e0d81d6a"
+    },
+    {
+      "path": "math/lean/docs/247.md",
+      "bytes": 1068,
+      "sha256": "11c93070f0c0e176f76029d4528506aa60ec7d4dc5de4804d1b484100f7f8b83"
+    },
+    {
+      "path": "math/lean/docs/248.md",
+      "bytes": 840,
+      "sha256": "0376be4f8ff23bce3c730835cfc7605ec596c2948d24d3e2f4042919ba0e2c69"
+    },
+    {
+      "path": "math/lean/docs/249.md",
+      "bytes": 947,
+      "sha256": "d415c1e48a740b7df71d58dbaaee6b6b6b6032f3d19a90d14ecb68d6ab6e575d"
+    },
+    {
+      "path": "math/lean/docs/250.md",
+      "bytes": 2374,
+      "sha256": "70c0c2c1d29dc52b123c6cd2aa9312e92be5f4b778ada422429e900eb24e5117"
+    },
+    {
+      "path": "math/lean/docs/251.md",
+      "bytes": 1219,
+      "sha256": "4cbcf85a661e4983681d35c1282528eed810926c8011345d999e9eec415b0f8c"
+    },
+    {
+      "path": "math/lean/docs/252.md",
+      "bytes": 954,
+      "sha256": "f05d035b3cde1cd3c82dab2e19c2544bd976a58c32e48d71898e1a5c177ef7e4"
+    },
+    {
+      "path": "math/lean/docs/253.md",
+      "bytes": 821,
+      "sha256": "fbe78247b464030790442b05d88fde1af2c88b633fb8f0441119a60a5df62e25"
+    },
+    {
+      "path": "math/lean/docs/254.md",
+      "bytes": 2495,
+      "sha256": "327dfb32694d5072c4a47aff41da516a7cbe663634285577f344beb98d94d4e2"
+    },
+    {
+      "path": "math/lean/docs/255.md",
+      "bytes": 1194,
+      "sha256": "5fcbeb4b25ddfd1836672dd44a55275ad0e03418a18fae4ea5b662f52c7c6049"
+    },
+    {
+      "path": "math/lean/docs/256.md",
+      "bytes": 1036,
+      "sha256": "cfdd3d6f0f0b54ca063598a73c8498b61485361292333d49ebd0974aba4e76b9"
+    },
+    {
+      "path": "math/lean/docs/257.md",
+      "bytes": 1034,
+      "sha256": "0476c7755f58b5ff4619c122326a8c5e372d1eb307c02edd4fc999438e2c7641"
+    },
+    {
+      "path": "math/lean/docs/260.md",
+      "bytes": 1525,
+      "sha256": "4780482ca9c7f7c38ffc9fab39443e0fff155e31dbf29d6380d0b5f6b1b1f16f"
+    },
+    {
+      "path": "math/lean/docs/261.md",
+      "bytes": 1085,
+      "sha256": "05afb984b4c333c19850e62fbd2a7a119784802e9ff506809ec30e4cd42a4126"
+    },
+    {
+      "path": "math/lean/docs/262.md",
+      "bytes": 952,
+      "sha256": "bae1097fcc6511b4be5add84a6924526faa445eca87e1d0390b22149696d60ff"
+    },
+    {
+      "path": "math/lean/docs/263.md",
+      "bytes": 1965,
+      "sha256": "de6fc48e1ec736c6a3792e33bb2b871a171e17379ac12e281445deb8a868b505"
+    },
+    {
+      "path": "math/lean/docs/266.md",
+      "bytes": 2093,
+      "sha256": "3141714e25026b26a4028e27ee001e70295310bad4290b5a8f7c9fd546e8a174"
+    },
+    {
+      "path": "math/lean/docs/267.md",
+      "bytes": 1194,
+      "sha256": "f837b2fa9bf1421d74b51e418518c3968e7bcdc78d8e90ae08b12fe69f0002f0"
+    },
+    {
+      "path": "math/lean/docs/269.md",
+      "bytes": 2334,
+      "sha256": "f229913f83b805504a4c437efbd58e108884132bcdad4d2fe2f0fc237eb58463"
+    },
+    {
+      "path": "math/lean/docs/271.md",
+      "bytes": 1098,
+      "sha256": "a3f93c62adc355080af9fc64ced806c979f5abd41c7359749b1c55ef8dd5a883"
+    },
+    {
+      "path": "math/lean/docs/272.md",
+      "bytes": 1290,
+      "sha256": "9408c19dfdf984220c4a16f0ec7c7088bbaf77ff5f7c03d858159091c5d64c06"
+    },
+    {
+      "path": "math/lean/docs/273.md",
+      "bytes": 1117,
+      "sha256": "78e1bacfac6f4ffe223e3607912563c718c0840d2775304db9ad192ad9ff1259"
+    },
+    {
+      "path": "math/lean/docs/274.md",
+      "bytes": 2107,
+      "sha256": "cc8ff09ace647040cacb042901d0796a1e1f0fb467f7737ef5d98e824b83148f"
+    },
+    {
+      "path": "math/lean/docs/275.md",
+      "bytes": 2157,
+      "sha256": "db247624d3208ad9de7f1b3e56111a09d4d73d2f7b5ebf7fa48be1dcc92bd5d6"
+    },
+    {
+      "path": "math/lean/docs/276.md",
+      "bytes": 1108,
+      "sha256": "34d51d11d25cf4d1108b3914cfcb7d13a9df63a0cb3dd82071406f07c0640a99"
+    },
+    {
+      "path": "math/lean/docs/277.md",
+      "bytes": 1133,
+      "sha256": "156093cee5a104b49058f04f19aeebd9b328f93b7cd24957bbeb77f7434da4a1"
+    },
+    {
+      "path": "math/lean/docs/279.md",
+      "bytes": 981,
+      "sha256": "70edc97191b737cec8ade36d26bd53cd0c75f9c0e33c8afa53e7ce32ee67a88d"
+    },
+    {
+      "path": "math/lean/docs/280.md",
+      "bytes": 1162,
+      "sha256": "0958014bafcb7baa254378b37d31b5a54360b3de237cbc5e4f6be14afa8789b0"
+    },
+    {
+      "path": "math/lean/docs/281.md",
+      "bytes": 2330,
+      "sha256": "244155dd6e7310ab65b1b4ec342c499149057fe90ae0aba8340a0c5bd656a072"
+    },
+    {
+      "path": "math/lean/docs/287.md",
+      "bytes": 950,
+      "sha256": "ca07a1fdca2d809111fd375ed2207bfdbd52976a12b26b167b3ba766b2f11221"
+    },
+    {
+      "path": "math/lean/docs/288.md",
+      "bytes": 1234,
+      "sha256": "4090a2ae062ffc80424155a77db140dfda599e439c6ff7031d7360c3c9bf432c"
+    },
+    {
+      "path": "math/lean/docs/289.md",
+      "bytes": 988,
+      "sha256": "f8fb8f23d1881646b11bc200f15333a07fd1ad0f142ea032328a2fe336a03347"
+    },
+    {
+      "path": "math/lean/docs/290.md",
+      "bytes": 1132,
+      "sha256": "5a2c09d9434539f1f131dd67bde02d5dae822e76d7a611b1c95429bb6d016f4b"
+    },
+    {
+      "path": "math/lean/docs/291.md",
+      "bytes": 1285,
+      "sha256": "7484037eae43c23ac129b34e5b01e444fbf9a103d8522de8bbd87d2533552c06"
+    },
+    {
+      "path": "math/lean/docs/292.md",
+      "bytes": 1016,
+      "sha256": "0c2e1f10e2cd722ad79305b9061aaf85ffdfb013887ce0a60898e04eab8b4674"
+    },
+    {
+      "path": "math/lean/docs/293.md",
+      "bytes": 3082,
+      "sha256": "bfb0ef3baee67b51b0e5b45b8bf91efa97e03d9d9c706a7ee1273f1eae3500f5"
+    },
+    {
+      "path": "math/lean/docs/294.md",
+      "bytes": 1443,
+      "sha256": "bb14fd4a298967693717407eb84048fe71a014aee80e87bea77f5b126822aa2c"
+    },
+    {
+      "path": "math/lean/docs/295.md",
+      "bytes": 949,
+      "sha256": "e9d070126e226f55f07cdbaee5ce5ced8c660c7cda31ca0c7868c722f874f629"
+    },
+    {
+      "path": "math/lean/docs/296.md",
+      "bytes": 1391,
+      "sha256": "aaaf849da96ce5bece74765383abe338a9680488b34df1037bb2317186ed5a10"
+    },
+    {
+      "path": "math/lean/docs/297.md",
+      "bytes": 971,
+      "sha256": "5d0717736953a9833486896e53d80a456b63d4ce530a2b7888a8ad374e452fe4"
+    },
+    {
+      "path": "math/lean/docs/298.md",
+      "bytes": 1126,
+      "sha256": "59af2fab17f45319cd14542b9ca45bf7baf7decbd6c73f07e4d5b207582e594d"
+    },
+    {
+      "path": "math/lean/docs/299.md",
+      "bytes": 968,
+      "sha256": "8631bd9a497e17f128a6b8e2ffafbaf55037c70d73edb13672bc79a23cc6a33b"
+    },
+    {
+      "path": "math/lean/docs/301.md",
+      "bytes": 1452,
+      "sha256": "f12aba5f0d86abca7d747233686cb99db3f5beec7b70fd69c55ba4feeb456ed6"
+    },
+    {
+      "path": "math/lean/docs/303.md",
+      "bytes": 1167,
+      "sha256": "b1a634832543c8a542429a4765e4a2a9f39b40de96e04e1dd922b9547b58b3ae"
+    },
+    {
+      "path": "math/lean/docs/307.md",
+      "bytes": 1073,
+      "sha256": "849a787ee8675660b6c4f3e0a14a44b1207a9a2a495e656bf08d4b95aa287389"
+    },
+    {
+      "path": "math/lean/docs/312.md",
+      "bytes": 1032,
+      "sha256": "4b5e55c90cbd20a84a8150b8e0c6253fc7d88da29df8e0c07ad80a786130b0b2"
+    },
+    {
+      "path": "math/lean/docs/317.md",
+      "bytes": 1158,
+      "sha256": "3cd6360f128b3873567572fc77537e308a203bb91f7c4ae250fee90336bff114"
+    },
+    {
+      "path": "math/lean/docs/322.md",
+      "bytes": 933,
+      "sha256": "5b8a07a1aa25bbca2c2a9ddd101fe2c7d2af88dceb7a975981f046e43e8f781c"
+    },
+    {
+      "path": "math/lean/docs/323.md",
+      "bytes": 1144,
+      "sha256": "25cc6d32d52d42acd9c8e1aa6e4817abfedfee737f839695d682a2c1778eb4e9"
+    },
+    {
+      "path": "math/lean/docs/324.md",
+      "bytes": 1636,
+      "sha256": "7efd66a6a6964d0f0a7367256faaabb654abce2e80635ea8198b5228fc7c43b8"
+    },
+    {
+      "path": "math/lean/docs/325.md",
+      "bytes": 2508,
+      "sha256": "e44548f4f54b1e408506529aac102b3a2bfcf930ddb5145afb4b193a97dee54b"
+    },
+    {
+      "path": "math/lean/docs/326.md",
+      "bytes": 850,
+      "sha256": "3258a78b82f7c4329e9a3fe00daf5eafee62f441897e0d5e57f0865813201d3a"
+    },
+    {
+      "path": "math/lean/docs/327.md",
+      "bytes": 1031,
+      "sha256": "6e7aa05cf96fadd65581ba74de37c1a78b975a57431729313dbb03e931327948"
+    },
+    {
+      "path": "math/lean/docs/328.md",
+      "bytes": 967,
+      "sha256": "9f79d43bd015142bdc270e47722767be151f59742df8f77ae006fd89ab6ea098"
+    },
+    {
+      "path": "math/lean/docs/329.md",
+      "bytes": 1034,
+      "sha256": "1c44d84ab8638875d9c80d292e2b52ed5f9a6fe014f70069b95cf867b01cf6e5"
+    },
+    {
+      "path": "math/lean/docs/330.md",
+      "bytes": 1427,
+      "sha256": "fad8486a7daeef55a8280172ea655b34a705cd8985a7491445f2015b31449b7f"
+    },
+    {
+      "path": "math/lean/docs/331.md",
+      "bytes": 7852,
+      "sha256": "940a047f82e24e98f580deff26d9e4aace935760777513aa1e32b2289f5c95a7"
+    },
+    {
+      "path": "math/lean/docs/333.md",
+      "bytes": 904,
+      "sha256": "411de27774e13e69432f2f0f4a3ada67bc2f06c34975f7aa178b7c7ba88368ef"
+    },
+    {
+      "path": "math/lean/docs/334.md",
+      "bytes": 967,
+      "sha256": "9ff03fdfa2f5d950f16ac10516619e25c129a434f913a048be61f8e39d183ef9"
+    },
+    {
+      "path": "math/lean/docs/337.md",
+      "bytes": 1339,
+      "sha256": "38ba901fdf4d833c1937d2ca8260764efce5991ed07024e1619adc2a61ba643f"
+    },
+    {
+      "path": "math/lean/docs/342.md",
+      "bytes": 872,
+      "sha256": "d01841dd6f9fa058ffa6c57b5a9b60950e5c20a7f7c99f9fa46f0dffa14ca1dc"
+    },
+    {
+      "path": "math/lean/docs/343.md",
+      "bytes": 1200,
+      "sha256": "4991f75c4b7983e95b11c206269f94c30d4efd60a8f4d3742f3a4e928b946f64"
+    },
+    {
+      "path": "math/lean/docs/347.md",
+      "bytes": 1035,
+      "sha256": "0fd7d55568cb63cd5b014636474257408240390761c9717d88a39f0a4a896b7c"
+    },
+    {
+      "path": "math/lean/docs/348.md",
+      "bytes": 962,
+      "sha256": "2e9f4a1202e52b6a96a20ec69a3ee3a9e4085af617f882ca6bd1441bf28f85e4"
+    },
+    {
+      "path": "math/lean/docs/350.md",
+      "bytes": 2479,
+      "sha256": "a3484bd0311876df2c3281c37975500fc6a5ddf9b51916c624d6b0ede418c1ea"
+    },
+    {
+      "path": "math/lean/docs/353.md",
+      "bytes": 1197,
+      "sha256": "0296c67be6ab5fdc8f75ab2aa20812817ecd44258d36d8a96d1ae2d2bb3f7ae5"
+    },
+    {
+      "path": "math/lean/docs/354.md",
+      "bytes": 1052,
+      "sha256": "b7913858f28af7bde03cbbb2e7276e26512aa4e9805cd3ee8ad78c94fef0a784"
+    },
+    {
+      "path": "math/lean/docs/356.md",
+      "bytes": 1140,
+      "sha256": "367a4f1df9c3bdd59c1225309870183f4b010307d27ffa76c0b6271e41374fa2"
+    },
+    {
+      "path": "math/lean/docs/358.md",
+      "bytes": 1153,
+      "sha256": "02dd935cc57919e3085d307f16279f5062dbbe306addc73858d988d6b34800d9"
+    },
+    {
+      "path": "math/lean/docs/359.md",
+      "bytes": 1078,
+      "sha256": "1b465ed33fb7cf712b38b6c057f4af206be5e1ee9be5a0d346774148a7119635"
+    },
+    {
+      "path": "math/lean/docs/360.md",
+      "bytes": 1927,
+      "sha256": "36af7a15e7d017d426bf0b9b6468f43d18dc417ffa0715d39bd515472d8423c5"
+    },
+    {
+      "path": "math/lean/docs/361.md",
+      "bytes": 1125,
+      "sha256": "7a50bdfdb110e6ac9e68339e488130eeb67abd141aeb76f2889eee3669579c91"
+    },
+    {
+      "path": "math/lean/docs/362.md",
+      "bytes": 1107,
+      "sha256": "f3673d21484c486e032e6e4367da7927a1c0cb6899ebae657191dce4c731e693"
+    },
+    {
+      "path": "math/lean/docs/363.md",
+      "bytes": 1251,
+      "sha256": "2e3c36a9e6f7dca7922734f496559271cef40ffc36e63afb95da8a55ffe35304"
+    },
+    {
+      "path": "math/lean/docs/365.md",
+      "bytes": 1010,
+      "sha256": "6f0cf7314968e12c2ad323d6f4a91fb5ae7a1f545a6c78043527d130f546c4e2"
+    },
+    {
+      "path": "math/lean/docs/367.md",
+      "bytes": 1081,
+      "sha256": "ad770d8f4449129cb95ad6c1b0b248e033f85e97cbcdcc20c25842a14e40d4fb"
+    },
+    {
+      "path": "math/lean/docs/369.md",
+      "bytes": 1133,
+      "sha256": "3a79656f6ff91a6f687969cc79e40171531596880e16b2c6f4ac0b889e5ed3aa"
+    },
+    {
+      "path": "math/lean/docs/370.md",
+      "bytes": 961,
+      "sha256": "46f3228957de33d7c417826c135802ac463c584d876b3a00d9a9b6de87a8da08"
+    },
+    {
+      "path": "math/lean/docs/371.md",
+      "bytes": 1308,
+      "sha256": "9e2834733a04bf18f06eaa7f4e62c8b6edc5c4ec24dd87f2f4959ed40d9f5c04"
+    },
+    {
+      "path": "math/lean/docs/372.md",
+      "bytes": 1004,
+      "sha256": "5c6a8e21366181a580d561cfdc50d32306ac2f428ea487084db21bc5d603e3d6"
+    },
+    {
+      "path": "math/lean/docs/373.md",
+      "bytes": 1205,
+      "sha256": "3a6252809a039b974f04e769fbc9c6c018cd2fd86fb861c0106f47571611cc8e"
+    },
+    {
+      "path": "math/lean/docs/374.md",
+      "bytes": 1138,
+      "sha256": "db319fc02b2a12ef2e60b7322c24b50f1ff41c16366da563da9dc9b3f11d0fa5"
+    },
+    {
+      "path": "math/lean/docs/376.md",
+      "bytes": 5001,
+      "sha256": "364be27f3ccd8f7b09e2ae9ab18ffcb5c5ad26665d44711abea51d2cd7b51bcc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/README.md",
+      "bytes": 1060,
+      "sha256": "2ed835b3c59709be6feffe0dec54fc9783fb26aa22d35517475a82ef5199c555"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AbhyankarSathaye.json",
+      "bytes": 366,
+      "sha256": "c7e954153e064582ebcbaf85deacc29f933dca1c7188e90a6a78eb17b929148f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AffineBernstein.json",
+      "bytes": 329,
+      "sha256": "97d58ff09d48912be30b3a5e5bff6ab42c3d9513093061b9d83f9ca351690c96"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AlgorithmicThinTrees.json",
+      "bytes": 362,
+      "sha256": "38c2ffc44e361cfdfe2d31e9732fca2eb455cad12b016c713ade750046ca815c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AmplitudeDamping.json",
+      "bytes": 316,
+      "sha256": "d5fd3b206d67df3786b22e25c25e9a7364ea70ee02a6d2d8b478b76e9ef7d70b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ArnoldCounterexample.json",
+      "bytes": 318,
+      "sha256": "6136c4b54dcc695ef9fe66f678206e2e6f94be96b97ac0ba922ad3aeedbd52cd"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ArtinCAT0.json",
+      "bytes": 302,
+      "sha256": "e1e3bb3ab560118c4297fb32b60f6b712c07c9437e03009024feb11f25d0d2ff"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ArtinParabolicIntersections.json",
+      "bytes": 648,
+      "sha256": "5cdce9a27a210cf0303327605c40d0921bb978dfed4fb5d689898bde51822c4d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AsymptoticallyMinimalLittlewood.json",
+      "bytes": 344,
+      "sha256": "0021e2cbecb32bf46c0ee9955f4241e518447f3019717304f2df794126331906"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AtomicGaussian.json",
+      "bytes": 339,
+      "sha256": "d71d20b7017dc41a1c177550b066fa430c0a42c698e3c53254059c9935ff4723"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/AuslanderReiten.json",
+      "bytes": 320,
+      "sha256": "c449639de0d62ab7d444f20d65524c9e6b1ab3a7fbb4bf0501c4cbe0018b4b9d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BackwardIntertwiners.json",
+      "bytes": 364,
+      "sha256": "02f60773a490f1f12b81b2b0a66cc34ade1ba3aeaa237f2d4a67613797278973"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BalancedBoxRouting.json",
+      "bytes": 341,
+      "sha256": "3f3872d934ea1de596b35ca276b9851f959197405156c55ced130a14ec20eb59"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BalancedRyser.json",
+      "bytes": 318,
+      "sha256": "d62d108e667847e9b14dcf091270a2874098b18090aeb8b2958f406f4e2be6c7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BalancedThreeStack.json",
+      "bytes": 382,
+      "sha256": "4c732025e7607907d3f2997d3ae766b5ba545837a76911d133dfd2c1362b2516"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BallPacking.json",
+      "bytes": 330,
+      "sha256": "db38b1d65cbe33115c0afab6c419e503f32df996ba492a76b0f701fccf205f9d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BallPackingNecessity.json",
+      "bytes": 354,
+      "sha256": "545ca1c9450f8b5e3f3abe81bdab0da72c5026e9a54bb979d5de408a04c8a995"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BarnetteHamiltonian.json",
+      "bytes": 315,
+      "sha256": "aab9ec9e4157b1f4ff4e26cf908c5390bcb2651a7d011ef47aefe90ec8839d24"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BassTorsionFree.json",
+      "bytes": 338,
+      "sha256": "82f55520e67d9e0eca53b92a6caa820f1351a58778c11097243504a88259c033"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BassTrace.json",
+      "bytes": 351,
+      "sha256": "c539654a4313c8174c966e8bfe7db6aaad145975fb41107dce7afcecaf3a537a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BenjaminiSchramm.json",
+      "bytes": 446,
+      "sha256": "e28c13cfa56ba14b02e883fc5195201b8b349332e7ba80066594eda566ee1bbc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BernoulliNonflatInSeven.json",
+      "bytes": 329,
+      "sha256": "173beaa7f2f19c5d7d58c3a292f02659a254027c14d68c682218524c9eb31ae4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BiholderTransport.json",
+      "bytes": 344,
+      "sha256": "7c9eb6cfa8ef73414fd72772596c4289850e13af37fe0d2204e9823af97737f8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BinPackingGap.json",
+      "bytes": 321,
+      "sha256": "761527acf4ff186a6765baf5b3f30d7542f75b88865168de59e25e7c360ba941"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BinaryEditLower.json",
+      "bytes": 336,
+      "sha256": "9adf2e0463ce93df2b14045c7229516428f8c930dfad33a5cb1e90f5449dc095"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BinaryMatching.json",
+      "bytes": 355,
+      "sha256": "9ec0cd858949e16333ae9d64e68c2a25a1d1f03b59c6af0c90cc79731f2e9c9a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BinarySweep.json",
+      "bytes": 327,
+      "sha256": "25effc8adb0ada050f97be853249026cf6a5a97b603d99992ad27835d5b23e22"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BipartiteCrossing.json",
+      "bytes": 326,
+      "sha256": "805fa1d52cc07581d9951ad6d927c123c933f5c75fc4a2a6b08f5096a555625c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BogomolovPopInjectivity.json",
+      "bytes": 341,
+      "sha256": "816c2087376d65294932beb5d25150b11637a0e5427501f0296204a0b629c4d0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoltzmannNonuniqueness.json",
+      "bytes": 345,
+      "sha256": "9ca37d7988f739deb1edf05a62b1f1bfba0c543a85e68940b1f7b6d97302ab2a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BooneHigman.json",
+      "bytes": 321,
+      "sha256": "aa9e3b1a0c4339c0ed2c99e4efb1e8d07521a0646c17da5046a1159c34af11e9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BorsukNine.json",
+      "bytes": 306,
+      "sha256": "166280fe4f1677ef284ff142354470b9fb18b030ce8ff5632d9790c8aa5e4f43"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoundedRecovery.json",
+      "bytes": 329,
+      "sha256": "bf415d887efe5963971791efc7b454bfd48c1fed5bad363b8d21b99c2a11f6f9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoundedTreePotentials.json",
+      "bytes": 355,
+      "sha256": "fb79b609796648a1e4fb13dc0a1580919452b540c15182b291cb990227becb71"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoundedTreewidthL1.json",
+      "bytes": 332,
+      "sha256": "ec313e68d93286dff543b0d46755de4b6ca3de772978bfe476a8cae08ca5256b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Brenier.json",
+      "bytes": 799,
+      "sha256": "e1dad7691ebf7ce32c1f09d852983ec3826c3f8c1f3663d436ff99c2b1674e66"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Brennan.json",
+      "bytes": 307,
+      "sha256": "1973310cc46409cf180cd7811611407a727175932ce26ea6bc9b6dcb4dd6b553"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BrennanSharp.json",
+      "bytes": 331,
+      "sha256": "5e28f46588ce17e2f573caee303ba6f49d89eddfe438ccf2b344cdda15165187"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BufferedIsing.json",
+      "bytes": 325,
+      "sha256": "2296f18939164018315c7f6c3372971293e6998e9b94633d388e7f2ce402ac3a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/C0Absorption.json",
+      "bytes": 315,
+      "sha256": "874bc8d2370ec332fd743314e45b56bd530df1a962e6df4003b7fd98f4531555"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/C1EntropyCounterexample.json",
+      "bytes": 364,
+      "sha256": "ae2885a8c8863f250bbaaf04c887a91d14240505039ea1538419184d182908b4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CHObstruction.json",
+      "bytes": 313,
+      "sha256": "95484776acae3d7176ec20898817a23910dff1282e064fac9c74a68f1beac4f9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CKSBondiPenrose.json",
+      "bytes": 406,
+      "sha256": "3e7ee023cc5b46c7c17ca53e633ce692539c072d73e4ce1d1a51b3907b065e2d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CannonGeometricAction.json",
+      "bytes": 314,
+      "sha256": "008654ea2832ef47b6a8a3ed74e69605862761f29aa489e5af904d1113494f40"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CartierChartCompactnessSupport.json",
+      "bytes": 390,
+      "sha256": "242cadf7dd3f4675b1db7043075221e2044ddc7786837ed97971138a31b62c0f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Catalan.json",
+      "bytes": 319,
+      "sha256": "d8e970601d8f0418cc21adfcbb794fe8cc11b0fdbd9da7fd6dfcb3052c8ae7a3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CayleyPercolation.json",
+      "bytes": 342,
+      "sha256": "3373222b32ed6e2e9b4c31ea91abafc8d703ede87a11750b598355b15ba8adc2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CharacterCriterion.json",
+      "bytes": 338,
+      "sha256": "747bbe2975f953d0b5cab3007d6236031a75f82ce32a8d952d06fcc7eac170e5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CharacterVarietiesAllSeamsSupport.json",
+      "bytes": 429,
+      "sha256": "c6bc7eb2e8d770e64482e642a8a6f25f020d73a0df5927a0b6b03b835798fe8b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ChoicelessPolynomialTime.json",
+      "bytes": 328,
+      "sha256": "6b7b0c476948208fa58011497df3ddcfb0d3ff08b7299141949da3240a21cf7a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CirculantHadamard.json",
+      "bytes": 352,
+      "sha256": "c1fe62023b2b218840c7389b00a97473b48f3a59ab1af453f0dd4558b9e6b4b1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ClassicalON.json",
+      "bytes": 308,
+      "sha256": "47cb3623915c8cfcc35099fabd0c44173afa72b706eb0526c4b8d3855e789252"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CliqueFreeLog.json",
+      "bytes": 339,
+      "sha256": "ddfe72ae1b6d99817f05dd1b91ff8e178717abeecff667e08781df60c1faf56d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoarseAssembly.json",
+      "bytes": 356,
+      "sha256": "50843cbcf09950a83822d1c008cad51a184886fa2a75b1d391b8719becfeb10d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoboundaryExpanders.json",
+      "bytes": 325,
+      "sha256": "6f2c4debeb9f1913126ff6c541af0e627c48065b4b5a73f1ac4f26768f793e67"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CommonBasesFPRAS.json",
+      "bytes": 328,
+      "sha256": "b4d68930a3d2d6b026c00c72104ffa7276b7691ab36569a1ee060a20f2ddd667"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CommutingDerivations.json",
+      "bytes": 409,
+      "sha256": "627ee35337cc015e1afa71282d815b9acb0f9facc91b8e15b59e3f1a25be6bb7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CompactBanach.json",
+      "bytes": 322,
+      "sha256": "0b2f496d1bc30fbae51e69373f7b09817d4c0cca5f99e4df1921bf394cae990c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CompleteCrossing.json",
+      "bytes": 343,
+      "sha256": "6b2a2b034a4d860278e99d6c36fcdc0b0fcf60a4baae508c0b45d4a7807cc570"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CompleteCrouzeix.json",
+      "bytes": 318,
+      "sha256": "458866285eca662c7e35786aef3332e44d4d46edee29a4c0c09a8a67a46fa22c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ComplexCancellation.json",
+      "bytes": 327,
+      "sha256": "d6387837a006e069413a5529bd5ce1e1bf8a1f4dc959fe40a4f8dba5ccab3465"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Conductivity.json",
+      "bytes": 328,
+      "sha256": "ca6115f52ab9f5eb5a082efa9cc3a31173e611b29be32421af9631ab49033af0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ConjugatePoints.json",
+      "bytes": 332,
+      "sha256": "41325189d075c70c053c8b662eeedad5ecad3458306386227918354ddd20f663"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ContingencyTables.json",
+      "bytes": 433,
+      "sha256": "4baaa8be9da6f2c3b8664c94cad82b8f2c549b69315374584d6d01e381719a57"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ContinuousCircleWeight.json",
+      "bytes": 339,
+      "sha256": "0397bfe26ded4b8e4d2948097203bd773ff86ddfdcf39a63b6da6f51a6f430a1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ContinuumCoulombHardness.json",
+      "bytes": 420,
+      "sha256": "4474513026235160eb611d1907fcec23a32938f7a6fc1d5ed18469cd6584384f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ContinuumTransition.json",
+      "bytes": 341,
+      "sha256": "8ec375365e428188d10ee25955a2c0eca28200f949839b0a8356d5542127e8d8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoordinateSweeps.json",
+      "bytes": 379,
+      "sha256": "84dbb774ba106569f6e05834ae5a43e5b04050f1e0bb1ebb8dd324b6bd8fc332"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoordinateTrace.json",
+      "bytes": 363,
+      "sha256": "b7f98ec669c151ff5556e891fac05f654534018230827ffef516e880b3fa05ac"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Cotype.json",
+      "bytes": 303,
+      "sha256": "b60c097ef466c4a8a57d8ba03e0768a209add7edf723fc9a5fc275df48548d12"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoulombCounterexample.json",
+      "bytes": 354,
+      "sha256": "f4eadba743a750f5d8d9e931930c9b063f14dde915d9478e5b5206e9eb470833"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoulombIonization.json",
+      "bytes": 335,
+      "sha256": "18cb9e193da1c2a874a734c9bd181e440a2e0614cf2699b4ff81ca724df98789"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoulombRadii.json",
+      "bytes": 326,
+      "sha256": "bf7f1437021abc1d5f12b46dd54c759bb6c31e4898c961d999865fd1a8fe76c0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CourtadeKumar.json",
+      "bytes": 351,
+      "sha256": "b7095cca718b8b49c9f60e94442f8c3583a5cec13ac6c612dbd47a431fdcac32"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CoveringDensity.json",
+      "bytes": 324,
+      "sha256": "87330460c68725406af148401d0d381352a1b74cc072e187f8221c6490c270ca"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CriticalPercolation.json",
+      "bytes": 367,
+      "sha256": "88eee765d329a72ee5b37111a1c46259002b94cb427cd1b1dee182740e547a54"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CriticalSK.json",
+      "bytes": 445,
+      "sha256": "3164b158fbba980bda240f2d512b8480efd678b64662e13e6955ec16782003b3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CriticalSKMixing.json",
+      "bytes": 341,
+      "sha256": "b87c7aec463827b9a2b5998ff22deb78b6af2dfd0b026e4eb26e574c3fdad466"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CriticalStripMass.json",
+      "bytes": 331,
+      "sha256": "0ecc1f5adc98efbe21db51fa695e066aa8f723fc191a63a2713c71261e9ed1d2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CriticalZ3.json",
+      "bytes": 321,
+      "sha256": "ab3de20c993f7c3823a26577052b8bf950e310841e990ea604a4bdaa83b85e4c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CrouzeixHilbert.json",
+      "bytes": 313,
+      "sha256": "5f2b9d63efc1937249d9ecb46d14682387c68b5aa7c69e981a5e4566fd992ba3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CubicTorus.json",
+      "bytes": 322,
+      "sha256": "fff1e3cf52e536dbc8d07a79e9643f62a8a532d72bb267dd39fed4adfeeb7c35"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CycleCliqueRamsey.json",
+      "bytes": 327,
+      "sha256": "fc8a7ad236a29ef1a98354f31df987b9b343ce212ee6903bd7b283ee952a8c18"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CycleDecomposition.json",
+      "bytes": 332,
+      "sha256": "f89705dba6bfbf27113cae83ae8000946bd6276b2afae4b19e28fa528dfb32d0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CylinderCovering.json",
+      "bytes": 329,
+      "sha256": "cb64a312b6789a8b39ffb6879e344bebbc94808ec93d39fd57820f0caaadce23"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DaugavetModuli.json",
+      "bytes": 395,
+      "sha256": "351b9e76846a012f194810e1d39366e5a6d5156496dc83a76a429c5890269bff"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DefocusingNLS.json",
+      "bytes": 561,
+      "sha256": "8b4ac61ab19a517a9ebe997afa0cece29c40a15d34978d6bc975983e6df38b91"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DegreeRigidity.json",
+      "bytes": 338,
+      "sha256": "8aea98b8c9d06631764ee739802c2783a4333b106c0b8f8e33153bf01ddaf7dc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DeligneDrinfeld.json",
+      "bytes": 315,
+      "sha256": "2fe02807b46eaab9e0f45f313f474d0d7448bcbee361cd2f9604ebd83d6bc8ba"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DepthFive.json",
+      "bytes": 301,
+      "sha256": "d66b34bd2661e1a43b0e56787ccc15df6760e78b96f3ad8c5454f873574d484f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DepthThree.json",
+      "bytes": 368,
+      "sha256": "0b9ecec5cb9b079bf8f6b301604938a9b74758f6abeff6dd985e160c89f578b3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DiamondDistortion.json",
+      "bytes": 340,
+      "sha256": "d2ec9360f04c9f4efb69885db8aa9976fa488763403a585029a32f5ffb20515d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DilutedSpin.json",
+      "bytes": 322,
+      "sha256": "9e5e391833d235b09e34d4d097126710f1d135bed388b68f550bc211cb75967b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DimensionTenChannel.json",
+      "bytes": 342,
+      "sha256": "48ac2ec3870a516bfb6c87dad322f996eb9772d98f03655857bd810143c12707"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DimensionTenPair.json",
+      "bytes": 325,
+      "sha256": "863e75ecab1349374e4d2879fae64d1f20366fd683907715f720e31e91a4cbe8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DirectCrouzeix.json",
+      "bytes": 371,
+      "sha256": "26346f0920c9862517f30c4c3a016a5aea03913cca5c151dd1a26eee3e7a9f82"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DirectedFeedback.json",
+      "bytes": 325,
+      "sha256": "243bd7b7a30350edb07bca38d28c6ebd5b439d8ae3519677b949f9bd8f306a38"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DirectionalBallisticity.json",
+      "bytes": 370,
+      "sha256": "50701da9c416997d906243fafa42c6d937a64b2e1d7cb77d06da23383db5eaef"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DirectionalWalk.json",
+      "bytes": 339,
+      "sha256": "ea34b454938f1b9cbe3535c5f42b87b113b2605d3b1d1fcae474c354469c571d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DirichletSevenEighths.json",
+      "bytes": 369,
+      "sha256": "cfc8d85d49ec5f180e75990d95c59c45f9bd5b9f453a101308870b9c4df9e1d9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DiscreteLipschitzFree.json",
+      "bytes": 330,
+      "sha256": "6d40763c28d0e8fe5e2a2d2c7da635fbddf4c7085af3bd41d58b20517def9bae"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DiskMaximal.json",
+      "bytes": 323,
+      "sha256": "8a0fa89d75ec2dd05b259e3b34908f0f2f981620c00407b1ffc43bb685a7e510"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Dixmier.json",
+      "bytes": 336,
+      "sha256": "a5c834ed51790a3e3e126cfc3a1e8b67aba7af11efe771d12ffeaeb74493b014"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DixmierAllDiscrete.json",
+      "bytes": 335,
+      "sha256": "8072f74263ac840a87fd90ce9756c7d308ce67af731bae36ef577f0a16156aa8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DoublingHilbert.json",
+      "bytes": 317,
+      "sha256": "b50d494bf6538adafb584efcaf9ccc4702de49d47800ed95784e62cb112e16c6"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DukePrimeDegree.json",
+      "bytes": 471,
+      "sha256": "1e365bb14f0d1c1e12bffc592ba31509a42bbb3b11b322ec00d7f5746d9fc5e8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DuttaDomain.json",
+      "bytes": 309,
+      "sha256": "e0534742f729ba0786b89b18a40e597c9494490277f651571fa0e74b967f9b35"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/DyadicAvoidance.json",
+      "bytes": 336,
+      "sha256": "6c9a6ed82b41903057288d067c578ebb58a6d4508b4855474268f41af2e781e7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EditApproximation.json",
+      "bytes": 376,
+      "sha256": "31389b08653110fe0f84e1920e7596a7886c9f2743fd971f40455aa5d90a1726"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EditDistance.json",
+      "bytes": 314,
+      "sha256": "d67ebdf3b9eb2a626f0acbba371e6d4fc2d9ddc5dfc1002aeb7a73bfd8843b68"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EgyptianFractions.json",
+      "bytes": 737,
+      "sha256": "e437463f549509b9f7915877a19a54ec1d17d961fee02ce83d5cc3cf1a5fcf36"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EilenbergGanea.json",
+      "bytes": 321,
+      "sha256": "6cb3960bd51d389413da08dfa0f2df48ffd50e5ef3adf455ff0cd25d496cd870"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EinsteinFour.json",
+      "bytes": 440,
+      "sha256": "acec5e9ae44fcd14df2fed34718730c7d83e99a8d246b048fef687259927ff21"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ElasticityUniqueness.json",
+      "bytes": 342,
+      "sha256": "91b68c7c74c9e3a29813b2a205d9d078072bc69de056d9ef980304258fdf8444"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ElementaryPositivity.json",
+      "bytes": 328,
+      "sha256": "a99e9ab3cd86e43a1608fc08769e1f0dc0aad89f1ca0196c3bea5ef7ad4ed816"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EntangledGames.json",
+      "bytes": 355,
+      "sha256": "cb52a10bf682ae1e2bb84d645be13e4c18c0539b8e0b847b565a217e06d51054"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EntropyPhotonNumber.json",
+      "bytes": 365,
+      "sha256": "6454e08f0605d1c55ceeb6cf76a19d2066d9b3c0a4c3e02f23bacf497062d72d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ErdosReciprocal.json",
+      "bytes": 344,
+      "sha256": "fc7ad13638f1f8aa6eca513e64c871a533a0b07a3b0eadd4ada0df6585eb4a2d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanFiveColor.json",
+      "bytes": 387,
+      "sha256": "46b5d2c6fa6c2977b52e36c2b19953ee57fc7535584848c6d4010af4edf81b39"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamsey.json",
+      "bytes": 332,
+      "sha256": "2d7a4422593f70e170f5fc41c87e33f8afae5ad3cf795000c09181d9fad76872"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamseyCircle.json",
+      "bytes": 377,
+      "sha256": "411cd1b4258ee505af8fcf8e8b39db1247e6fe0fe65b59d8ab818854bd4d3a3b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamseyNine.json",
+      "bytes": 370,
+      "sha256": "7d812e8507ef7dabbe5bbc6b923dbb3f12944c003b53b95b6a6c6cc6ca94b2ae"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamseyQuadratic.json",
+      "bytes": 373,
+      "sha256": "7660506f506c749cbaee83f953e4205a7bd381698f4ebd629c9c0bafa824dad2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamseySpherical.json",
+      "bytes": 350,
+      "sha256": "b06349c750fa57855c5514390d6661bea2d1417ad6f58ec4f2d0521334e26cef"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EuclideanRamseyTransitive.json",
+      "bytes": 390,
+      "sha256": "f9e3036fed3b30675b989b4b43f590396cc7eff0d3c9162deaaa589722626b36"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EvenBarker.json",
+      "bytes": 339,
+      "sha256": "103c2a7c7de9212a4988dd183c54803a999f3550693ee5f07df17cf606527bf9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ExactFourier.json",
+      "bytes": 323,
+      "sha256": "5c80971062c12f3ec364ae482fbd1e0d954c81c36437f3faa0b2c56562d1892c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ExactInfiniteness.json",
+      "bytes": 462,
+      "sha256": "6cf788db031e52631a85dce939d7a43d7667d675e63cfb28b96a9c537c7d83d9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ExactQuantumFactoring.json",
+      "bytes": 354,
+      "sha256": "411e9b10be6b479ccc80a30ca382e4764492e22e51717a863066e20b61db969c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FKCRT.json",
+      "bytes": 333,
+      "sha256": "67a10e4cf12e99cc2b14bdb200c09a26de447d28882ea6c3e262ae30cb7846ad"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FactorGeneration.json",
+      "bytes": 351,
+      "sha256": "4088aa35a7a507a148ff9ca928421bc372bd765c0b0e41c6cf1a0888fc11ef10"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FalconerAllDimensions.json",
+      "bytes": 367,
+      "sha256": "8fe8bc0b1f99ebc0a9a02bf3e3de68ad560a65f78a452268c53bea776fdfd01a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FillingCoefficient.json",
+      "bytes": 342,
+      "sha256": "22cf28a9f081d5583ecde3ead05c5fbb79e1d125b7a7021067d9462129f81f1f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FiniteCircle.json",
+      "bytes": 317,
+      "sha256": "903ca0fc5e5fa2eb4d0d8373a527b56810d62102ac95e109056af69456f9e923"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FiniteCongruenceGraph.json",
+      "bytes": 312,
+      "sha256": "4527a9b96cf508c538af6e5c40654257f25bab583ac40fa5e88cb963ee56e66a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FiniteEntropySeparation.json",
+      "bytes": 329,
+      "sha256": "5d030f348f4a3c30428eb96c74afc3a9c22dfc949c3157ae97cab6f1e7bf4296"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FiniteFactor.json",
+      "bytes": 316,
+      "sha256": "da2044c33b9af444feb43591deef71a1fcceb34909399c1f08a483b0540b483d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FinitisticAsymmetry.json",
+      "bytes": 349,
+      "sha256": "9a3eaf61ff768857a0ddc1562650b6391c78c38a51c15406f6b0b55a01e80141"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FixedClauseThreshold.json",
+      "bytes": 324,
+      "sha256": "a8c1f278e8fabc03ae3104ac329ec77fe32c98d67e7315cd615d9ad9ca8d5fad"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ForcedNavierStokesComputation.json",
+      "bytes": 393,
+      "sha256": "74075098b9c68d3a1212861fb284f5632e3e1fea66c1e302e851e43b8ef6cef1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ForestSpace.json",
+      "bytes": 313,
+      "sha256": "9345c725bcf2e13e62935384639956e9c7fbab03250e652f81810f261d01aa3d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FormulaHitting.json",
+      "bytes": 298,
+      "sha256": "a992f877ec771761914d814aefee436f030b634e811911965ade14b2112e0b2a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FoulkesHowe.json",
+      "bytes": 354,
+      "sha256": "88d413f643d799a7663353e0ade1d0bb7572a5752e8414fb2ec117244005ff64"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FourRowPermanent.json",
+      "bytes": 321,
+      "sha256": "f6da3fff3f2ef4c3b88762dfe0a518511fa32893025a30b3bb8840d7a4b73c4d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FourierLLogL.json",
+      "bytes": 318,
+      "sha256": "90decc246eb0e69baa220415dd12eefdf7f38511a011751bfe216745211e4600"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FreeIsing.json",
+      "bytes": 330,
+      "sha256": "a5933f8c91891b9411b209f8f1bf17b2ed15a8c3dd9e3fea72f60f24b7545f6a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FreeUniformSpanningForest.json",
+      "bytes": 340,
+      "sha256": "8de9824bd745146b43507600d6073c5c86dab5c516da89e4f060e8464f177694"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GammaPassage.json",
+      "bytes": 339,
+      "sha256": "0a6ce2cf8a360f4550d88beb22e14c277c0724c1ec67436c51f26570709abbc8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GaussianFiniteEntropy.json",
+      "bytes": 368,
+      "sha256": "3675fc424a5c398905fe5c9c65240a321612e24f9647c049d286dec0e6b5927d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GaussianInformation.json",
+      "bytes": 503,
+      "sha256": "17b5676ee836c6a024a3977fcd5be63e02e6d6011d947d648802e62bee270673"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GaussianMoat.json",
+      "bytes": 316,
+      "sha256": "b4a9fccc8f9ed173e7647456a587459e2dd10ff3b2a4f68ed7ed94b85ff2e143"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GaussianPropeller.json",
+      "bytes": 336,
+      "sha256": "8a26e668bd42299e8699ae3d25a31c1b4831ce782a618383347e4e879f116d63"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GaussianReplacement.json",
+      "bytes": 838,
+      "sha256": "70df646c99002e72d45e482740c7edbcdbe9b325aff4defbef69d035cec460e4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GeneralMahler.json",
+      "bytes": 331,
+      "sha256": "0b86d4f6c3853938a1eee76e47874bacbac91677167b146842763a333c93d4b6"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GeneralizedStarHeight.json",
+      "bytes": 329,
+      "sha256": "7656891198b654ddb8ee6916df71278ff4e46f7cfa4c147ba024f52c4a1f2731"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GotsmanLinial.json",
+      "bytes": 344,
+      "sha256": "984badd50d1b08ce2b0133740550f4207b64bc3ebf2a4c4cf249402c70dc8b59"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GrahamSpherical.json",
+      "bytes": 327,
+      "sha256": "585ed05f1d4cf2b416ac615acd50d80d5837ad107ccafedc6d318b7113cedaf6"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GrothendieckElementaryExpansion.json",
+      "bytes": 345,
+      "sha256": "9b43d4f3bce820f9f013a6078de44c83085d2feaedf3065aba6b665e71f509a2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/GroupRingDeterminant.json",
+      "bytes": 329,
+      "sha256": "18793264972faa50d5b4ea87daeda86a1b18259a9ca807460048d2f3390a31d2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HadamardCubeFiber.json",
+      "bytes": 336,
+      "sha256": "bcb65530d2cee7c6377770c945ff888b1b3534a42195091a9abbb92976178698"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HadwigerCounterexample.json",
+      "bytes": 419,
+      "sha256": "eeb332aaf7383820ab97fe251832cfc7a0e3aa5cbf4b2f16a48010704b32d273"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HalvingLines.json",
+      "bytes": 322,
+      "sha256": "4eaead0b07aeb43c37dfca75d19a1dd63ae395c6aeed3cca9d06816e73e37c1e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HardSphere.json",
+      "bytes": 321,
+      "sha256": "f6bf2751c5d19e070ca85fc664f35ff678c0112f54c65d56b576b0362214f0fe"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HarmonicArtin.json",
+      "bytes": 332,
+      "sha256": "7c21d952d095ea40268c7b8f7170ad1c244b68803495b10faa6e0d8634630a74"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HarmonicGrowth.json",
+      "bytes": 322,
+      "sha256": "5f390cbc0c9f2fe3dd7fc51bd86d3add956b8435140fe3a6b1b6d4d46887ffa9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HeckeSevenEighths.json",
+      "bytes": 377,
+      "sha256": "04eb947847df3c1717bdb660f70a74600d0991490bb67d52cbcf0b3186e0bd5e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HeilbronnTriangle.json",
+      "bytes": 388,
+      "sha256": "92eda4dadad1f161e53de6b74b3cd22e4bd7eb5036bdacbbc4754d00c06f8006"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Heisenberg.json",
+      "bytes": 334,
+      "sha256": "d0bb6369997304d6e50061cfdfa63acc8ff3d653d9cf21f148c8e3508b6ece95"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HenonEmden.json",
+      "bytes": 319,
+      "sha256": "c56ebe52117b7c2c119e85cb4442d5c71df3c5c774d52e3d7d528c862e533578"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HilbertCrouzeix.json",
+      "bytes": 488,
+      "sha256": "30760ad20eaffa391bb49c130ff9204ebdff9f09be66489f6a5900e71cab3c54"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HoneycombBridgeFiniteness.json",
+      "bytes": 376,
+      "sha256": "511ef11ffdbedd535f65fbe6073f7634fd79caec13443e2e3359c36904dff82e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HoneycombBridgeMassSupport.json",
+      "bytes": 361,
+      "sha256": "86229e94c32c59a51f0923e55216f08983de1b1d545e8e2a235c35b51b63cbfc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HoneycombFreeEnergy.json",
+      "bytes": 339,
+      "sha256": "8c5817e490772e6b7c39c227194e6ea1fe3ba234282c9e36621fc2726d44ddd6"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HotSpots.json",
+      "bytes": 310,
+      "sha256": "6227a74dcc4ea3d1afa0e92166110441f3b58424b44c4afc68aae157a600758c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HyperbolicCones.json",
+      "bytes": 317,
+      "sha256": "954a11b27fce69c9b1e70daa002eefe7f8182fb477629cacf4aa6460e2dced8d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HyperbolicObstruction.json",
+      "bytes": 330,
+      "sha256": "6aa9d01af2d443e2c3e0819ffefa45a81bc80a3825f636da0445365a17b351cc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/HyperinvariantSubspaces.json",
+      "bytes": 331,
+      "sha256": "224e0e96cd342cb640d0f2813faa09d6f908b91ec04f8e193883e4aa723f935f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IndependentProducts.json",
+      "bytes": 475,
+      "sha256": "311a2588782b51d5324e1029b1550b069f58630d7008868ea979b0fb8fab9610"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IndependentSets.json",
+      "bytes": 338,
+      "sha256": "ea6e46cb22c96e1967fa236586dad49343179d32fda982e01af8902c3e0c6803"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IndividualStrongInfiniteness.json",
+      "bytes": 368,
+      "sha256": "cd2383dadf6aa007f826219fbfc7ab03af449703a7ac788a00e616cacfad385f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/InfiniteMatroid.json",
+      "bytes": 336,
+      "sha256": "8d56594400ee353792bc7153086072fc05762cc5cafd4d9cc7e48db525e13b82"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/InfiniteMatroidCorollaries.json",
+      "bytes": 472,
+      "sha256": "a4b6a0de47c462845e55367f6b7dac6fa5ce24ac272a1416451de5c8282c0dda"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/InterpolatedFactors.json",
+      "bytes": 373,
+      "sha256": "47248c547be2f9ca8fbc03fd1c1c9f3d1c7b7bc0e11f3f226d9c2a07a461a5c3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/InvariantIsing.json",
+      "bytes": 1079,
+      "sha256": "bd82b06633013a3877e68a6269ffd494d237f09d9a620db8e5e8a1733f7f27de"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IrrationalRotation.json",
+      "bytes": 412,
+      "sha256": "a3a1c09d8ba883da4b4d6c22d2d4ea31dfea1aea6e421fc27ff180472b233514"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IrrationalTriangleBilliard.json",
+      "bytes": 358,
+      "sha256": "1d061632b3f927f0647236b12b6e826f835c23b9614acf92b4c358133ca3ff5b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IsingFiniteness.json",
+      "bytes": 368,
+      "sha256": "05055be2dfa31146c772ef39d632f01f5f0c2df5eec3eeb78b1dba0224121617"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/IsometricImmersion.json",
+      "bytes": 367,
+      "sha256": "51a377beae00c13be5c32c04dd2ce153eec24a3789fa7851475c852eb59ed646"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Jacobsthal.json",
+      "bytes": 333,
+      "sha256": "cc762a7b2dd0da4f2bb8140e32d26c2ca13f22a8c3cdf5ee1050820b7c892d69"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/JacobsthalImproved.json",
+      "bytes": 344,
+      "sha256": "40a21dc3be0b7cb9ffc19f9c84842e19cb33ec794e6fd650829d60daa74c1d57"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/JointDickman.json",
+      "bytes": 419,
+      "sha256": "ee15bbb9914ed5cba9fcbc730c22a80d21aa90f7cd92732b275717093a1ee49a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KLInvariance.json",
+      "bytes": 348,
+      "sha256": "61911f61b21b51e6e5785f4255c2acd49689cdddab8001a5a169ddc70659991a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KMedianRecovery.json",
+      "bytes": 342,
+      "sha256": "eacbc735d57be5f395f3721fe60d756291e85a12da83070af6a436fe1d4bb89b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KMedianRefinedRecovery.json",
+      "bytes": 375,
+      "sha256": "c174543da59205ead562413bb9d401735ac372a61c5a8dfb0d1a3c224fbf9564"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KMedianThreshold.json",
+      "bytes": 323,
+      "sha256": "f4603eff681f64ec365111db3effdf72db95411cd89fc8f19315d527457acd2a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KServer.json",
+      "bytes": 591,
+      "sha256": "e1d596679fa3adb7bc8be4d09c8e8219602df6a15ca0d8610989ae0021ad1dee"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KadisonRingrose.json",
+      "bytes": 324,
+      "sha256": "0c1628535d774c38ef8ccb520aac0eb6f67520e4bb960a6eb70dc5dc3ab6bfb9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KadisonSimilarity.json",
+      "bytes": 466,
+      "sha256": "0c1567e536796a6cf53e0a127593915bfd1b37440ca3e3a4b6ed9cb43e86a6da"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KahlerSplitting.json",
+      "bytes": 325,
+      "sha256": "2fc5188b55f267ee3b5ad418c58506cc180ee67dec646a6a6cb4693b483649e5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KaplanskyDirectFiniteness.json",
+      "bytes": 346,
+      "sha256": "744022e6c6946f696745f8b781aa7adf5c1039f7bd617d100a17ead2ca719c34"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KaplanskyFinitelyPresented.json",
+      "bytes": 380,
+      "sha256": "abb9081593480bf6cb2b2b4a76905ef0c14796470562285c36e9366fdf7a1c8c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KaplanskyQuasitrace.json",
+      "bytes": 340,
+      "sha256": "e0eeb8758e6ac605038ed26b0ce7ff86f9e52efcc6fb08e17eccc15ba316f3ac"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KaplanskyStableFiniteness.json",
+      "bytes": 359,
+      "sha256": "3b81e56943b9e3e1bd7368a13037200be6feefc8e3b7064e875e0b0251eddeba"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Kervaire.json",
+      "bytes": 316,
+      "sha256": "2a6ecc10a5f668e73b13274c2e13f3e9e7595b3e915252250cc63014c17fab74"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/KoebeCircleDomains.json",
+      "bytes": 380,
+      "sha256": "8ebfef927932379e4b309379cc35b25f5c7a291f40288fe9b76c8bc4ddd9cf52"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Laughlin.json",
+      "bytes": 309,
+      "sha256": "f67e3a3b21e27fe89fb328240e56f94bd703867dcf3bae8e0136b1907f0b2f9b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LaughlinFock.json",
+      "bytes": 312,
+      "sha256": "b2bcf9db7a53217790c506a54bdf8d32e6161afec0ce1d2372f20a7256596703"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LaughlinGap.json",
+      "bytes": 309,
+      "sha256": "755c7bbfaf718e09bff3af255c7008784632bb8226d1275b5991177e0d69cc97"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LaughlinPlanar.json",
+      "bytes": 314,
+      "sha256": "31d3888665fb79a0caa14dbd02afe7f1a1f542bcdaf7daf762ed6d70ff63a59e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LiebThirring.json",
+      "bytes": 328,
+      "sha256": "f268c47258b1afc0c96bffe7b35757b86657050ebaf9a6c3c67f4e7a9f38955a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LipschitzEquivalence.json",
+      "bytes": 335,
+      "sha256": "0cf9f13307f002f69b6de183508c5f30faefac4593c3b73d1c445bea5b7f3566"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LipschitzHilbert.json",
+      "bytes": 367,
+      "sha256": "268de7176924d2bf9e537125f586eab0d1530eb599aa1f52fb638c3e3333406c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ListHadwiger.json",
+      "bytes": 327,
+      "sha256": "ad6d4fe688aafd626834086a98c1d053ea2819c3da5ce4f21a72cc8068190d43"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittleFinitistic.json",
+      "bytes": 335,
+      "sha256": "14ac61824b748c4a332fd1a6ddf0dd71531f5dfdd39025d69d695023fbd207ce"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittlewoodFiniteFlatness.json",
+      "bytes": 361,
+      "sha256": "66c7bd25834b7a32e762aa8132f66f8ef7735012c581bad5c0a6c1f83dde6f20"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LogBrunnMinkowski.json",
+      "bytes": 325,
+      "sha256": "cd0b805962b00e0e15fb8e336de830480de26d86a4d9abeebe1af07a6aec0ccd"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LogConcaveQuery.json",
+      "bytes": 331,
+      "sha256": "5a0e43007406bf58e647ffa64a7aa89ec8c37c68535ad6193723ccf0aa6620e7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LogKodairaFiberNegative.json",
+      "bytes": 395,
+      "sha256": "8cb7ce0e8e694580cef7c45c3f1cf69e7bc2f494a236d7ac13eaac57616b11a8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LogspaceEquality.json",
+      "bytes": 1278,
+      "sha256": "80a22fecb8d68504a00419c12de7d83f9a6556f01d512ef7607c1acff61118cc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MUBSix.json",
+      "bytes": 318,
+      "sha256": "44b6a812682454988656f7c4cc85629d1cba5b3725f8cf3c03677c4f2535358f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MahlerConjecture.json",
+      "bytes": 328,
+      "sha256": "fdf11d50fc36b5ae3d13aeea074aa6e40071c6bacd8de44fc399ac9ac9251959"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MarkovType.json",
+      "bytes": 357,
+      "sha256": "74bc3d73b1cc70fd9f5a41cca42da521fb217f775d722b176d6ebb130382306f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MassAction.json",
+      "bytes": 332,
+      "sha256": "ffc473821d059208f1a4d138f62ca85b957c217cb2f6bccdc231cb7607255201"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatchingAffineLift.json",
+      "bytes": 349,
+      "sha256": "b664c2ac4978a66f8d04897a0c35d8f2d133fad9090c4d30ab82726417bc2334"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatchingEntropy.json",
+      "bytes": 330,
+      "sha256": "f080baefbec0105edaf37ecc5e2e937b78cb13a9d745dc997bda193c4696e2ee"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatchingEntropyBounds.json",
+      "bytes": 355,
+      "sha256": "73dda5ee4bf497674dc8e760ae812cb134327602d27e0e6c23010dbd22ba2e07"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatchingFPRAS.json",
+      "bytes": 320,
+      "sha256": "7f610f6ce6c7a87d1c1f190bdd5676b7f23bec79381c6acf787625a7ebe91fa9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatchingPSD.json",
+      "bytes": 317,
+      "sha256": "d13d1cda43db873f3822a6cd48dc96d3b32a8d7c63e00a2f25d788b54bf88dd7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatrixFields.json",
+      "bytes": 370,
+      "sha256": "7982a57ecaab76e22ab14d62e1145f30e98672ae690101ff96f78bb2a311a72d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatrixMultiplication.json",
+      "bytes": 496,
+      "sha256": "95a2e1557bef8931bdaa3da5c0ae969e5991f53199798b512d69e907f8a81288"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatrixRemoval.json",
+      "bytes": 336,
+      "sha256": "f746b2a374277d201eea7f901128a4833c7b637d1a8d17f33d0835a6fbfe5430"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatroidProphet.json",
+      "bytes": 323,
+      "sha256": "0797164ae266a053b85ae5c19fdc75d6e82f1b6077a64d6456c8b7e2d753bdd1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MatroidSecretary.json",
+      "bytes": 430,
+      "sha256": "f5839c6e6cbf4527b9a0229fa95e32718c9e6999a3cb5e415f87b481da38c50a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MaximalSeshadriConstants.json",
+      "bytes": 357,
+      "sha256": "49ea15b1052388a4a31fe7458ccb1e664eb482d1097e3c55b0428a3006d91c9d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MemoryPrecision.json",
+      "bytes": 320,
+      "sha256": "e54ef71fe8f4bc47ab2cbac30494e28505eb4c41ace0ddb6bd70698a486b64bc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MetricEntropyDuality.json",
+      "bytes": 370,
+      "sha256": "7b95c9c86fdd3dab7640e14a4f56f29873de2e6571caff62ad52a3b9314d964a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MetricKMedian.json",
+      "bytes": 322,
+      "sha256": "5f1d66f8b3ddb4c6545df695c636793d35a897aa168f66c7ca1007938d6a0737"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MidpointLenses.json",
+      "bytes": 326,
+      "sha256": "107feac50a26e221d39e856b630fb7810c4d02b1f2356d49607680c13f97719c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MinUncut.json",
+      "bytes": 301,
+      "sha256": "25c4db50f05701c143ffe3584fbb5a47a5ec3d2eb8d3c4bee1c190f41c8f0226"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Nagata.json",
+      "bytes": 450,
+      "sha256": "7b6dd9709dea0e6e72c35b1de0aaa3d5b91d13da5edb73bb7c21d0b98ef3395e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Naimark.json",
+      "bytes": 592,
+      "sha256": "a657509ed81bd3769754cb2a5c3fa0f6bf7504935c46660b3a6fe8400bbbde5d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/NavierStokesAlternating.json",
+      "bytes": 348,
+      "sha256": "dfebdabb86aa5e9af66ebda4622301973a0027045f6db0a41d967a5c80bd4d57"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/NavierStokesVelocity.json",
+      "bytes": 357,
+      "sha256": "419d5e95df6e712cf565daf8b95519b277f5515b94ab0c46c612cc1a23dc6d81"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/NodalLength.json",
+      "bytes": 304,
+      "sha256": "932cbe86e873123319b4bf67a5b309f76968e19768f580b7b9e83c9e710c9c7d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/NoiselessRegression.json",
+      "bytes": 331,
+      "sha256": "b0de5570355bf6758071045179a4ca69bf8f721a044ebe60812387b617c19bd3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/NuclearUltrapower.json",
+      "bytes": 336,
+      "sha256": "327f9998ad4ccbce48b8d0fc4eabdc46cdffaaebaf6202717f0e15af4cce6274"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OccupiedOverlap.json",
+      "bytes": 617,
+      "sha256": "23dfb290a91cd677f497d803e771b818a576df8d713dbee5a1b8be6f6dcae418"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OddKaplansky.json",
+      "bytes": 315,
+      "sha256": "aec211304ad49f15d11ae58b8017e71a0990c5be785b33412d641a43f977df65"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OneTapeSpace.json",
+      "bytes": 352,
+      "sha256": "b5f9be3f8393148089887b527cfc44f0a55d15e8db95888376e23360b026ec2d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OneWayLiveness.json",
+      "bytes": 321,
+      "sha256": "95a0d569553ffdf31bb09170b31bde4a91763743e228a8df80b05805b5ed9aee"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OptimalMaxCut.json",
+      "bytes": 309,
+      "sha256": "4f644dcb199a2442b84d6bf808beecbceb2cf4162cc53eb136119314fbe1578f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OrdinaryElliott.json",
+      "bytes": 359,
+      "sha256": "0eecc8b3ace4771b457e829af30c8e5d086c0a5eb42d10e8ea4bac58dcf7731d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OrdinaryTwoPointCorrelations.json",
+      "bytes": 503,
+      "sha256": "166093d8e0bc3344008d1fc2a29b14de8327b1a1c98fda6aa9a10393f76ca182"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OstmannComplete.json",
+      "bytes": 369,
+      "sha256": "7d416f74ed40f6206ccb3b2fb7c9edfc8c7c533e04d1a6f6aab175fa49b5c895"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/OstmannPrimes.json",
+      "bytes": 303,
+      "sha256": "e5d81312f79ab96e47ab3c1de37fc21bb7e22a7da6f65eb09d002f2e6f4fb73d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ParityLifts.json",
+      "bytes": 293,
+      "sha256": "fc98c2916c20bd6827c59c2b9272d1779c01fca4a7f538303acf2b9897a71697"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PartialPermutation.json",
+      "bytes": 360,
+      "sha256": "88aeffda616ec9563b3d472ad7863868f382317c8a9efb317bf78efc85277bb3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PartitionConsistency.json",
+      "bytes": 345,
+      "sha256": "920d7e7ad1a969244afd99ef10d2298dbf8b886962eeb77414af19a3447079e2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PartitionPrinciple.json",
+      "bytes": 390,
+      "sha256": "b397ff9f33531c0eb896a3fbda9431057789716b54beca87884716cf28bcdbe5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PattersonFirstMoment.json",
+      "bytes": 471,
+      "sha256": "d48b4d73e9dc89c3651be811523a469d0c0dd90a6d4afc12a733ff0cea4b4105"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PerceptronFreeEnergy.json",
+      "bytes": 334,
+      "sha256": "f655696e1e162ca6207fa08575b34b911c4b2db5213f47f73e6ad78d5f5c27b9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PerfectCompleteness.json",
+      "bytes": 356,
+      "sha256": "76c8b8409b50e0718945eb1d45c842412024de1257a8a8122ed5019c75631ef1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PeriodicGroup.json",
+      "bytes": 320,
+      "sha256": "2403d03f74333df5f7dbda45ffb8b25762b0567a5b3f603a12393467b7900413"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PeriodicTilingThree.json",
+      "bytes": 365,
+      "sha256": "e87378eda65c42e0ecdf457306ef3f79db0ee94dbfe99f890ba1b351a64ce147"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PermanentCubic.json",
+      "bytes": 337,
+      "sha256": "a3df1af3d439500b7a7828f23d2dbd149dc0aaf9b81858325bd4da423d4b1c3a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PettyProjectionVolume.json",
+      "bytes": 343,
+      "sha256": "ae1ee5160f9bd4ba896faa928b8cab668cf983bd4bb3b0dd1874806a0334ae4b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PiExponent.json",
+      "bytes": 306,
+      "sha256": "1e3e4707e73becd09872768b103547c68491199fe2c76d17b237a4f114f2c8a1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PinchedKahler.json",
+      "bytes": 402,
+      "sha256": "9d6298ec1b435c84e4f180e31510243a4ad012e7d4140f2a70025f72c6b12c8a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PinnedDistances.json",
+      "bytes": 286,
+      "sha256": "563f10bb8bc44e82342037189cbcd53eaa3bf420dd89c2e2b8f03e915fd52d83"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarAndersonSpectrum.json",
+      "bytes": 353,
+      "sha256": "8a9842028104663fa83f3840d7acb8882bee5c1d520c84f8f0e867a514434aff"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarFalconer.json",
+      "bytes": 326,
+      "sha256": "ec5ce2eff6e388e9ed8fd365da800c942794248a754691c47184fbd13dc37ea1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarFirstPassage.json",
+      "bytes": 333,
+      "sha256": "1171ec43edeecf996dcc2fa843e5d0034dc530fa83811ea96c010c7f627cabdf"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarL1.json",
+      "bytes": 331,
+      "sha256": "0043ad85e76dc9e2472f49d8a3d6c189093effa9e83170ae60c6c28f677349ce"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarPacking.json",
+      "bytes": 318,
+      "sha256": "a6478817e442b8183a8d96b35b76d61a18505c1628bc8b64ac9032d5b37053f5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarUnitDistances.json",
+      "bytes": 323,
+      "sha256": "f5240b3b7c2cad9ce25ca972a7d0ffd0ffd9a319ed73b1c9c61c8e21fb38c8bc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlaneColoring.json",
+      "bytes": 324,
+      "sha256": "4c422e33d0405983061eccb667a68817b999f953761f05e60aaaaa6caf0c0b4f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PolycyclicRecognition.json",
+      "bytes": 472,
+      "sha256": "966c87a959b0f64872c6acfa33ac6306293e5252ee6ef679e536d6d252767fc8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PosteriorReplicas.json",
+      "bytes": 333,
+      "sha256": "aa8e4892d4f48c971b6caa742d4362a572fae3ab72bc8fe13a6359424965ff93"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PowerFreeValues.json",
+      "bytes": 322,
+      "sha256": "d47857339c42028297f4f800bb4ad35d38ba3a9949b9e6542189f9dd7f8fac2d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PrimeGaps.json",
+      "bytes": 338,
+      "sha256": "fa8c98fa3d6180979015c747efd5193caa6863032116d6a0f103a7c73b99b334"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ProductBrown.json",
+      "bytes": 316,
+      "sha256": "0e6ce3ecafc81a73fdc9822129ff01d5b1507aa9ba2a11c1825d2addee258cbc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ProjectionCounterexample.json",
+      "bytes": 375,
+      "sha256": "f743e8d6c9a8a1d8ccb627457ab0c6ef59bd97e1b0034b4dfae2a9cc9939466b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ProjectionMoments.json",
+      "bytes": 326,
+      "sha256": "53a72ad6fdb527dcf9bd3ccaa0e5eceb72577a648b4ec537e0adebd3c4b5fed8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ProjectionVolume.json",
+      "bytes": 347,
+      "sha256": "c107f1d32562841448146ac9b5af3d4f24a2bdf20ebfe85ac82d92280185c6c9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/QACParity.json",
+      "bytes": 323,
+      "sha256": "249565edb570aeb09c2f923b9c6170427c531e02ce78f98bc98f464dffd51a5c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/QuadricBundles.json",
+      "bytes": 329,
+      "sha256": "e8dd5512653fec19023cca766e782d657b3ec6dca33347b87fb1620a49ffa64f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/QuantitativeVanDerWaerden.json",
+      "bytes": 361,
+      "sha256": "0fcea93df537b8451e08f27d23231cb1b05b515afee53c5d1d8b33dfcfd814fa"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/QuasiRiemannHypothesis.json",
+      "bytes": 353,
+      "sha256": "46ebb7edc11f69536210f502b4bcbd36bbaf3f0872c16748b6c8ce43991bf320"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/QuinticLienard.json",
+      "bytes": 313,
+      "sha256": "52e78108c45ce22cf96adafd9826f378ad61b6e222891b5dbade39ab1e805d95"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RadialDensityInterval.json",
+      "bytes": 350,
+      "sha256": "7180b535d9fb9b906a4ab2fcba0c66c7ee2b9e39e6e2888b52faa3ddbcfdaf4e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RadialTransition.json",
+      "bytes": 323,
+      "sha256": "42edad6787773f71f917cc6e43b4eca05dc25488c6f82f611d1c61115a60a399"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RamseyFive.json",
+      "bytes": 312,
+      "sha256": "8c18bb1703ababc9ac0604fa3aa47871c2c55443ddde448c1a40742829275964"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RandomizedMeanPayoff.json",
+      "bytes": 340,
+      "sha256": "ff6f8b5b31fa7ee7fc125d6d652ceb947eff43a808b187dd6f8d3d5dc68f36b4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RationalHitting.json",
+      "bytes": 296,
+      "sha256": "2b135eaf875cd6c699fd8dd9b9b8073f11da8ef767c581fd2e1b65d15d250dee"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RealL1Renorming.json",
+      "bytes": 343,
+      "sha256": "e9dd68ecd2c4c431bda00e65cd789f2aac34f3fe2f0a1925a73ae1c7fa168370"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RecursivePotentials.json",
+      "bytes": 350,
+      "sha256": "c098b3e0380fbfed29d8cef38720f7c6ff58848b3035802c53e40bc2f5896d22"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ReflexiveFixedPoints.json",
+      "bytes": 361,
+      "sha256": "9f178244093f7f2f109a6421da773b4f655512b030a965aca11257626c840537"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RegularParity.json",
+      "bytes": 341,
+      "sha256": "d1eaa46d6c9c8189b4d236bbbf0aee584991cac425b3ff63308944f059602d51"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RelativeGeneration.json",
+      "bytes": 334,
+      "sha256": "10ef647ccd63309fabc6e53378cbba50b3ed6039c6e6aae50515cd7c4753bf5e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RieszQuantitative.json",
+      "bytes": 375,
+      "sha256": "4656a5812cc764159634e8f191bf4e98abf20ebb130bcb31187a2c5a4623939c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Rokhlin.json",
+      "bytes": 440,
+      "sha256": "a0421a77acd1ebe5a01865b0aed6c19fcb35cd6fd0c5a8d5614e9c7ec1e723a9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RuledCovering.json",
+      "bytes": 320,
+      "sha256": "c32f7cf97d3d0233d1ea0aa1cf17e0332abd4ba14ee2364e26f273dbdb64ab62"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RyserCovering.json",
+      "bytes": 373,
+      "sha256": "496544b0aed472d462671c4902146331b0f0e4a4067ea1ba72a7a992f68d2864"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/RyserOddExtensions.json",
+      "bytes": 345,
+      "sha256": "9333c823e95c9871e99e380ac379430f564dd6a030854ea62019057d4e8a2ce4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SATComputability.json",
+      "bytes": 341,
+      "sha256": "d1e92ee4f9784ea2e91c44397a217daba8b65bfb99ab51095e84e520e43b15c2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SATSharpness.json",
+      "bytes": 318,
+      "sha256": "f30e2513645ba0cbd6c256b4ccfb339526e28684d4c36f5030c56515f1dea9f2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SATVariance.json",
+      "bytes": 316,
+      "sha256": "dddd3df175beeb43c836e900556a9b6669c1cd6821d66cb8b03202bedd58bb5e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SKBarriers.json",
+      "bytes": 297,
+      "sha256": "691283821d9af958e96043eb08890ac1b6bcc8aada32b692b84284670f38d8f8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SKFullSupport.json",
+      "bytes": 322,
+      "sha256": "15a00a19f702bd58a30ca37d606d67e9d5cbc41aeae2334c76b5b3c50d5bea6c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SKHighTemperature.json",
+      "bytes": 305,
+      "sha256": "1cd263498cc4488a90733d5154fccea87d3e59244cbaa343427110c470aa21e1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SKRatio.json",
+      "bytes": 304,
+      "sha256": "7319679c500a7e179c739313cd47aaf9555cb4861198f44e42c57156b5d03049"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SKValue.json",
+      "bytes": 310,
+      "sha256": "6a6c5c7039e3a475c7f777375498ccff393b0d5334d2cee111ca3eeefab3ec11"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SLELowerPositivity.json",
+      "bytes": 338,
+      "sha256": "1225c1b45522cd87c771099ba63d69deb79ef03d91d361c1dfc0878b2e64be3f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Saxl.json",
+      "bytes": 307,
+      "sha256": "20c77d628ecc9ed20e3eea8bb033bcd7fedd02c42449e02f2a0573187b33a770"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SecondKahnKalai.json",
+      "bytes": 348,
+      "sha256": "7810510e76f4d7908d0c199ad104e02f4bd1dac404267a8aaf9fcd2a314a0001"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SelfSimilar.json",
+      "bytes": 337,
+      "sha256": "5352e95649d1dd075b7a7951db9bf72c85dbbe386c258f655ed1c01365490d61"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SelfSimilarCorollaries.json",
+      "bytes": 416,
+      "sha256": "e1e9808a01f811cf030cf7d45eddd8a8cf1464a3eaf34f155d03883444f5a9f0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SensitivitySeparation.json",
+      "bytes": 342,
+      "sha256": "d5ab43d4dc9111caf9c679c50d7127ee73f6aa1f831f8cc689a1de761fc99897"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SeparableQuotientNegative.json",
+      "bytes": 341,
+      "sha256": "10cce1b4f202b5f2b3a529034eef617137b272a796aa11d6da06db1c1b7c67f0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SeymourSecondNeighborhood.json",
+      "bytes": 358,
+      "sha256": "e2496b399005d74e7ae3a1467f3286120b706abe519e42d87880ca1679935778"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SharpCAT0Filling.json",
+      "bytes": 330,
+      "sha256": "a864065c361144455c1f54e21d938efa6fab75932fdaf99eca3facb6b514ee77"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SharpLogRamsey.json",
+      "bytes": 316,
+      "sha256": "8c58145d157f934a59cea7cabfaad0ac2e60e93bdcbae608d66a7b279aac5f67"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SharpThreshold.json",
+      "bytes": 332,
+      "sha256": "4714789f5474a6e71c0f8732a1feae92fbb2b9c92128161ad4027bd6c3dc7682"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ShortEgyptianFractions.json",
+      "bytes": 324,
+      "sha256": "509c6c6fd1d8f902b2537cf43fb8a25fd3eb5e2734d4952f7b31b9e3366fcf0d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SidorenkoCounterexample.json",
+      "bytes": 338,
+      "sha256": "2d3ce04f40de12d67424f8597bf3ea9cbb6f262c9e6e58edbc5ab6f690de52ec"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SiegelZeros.json",
+      "bytes": 422,
+      "sha256": "620696740156c4503f27ac17760adf1b638f621ad81ab4cde7a0f8df32c4b643"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SignedFiniteBand.json",
+      "bytes": 348,
+      "sha256": "7b103eb07fd637dcfb02923cd4df2e83b88200253e742b746629b1539d6fcec0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SignedSweepMoment.json",
+      "bytes": 342,
+      "sha256": "f09e21b3893ae1c92b0cbf82a41d324da63b6f031c2f7ecb568d07ae22addfa5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SimpleAmenable.json",
+      "bytes": 317,
+      "sha256": "c4b67c051efad791f2536fc945b52ad911a49799be063abf8681a20b8684eb59"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SimpleOvergroups.json",
+      "bytes": 329,
+      "sha256": "7eabc4682f5ff97cb432e126f37440227607ce453d34f240580ffa9b84e6737d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SingleFold.json",
+      "bytes": 306,
+      "sha256": "c3bebcda69363690d5cf9df87f157ac35de09b7a2bd7304158059e2c366a680c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SingleLatticeCovering.json",
+      "bytes": 348,
+      "sha256": "a0d1f9444b4c21bd5edca089b48144df91cc8edb556eb522947e22abe2f7c798"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SingletonLoopMatching.json",
+      "bytes": 334,
+      "sha256": "99893f2e245ea894af1af8adb5a883f5e647cb8a44f2c71d0eb3990d2ad9c3c3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SmoothInitialForm.json",
+      "bytes": 350,
+      "sha256": "6c77589c824208da30cb8d8c11416c40df07b39759dc2941c4d318bca7434d7b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SmoothObstruction.json",
+      "bytes": 323,
+      "sha256": "017049248b434b6c2ee7b278dd386042590129fd2b31c9be76004ac1163b64d2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SmoothYau.json",
+      "bytes": 367,
+      "sha256": "b6246f14dd1dae3521a1292e98348a86b7dcf1e2bb17e5df5b9410f6d37f007c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SnakyCertificate.json",
+      "bytes": 340,
+      "sha256": "594eb123d7433a128fc55af281b7ad097a41d8adf188f230bc369d0064632f7e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SnakyConditional.json",
+      "bytes": 358,
+      "sha256": "2e6949771d8f090de4dc7811d9fe2fe78ee983052c27144b562841b7f8c6c20d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SnakyTwentyOne.json",
+      "bytes": 355,
+      "sha256": "ec747732de2646f1d1381dacde26824b11a34a0220401c6a77141620599316b7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SoftChannel204.json",
+      "bytes": 324,
+      "sha256": "cfcc6e29980a85f09176777ca29e34166f2ff9ba39d23f368aef434aed0f0d17"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SolenoidalSheetPrograms.json",
+      "bytes": 343,
+      "sha256": "958c716c91919d8d78584e7512bae243d6f304d732a2004ebc49380caf8d883a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SphericalField.json",
+      "bytes": 348,
+      "sha256": "bb234cbc007683febd38776e1a1e9b5d75bccdc3458f02f22605d8ca430e199b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SpinAngle.json",
+      "bytes": 452,
+      "sha256": "c1f18b2fe4b0d069ea22ceb5b3840e1eb8ae0bd12121748bebe4a89757acf1b9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SplitTangentIntegrability.json",
+      "bytes": 348,
+      "sha256": "9b990944339e40468a967dd4e4bf49309286b4f8f2e6284d02fee9223c8de047"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SquareDifference.json",
+      "bytes": 333,
+      "sha256": "cea78397dc598f89823100ef5ab75bc9eab1d9c35c885e34784a937e4fcfb76f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SquareRootDegree.json",
+      "bytes": 325,
+      "sha256": "d4e3e15f79b609ea5224bf8511d12e08344e9a5e684c392a2a2123601bcc35c9"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StableCoordinateFour.json",
+      "bytes": 351,
+      "sha256": "bcbeb10eb23938131e989ae41926998752b66660a24659b04dc4a0f8ded11cfd"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StandardMapComponents.json",
+      "bytes": 343,
+      "sha256": "3d37cb074c73a4f643cb3cc9ea09c4ec89d2524c739ec02145b3d93039f1975d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StandardMapEntropy.json",
+      "bytes": 338,
+      "sha256": "69ff97b10a9dee08ed847ee46189ce3db54c2f2a5d6c50a859d90532f0c2317e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StandardMapLyapunov.json",
+      "bytes": 348,
+      "sha256": "42aa53cc7bb3893aecb14ff77ee513c75369ab4485a0e375e959936ce0a01314"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SteinitzBergstrom.json",
+      "bytes": 323,
+      "sha256": "a1ddb4bf687734bb38468666b4b1b8d3194d974614786e85cfc5b4aa77532195"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StrictMeans.json",
+      "bytes": 317,
+      "sha256": "58a197ec633d9c0ff4bbccacdea7901d40a41640d4f76028a61fe57d2f8f608c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StrongKadisonKastler.json",
+      "bytes": 353,
+      "sha256": "d4779cb29d0becc955492641ab3afdfb214f7ae680115355fe70635e357815c2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StrongThinTree.json",
+      "bytes": 324,
+      "sha256": "c53fcd5c5352e0bda675135dfaa473672c27017d70a7f34df494634b5f3d30e7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StronglyRayleighDPP.json",
+      "bytes": 744,
+      "sha256": "cbdd5d6185b5a5af1fb02250a934c798b1588bda294e5b83f1a9b04648f477b3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StructuralCrouzeix.json",
+      "bytes": 344,
+      "sha256": "bb8e7bf4a71d8064a57ea0099e299caa456fdea7d2fac8f73d74845bb163b4ba"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SubpolynomialLp.json",
+      "bytes": 320,
+      "sha256": "96bc7424afc0ccea23dba75c6cb5b44e69df6dc8db9b664c18e4ca62ee1190d8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SubsphereCurrent.json",
+      "bytes": 335,
+      "sha256": "9fdd2387a3fa37dbc56b915de3510d79dedcc273d79b5d9a18170b1ba1285393"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Superstring.json",
+      "bytes": 310,
+      "sha256": "e298a74e985c5ee46968c6c232061292bcf89ef6e93dd6a1a222b94db357c87a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SurfaceConeCandidateSupport.json",
+      "bytes": 357,
+      "sha256": "dce1e6a3d800cb5b61ab13b7dd5cd76566960b963678f1dd238f922fcc4801f1"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SurfaceImmersion.json",
+      "bytes": 362,
+      "sha256": "a738dcfbd27933754d5927a02538cf39858d4cb438ec021464d4f6a88789df8d"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SwitchChain.json",
+      "bytes": 406,
+      "sha256": "be54c6cb351e52a09d39c96b5929cf4f79547253d376b941f20fc10f65696d99"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SymmetricDomains.json",
+      "bytes": 314,
+      "sha256": "1acb77b2abcbf8d8889a0ae36f2c9c09a3a86922181de832a38d67e315e2ec06"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SymmetricMahlerEquality.json",
+      "bytes": 417,
+      "sha256": "2e878c2ae80cd8ce362374b38f26731d256c27125aa4cfb970d883b0df05038a"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SymmetricPolar.json",
+      "bytes": 329,
+      "sha256": "0665fbaed509ae1465a32ed1f1548988b1416b15a93f1c8eec10cdc633b06e95"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Tachikawa.json",
+      "bytes": 319,
+      "sha256": "340bcee5916a2527401f17c08107aa5d76a8bca8297505000e1fbe22a4a4cdcb"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TalagrandDiscreteConvexity.json",
+      "bytes": 370,
+      "sha256": "536989b4c18777d436d1e3518a1c18e1ebe6eb2dbac72b7dc56777de4fc7c476"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TalagrandExpectationThreshold.json",
+      "bytes": 383,
+      "sha256": "1d0cc306d5b9c8c67fa2e00b00c0d27909791ae302b1e73d9c3c18915caa2b41"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TamingCompatibility.json",
+      "bytes": 353,
+      "sha256": "8ffca9a67983439a64f9675f881e66400167d1d0715da95cf595cc76ec6aa31e"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThomasonModelStructures.json",
+      "bytes": 380,
+      "sha256": "28eafb4f133fa8f5b5f965315e9f67153d4c5d47cb2098d05734caadb9399416"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThompsonNonamenability.json",
+      "bytes": 357,
+      "sha256": "5e8f9248dde00437950209958b428878b0a05a2428974a4f086d2094f4e206b4"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpFirstReciprocal.json",
+      "bytes": 342,
+      "sha256": "25a5d9b1eb5f8daf52b1c069b0a95016f15346ca0a231f4a6131c98c92515f21"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpRemaining.json",
+      "bytes": 334,
+      "sha256": "9b563a2ad0f2e7d75d5cf92c1a4a5ff52704f58e882d23434ad03ab88f0c57fe"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpRouting.json",
+      "bytes": 308,
+      "sha256": "9bc7a4353097aab7a6385c2dcc36b8252b5e25e94caa35d07535579ddb7ec032"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpWeightedCompatibility.json",
+      "bytes": 359,
+      "sha256": "2eaaae47369fc7f1f0981778763d8cb9234f492542599b5d8b35f99c4a5267a8"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThreeMachine.json",
+      "bytes": 319,
+      "sha256": "b12d227dd79d4674d180b15a2c62a712afcd5dedd9102e599fbaf9835dceb863"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThreeStateSupercritical.json",
+      "bytes": 379,
+      "sha256": "cc0c454095bab90ddc5c23c7905bd51fc28574708e5ca8b97ae7102d0b8a2dad"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThreeStateTreeClauses.json",
+      "bytes": 434,
+      "sha256": "087d30d475d9d31e46855161c13150de987779ddec113236612c95cb18c99063"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThreeTorus.json",
+      "bytes": 322,
+      "sha256": "8379bc2f580190de27daf7daa90765c4298a95a20810f5a096d05ff097370615"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TingleySphereIsometry.json",
+      "bytes": 338,
+      "sha256": "7e50ce0afaab04e002f1d5cba129579b6a079c966238487d9329eb8fd325a12f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TorsionFreeHyperbolic.json",
+      "bytes": 316,
+      "sha256": "e4178f580015efa3669582be5289097579b93a8d342122fcae71ccad8e5a3a74"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TorsionFreeZeroDivisors.json",
+      "bytes": 326,
+      "sha256": "2b4e32790076384bd9c492bfdb032d0d9d6027bb98d4a6c728ebe3a5fe862f12"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TotientAsymptotic.json",
+      "bytes": 526,
+      "sha256": "eaa9cc94213102bbd130f1c3d8f3932896daed2077ee981386b5d60c2af6eac3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TotientCompanionZero.json",
+      "bytes": 345,
+      "sha256": "0326ed0af3b2bcad141be4c3e5f6f0ac4771b1d3ee5fea781c90b536f6d0dad6"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TraceIdealTransportSupport.json",
+      "bytes": 1518,
+      "sha256": "0d717e97d8b472826a27af8c44a68da8bc92261020684c08aae97265c9fe3173"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TraceReconstruction.json",
+      "bytes": 476,
+      "sha256": "551a93a8bcf750ecfae7257ec91c36de8ae6fabd1b4d2f0bd43edfad67cf276b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TreeEdit.json",
+      "bytes": 320,
+      "sha256": "69b143e3c4a983039094833ea614d8e39bc62c0ef34f46be5bc2127865d3e363"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangleFace.json",
+      "bytes": 335,
+      "sha256": "82f371b8cab6dd027f6d61cc6d9fd9d3a34885b834a4cfb5f94b96ec453699bd"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangleRemoval.json",
+      "bytes": 341,
+      "sha256": "17b763128bbd400419f9aa3ffedcc0d48d7e98135d2d16b9d674670129091404"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangularCovering.json",
+      "bytes": 326,
+      "sha256": "71f783b49d4fe18ad52b8b1a7f964eed690fd2717b8c8fc459502083c90f1b93"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangularEnergy.json",
+      "bytes": 346,
+      "sha256": "d906406365fb6c3f10692db01c9cda3b0215a011eab39d25ac9dd586bbead6d5"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangularGaussian.json",
+      "bytes": 367,
+      "sha256": "31e7298b6f82aa5dcb36d19279c11160be0825dbf43de391f618a2037484dfe2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TriangularHilbert.json",
+      "bytes": 332,
+      "sha256": "79a0bdc2c1be0ea4f51012679983d60b9e3fe72781293a49063e4e7a5c9a3dad"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TruffetCounterexample.json",
+      "bytes": 369,
+      "sha256": "5b6a0aaf8f27c927a9c0b6a07fb82f43b282c3265058616b0a58fed5eb212f3b"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TwoWayComplementation.json",
+      "bytes": 363,
+      "sha256": "7fdd20593d6cdd2cd8a7f8a2a0eba06671c587af4b5f4d26dadeb86a43d21bba"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TwoWayDeterminization.json",
+      "bytes": 359,
+      "sha256": "62f3ac9f098b29dfd67339d10f3191be28efa9dd5c1042c89c089b737861ca0c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/TypeSystemNormalization.json",
+      "bytes": 348,
+      "sha256": "a0c2f4178f0638fe1ccc16336c851e8e8310d6555a5d1aded59b2b839f69b0cc"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniformCommutator.json",
+      "bytes": 320,
+      "sha256": "7e219ab6770de4e10a53eeddbb4575ae12dcac4d0f7ed0c570628859aab0093f"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniformFourier.json",
+      "bytes": 368,
+      "sha256": "757bd302c164fa79741d846ac3c3c17de8bb12cf63ecfa9df64864745e0b4eb2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniformGamma.json",
+      "bytes": 332,
+      "sha256": "5c71c58d5f6529f2ded692c06b7ec44622a532e74bba484c011b09d78981da0c"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniformKServer.json",
+      "bytes": 347,
+      "sha256": "efb3658f82aaa8f5f9b3d094ae8eb9759ab61281f95d3350cfa4379051280847"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniformSparsestCut.json",
+      "bytes": 327,
+      "sha256": "5901cd9c1d96b4e4a42660db2dd4476f224b5e9cafa17e304cec6f58dc5618e3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniqueGamesTheorem.json",
+      "bytes": 329,
+      "sha256": "bff621deccd4007c2b213201d4d97938b095ed0411cfd5fed3f66a65d4358050"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniversalFInfinity.json",
+      "bytes": 354,
+      "sha256": "d8fc6fa827b3b92c54a1b8c2ff66b436f9a5297ab825414ea43b5b1e2cd06abf"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/UniversalTensorSquares.json",
+      "bytes": 336,
+      "sha256": "52a762a75e761e8012f4834dbf64cd2c512d2b49dffb99f22aea0f85a0314e98"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VariableWL.json",
+      "bytes": 315,
+      "sha256": "b2c814639241677d868b80cc25cba1781729c98e37b84e96d9e708ab77d1a058"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VelocityHemisphere.json",
+      "bytes": 387,
+      "sha256": "318da251921ad68215a4ff3137294340cf669e8ac948624563b7062e62516ff7"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VertexAlgebraNet.json",
+      "bytes": 339,
+      "sha256": "0ac4d5543f762c58b54f29d7afd25ac59e793602d48a31b3c49de61806b1b7f3"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VertexCover.json",
+      "bytes": 376,
+      "sha256": "d8dc74e3b1871d939862817f39e6f9517c52d2f8b3321cb6e85a624e0c838b41"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VlasovMaxwell.json",
+      "bytes": 322,
+      "sha256": "423df2cf9e072e1dc4bcdc848b1c37cb9a3b684109075c2122ea3f1825445a32"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WLIdentification.json",
+      "bytes": 325,
+      "sha256": "003541e316dd4046dc693600caed240103f02d8d504bcfcad9d7e18359280e44"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WeakHessian.json",
+      "bytes": 315,
+      "sha256": "b607cbd5629f15bedb82b3c5326deb0c6d73bbbdafbe8073470828db96f3e250"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WeakMTWGlobalSupport.json",
+      "bytes": 337,
+      "sha256": "deb8a523598d086b146fe7908bfa641c4654f9f1c20e58b84036b1e4ee334385"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WeightedSweepMoments.json",
+      "bytes": 360,
+      "sha256": "7f392ae0e7d695427599a6333ebdfb556a51f0e515737541a03ebdbf400f72c0"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WeisfeilerLeman.json",
+      "bytes": 339,
+      "sha256": "e90c30bd974d6bed64bb6d0d4ba63498d1a9e8d3ef761f9598424ba90ba005d2"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WitnessedChoice.json",
+      "bytes": 322,
+      "sha256": "756861e09ebbdc5cc3cf85c5314b605b6824b01e7cbdf66585e369d158b80728"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/YauCounterexample.json",
+      "bytes": 344,
+      "sha256": "4b91fa995c8cd5efd1b1bead66c86a24b7928164a83a6c8a1f4fde0a7efe53b6"
+    }
+  ],
+  "formal_scope_state": "not_identified_in_checked_pinned_scope",
+  "local_lean_build": false,
+  "comparator_run": false,
+  "human_specification_review": false,
+  "natural_claim_grade_for_future_curation": "C;complete dependency grade unknown",
+  "discarded_search": "First broad /pav/i pathname pattern matched unrelated GroupAverage names and KadisonSimilarity/KadisonKastler;not used as semantic evidence. Corrected exactpaving path and declared metadata search above.",
+  "catalogue_scope": "math/CONTENTS.md:7430-7450 actual F300 entry and two manuscript descriptions;no Lean links in this entry",
+  "catalogue_sha256": "cc7c0b8a1cdedd845a777e77cf682657308503daf8346c1349e06e9259d063c2"
+}

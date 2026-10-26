@@ -5,6 +5,7 @@
   "compressed_sha256": "d4abcf833f2b3a9584763d4d2d57413afed752a6247b9612617c2c295a439352",
   "decompressed_sha256": "46b45ca186571b9f6afd1f1411f1d523aa982fae25bfd41fb84919b27b25e6a9",
   "all_member_hashes_verified": true,
-  "temporary_plaintext_removed": false,
-  "scope": "Own helper code and reading metadata only; no upstream source copy or scientific experiment"
+  "temporary_plaintext_removed": true,
+  "scope": "Own helper code and reading metadata only; no upstream source copy or scientific experiment",
+  "removed_at": "2026-10-26T05:30:12.092658+00:00"
 }

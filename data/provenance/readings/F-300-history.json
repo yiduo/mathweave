@@ -1,0 +1,220 @@
+{
+  "at": "2026-10-26T05:42:58.338853+00:00",
+  "family_id": "F-300",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "bounded_historical_scopes_checked_full_lineage_incomplete",
+  "new_body_bytes": 927983,
+  "new_body_budget_bytes": 8388608,
+  "successful_original_works": 4,
+  "actually_viewed_pdf_pages": 10,
+  "manuscript_reference_entries": {
+    "approximation": 21,
+    "quadratic": 19
+  },
+  "internal_companion_entries": 2,
+  "external_reference_keys": 38,
+  "distinct_external_works_after_qualified_aliases": 27,
+  "shared_external_key_pairs": [
+    [
+      "AS12",
+      "AS12"
+    ],
+    [
+      "Araki74",
+      "Ara74"
+    ],
+    [
+      "FM77",
+      "FM77"
+    ],
+    [
+      "Maharam64",
+      "Mah64"
+    ],
+    [
+      "MSS15",
+      "MSS15"
+    ],
+    [
+      "Popa14",
+      "Popa14"
+    ],
+    [
+      "PV15",
+      "PV15"
+    ],
+    [
+      "PV16",
+      "PV16"
+    ],
+    [
+      "RS21",
+      "RS17"
+    ],
+    [
+      "RoySamorodnitsky06",
+      "RoySamorodnitsky06"
+    ],
+    [
+      "Takesaki72",
+      "Tak72"
+    ]
+  ],
+  "unread_external_root_bodies": 23,
+  "recursive_lineage_complete": false,
+  "works": [
+    {
+      "key": "MSS2015-v4",
+      "url": "https://arxiv.org/pdf/1306.3969v4",
+      "at": "2026-10-26T05:38:19.367187+00:00",
+      "final_url": "https://arxiv.org/pdf/1306.3969v4",
+      "content_type": "application/pdf",
+      "bytes": 230495,
+      "sha256": "fbb75cd47493cce225f80783ee40fd3cc84bd586f3c7308d14aa1ed78c65e782",
+      "path": "/private/tmp/ai-paper-WP111/pdfs/MSS2015-v4.pdf",
+      "pdfinfo": "Title:           \nSubject:         \nKeywords:        \nAuthor:          \nCreator:         LaTeX with hyperref package\nProducer:        dvips + GPL Ghostscript GIT PRERELEASE 9.08\nCreationDate:    Tue Apr 15 08:41:16 2014 CST\nModDate:         Tue Apr 15 08:41:16 2014 CST\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           21\nEncrypted:       no\nPage size:       612 x 792 pts (letter)\nPage rot:        0\nFile size:       230495 bytes\nOptimized:       no\nPDF version:     1.4\n",
+      "text_sha256": "e627bde5f876d93470fc5fc8c4fe9d52d1ef7d971111748cd7685ab6b45c5ebb",
+      "state": "selected_original_scopes_read_not_full_original_proof_audit",
+      "read_scope": {
+        "full_pdf_pages_text_read": [
+          3,
+          8,
+          11
+        ],
+        "selected_original_scopes": [
+          "Theorem1.4",
+          "Corollary1.5",
+          "Theorem4.1",
+          "Theorem5.1",
+          "Lemma5.2"
+        ],
+        "verification": "独立有限支撑复随机列的协方差确定混合特征多项式；PSD协方差之和为I且各迹不超过epsilon时，最大根至多(1+sqrt(epsilon))^2。存在正概率的范数界不等于高概率或高效构造。当前首稿仍须自行完成正亏损补全、列拆分和Gram删除，不能把旧定理直接套到非PSD的W。",
+        "not_checked": "没有完整阅读旧证明、全部稳定性引理或递归历史；2014v4与2015出版版字节分开。"
+      },
+      "actually_viewed_pdf_pages": [
+        8,
+        11
+      ]
+    },
+    {
+      "key": "PV2015-v3",
+      "url": "https://arxiv.org/pdf/1412.0631v3",
+      "at": "2026-10-26T05:38:21.145593+00:00",
+      "final_url": "https://arxiv.org/pdf/1412.0631v3",
+      "content_type": "application/pdf",
+      "bytes": 277488,
+      "sha256": "e6a64aa3659594e34a10d323c6314a7932dc3d267313aa9ea48520635b3b403c",
+      "path": "/private/tmp/ai-paper-WP111/pdfs/PV2015-v3.pdf",
+      "pdfinfo": "Title:           \nSubject:         \nKeywords:        \nAuthor:          \nCreator:         LaTeX with hyperref package\nProducer:        dvips + GPL Ghostscript GIT PRERELEASE 9.08\nCreationDate:    Mon Mar 30 10:53:12 2015 CST\nModDate:         Mon Mar 30 10:53:12 2015 CST\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           21\nEncrypted:       no\nPage size:       595 x 842 pts (A4)\nPage rot:        0\nFile size:       277488 bytes\nOptimized:       no\nPDF version:     1.4\n",
+      "text_sha256": "5dca0db5aed6d3e9de29eedb9f53e9af6e2029c3fbe074948208bb26f9cd6c62",
+      "state": "selected_original_scopes_read_not_full_original_proof_audit",
+      "read_scope": {
+        "full_pdf_pages_text_read": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          16
+        ],
+        "partial_pdf_pages_text_read": [
+          11,
+          13,
+          18,
+          19
+        ],
+        "selected_original_scopes": [
+          "Definitions2.2-2.3",
+          "Proposition2.4 and proof",
+          "Lemma2.5 and Remark2.6",
+          "Theorem2.7 and forward proof",
+          "Conjecture2.8",
+          "Theorem3.3 statement/beginning proof",
+          "Theorem4.1 statement/beginning proof",
+          "Theorem5.1 statement/beginning proof",
+          "Remark5.3",
+          "Proposition5.4 statement/beginning proof"
+        ],
+        "verification": "转换命题保留正常条件期望；app(epsilon,n;kappa)推出任意epsilonprime>epsilon的so(2*kappa*epsilonprime,n)，反向为app(epsilonprime,n;3)。超幂方向另需A可数可分解。可分预对偶的normpaving恰限typeI且正常期望。旧Cartan特例为四次阶；奇异MASA有限代数超积的有限族已有n<1+16*epsilon^-2。Remark5.3为迹态和A-N有限生成双模缺失条件下的400*epsilon^-2乘旧计数，不能推广为所有包含。",
+        "not_checked": "只核所列范围，不是整篇证明或完整谱系审核；谱截断与epsilonprime松弛保留。"
+      },
+      "actually_viewed_pdf_pages": [
+        3,
+        7,
+        16,
+        18
+      ]
+    },
+    {
+      "key": "RS2017-v2",
+      "url": "https://arxiv.org/pdf/1706.03737v2",
+      "at": "2026-10-26T05:38:22.637265+00:00",
+      "final_url": "https://arxiv.org/pdf/1706.03737v2",
+      "content_type": "application/pdf",
+      "bytes": 258946,
+      "sha256": "f45d9226c1707d7c429045a203bc56fd27c09b38e7ed2bb04fe4a9df7c99c870",
+      "path": "/private/tmp/ai-paper-WP111/pdfs/RS2017-v2.pdf",
+      "pdfinfo": "Title:           \nSubject:         \nKeywords:        \nAuthor:          \nCreator:         LaTeX with hyperref package\nProducer:        dvips + GPL Ghostscript GIT PRERELEASE 9.22\nCreationDate:    Thu Aug 24 11:03:44 2017 CST\nModDate:         Thu Aug 24 11:03:44 2017 CST\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           23\nEncrypted:       no\nPage size:       595 x 842 pts (A4)\nPage rot:        0\nFile size:       258946 bytes\nOptimized:       no\nPDF version:     1.4\n",
+      "text_sha256": "2997618be63f45609a2101bf8d5617538b9ef9f413620ddf951cb9cfd4c16662",
+      "state": "selected_original_scopes_read_not_full_original_proof_audit",
+      "read_scope": {
+        "full_pdf_pages_text_read": [
+          3,
+          7,
+          9,
+          17,
+          18
+        ],
+        "selected_original_scopes": [
+          "Definition5",
+          "Theorem15",
+          "Proposition16 statement/beginning proof",
+          "Theorem15 proof and zero-tuple scaling",
+          "Theorem25 and proof",
+          "Theorem1 proof ending",
+          "Corollary26 and proof"
+        ],
+        "verification": "混合行列式采用k^-n归一化；Hermitian零对角替零单调性未要求范数归一化。Theorem25对k>=2个零对角Hermitian压缩给严格3sqrt(2)/sqrt(k)根界。Theorem6原陈述写实对称，不将其陈述直接扩大；当前首项检测可用Hermitian Theorem15和零元缩放。有限矩阵多铺砌已有二次阶，不能把该阶归作本项目新发现。",
+        "not_checked": "没有完整核第16命题中段证明、全部混合稳定性或递归引用。Corollary26的floor(m/r)块大小句在r>m时需另行限定，不能当无条件容量保证；该句未被F300关键多项式输入使用，不据此否定主根界。"
+      },
+      "actually_viewed_pdf_pages": [
+        7,
+        17
+      ]
+    },
+    {
+      "key": "AS2012",
+      "url": "https://jot.theta.ro/jot/archive/2012-068-002/2012-068-002-013.pdf",
+      "at": "2026-10-26T05:38:24.094688+00:00",
+      "final_url": "https://jot.theta.ro/jot/archive/2012-068-002/2012-068-002-013.pdf",
+      "content_type": "application/pdf",
+      "bytes": 161054,
+      "sha256": "e6971065b85dca6e19765fa5014c90f8d393b99d106a633eaea8d0263ff1502c",
+      "path": "/private/tmp/ai-paper-WP111/pdfs/AS2012.pdf",
+      "pdfinfo": "Creator:         TeX\nProducer:        pdfTeX-1.40.10\nCreationDate:    Wed Oct 31 22:37:12 2012 CST\nModDate:         Wed Oct 31 22:37:12 2012 CST\nCustom Metadata: yes\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           11\nEncrypted:       no\nPage size:       467.717 x 666.142 pts\nPage rot:        0\nFile size:       161054 bytes\nOptimized:       no\nPDF version:     1.4\n",
+      "text_sha256": "638de23ee4a404d490dc4ef200263415c62cc9a06c79b5c3a2b8daad01cdf17b",
+      "state": "selected_original_scopes_read_not_full_original_proof_audit",
+      "read_scope": {
+        "full_pdf_pages_text_read": [
+          6,
+          7
+        ],
+        "selected_original_scopes": [
+          "Theorem4.1 statement and proof"
+        ],
+        "verification": "在typeI代数中，MASA存在正常条件期望等价于其内有和为1的abelian投影族，并推出条件期望唯一；仅从唯一性反推正常性另需sequentialfullsubset。当前所用正常期望到投影分解的方向无需把这个附加条件删掉或误加到所有方向。",
+        "not_checked": "未阅读Theorem2.1及所引Kadison-Ringrose练习原证明、整篇或递归谱系；不推广为任意无期望typeI MASA。"
+      },
+      "actually_viewed_pdf_pages": [
+        6,
+        7
+      ]
+    }
+  ],
+  "human_specification_review": false,
+  "cross_provider_review": false,
+  "no_scientific_experiment": true,
+  "raw_third_party_bodies_to_be_removed_after_hash_verification": true
+}
