@@ -1,0 +1,520 @@
+{
+  "work_package": "WP-112",
+  "family_id": "F-300",
+  "generation_id": "GEN-20261026-109",
+  "at": "2026-10-26T08:37:15.807280+00:00",
+  "base_commit": "e1bd3d25907e048272097606b1dabb7ddd225779",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "selected_projects": {
+    "petsc": {
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "branch": "main",
+      "paths": [
+        "LICENSE",
+        "src/ksp/pc/impls/deflation/deflation.c",
+        "src/ksp/ksp/tutorials/ex11.c"
+      ]
+    },
+    "ginkgo": {
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "branch": "develop",
+      "paths": [
+        "LICENSE",
+        "include/ginkgo/core/preconditioner/jacobi.hpp",
+        "core/preconditioner/jacobi.cpp",
+        "examples/preconditioned-solver/preconditioned-solver.cpp"
+      ]
+    },
+    "tenpy": {
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "branch": "main",
+      "paths": [
+        "LICENSE",
+        "tenpy/linalg/truncation.py",
+        "tenpy/algorithms/tebd.py"
+      ]
+    }
+  },
+  "project_count": 3,
+  "source_file_count": 11,
+  "new_source_body_bytes": 202494,
+  "actually_read_lines": 2588,
+  "selected_source_files": [
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/LICENSE",
+      "at": "2026-10-26T07:43:26.657477+00:00",
+      "bytes": 1536,
+      "lines": 27,
+      "sha256": "efc206ebe66fda24a32ebe69e81caa2c5595e093626170e57fbeff522507cc54",
+      "git_blob_sha1": "37aa71d7e041475a828c01b51ad653df1a2b1b9e",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "actual_lines_read": 27,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-PETSC-LICENSE",
+      "code_executed": false
+    },
+    {
+      "project": "ginkgo",
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/ginkgo-project/ginkgo/e008bfdee4fdda56d4defa63443df0ff871e6be7/LICENSE",
+      "at": "2026-10-26T07:43:29.399413+00:00",
+      "bytes": 1495,
+      "lines": 29,
+      "sha256": "a1e7286d4ff2e9e878b93787fbb1aeb1890ef26aace051911c4e4fceebae6e5a",
+      "git_blob_sha1": "1ec07f5aa7e86d1f9848a03a44a2a02d137ef979",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "actual_lines_read": 29,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-GINKGO-LICENSE",
+      "code_executed": false
+    },
+    {
+      "project": "tenpy",
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/tenpy/tenpy/8444a0320e0775b3ded0be974d509842fe3ba541/LICENSE",
+      "at": "2026-10-26T07:43:33.180063+00:00",
+      "bytes": 11358,
+      "lines": 202,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "git_blob_sha1": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          202
+        ]
+      ],
+      "actual_lines_read": 202,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-TENPY-LICENSE",
+      "code_executed": false
+    },
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "src/ksp/pc/impls/deflation/deflation.c",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/src/ksp/pc/impls/deflation/deflation.c",
+      "at": "2026-10-26T07:43:27.531593+00:00",
+      "bytes": 35780,
+      "lines": 873,
+      "sha256": "1f559b287abad3e9330ad13f742bb13d6185c7103d396c0ad67aed0fab8f1e5f",
+      "git_blob_sha1": "be04b8b1cdc4d93a9710b3c655cf92da641b5466",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          215,
+          277
+        ],
+        [
+          380,
+          675
+        ],
+        [
+          752,
+          873
+        ]
+      ],
+      "actual_lines_read": 481,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-PETSC-DEFLATION",
+      "code_executed": false
+    },
+    {
+      "project": "petsc",
+      "repo": "petsc/petsc",
+      "commit": "ef2932a3562721ceda7312b5bddd3fabb82cd7fa",
+      "path": "src/ksp/ksp/tutorials/ex11.c",
+      "url": "https://raw.githubusercontent.com/petsc/petsc/ef2932a3562721ceda7312b5bddd3fabb82cd7fa/src/ksp/ksp/tutorials/ex11.c",
+      "at": "2026-10-26T07:43:28.536191+00:00",
+      "bytes": 8449,
+      "lines": 244,
+      "sha256": "ff4f7d01956530e207c6fb310ebf73bfbffaed27d39340febfd6cd207748771d",
+      "git_blob_sha1": "5c0de22826de069e62cbe1a2c068947b0ace7de9",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          244
+        ]
+      ],
+      "actual_lines_read": 244,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-PETSC-HELMHOLTZ",
+      "code_executed": false
+    },
+    {
+      "project": "ginkgo",
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "path": "include/ginkgo/core/preconditioner/jacobi.hpp",
+      "url": "https://raw.githubusercontent.com/ginkgo-project/ginkgo/e008bfdee4fdda56d4defa63443df0ff871e6be7/include/ginkgo/core/preconditioner/jacobi.hpp",
+      "at": "2026-10-26T07:43:30.245796+00:00",
+      "bytes": 27127,
+      "lines": 666,
+      "sha256": "ee037fd7ee5c22d933467ad60c16b92f6050eb8a5bb617928f8dd0253c6047a3",
+      "git_blob_sha1": "057bf711d1157cde3d3ca3fc98c0dc19d12f6e26",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          141,
+          180
+        ],
+        [
+          306,
+          524
+        ],
+        [
+          562,
+          627
+        ]
+      ],
+      "actual_lines_read": 325,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-GINKGO-JACOBI-API",
+      "code_executed": false
+    },
+    {
+      "project": "ginkgo",
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "path": "core/preconditioner/jacobi.cpp",
+      "url": "https://raw.githubusercontent.com/ginkgo-project/ginkgo/e008bfdee4fdda56d4defa63443df0ff871e6be7/core/preconditioner/jacobi.cpp",
+      "at": "2026-10-26T07:43:31.270886+00:00",
+      "bytes": 17376,
+      "lines": 426,
+      "sha256": "21a6c0370edb464bb68dd158b44ba7f0f10b1def8f0d498c88f3c272208ea7fb",
+      "git_blob_sha1": "365e5707af0905466f1c4c614e6e8a26432ec938",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          145,
+          200
+        ],
+        [
+          314,
+          426
+        ]
+      ],
+      "actual_lines_read": 169,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-GINKGO-JACOBI-CORE",
+      "code_executed": false
+    },
+    {
+      "project": "ginkgo",
+      "repo": "ginkgo-project/ginkgo",
+      "commit": "e008bfdee4fdda56d4defa63443df0ff871e6be7",
+      "path": "examples/preconditioned-solver/preconditioned-solver.cpp",
+      "url": "https://raw.githubusercontent.com/ginkgo-project/ginkgo/e008bfdee4fdda56d4defa63443df0ff871e6be7/examples/preconditioned-solver/preconditioned-solver.cpp",
+      "at": "2026-10-26T07:43:32.278180+00:00",
+      "bytes": 3228,
+      "lines": 94,
+      "sha256": "77952fa36ec02639c825aaec3c12c310f79f57cf5ac7febd59e31e6a7e9662d4",
+      "git_blob_sha1": "0284fdf26cc6495be6e16c71e216b89623d970dd",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          94
+        ]
+      ],
+      "actual_lines_read": 94,
+      "full_file_read": true,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-GINKGO-SOLVER",
+      "code_executed": false
+    },
+    {
+      "project": "tenpy",
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "path": "tenpy/linalg/truncation.py",
+      "url": "https://raw.githubusercontent.com/tenpy/tenpy/8444a0320e0775b3ded0be974d509842fe3ba541/tenpy/linalg/truncation.py",
+      "at": "2026-10-26T07:43:34.105885+00:00",
+      "bytes": 29907,
+      "lines": 731,
+      "sha256": "56543848d70d155c27bbf134964a8c4ac49330648c5f2c50bd609f524b94d954",
+      "git_blob_sha1": "626f692c6fb64571614b181c0681168a11d5f91f",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          1,
+          255
+        ],
+        [
+          258,
+          367
+        ],
+        [
+          713,
+          731
+        ]
+      ],
+      "actual_lines_read": 384,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-TENPY-TRUNCATION",
+      "code_executed": false
+    },
+    {
+      "project": "tenpy",
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "path": "tenpy/algorithms/tebd.py",
+      "url": "https://raw.githubusercontent.com/tenpy/tenpy/8444a0320e0775b3ded0be974d509842fe3ba541/tenpy/algorithms/tebd.py",
+      "at": "2026-10-26T07:43:35.155108+00:00",
+      "bytes": 41478,
+      "lines": 934,
+      "sha256": "48d16fa7fead43fdb92b2ad3eb3ca6b036e5b81e85734e83d468e4a7357e9067",
+      "git_blob_sha1": "d1802de06be7e290dadd93e8fe15e2d6ebf62da9",
+      "content_type": "text/plain; charset=utf-8",
+      "actual_read_ranges": [
+        [
+          40,
+          110
+        ],
+        [
+          113,
+          180
+        ],
+        [
+          315,
+          586
+        ]
+      ],
+      "actual_lines_read": 411,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-TENPY-TEBD",
+      "code_executed": false
+    },
+    {
+      "project": "tenpy",
+      "repo": "tenpy/tenpy",
+      "commit": "8444a0320e0775b3ded0be974d509842fe3ba541",
+      "path": "tenpy/algorithms/algorithm.py",
+      "url": "https://raw.githubusercontent.com/tenpy/tenpy/8444a0320e0775b3ded0be974d509842fe3ba541/tenpy/algorithms/algorithm.py",
+      "bytes": 24760,
+      "lines": 572,
+      "sha256": "5ea2d3192fd10730f147f6e30fe59f707f6face7e7b0235753bde023e0e03d8a",
+      "git_blob_sha1": "6f714390d48ccb757d3359fc6f74d1ddd64453af",
+      "actual_read_ranges": [
+        [
+          1,
+          40
+        ],
+        [
+          341,
+          522
+        ]
+      ],
+      "actual_lines_read": 222,
+      "full_file_read": false,
+      "state": "selected_actual_source_read_not_runtime_execution",
+      "node_id": "LIT-300-TENPY-PARENT",
+      "code_executed": false
+    }
+  ],
+  "reading_notes": [
+    "Threeactual HEADs pinned via gitls-remote andconfirmed byGitHubconnector sources:PETSc ef2932a3562721ceda7312b5bddd3fabb82cd7fa(main),Ginkgo e008bfdee4fdda56d4defa63443df0ff871e6be7(develop),TeNPy8444a0320e0775b3ded0be974d509842fe3ba541(main). Initialrelease/master/developmentdocumentationversionsare discoveryonly;qualifiedclaimsbindactualcommits.",
+    "Selectedlicenses actuallyread:PETScBSD2-style withseparatelicensesfordownload-package dependencies,GinkgoBSD3,TeNPyApache2. No installing orredistributing fullthirdpartysources;temporarysourcehashes retainedforlatercleanup.",
+    "PETScselectedimplementation actuallyreadsPCPreSolve/PCApply/Setup andW-spaceAPI. SetupassemblesW'*AandW'*A*W,coarseKSP choosesFCGonlyifSPDknownelseFGMRESonnestedbranch,bottomPREONLY/telescope/LU;additionalPCdefaultsnone. Actualpresolve formsr=b-Ax thenx+=Q*r. Documentation'sminusconventionisnotlabelledbugwithoutresidualdefinition.",
+    "The preconditionerappliesP*M^-1+factor*Q withQ=W*(W'*A*W)^-1W' andP=I-QA;the code'sQ/P arenotautomatically the selfadjointprojectionq ofF300. Coarsesolvabilityandconditioningneedseparatequalification;fullrankWalonewithgeneralAisnotacceptedasinvertibilitycertificate.",
+    "Actualex11complexHelmholtzcaller formsfivepointstencilwithimaginarydiagonal,setsKSPOperatorsA/A,solvesAx=b,andchecksfullvector2-normerroragainstknownsolution. Deflationtestsetexplicitlyrequirescomplex/SuperLU_DISTandcoarse/multilevelvariants;notexecutedhere. Itdoesnotconsume state-weighted discardedsubspaceerror. GenericPETScSPDbranchdoesnotmake thisinspectedcallerHermitian;no identical-outputF300benchmark admitted.",
+    "Ginkgo pinnedJacobi API/constructor andactualgeneration/application/callerread. APIconsumes CSR/sortedrowcolumn data andcontiguousblockstarts (0throughdimension),supports explicitblocksorheuristicfind_blocks;defaultmaxblock32 butAMDparameter/executorstride may64,notuniversal32. Generationinvertsdiagonal ordispatchesmake_generate;backendkernelbodiesnotread,notexecuted.",
+    "Ginkgo adaptiveprecision accuracy documentation compares adaptive/nonadaptive preconditioning andrecordsfullinverse relativeerrorwithproblemdependentc andoffdiagonal dropout;this isnot aF300compressedoperatornormcertificate orfixeduniformsolveraccuracytheorem. Actualselectedexample usesdoubleCG,blocksize8,atmost20iterations/residualreduction1e-7,printsfullAx-b norm. Data/A.mtx,b,x0bodiesnotfetched,soSPD/conditioning/scale notcertifiedfromthecallsite. Defaultstorage fullprecision;example doesnotenableadaptivevariant.",
+    "TeNPy actualSchmidttruncation separates discardedweight eps=sumdiscardedS^2,productov andsumaccumulatedeps. svd_theta computesactualSVD andnormalizesbeforechoosingmask,projects U/V,returnsrenormalization;TEBD rebuilds labeledtwo-siteMPS tensorsandbonddimensions. GeneralF300q doesnotprovide tensor-compatible lowrankU/S/V factors,bondrankbudget,charge/canonicalform orruntime.",
+    "TeNPy trunc_cut bounds discardedweight byitsSQUARE whenconstraintcompatible;chi_max priority andlaterconstraints mayconflict. Actual_combine_constraints warnsandkeepspriorgoodmask ifintersectionempty. No unconditionalpromise everyconfiguredthresholdsatisfied;legacySVDtruncation remainsstrongsame-outputbaseline.",
+    "ActualTEBDaccumulatesandreturnsTruncationError andperbonderrors;imaginarygroundstate loopstopsbyenergychange andhasseparateTrotter/initialstate warnings. ParentTimeEvolutionAlgorithm.evolve callsconsistency_check(max_trunc_err,0.01),butTEBDoverrides thismethodwithoutcallingsuper:doNOTattributeparentmax_trunc_errgatetothisactualTEBDpath. Parentrun_evolution andTEBDevolveeachupdatecounter;runtimeaccounting notexecuted/independentlyvalidated,andno externalbugclaim made. Actualstatecompressionconsumer exists,butidentical-outputF300workload/cost/benefit notadmitted."
+  ],
+  "source_acquisition_failures": [
+    {
+      "channel": "web.open",
+      "scope": "Ginkgoexamples andTeNPyalgorithms pinnedcommitdirectorypages",
+      "result": "cache miss;not sourceabsence"
+    },
+    {
+      "channel": "GitHubMCPfetch",
+      "scope": "Ginkgoexamplesdirectoryfirstcall",
+      "result": "transport error"
+    },
+    {
+      "channel": "anonymousAPI",
+      "scope": "samefixeddirectory",
+      "result": "HTTP403rate limit;authenticatedconnectorretry succeeded"
+    }
+  ],
+  "contracts": [
+    {
+      "id": "PART-300-PETSC-DEFLATION",
+      "title": "PETSc coarse correction and deflated preconditioner",
+      "input": "A,W,coarseKSP andadditionalpreconditioner;coarse matrix W* A W must be solvable,not guaranteed byfullcolumnrankW for arbitraryA.",
+      "output": "Presolve r=b-Ax,x+=W(W*AW)^-1W*r;application P M^-1+factor Q withQ=W(W*AW)^-1W*,P=I-QA,subjecttoinit/correctionoptions.",
+      "conditions": "Pinned selectedSetup/PreSolve/Apply/API andmodulemanual;coarseFCG onlywhenSPDknown,otherwiseFGMRES in multilevelbranch,bottomdirectsolve;notexecuted.",
+      "cannot_transfer": "CodeQ/P are notautomatically selfadjointorthogonalF300q;small compressedresidual doesnotcertifyfullsystem residual,coarseinvertibility orconditioning.",
+      "refs": [
+        "LIT-300-PETSC-DEFLATION"
+      ]
+    },
+    {
+      "id": "PART-300-PETSC-HELMHOLTZ",
+      "title": "Actual PETSc complex Helmholtz full-vector consumer",
+      "input": "Complexfivepointunit-squareHelmholtzA,knownu,b=Au;runtimeKSP;selecteddeflation testset.",
+      "output": "SolvefullAx=b andprint2-normx-u/iterationcount;deflation testsrequirecomplexbuild andSuperLU_DIST.",
+      "conditions": "Actualselectedcaller sourcefullyread;imaginarydiagonal generallynonHermitian,notexecuted.",
+      "cannot_transfer": "No state-weighted discardedsubspacebudget orselfadjointinputqualification;genericSPD branchdoesnotmake thiscallerSPD.",
+      "refs": [
+        "LIT-300-PETSC-HELMHOLTZ",
+        "LIT-300-PETSC-DEFLATION"
+      ]
+    },
+    {
+      "id": "PART-300-GINKGO-JACOBI",
+      "title": "Ginkgo inverse diagonal blocks and adaptive storage interface",
+      "input": "SquarematrixconvertedtosortedCSR,contiguousblockstarts0..n orheuristicblockdetection;blocksize/executorstrideconstraints.",
+      "output": "Storedinverse diagonalblocks;optionalL1 diagonalaugmentation andperblockreducedprecision;applydispatch.",
+      "conditions": "Defaultmaxblock32,parametersallowNVIDIA32/AMD64 subjectactualexecutorstride;docs32isnotuniversal. Defaultfullprecision;accuracy0.1onlyusedforadaptiveautodetection.",
+      "cannot_transfer": "Adaptiveaccuracy/dropoutdocumentationisnot uniformF300operatornormtheorem. F300partitiondoesnotitself supplycontiguoussmallinvertibleblocks,conditioning,permutationcost orsolverrate;backendkernelbodiesunread.",
+      "refs": [
+        "LIT-300-GINKGO-JACOBI-API",
+        "LIT-300-GINKGO-JACOBI-CORE"
+      ]
+    },
+    {
+      "id": "PART-300-GINKGO-CG-CALL",
+      "title": "Actual Ginkgo CG solve and full residual consumer",
+      "input": "DoubleCSR A andb/x0 readfromdata/*.mtx;CG withJacobi maxblock8,iterationcap20,residualreduction1e-7.",
+      "output": "Solutionx andfull2-normAx-b;actualexampledoesnotenableadaptivestorage.",
+      "conditions": "Caller94linesfullyread;matrix/RHSfixturebodiesnotdownloadedorvalidated,soSPD/conditioningscale notcertifiedfromcallsite.",
+      "cannot_transfer": "Fullresidualcriterionisnotstateweightedcompression;CGusealone doesnotestablishunreadinputproperties orF300constructor/benefit.",
+      "refs": [
+        "LIT-300-GINKGO-SOLVER",
+        "LIT-300-GINKGO-JACOBI-API"
+      ]
+    },
+    {
+      "id": "PART-300-TENPY-SCHMIDT",
+      "title": "TeNPy normalized Schmidt truncation and factor output",
+      "input": "NormalizedSchmidtspectrumfromactualSVD;chi_max/chimin/degeneracy/svd_min/trunc_cut constraints.",
+      "output": "Keptmask,renormalizedS,U/Vfactorprojections,renormalization andeps=sumdiscardedS^2;trunc_cut targets eps<=trunc_cut^2 onlywhencompatible.",
+      "conditions": "Actual_combine_constraintswarnsandkeepspreviousgoodmaskwhenintersectionempty;no unconditionalallthresholds guarantee. eigh_rho normalizespositiveeigenweights andpassessqrt totruncate.",
+      "cannot_transfer": "ArbitrarynearidentityF300q doesnotprovide a bondrankchi/charge-compatible Schmidtcut,lowrank factors,orcheaperSVD. Imaginary-timeerrorisnotgroundstatequality;Trottererrordistinct.",
+      "refs": [
+        "LIT-300-TENPY-TRUNCATION"
+      ]
+    },
+    {
+      "id": "PART-300-TENPY-TEBD-CALL",
+      "title": "Actual TEBD tensor update and truncation accumulation",
+      "input": "Two-siteMPS theta,U_bond,labeledlegs/charges,canonicalform andtrunc_params.",
+      "output": "svd_theta factors rebuildA/B tensors andSchmidtbond;renormalization andperbond/sequenceTruncationError accumulated. ImaginaryGS usesenergychange.",
+      "conditions": "Selectedreal/imaginaryupdate bodiesandGSloopread,notexecuted;alllibrary/dependencyclosure notread.",
+      "cannot_transfer": "Smallstateweightlossdoesnotbyitselfretainlocaltensorstructure,bondrank/charge/canonicalform,Trotteraccuracy orgroundstatefidelity.",
+      "refs": [
+        "LIT-300-TENPY-TEBD",
+        "LIT-300-TENPY-TRUNCATION"
+      ]
+    },
+    {
+      "id": "PART-300-TENPY-ERROR-DISPATCH",
+      "title": "Selected TEBD override versus parent truncation-check path",
+      "input": "TimeEvolutionAlgorithm.evolve defaultloop versusTEBDEngine.evolve override.",
+      "output": "Parentdefault callsconsistency_check(trunc_err.eps,options,max_trunc_err,0.01);selectedTEBDoverride accumulatesandreturns errorwithoutcallingparentmethod. TEBDcalc_U insteadcallsmax_delta_t check.",
+      "conditions": "Staticselecteddispatchqualification only;consistency_checkbodyunread. Parentrun_evolution andTEBDevolve eachaddcounter,so runtimeaccountingnotcertified;no bugreportorapplication claim.",
+      "cannot_transfer": "Do notattributeparent0.01truncationgatetoactualTEBDoverrideorusecounteras independentlyvalidatedfullphysicalerror.",
+      "refs": [
+        "LIT-300-TENPY-PARENT",
+        "LIT-300-TENPY-TEBD"
+      ]
+    }
+  ],
+  "premise_gaps": [
+    {
+      "id": "PROB-300-SOLVER-CONSUMER",
+      "title": "Full linear-solve output remains outside the admitted compressed interface",
+      "statement": "PETScselectedcaller isgenerallynonHermitian;Ginkgo fixturepropertiesunread. Bothdemandfullvectoroutput/residual,not arbitraryq-compressedoperatorerror. Needactualselfadjointproblem,allowedloss,constructor andindependentfull-outputjudge.",
+      "contracts": [
+        "PART-300-PETSC-HELMHOLTZ",
+        "PART-300-PETSC-DEFLATION",
+        "PART-300-GINKGO-CG-CALL"
+      ],
+      "prior_gap": "PROB-300-OUTPUT-SEMANTICS"
+    },
+    {
+      "id": "PROB-300-INVERSE-BLOCK-COST",
+      "title": "Bounded inverse-block structure and full costs unestablished",
+      "statement": "F300blockcount doesnotboundmaximumblocksize orproveeachdiagonalblockinvertible/wellconditioned. Needreordering,fill,assembly/inversion/storage,iterations,fullresidual andoldstrongbaselines costed.",
+      "contracts": [
+        "PART-300-GINKGO-JACOBI",
+        "PART-300-PETSC-DEFLATION"
+      ],
+      "prior_gap": "PROB-300-FINITE-COST"
+    },
+    {
+      "id": "PROB-300-TENSOR-COMPRESSION",
+      "title": "Actual discarded-weight consumer lacks a compatible F300 constructor",
+      "statement": "TeNPyisarealstate-lossconsumer,butgeneralqdoesnotprovidecharge-compatible boundedSchmidtrank orlabeledU/S/Vfactors;no identical-output cheaperconstructor/baselinebatchorindependentphysicalerrorjudge admitted.",
+      "contracts": [
+        "PART-300-TENPY-SCHMIDT",
+        "PART-300-TENPY-TEBD-CALL",
+        "PART-300-TENPY-ERROR-DISPATCH"
+      ],
+      "prior_gap": "PROB-300-STATE-INTERFACE"
+    },
+    {
+      "id": "PROB-300-CONSUMER-ADMISSION",
+      "title": "No identical-output finite application benchmark admitted in this bounded audit",
+      "statement": "Threeprojectsreachedbudget. FiniteMSS/RSexistencebounds,olddeflation/JacobiandSVDmayalreadymeetactualneeds;oldexistenceboundalsoisnotprovenpracticalconstructor. Retainclueswithoutformaldenialorforcedexperiment.",
+      "contracts": [
+        "PART-300-PETSC-DEFLATION",
+        "PART-300-GINKGO-JACOBI",
+        "PART-300-TENPY-SCHMIDT"
+      ],
+      "prior_gap": "PROB-300-FINITE-COST"
+    }
+  ],
+  "baseline_comparison": [
+    "OldPETScdeflation/coarsesolve/Jacobipreconditionerscompeteonfullsolvecorrectness+setup/inversion+storage+iterations,notpartitioncountalone.",
+    "OldSchmidtSVD/tensorstructuredtruncation alreadyreturnsactualneededfactorsandweightledger. Comparefactorization+reconstruction+physicalaccuracy,notjustepsbookkeeping.",
+    "OldfiniteMSS/RSboundsfromWP111selectedoriginalscopesmayalreadygivefiniteexistenceparameters;neitheroldnornewexistenceboundisbyitselfaefficientconstructor."
+  ],
+  "new_candidates": 0,
+  "new_scientific_experiments": 0,
+  "new_application_checks": 0,
+  "formal_denials": 0,
+  "human_reviews": 0,
+  "independent_second_provider_reviews": 0,
+  "decision": "Boundedauditcomplete;retainconditionaloutput/state/costclues,stopat3projectsand11files. No admittedidentical-outputF300benchmark,nonewtestgainhypothesis. RotateWP113todifferentlowcoveragearea.",
+  "scope_limits": "11selectedfiles/ranges,notwholeprojectproof/performance/securityaudit. Runtimefixtures,kernels,fulltensordependencyclosureunread;noinstall,build,solverexecutionorbenchmark."
+}

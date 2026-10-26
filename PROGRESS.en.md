@@ -1,6 +1,6 @@
 # MathWeave — Research progress
 
-Snapshot: October 26, 2026, curated through WP-111 / GEN108, with unfinished WP-112 selected-source qualification. This explicit owner request prepares one publication batch. Global retrospective039 remains the latest review. The previous verified public `453a806` and its scoped CI cover the older snapshot; this batch requires separate remote verification. **Phase one remains incomplete.**
+Snapshot: October 26, 2026, curated through WP112 / GEN109, with unfinished WP113 actual full-source reading and selected formal/historical qualification. This explicit owner request prepares one publication batch. Public `21ce7dc` and its successful scoped CI cover the previous snapshot; this batch is separately verified. Global039 remains the latest review; global040 is mandatory after WP113. **Phase one remains incomplete.**
 
 | Measure | Actual progress | Meaning and remaining gap |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ Snapshot: October 26, 2026, curated through WP-111 / GEN108, with unfinished WP-
 | Separate component checks | 2 | Excluded from the application-hypothesis count |
 | Complete experiment archives | 15 | Thirteen application checks plus two component checks, with compressed data and source snapshots |
 | Independent second-provider reviews / human specification reviews / pilots | 0 / 0 / 0 | No engineering deployment or fully reviewed mathematical assurance is claimed |
-| Knowledge graph | 8,091 nodes;23,129 relations;8,800 canonical citation annotations (8,790 in core-validated research types) | A mix of research records, corpus records, and projected source artifacts; size is not research completion |
+| Knowledge graph | 8,128 nodes;23,260 relations;8,848 canonical citation annotations (8,838 in core-validated research types) | A mix of research records, corpus records, and projected source artifacts; size is not research completion |
 
 ## Latest source-reading package
 
@@ -134,3 +134,18 @@ Ten domains and three cross-family attempts add no application candidate or chec
 ## WP112: unfinished consumer qualification
 
 Three pinned first-party projects (PETSc, Ginkgo and TeNPy) supply 11 selected source/license files, totaling 202,494 downloaded bytes. Actual reading covers 983 lines: all three licenses, the PETSc Helmholtz caller and selected deflation implementation ranges. The selected Ginkgo and TeNPy code bodies remain unread apart from locators, and their consumer qualification is pending. These provisional notes add no canonical records, candidate, experiment or application-check credit. Resume at the pinned Ginkgo Jacobi API, generation/application and caller, then TeNPy truncation/TEBD and parent error handling. The [journal](state/reading-progress/WP-112.json) records exact ranges, hashes, pins, acquisition failures and limits.
+
+
+## WP112: bounded source qualification
+
+The three-project audit now records 2,588 actually read lines in 11 pinned files, with 202,494 bytes obtained across the full package. PETSc full-system coarse correction, Ginkgo inverse blocks/full residuals and TeNPy Schmidt-factor reconstruction retain distinct output contracts. The actual TEBD override does not call the parent default truncation-check loop; parent documentation is not proof of a TEBD error gate. No runtime or performance claim is added. Twenty-four canonical records and 83 explicit relations preserve all 5,052 old canonical lines. Full graph/export equality, 26 dependency-impact/non-propagation cases and 15 archives/267 source members passed; core/clean/storage outcomes remain separately recorded. No candidate, scientific run, application check or formal denial is added. [The report](reports/F300-paving-consumer-audit.md) records precise revisit conditions and the stop at three projects. WP113 selects F020 in low-coverage number theory over algebraic-geometry alternatives F047/F053, with zero manuscript-body credit so far; mandatory review040 follows WP113. This work is local only.
+
+
+WP113 reading checkpoint: six actual TeX files / 1,375 of 3,967 lines, with 2,592 TeX and 345 bibliography lines still unread. The uniform affine-counting argument uses complete evaluation kernels and fixed rank records under deletion; its existential choices do not establish a practical algorithm. Arithmetic balancing and local analytic branches retain constants depending on the fixed polynomial. Formal/historical qualification and canonical credit remain pending. Resume at `05-determinant-cuts.tex` (378 lines). No scientific experiment is running.
+
+
+## Owner-requested WP112 publication and unfinished WP113
+
+This owner-requested publication batch includes completed WP112 / GEN109 and an explicitly unfinished [WP113 reading checkpoint](state/reading-progress/WP-113.json). WP112 qualifies three pinned software projects: 11 source/license files and 2,588 actually read lines. Full solves, inverse blocks and tensor-compatible truncation still do not establish an identical-output F300 application benchmark. Totals remain 59 canonically credited reading families, 54 current-source decomposition drafts, 8,128 graph nodes and 23,260 relations; 45 candidates and 13 preliminary application checks. F020 now has all 15 TeX files / 3,967 lines and 345 bibliography lines actually read, plus selected formal and four historical-work scopes. Canonical qualification, complete history and global review040 remain pending. Same-provider auxiliary opinions add no independent-provider or human review credit. No new application check or numerical experiment is added. The previous verified public snapshot is `21ce7dc`; this batch requires separate push, readback and CI observations.
+
+Publication boundary: retain MathWeave and the existing [yiduo/mathweave](https://github.com/yiduo/mathweave) address. The official `math/` directory, third-party full-text downloads and bulk local Git history remain excluded. Reading helpers, provisional role outputs and metadata are compressed with verified round trips. Temporary original HTML bodies remain local only to finish the incomplete research. Post-push receipts stay local until the next meaningful batch, avoiding an extra metadata-only push.

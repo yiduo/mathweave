@@ -1,0 +1,82 @@
+{
+  "at": "2026-10-26T08:24:14.550512+00:00",
+  "members_verified": 10,
+  "compressed_sha256": "c3bedb44384d0b4f42bdb87bf0018e81b63f7efcc0940473da128215aab15056",
+  "decompressed_sha256": "adf7fa71123310963a4ea24bd4f15b6967d1921596662bc0f2c36cedd6417c25",
+  "temporary_publication_helpers_removed": true,
+  "third_party_source_downloads_published": false,
+  "incomplete_WP112_work_retained": true,
+  "new_scientific_experiments": 0,
+  "removed_at": "2026-10-26T08:24:32.285773+00:00",
+  "all_removed_files_matched_archives": [
+    {
+      "name": "qa_current.py",
+      "sha256": "073a2ee3a9ef4946526d689291dc5a947866e67993769097c493d0b076bb0d38"
+    },
+    {
+      "name": "core.log",
+      "sha256": "0ac295ffb129970f81d26c26c6686dca7b946f5f54b934425b58c333687ec5ea"
+    },
+    {
+      "name": "no-math-core.log",
+      "sha256": "c40d4a3f1ca9f48fbfd350c73e3a3115e964675721ec87981623ba34eef27f43"
+    },
+    {
+      "name": "CI-jobs-final-observation.json.gz",
+      "sha256": "f2d609551eacfa25c54e96794769255474c7447cf599d21a71a3a7a03e9d8695"
+    },
+    {
+      "name": "CI-jobs-observation.json.gz",
+      "sha256": "b59eafedbf74c785f574a04a8b23a9cd1afce9934fa39e8330a15abc6d46f2b0"
+    },
+    {
+      "name": "CI-observation.json.gz",
+      "sha256": "3442f3fbfe2725ccc00d567887762a8b5d3947995abace402370f157fee29971"
+    },
+    {
+      "name": "finalize.py",
+      "sha256": "6ee648f2513a4d405df2efe7ff3ba09f5aa9f3b73d4c72a3c3e0c9fa49d8e59b"
+    },
+    {
+      "name": "verification.json.gz",
+      "sha256": "912c87c3012af1af79e705462610919f78c9fc05904dd8f854d27df252a7a677"
+    },
+    {
+      "name": "finalize_current.py",
+      "sha256": "b89b1b043d8fe94c17d1f77179cde6b0ac9dc835d3dd55ee8b455771517081e3"
+    },
+    {
+      "name": "create_public_commit.py",
+      "sha256": "7b18378bee2b37dac115ea6e0ca3a9d25bded3cfe7a5e4871b65a543b0fa574f"
+    },
+    {
+      "name": "verify.py",
+      "sha256": "73c5e3b1f4e019423c3967b535e186204bf0bc7203bfeed1886525a35f386e91"
+    },
+    {
+      "name": "public-candidate.json",
+      "sha256": "60156862bd6002b599014741caf1428eef4116b4d418b8511cec23c7e5e5e696"
+    },
+    {
+      "name": "prepare_current.py",
+      "sha256": "6371ef8c9b4c0bdb7d90f9297f5b2ca6f9e03f429fd005a035fc53299ae72a48"
+    },
+    {
+      "name": "CI-first-observation.json.gz",
+      "sha256": "19c59308e0c9abd58171d3a2adc3283ce16a0993cc409f91759c72637408b16b"
+    },
+    {
+      "name": "final-audit.json",
+      "sha256": "dc0e64d27514b9cb972e35b4679e46674cb2cc0b934dafed7c7b0f10977f0cf6"
+    },
+    {
+      "name": "prepare.py",
+      "sha256": "caade92c7d2fcdd9772177475edfba99929f8bbf7fbc4de693f91d7a36ad7f93"
+    },
+    {
+      "name": "qa.py",
+      "sha256": "7420ee4612e2821ca4b4b5c3adbea591e90dab25a79aef643f582dfce01d58f5"
+    }
+  ],
+  "clean_directory_removed": true
+}

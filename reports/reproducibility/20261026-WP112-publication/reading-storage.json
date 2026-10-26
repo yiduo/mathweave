@@ -1,0 +1,12 @@
+{
+  "members": 13,
+  "compressed_sha256": "6808935491fe9e108ddfd23829791fd8f174ef3d814707ad17a145bfa05182af",
+  "decompressed_sha256": "4ed61cf6f30c40fe996c7eeeb8476dcb9c406afe1b66c7e1b12ca7519c762b7a",
+  "all_members_verified": true,
+  "at": "2026-10-26T09:26:40.441431+00:00",
+  "third_party_bodies_included": false,
+  "external_body_hashes_verified": 9,
+  "external_bytes_retained_temporarily_for_incomplete_research": 1993868,
+  "temporary_work_retained_for_incomplete_task": true,
+  "numerical_experiments": 0
+}

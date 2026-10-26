@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-26T08:16:52.866060+00:00",
+  "saved_at": "2026-10-26T09:30:09.821942+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "/Users/smzdm/.codex/attachments/9889aa5b-5623-4db2-8f84-3b34de21114d/goal-objective.md",
   "latest_retrospective": "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md",
@@ -115,15 +115,16 @@
     "WP-108",
     "WP-109",
     "WP-110",
-    "WP-111"
+    "WP-111",
+    "WP-112"
   ],
-  "work_packages_since_last_retrospective": 1,
-  "retrospective_due_after": "After WP113(third substantive package sinceglobal039),or earliermajorcounterevidence/dataissue",
+  "work_packages_since_last_retrospective": 2,
+  "retrospective_due_after": "Mandatoryglobal040 afterWP113,thirdsubstantivepackage since039;or earliermajorevidence/dataissue.",
   "metrics": {
-    "nodes": 8091,
-    "research_nodes": 5048,
-    "edges": 23129,
-    "citations_checked": 8790,
+    "nodes": 8128,
+    "research_nodes": 5072,
+    "edges": 23260,
+    "citations_checked": 8838,
     "candidate_connections": 45,
     "externally_checked_cards": 13,
     "effective_leads": 5,
@@ -555,95 +556,103 @@
     "CurrentWP108 and postpublicationreceipts are localonly;do not automaticallypush toGitHub."
   ],
   "next_work_package": {
-    "id": "WP-112",
+    "id": "WP-113",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Qualify real consumers of spectral block partitioning or state-budget compression against F300 transfer contracts and old finite-paving baselines",
-    "selection_reason": "WP111 now separates actual finite rooted-cost components from general strong-topology existence;before proposing applications,check whether real callers consume the same compressed/state-budget output andcharge full construction/validation costs. This directly targets application qualification rather than another known-formula demo.",
+    "objective": "Actually read and qualify the full F020 quartic squarefree/power-free source,its formal/historical scopes and transferable input/output conditions before application claims",
+    "selection_reason": "Three paving-consumer projects have reached their cap without an identical-output benchmark. Number theory remains3/31. F020 offers a different input class—polynomial values—where full-source reading can distinguish local obstruction,degree/power-free assumptions,density/existence,effective finite error and constructive interfaces. This is a question to resolve,not a promise from filenames or title. Do not continue spectral libraries or run a known-formula demo.",
     "inputs": [
-      "F-300",
-      "data/provenance/readings/F-300.json",
-      "reports/paving-F300-reading.md",
-      "PROB-300-FINITE-COST",
-      "PROB-300-OUTPUT-SEMANTICS",
-      "PROB-300-STATE-INTERFACE"
+      "F-020",
+      "P-b048d707c8589e15",
+      "state/reading-progress/WP-113.json",
+      "reports/F300-paving-consumer-audit.md",
+      "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
     ],
-    "resource_limit": "Atmost3first-party publicsoftwareprojects,fixactualcommits andreadatmost12selectedsource/licensefiles/2MiBnewbodies. No clone,install,modelAPIor scientificoutput without separate executable preregistration. Reuse pinnedMSS/PV/RS/AS selected scopes;do not redownload them merelyforfingerprint.",
-    "acceptance": "Identify actual input matrix/operator,state/cocycle/expectation certificate,projection/partition output,allowed loss/error andreal consumer;compare identical-output oldmethods andcomplete cost. Preserve genuine mismatch andconditional clues. No candidate quota or mock application credit. Allgraph/source/gates/impact/export/core/archive/no-math checks foraccepted records.",
-    "stop_or_redirect": "Stop at3projects or12files ifno admitted identical-output workload;retain precise premises androute nextpackage towarda different low-coverage area. Do not present finite smallmatrix root identities asnewgeneralMASA validation.",
-    "created_at": "2026-10-26T06:06:17.987894+00:00",
+    "source_inventory_only": {
+      "manuscripts": 1,
+      "tex_files": 15,
+      "tex_lines": 3967,
+      "bibliography_lines": 345,
+      "actual_scope": "README andhash/fileinventory only;zero manuscriptbody lines ornewcanonical sourcecredit"
+    },
+    "resource_limit": "Read-only fixedmath;complete actualinclude/figure/reference closure,checkversions/formal endpoints. Atmost4necessaryprimaryhistoricalworks/8MiBnewbodies,normalTLS,existingruntimesonly;no clone/install/cache. No numerical/symbolicoutputs before separateindependent executablepreregistration. Compress ownoutputs/snapshots andverifyroundtrip beforecleanup.",
+    "acceptance": "Qualify allmain/supportresults withsourcefile/label,integerpolynomial/degree/power conditions,localobstructions,density/counting/effectivity/constants andfullinputcosts. Compare strongold squarefree/power-free results underidenticaloutput,preserveformal/natural differences andhistorygaps. Ten-domain/cross-family attemptswithoutquotas;anynewhypothesis needs isolatedauxiliaryroles,not human/secondprovider. Fullgraph/hash/FK/gates/impact/export/core/archive/no-mathQA.",
+    "stop_or_redirect": "Do not prove newnumbertheory orinterpret existence/density as efficientgeneration ornewnumericgain. No easy squarefreecount grid as sourcevalidation. Keepconditionalclues andunknowns;majorcounterevidence triggers earlyglobalreview.",
     "depends_on": [
-      "WP-111"
+      "WP-112"
     ],
+    "created_at": "2026-10-26T08:44:40.607148+00:00",
     "github_push": false,
-    "retrospective_due": "AfterWP113 (third substantive package afterglobal039),or earliermajorcounterevidence/dataissue.",
-    "selection_source_reading_credit": false,
-    "next_action": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
-    "started_at": "2026-10-26T06:18:27.059284+00:00",
-    "selected_qualification_routes": [
-      "PETSc spectral deflation:coarse correction andfullsystem consumer",
-      "Ginkgo block-Jacobi:block partition/inversion/storage accuracy consumer",
-      "TeNPy Schmidt truncation:discarded state weight andtensorstructured output consumer"
-    ],
-    "selection_evidence": "Initial first-party PETSc andGinkgo documentation located concrete deflation/Jacobi consumers;TeNPy truncation interface chosen as distinct state-loss contract pendingactualsource. Documentation not counted asqualified source credit.",
-    "source_reading_progress": {
-      "projects_pinned": 3,
-      "files_downloaded": 11,
-      "body_bytes": 202494,
-      "selected_lines_actually_read": 983,
-      "new_application_checks": 0
+    "retrospective_due": "Mandatory global040 afterWP113,third substantivepackage WP111-113 since039;earliermajorcounterevidence/dataissue.",
+    "execution_journal": "state/reading-progress/WP-113.json",
+    "next_action": "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+    "started_at": "2026-10-26T08:49:10.030070+00:00",
+    "execution_progress": {
+      "files_fully_read": 15,
+      "tex_lines_read": 3967,
+      "selected_total_tex_lines": 3967,
+      "bibliography_lines_read": 345,
+      "bibliography_total_lines": 345,
+      "new_full_manuscripts": 0,
+      "canonical_credit_added": false,
+      "actual_current_source_read_complete": true,
+      "formal_historical_selected_scopes_saved": true
     }
   },
-  "release_state": "Public MathWeave 453a806aecb454c3581726a8e949e439cd3bdb66 through WP110/global039 plus unfinished WP1114745/7647lines;exact tree and7anonymous files verified;scoped CI success observed separately.",
-  "last_quality_evidence": "reports/reproducibility/20261026-F300-paving",
+  "release_state": "PublicMathWeave 21ce7dcf480ef0d423626596b10ff2ccb8efc170 throughWP111 GEN108 plus unfinishedWP112;fulltree and7publicfilesverified,scopedCI success.",
+  "last_quality_evidence": "reports/reproducibility/20261026-paving-consumers/quality.json.gz",
   "previous_goal_turn_classification": {
     "classification": "progress",
-    "evidence": "Prior research WP111 complete and WP112 actual983-line checkpoint preserved. Current explicit owner publication request takes priority;no additional reading or application credit."
+    "evidence": "WP113 full natural source read with selected formal/history scopes and isolated same-provider auxiliary opinions; canonical curation pending. Current user publication request takes priority."
   },
   "active_work_package": {
-    "id": "WP-112",
+    "id": "WP-113",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Qualify real consumers of spectral block partitioning or state-budget compression against F300 transfer contracts and old finite-paving baselines",
-    "selection_reason": "WP111 now separates actual finite rooted-cost components from general strong-topology existence;before proposing applications,check whether real callers consume the same compressed/state-budget output andcharge full construction/validation costs. This directly targets application qualification rather than another known-formula demo.",
+    "objective": "Actually read and qualify the full F020 quartic squarefree/power-free source,its formal/historical scopes and transferable input/output conditions before application claims",
+    "selection_reason": "Three paving-consumer projects have reached their cap without an identical-output benchmark. Number theory remains3/31. F020 offers a different input class—polynomial values—where full-source reading can distinguish local obstruction,degree/power-free assumptions,density/existence,effective finite error and constructive interfaces. This is a question to resolve,not a promise from filenames or title. Do not continue spectral libraries or run a known-formula demo.",
     "inputs": [
-      "F-300",
-      "data/provenance/readings/F-300.json",
-      "reports/paving-F300-reading.md",
-      "PROB-300-FINITE-COST",
-      "PROB-300-OUTPUT-SEMANTICS",
-      "PROB-300-STATE-INTERFACE"
+      "F-020",
+      "P-b048d707c8589e15",
+      "state/reading-progress/WP-113.json",
+      "reports/F300-paving-consumer-audit.md",
+      "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
     ],
-    "resource_limit": "Atmost3first-party publicsoftwareprojects,fixactualcommits andreadatmost12selectedsource/licensefiles/2MiBnewbodies. No clone,install,modelAPIor scientificoutput without separate executable preregistration. Reuse pinnedMSS/PV/RS/AS selected scopes;do not redownload them merelyforfingerprint.",
-    "acceptance": "Identify actual input matrix/operator,state/cocycle/expectation certificate,projection/partition output,allowed loss/error andreal consumer;compare identical-output oldmethods andcomplete cost. Preserve genuine mismatch andconditional clues. No candidate quota or mock application credit. Allgraph/source/gates/impact/export/core/archive/no-math checks foraccepted records.",
-    "stop_or_redirect": "Stop at3projects or12files ifno admitted identical-output workload;retain precise premises androute nextpackage towarda different low-coverage area. Do not present finite smallmatrix root identities asnewgeneralMASA validation.",
-    "created_at": "2026-10-26T06:06:17.987894+00:00",
+    "source_inventory_only": {
+      "manuscripts": 1,
+      "tex_files": 15,
+      "tex_lines": 3967,
+      "bibliography_lines": 345,
+      "actual_scope": "README andhash/fileinventory only;zero manuscriptbody lines ornewcanonical sourcecredit"
+    },
+    "resource_limit": "Read-only fixedmath;complete actualinclude/figure/reference closure,checkversions/formal endpoints. Atmost4necessaryprimaryhistoricalworks/8MiBnewbodies,normalTLS,existingruntimesonly;no clone/install/cache. No numerical/symbolicoutputs before separateindependent executablepreregistration. Compress ownoutputs/snapshots andverifyroundtrip beforecleanup.",
+    "acceptance": "Qualify allmain/supportresults withsourcefile/label,integerpolynomial/degree/power conditions,localobstructions,density/counting/effectivity/constants andfullinputcosts. Compare strongold squarefree/power-free results underidenticaloutput,preserveformal/natural differences andhistorygaps. Ten-domain/cross-family attemptswithoutquotas;anynewhypothesis needs isolatedauxiliaryroles,not human/secondprovider. Fullgraph/hash/FK/gates/impact/export/core/archive/no-mathQA.",
+    "stop_or_redirect": "Do not prove newnumbertheory orinterpret existence/density as efficientgeneration ornewnumericgain. No easy squarefreecount grid as sourcevalidation. Keepconditionalclues andunknowns;majorcounterevidence triggers earlyglobalreview.",
     "depends_on": [
-      "WP-111"
+      "WP-112"
     ],
+    "created_at": "2026-10-26T08:44:40.607148+00:00",
     "github_push": false,
-    "retrospective_due": "AfterWP113 (third substantive package afterglobal039),or earliermajorcounterevidence/dataissue.",
-    "selection_source_reading_credit": false,
-    "next_action": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
-    "started_at": "2026-10-26T06:18:27.059284+00:00",
-    "selected_qualification_routes": [
-      "PETSc spectral deflation:coarse correction andfullsystem consumer",
-      "Ginkgo block-Jacobi:block partition/inversion/storage accuracy consumer",
-      "TeNPy Schmidt truncation:discarded state weight andtensorstructured output consumer"
-    ],
-    "selection_evidence": "Initial first-party PETSc andGinkgo documentation located concrete deflation/Jacobi consumers;TeNPy truncation interface chosen as distinct state-loss contract pendingactualsource. Documentation not counted asqualified source credit.",
-    "source_reading_progress": {
-      "projects_pinned": 3,
-      "files_downloaded": 11,
-      "body_bytes": 202494,
-      "selected_lines_actually_read": 983,
-      "new_application_checks": 0
+    "retrospective_due": "Mandatory global040 afterWP113,third substantivepackage WP111-113 since039;earliermajorcounterevidence/dataissue.",
+    "execution_journal": "state/reading-progress/WP-113.json",
+    "next_action": "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+    "started_at": "2026-10-26T08:49:10.030070+00:00",
+    "execution_progress": {
+      "files_fully_read": 15,
+      "tex_lines_read": 3967,
+      "selected_total_tex_lines": 3967,
+      "bibliography_lines_read": 345,
+      "bibliography_total_lines": 345,
+      "new_full_manuscripts": 0,
+      "canonical_credit_added": false,
+      "actual_current_source_read_complete": true,
+      "formal_historical_selected_scopes_saved": true
     }
   },
   "publication_work": {
-    "status": "preparing_owner_requested_WP111_batch",
+    "status": "checks_passed_pending_staged_audit_push_readback_ci",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/mathweave",
     "official_math_excluded": true,
@@ -655,35 +664,35 @@
     "initial_remote_ci_failure_preserved": true,
     "macos_strict_replay_passed": true,
     "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-    "latest_public_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+    "latest_public_commit": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
     "latest_ci": [
       {
-        "id": 40274241467,
+        "id": 40291327153,
         "name": "offline-core",
-        "head_sha": "453a806aecb454c3581726a8e949e439cd3bdb66",
+        "head_sha": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40274241467",
-        "created_at": "2026-10-26T05:26:41Z",
-        "updated_at": "2026-10-26T05:29:13Z"
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40291327153",
+        "created_at": "2026-10-26T08:18:19Z",
+        "updated_at": "2026-10-26T08:22:45Z"
       }
     ],
-    "current_local_research_not_yet_pushed": "WP111 GEN108 complete;WP112 in progress,983 actual source/license lines only. This explicit owner-requested batch is pending push/readback.",
+    "current_local_research_not_yet_pushed": "Completed WP112 GEN109 plus unfinished WP113 F020 full-source reading and selected formal/history checkpoint; no new canonical F020 or application credit; owner-requested batch pending push/readback.",
     "synchronization_status": "published_verified",
     "pending_public_commit": null,
     "pending_public_tree": null,
     "active_push_exec_session": null,
-    "scientific_local_commit": "54c062327899a45a0385d10aab8f48a6e343447a",
-    "prepush_audit": "reports/reproducibility/20261026-WP111-publication/final-audit.json.gz",
-    "latest_public_tree": "f5c404d9caa2e45bdf65ab66e89e4d8d25ada1c7",
-    "latest_verification_receipt": "reports/reproducibility/20261026-WP110-publication/verification.json.gz",
-    "latest_ci_receipt": "reports/reproducibility/20261026-WP110-publication/CI-observation.json.gz",
+    "scientific_local_commit": "3e041e6348c4f6d1528dac21fa6b016a9ed1b1c7",
+    "prepush_audit": "reports/reproducibility/20261026-WP112-publication/final-audit.json.gz",
+    "latest_public_tree": "fd2fa531627c5b661f49a3ea5d76783ee2583987",
+    "latest_verification_receipt": "reports/reproducibility/20261026-WP111-publication/verification.json.gz",
+    "latest_ci_receipt": "reports/reproducibility/20261026-WP111-publication/CI-observation.json.gz",
     "update_policy": "User reaffirmed fewer GitHub updates2026-10-23:local routine checkpoints/commits,meaningful milestone batches only;publication_policy in configs/research.json;no scheduler.",
-    "receipt_storage_scope": "Saved and locally committed after public snapshot;not pushed again. The public tree records preparation and previous verification;this subsequent local receipt verifies actual publication and CI.",
+    "receipt_storage_scope": "Post-push verification andCI saved locally,not pushed again solelyforreceipts;public snapshot contains preparation andprevious verification.",
     "current_batch_qa": {
-      "at": "2026-10-26T08:00:01.897544+00:00",
-      "files": 2006,
-      "bytes": 76725404,
+      "at": "2026-10-26T09:29:58.067417+00:00",
+      "files": 2026,
+      "bytes": 77448857,
       "official_math_paths": 0,
       "copy_hashes_verified": true,
       "core_exit_code": 0,
@@ -691,25 +700,26 @@
       "core_tests": 69,
       "local_core_exit_code": 0,
       "clean_directory_removed": true,
-      "science_code_tests_corpus_exports_unchanged_from": "1a8a2b9",
-      "prior_WP111_archive_roundtrip_verified": true,
-      "prior_full_graph_impact_archive_evidence": "reports/reproducibility/20261026-F300-paving/quality.json.gz",
+      "science_code_tests_corpus_exports_unchanged_from": "7b5bdf9",
+      "prior_WP112_archive_roundtrip_verified": true,
+      "prior_full_graph_26_impact_15_archive_267_member_evidence": "reports/reproducibility/20261026-paving-consumers/quality.json.gz",
       "new_scientific_experiments": 0,
-      "incomplete_WP112_actual_lines": 983,
+      "incomplete_WP113_actual_tex_lines": 3967,
       "helper_members_verified": 4,
-      "helper_compressed_sha256": "90e35c3a7026e69ec5221d3c7fa7a32f75e187679d9d1e110832cf04b96d812e",
-      "helper_decompressed_sha256": "a1423148e66c823bd0cbd7f81d41c62229706dfdc814f78df7dca5dd87d4e8f3",
-      "scope": "Publication checks,not new scientific replays,proof review or application validation."
+      "helper_compressed_sha256": "467acd3d56fdb754f205b23f52604800bb8c6300bde55f37a675b3249cb0132d",
+      "helper_decompressed_sha256": "74639107f9501317d51ff0081aeb1830bf964b0034aefaa53d342626cf184dd9",
+      "scope": "Publication checks, not new scientific replays, proof review or application validation."
     },
     "pending_ci_run": null
   },
   "recovery_commands": [
-    "Read goal/AGENTS/charter/roadmap/status/checkpoint/backlog/latestglobal039;verifydisk/processes andWP111storage before continuing.",
-    "WP111 GEN108 source/history/graph/core/clean checks complete;do not rerun one-shotcurator or redownload four originals merelyforfingerprint.",
-    "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators.",
-    "Admit no scientificoutput until separate executable preregistration;compare exact target/error/state/partition/Q output andfull oldbaselinecost.",
-    "Owner-requested WP111/unfinishedWP112 batch in preparation;see state/publication.json for actual verified public boundary.",
-    "Officialmath read-only;compress own outputs/snapshots andverifyroundtrip before deletingtemporaryplaintext."
+    "Readobjective/AGENTS/charter/roadmap/status/checkpoint/backlog/latestglobal039;verifydisk/processes andWP112storage beforecontinuing.",
+    "WP112 completedGEN109,3projectcap reached;do notrerunone-shotcurator,reacquire11softwarefiles orrepeatunchangedscientificexperiments merelyforfingerprint.",
+    "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+    "WP113 full current natural source actually read; selected formal/history scopes and same-provider role outputs archived. No canonical/application/human credit added.",
+    "Owner-requested WP112/unfinishedWP113 batch pending; consult state/publication.json for actual verified boundary. Avoid routine pushes.",
+    "No scientificoutput beforeindependent executablepreregistration;compress outputs/source snapshots andverifyroundtrip;officialmathreadonly.",
+    "WP113 musttrigger global040 comparingdifferent routes andold-method-null;counter2since039."
   ],
   "recovery_observation": {
     "at": "2026-10-26T04:08:53.951075+00:00",
@@ -754,20 +764,14 @@
       "math_clean": true
     },
     "publication_boundary": {
-      "at": "2026-10-26T05:30:12.092658+00:00",
+      "at": "2026-10-26T08:24:14.550512+00:00",
       "running_project_processes": [],
       "new_scientific_experiments": 0,
       "expensive_experiments_repeated": false,
       "math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
       "math_clean": true,
-      "public_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
-      "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts.",
-      "temporary_roots_removed": [
-        "/private/tmp/ai-paper-WP111",
-        "/private/tmp/mathweave-publish-WP110-20261026"
-      ],
-      "disk_available_GiB_observed": 16.78,
-      "all_tool_sessions_terminal": true
+      "public_commit": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
+      "next_actual_read": "Read pinned Ginkgo jacobi.hpp selected API/accuracy/storage range andjacobi.cpp generation/application,then preconditioned-solver actualconsumer;TeNPytruncation/TEBD/parent stillunread exceptlocators."
     },
     "WP111_after_publication_recovery": {
       "at": "2026-10-26T05:35:46.784745+00:00",
@@ -800,6 +804,22 @@
       "running_project_processes": [],
       "math_clean": true,
       "previous_package_compressed_hashes_reverified": true
+    },
+    "WP112_close": {
+      "at": "2026-10-26T08:47:09.730150+00:00",
+      "new_scientific_experiments": 0,
+      "running_project_processes": [],
+      "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "upstream_clean": true,
+      "clean_copy_removed": true,
+      "next_work_package": "WP-113",
+      "body_credit_for_next": 0
+    },
+    "WP113_start": {
+      "at": "2026-10-26T08:49:10.030070+00:00",
+      "WP112_archive_roundtrip_verified": true,
+      "previous_temp_absent": true,
+      "next_source_credit": "1375TeXlinesonly,nocanonicalcoverage"
     }
   },
   "runtime_resolution": {
@@ -808,15 +828,9 @@
     "existing_runtime_no_install": true,
     "failed_clean_receipt": "reports/reproducibility/20261022-bernoulli/clean-directory-incompatible-python.json.gz"
   },
-  "last_completed_work_package": {
-    "id": "WP-111",
-    "generation": "GEN-20261026-108",
-    "at": "2026-10-26T06:10:41.984900+00:00",
-    "scope": "Two current F300source drafts,56C/unknownchains,20contracts,fourhistoricalselectedscopes/10PDFviews;notcompletefamily/history/humanorapplicationacceptance",
-    "quality": "reports/reproducibility/20261026-F300-paving"
-  },
+  "last_completed_work_package": "WP-112",
   "project_goal_prompt": "prompts/continuous-research-goal.md",
   "goal_objective_version_receipt": "state/goal-objective-version.json",
-  "storage_receipt": "reports/reproducibility/20261026-F300-paving/storage.json",
-  "publication_qa_evidence": "reports/reproducibility/20261026-WP111-publication"
+  "storage_receipt": "reports/reproducibility/20261026-paving-consumers/storage.json",
+  "publication_qa_evidence": "reports/reproducibility/20261026-WP112-publication"
 }

@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-26T09:29:58.067417+00:00",
+  "files": 2026,
+  "bytes": 77448857,
+  "official_math_paths": 0,
+  "copy_hashes_verified": true,
+  "core_exit_code": 0,
+  "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "core_tests": 69,
+  "local_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "science_code_tests_corpus_exports_unchanged_from": "7b5bdf9",
+  "prior_WP112_archive_roundtrip_verified": true,
+  "prior_full_graph_26_impact_15_archive_267_member_evidence": "reports/reproducibility/20261026-paving-consumers/quality.json.gz",
+  "new_scientific_experiments": 0,
+  "incomplete_WP113_actual_tex_lines": 3967,
+  "helper_members_verified": 4,
+  "helper_compressed_sha256": "467acd3d56fdb754f205b23f52604800bb8c6300bde55f37a675b3249cb0132d",
+  "helper_decompressed_sha256": "74639107f9501317d51ff0081aeb1830bf964b0034aefaa53d342626cf184dd9",
+  "scope": "Publication checks, not new scientific replays, proof review or application validation."
+}

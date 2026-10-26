@@ -1,0 +1,858 @@
+{
+  "work_package": "WP-113",
+  "family_id": "F-020",
+  "manuscript_ids": [
+    "P-b048d707c8589e15"
+  ],
+  "status": "in_progress",
+  "selected_at": "2026-10-26T08:44:40.607148+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "selection": {
+    "selected": "F-020",
+    "coverage_at_selection": {
+      "Number theory": [
+        3,
+        31
+      ],
+      "Algebraic and complex geometry": [
+        3,
+        36
+      ]
+    },
+    "alternatives": [
+      {
+        "family": "F-047",
+        "inventory": "10TeX2281lines;READMEonlyread",
+        "value_question": "Qualify explicit algebraic construction and distinguish it from generic affine-space algorithms;retain as next different-route option."
+      },
+      {
+        "family": "F-053",
+        "inventory": "12TeX5064lines;READMEonlyread",
+        "value_question": "Qualify high-arity counterexample,finite certificates and cost before application claims;retain without declaring ineffective from title."
+      }
+    ],
+    "reason": "Three paving-consumer projects have reached their cap without an identical-output benchmark. Number theory remains3/31. F020 offers a different input class—polynomial values—where full-source reading can distinguish local obstruction,degree/power-free assumptions,density/existence,effective finite error and constructive interfaces. This is a question to resolve,not a promise from filenames or title. Do not continue spectral libraries or run a known-formula demo."
+  },
+  "readmes_read": [
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/README.md",
+      "lines": 18,
+      "sha256": "f27adb1462c7591096d888a66c44c2b931663487e31cac8be1fe531322d67fa1",
+      "actually_read": true,
+      "scope": "README selection metadata only,not manuscript body"
+    }
+  ],
+  "source_files": [
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/figures/proof-flow.tex",
+      "bytes": 1163,
+      "lines": 23,
+      "sha256": "6fe0001aebd68acd6a65a5a4349fec37a0e5678f56459ca2bfcf07f83e77a31e",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          23
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/main.tex",
+      "bytes": 2378,
+      "lines": 63,
+      "sha256": "0b079d36238cc9d7e12d466048b516305319f21c0a4d705048e2ad6514fba12a",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          63
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/references.bib",
+      "bytes": 9747,
+      "lines": 345,
+      "sha256": "7ebdd09b7a9c9fc9e8a1e139b08d961a76a7bcc0d0632ac899247824f6d6812a",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          345
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/01-introduction.tex",
+      "bytes": 14192,
+      "lines": 302,
+      "sha256": "c41dbfe7cb4ca446e8b3abf9b52b0fa2667550e921fadf007f190019f2cbef72",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          302
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/02-sieve.tex",
+      "bytes": 11208,
+      "lines": 278,
+      "sha256": "2340d8e476aae9050b97723e597c8b35b2b95d4fef07f256d19758d59d1f7787",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          278
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/03-affine-counting.tex",
+      "bytes": 23166,
+      "lines": 485,
+      "sha256": "a91cab21740df45145457d8f2da7a365ad33a91b34f0e0bcc75bb228ffae3ae1",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          485
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/04-arithmetic-boxes.tex",
+      "bytes": 10129,
+      "lines": 224,
+      "sha256": "6a6eac4e60e4378b1a799ab3c07e83446fb24e73179e733c601f31c8f1080938",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          224
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/05-determinant-cuts.tex",
+      "bytes": 15623,
+      "lines": 378,
+      "sha256": "8a747728f3664bed59f4d57756297b006c58ec44912f1cba0db60b736897792c",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          378
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/06-lattice-boxes.tex",
+      "bytes": 10943,
+      "lines": 248,
+      "sha256": "ae45d819c85bf388b7c92d5de77171fe1090183cbc4243e8f49a68fdfd585230",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          248
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/07-hilbert-bounds.tex",
+      "bytes": 11511,
+      "lines": 276,
+      "sha256": "2d452f25d46bb07f02e2b9ac6427e8fc59dc77ddf6e51e68a1a4f9891c35f860",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          276
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/08-quartic-geometry.tex",
+      "bytes": 15639,
+      "lines": 340,
+      "sha256": "04ad47bf7cb3409e0badfe51e3521cb5e61621453929c80deddbd94c5a91e01b",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          340
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/09-curves.tex",
+      "bytes": 10101,
+      "lines": 232,
+      "sha256": "4d4a5aa18952beca9a5cbd01b252a1eab17957659dfe94c8e2057f06064955c7",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          232
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/10-parameters.tex",
+      "bytes": 11485,
+      "lines": 323,
+      "sha256": "644e568819ec27886c4d3768938e31a0abaaf8579b365bc496b0b66be133c4de",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          323
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/11-tail-proof.tex",
+      "bytes": 9369,
+      "lines": 217,
+      "sha256": "cdd733385892a176059fd8eb4908e0e34e242d40a03aef8d3c8a189ff2398b51",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          217
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/12-certificate.tex",
+      "bytes": 4265,
+      "lines": 129,
+      "sha256": "4f68ce23eb53d57c9d4a09ea0391670e11552794ed4c282b7b7d6a3d098b83c0",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          129
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/13-cyclotomic.tex",
+      "bytes": 20438,
+      "lines": 449,
+      "sha256": "b77437cc702254334be5cc77bb5355fc09c5300cb19bf79f699d5a018467ee17",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          449
+        ]
+      ]
+    }
+  ],
+  "source_tex_files": 15,
+  "source_tex_lines": 3967,
+  "bibliography_lines": 345,
+  "actual_source_lines_read": 3967,
+  "new_source_decomposition_credit": false,
+  "canonical_credit_added": false,
+  "scientific_experiments": [],
+  "next_action": "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+  "started_at": "2026-10-26T08:49:10.030070+00:00",
+  "base_commit": "7b5bdf9c0c39abceef9dd5aad5edb801a00b89bf",
+  "updated_at": "2026-10-26T09:26:40.441431+00:00",
+  "actual_source_files_read": [
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/figures/proof-flow.tex",
+      "bytes": 1163,
+      "lines": 23,
+      "sha256": "6fe0001aebd68acd6a65a5a4349fec37a0e5678f56459ca2bfcf07f83e77a31e",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          23
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/main.tex",
+      "bytes": 2378,
+      "lines": 63,
+      "sha256": "0b079d36238cc9d7e12d466048b516305319f21c0a4d705048e2ad6514fba12a",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          63
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/references.bib",
+      "bytes": 9747,
+      "lines": 345,
+      "sha256": "7ebdd09b7a9c9fc9e8a1e139b08d961a76a7bcc0d0632ac899247824f6d6812a",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          345
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/01-introduction.tex",
+      "bytes": 14192,
+      "lines": 302,
+      "sha256": "c41dbfe7cb4ca446e8b3abf9b52b0fa2667550e921fadf007f190019f2cbef72",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          302
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/02-sieve.tex",
+      "bytes": 11208,
+      "lines": 278,
+      "sha256": "2340d8e476aae9050b97723e597c8b35b2b95d4fef07f256d19758d59d1f7787",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          278
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/03-affine-counting.tex",
+      "bytes": 23166,
+      "lines": 485,
+      "sha256": "a91cab21740df45145457d8f2da7a365ad33a91b34f0e0bcc75bb228ffae3ae1",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          485
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/04-arithmetic-boxes.tex",
+      "bytes": 10129,
+      "lines": 224,
+      "sha256": "6a6eac4e60e4378b1a799ab3c07e83446fb24e73179e733c601f31c8f1080938",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          224
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/05-determinant-cuts.tex",
+      "bytes": 15623,
+      "lines": 378,
+      "sha256": "8a747728f3664bed59f4d57756297b006c58ec44912f1cba0db60b736897792c",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          378
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/06-lattice-boxes.tex",
+      "bytes": 10943,
+      "lines": 248,
+      "sha256": "ae45d819c85bf388b7c92d5de77171fe1090183cbc4243e8f49a68fdfd585230",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          248
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/07-hilbert-bounds.tex",
+      "bytes": 11511,
+      "lines": 276,
+      "sha256": "2d452f25d46bb07f02e2b9ac6427e8fc59dc77ddf6e51e68a1a4f9891c35f860",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          276
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/08-quartic-geometry.tex",
+      "bytes": 15639,
+      "lines": 340,
+      "sha256": "04ad47bf7cb3409e0badfe51e3521cb5e61621453929c80deddbd94c5a91e01b",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          340
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/09-curves.tex",
+      "bytes": 10101,
+      "lines": 232,
+      "sha256": "4d4a5aa18952beca9a5cbd01b252a1eab17957659dfe94c8e2057f06064955c7",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          232
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/10-parameters.tex",
+      "bytes": 11485,
+      "lines": 323,
+      "sha256": "644e568819ec27886c4d3768938e31a0abaaf8579b365bc496b0b66be133c4de",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          323
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/11-tail-proof.tex",
+      "bytes": 9369,
+      "lines": 217,
+      "sha256": "cdd733385892a176059fd8eb4908e0e34e242d40a03aef8d3c8a189ff2398b51",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          217
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/12-certificate.tex",
+      "bytes": 4265,
+      "lines": 129,
+      "sha256": "4f68ce23eb53d57c9d4a09ea0391670e11552794ed4c282b7b7d6a3d098b83c0",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          129
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/sections/13-cyclotomic.tex",
+      "bytes": 20438,
+      "lines": 449,
+      "sha256": "b77437cc702254334be5cc77bb5355fc09c5300cb19bf79f699d5a018467ee17",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          449
+        ]
+      ]
+    }
+  ],
+  "actual_full_tex_files_read": 15,
+  "provisional_reading_notes": [
+    "Readmain63,introduction302,proof-flow23,sieve278=666TeXlines. Main sourceclaims density for eachfixed irreducibledegree4..8,k=d-2 andlocaladmissibility,nonprimitive/arbitraryleadingsignallowed;no coefficientuniformity orpower-savingdensityerrorclaimed. No formal/historyaudit yet.",
+    "Large-prime-tail proposition isforprimitive positiveleading4..8,has some delta_f>0 andrequiresnolocaladmissibility. Densitytransfer fixesY beforeXlimit,thenYtoinfinity;O(productp^k) isnotuniformin growingcutoff.",
+    "Contentprimesretainmodifiedlocalexponents:rho_f(p^k)=p^e rho_g(p^(k-e)),e<k. RemovingcontentcannotuseunchangedprimitiveEulerfactors.",
+    "Separablefixedproducts andfixedfamilysimultaneousvalues differ;sharedfactorscountonce,unionlocalbadsetOmega_p isnotproductofindividualfactors. Resultant/discriminant/contentprimeskeptwhole;d=k+1 Reuss andd>=9 Xiao/Browningoriginalscopesstillunread.",
+    "Affinecounting sourceclaims |S|<=C_epsilon X^(sumE_h+epsilon),E_h=max_{s>=h}delta_s;fixedpositiveweights/ambientdimension/degree anduniformHilbertlowerbounds OR subpolynomialexceptionalcounts forallbounded-degreeQ-definedirreduciblesubvarietiesmeetingS. No initialequationheightbound required;uniformhypothesis stillessential.",
+    "Patchselection dependsonZ andfiniteS,notseparatelyonprimehistory. It useswholeevaluationkernel,notonechosenpolynomial. Mixed-radixcodimensionrecord ismonotone underprimeaddition,equalityforcesallkernel/patchmatches. Deletionconditionfirstfixesdeletedpath;doesNOTconditiononrecordstability.",
+    "Primeblocklength chosenuniformlyoverT0consecutivesizes thenuniformsubset. Telescopingchange<=B0/T0 pluso(1),fixedblocks makeatleasthalfSregular,cumulativegoodprimeproducts precedelatercuts. Degree/B0/xi/T0/zeta fixedinthatorderbeforeXlimit. Thisisanexistentialcountingproof,notacheapalgorithmtofindS/patches/primeblocks.",
+    "Balancedfactorization choosesoneadmissibleprime/ideal/unit-balancedgenerator perinput. FiniteclassgroupandDirichletunitlattice/constantsdependonfixedf;alpha fixesatmostdselectedn peridealcase. Thisdoesnotprovidecost-freeclassgroup/unitcomputation orpolynomial-coefficientuniformity.",
+    "Pairedanalyticcharts needw<1 andnonzero normalizedconjugates/denominators. Reversebranchesatmostk^d arelocalholomorphicrootchoices;noglobalrootonwholeannulus required. O_f(M^(d-1))pairedboxes andone-selected-point-pern surviveintegralbasis changes.",
+    "Bicone primecompleteintersection andsaturation checks distinguishmixedcuts frompurecoordinatecomponents. Purecomponentsneedsecondcut;rankbounddependsdegree notmovingcoefficients,andoriginalmonomialsareexpandedwithoutdividingbyrelationcoefficients. DegreesfixedbeforeX.",
+    "Latticegrid nowrequiresprimeM forq0inverse;paired-boxanalyticargumentalone didnot. CommonexcessJ givesboxcount X^(m-dj) andunimodularcoordinateboundsU/V;shortest-vectorbasis existenceandpolynomialheightarenotcost-free algorithm.",
+    "Quarticinfinite-n-fibers deletedbase costs O_f(X^(2U)),usingonlyO_f(1)selectedinputsperfixedx. Mustdeletebeforeassertingn algebraicovera-field onremaining subvarieties.",
+    "WeightedpairHilbertproof explicitlychecksaffineboundary ANDweightedinfinity,saturationandnontrivialrootsofunity poles;no hiddenperiodicT^hterm. Fielddegree>=2 givesdoubleleadingcoefficientthroughindependentboundedweightfunctions,notarbitraryrankdoubling.",
+    "QuarticsurfacecasesdependQ-definedgeometricirreducibility andrationaltracehyperplane/plane. CoefficientsnonzeroatallconjugatesandGaloistransitivityessential;notallcomplexsurfaces. D0=min(3U,2V,U+V),large-a-imagedegree supplies3/U^2,quadricbranchmayneedfielddegree2.",
+    "Quinticexceptionalvaluefamily normalizedcriticalpoints0,1 andfourdistinctprescribedcriticalvalues;fixedfinitefamilyoverL gives ONE global O_f(X^(1/5))integervalue set. Mustnotchargeperbox orassumearbitraryquinticvaluesrare. Fullsource/formal/historyqualificationstillpending.",
+    "All15TeX3967lines+345Bib nowactuallyread;firstbatchhumanwrittennextstring said9filesbutactualhelpercorrectlycounted10(6+4),now15. No fullfamily/historical/Lean/applicationqualification inferred.",
+    "Curverational-valueslemma needsnonpolynomial rationalR,Q coefficients boundeddegree andBOTHboundedintegerinputs/outputs. >a+b interpolationpairs recoverheightthenresultantdivisorbound;notallrationalfunctions/outputs. Polynomiallinecurve degree bound usesfixedconjugateroots andoneglobalquinticdiscard;notperbox.",
+    "Exactparameterappendixonlyread,NOTexecuted. Fixedrationalprescription499tgrid,G=100000strictupperrootrounding,fullintervalchecks andderivativeendpoints relysourcecodeassertionsnotlocalexecution. ModeQ d4,z<4000;ratioV/U3/20..5 andcommon-shift preservefinitepositiveweights. No rootfloats,nostatisticalgridvalidation.",
+    "Taildirectsurface route usespositiveupperweights evenb=0/coefficient-logovershoot,fullallboundeddegreerationalcurvealternatives andone selectedprimepern. FieldrouteusescumulativeEmax,boxfactor X^(m-dj),quarticfiberdeletionandglobalquinticset;allthresholds/degrees fixedbeforeXlimit. Power-savingtail doesnotgivefull-densitypower-saving oruniformcoefficientbounds.",
+    "Cyclotomicn4+1c8 productp=1mod8(1-4/p²)>3/4;dyadicN/2onlysufficientlylargeN,noexplicitN0. CentralbandN^(1-1e-6)..N^(3/2+1e-6) usesextendedfirstquarticcell ANDarithmeticp²>N,badprimeexclusion;certificatealone notenough.",
+    "CyclotomicEuclideanZ[zeta8],primitiveA/B andS=-1levelmatterbeyondprojectivedirection. Pelllemma uniforminD hasfixedmultiplicativespacing;upperprimebandcost O(N^(1-2eps)(1+logN)),notuniversalunrelatedquartic bound.",
+    "Analyticrelationvariant needscommonpolydisc,boundedanalyticfamily,Taylorcontinuity,nonzero pulled-backlimitinggerm andSAMEparameterlambda within eachmatrix;fixedtruncation/matrixsizesbeforeN. Itprovidesapproximate-rank/singular-value/determinantbound,notexactrank. Normalizingoriginalsectionsdoesnotcertifynonvanishing. Thisconditionalvariantisnotmainproofdependency.",
+    "Fullbibliography345linesread;historicaloriginalsnotyetchecked. Formaldocs020andregisteredchallenge/Mainentrylocated;challenge containsintentionalsorry endpoint,notlocalsolutionfailure. ActualMain/model andproofchainstilltoread."
+  ],
+  "bibliography_lines_read": 345,
+  "reading_batches": [
+    {
+      "batch": "determinant-lattice-Hilbert-surfaces",
+      "at": "2026-10-26T08:56:50.117360+00:00",
+      "files": [
+        "build/sections/05-determinant-cuts.tex",
+        "build/sections/06-lattice-boxes.tex",
+        "build/sections/07-hilbert-bounds.tex",
+        "build/sections/08-quartic-geometry.tex"
+      ],
+      "notes": [
+        "Bicone primecompleteintersection andsaturation checks distinguishmixedcuts frompurecoordinatecomponents. Purecomponentsneedsecondcut;rankbounddependsdegree notmovingcoefficients,andoriginalmonomialsareexpandedwithoutdividingbyrelationcoefficients. DegreesfixedbeforeX.",
+        "Latticegrid nowrequiresprimeM forq0inverse;paired-boxanalyticargumentalone didnot. CommonexcessJ givesboxcount X^(m-dj) andunimodularcoordinateboundsU/V;shortest-vectorbasis existenceandpolynomialheightarenotcost-free algorithm.",
+        "Quarticinfinite-n-fibers deletedbase costs O_f(X^(2U)),usingonlyO_f(1)selectedinputsperfixedx. Mustdeletebeforeassertingn algebraicovera-field onremaining subvarieties.",
+        "WeightedpairHilbertproof explicitlychecksaffineboundary ANDweightedinfinity,saturationandnontrivialrootsofunity poles;no hiddenperiodicT^hterm. Fielddegree>=2 givesdoubleleadingcoefficientthroughindependentboundedweightfunctions,notarbitraryrankdoubling.",
+        "QuarticsurfacecasesdependQ-definedgeometricirreducibility andrationaltracehyperplane/plane. CoefficientsnonzeroatallconjugatesandGaloistransitivityessential;notallcomplexsurfaces. D0=min(3U,2V,U+V),large-a-imagedegree supplies3/U^2,quadricbranchmayneedfielddegree2.",
+        "Quinticexceptionalvaluefamily normalizedcriticalpoints0,1 andfourdistinctprescribedcriticalvalues;fixedfinitefamilyoverL gives ONE global O_f(X^(1/5))integervalue set. Mustnotchargeperbox orassumearbitraryquinticvaluesrare. Fullsource/formal/historyqualificationstillpending."
+      ]
+    },
+    {
+      "batch": "curves-parameters-tail-cyclotomic-certificate-bibliography",
+      "at": "2026-10-26T09:05:14.240478+00:00",
+      "files": [
+        "build/sections/09-curves.tex",
+        "build/sections/10-parameters.tex",
+        "build/sections/11-tail-proof.tex",
+        "build/sections/13-cyclotomic.tex",
+        "build/sections/12-certificate.tex",
+        "build/references.bib"
+      ],
+      "notes": [
+        "All15TeX3967lines+345Bib nowactuallyread;firstbatchhumanwrittennextstring said9filesbutactualhelpercorrectlycounted10(6+4),now15. No fullfamily/historical/Lean/applicationqualification inferred.",
+        "Curverational-valueslemma needsnonpolynomial rationalR,Q coefficients boundeddegree andBOTHboundedintegerinputs/outputs. >a+b interpolationpairs recoverheightthenresultantdivisorbound;notallrationalfunctions/outputs. Polynomiallinecurve degree bound usesfixedconjugateroots andoneglobalquinticdiscard;notperbox.",
+        "Exactparameterappendixonlyread,NOTexecuted. Fixedrationalprescription499tgrid,G=100000strictupperrootrounding,fullintervalchecks andderivativeendpoints relysourcecodeassertionsnotlocalexecution. ModeQ d4,z<4000;ratioV/U3/20..5 andcommon-shift preservefinitepositiveweights. No rootfloats,nostatisticalgridvalidation.",
+        "Taildirectsurface route usespositiveupperweights evenb=0/coefficient-logovershoot,fullallboundeddegreerationalcurvealternatives andone selectedprimepern. FieldrouteusescumulativeEmax,boxfactor X^(m-dj),quarticfiberdeletionandglobalquinticset;allthresholds/degrees fixedbeforeXlimit. Power-savingtail doesnotgivefull-densitypower-saving oruniformcoefficientbounds.",
+        "Cyclotomicn4+1c8 productp=1mod8(1-4/p²)>3/4;dyadicN/2onlysufficientlylargeN,noexplicitN0. CentralbandN^(1-1e-6)..N^(3/2+1e-6) usesextendedfirstquarticcell ANDarithmeticp²>N,badprimeexclusion;certificatealone notenough.",
+        "CyclotomicEuclideanZ[zeta8],primitiveA/B andS=-1levelmatterbeyondprojectivedirection. Pelllemma uniforminD hasfixedmultiplicativespacing;upperprimebandcost O(N^(1-2eps)(1+logN)),notuniversalunrelatedquartic bound.",
+        "Analyticrelationvariant needscommonpolydisc,boundedanalyticfamily,Taylorcontinuity,nonzero pulled-backlimitinggerm andSAMEparameterlambda within eachmatrix;fixedtruncation/matrixsizesbeforeN. Itprovidesapproximate-rank/singular-value/determinantbound,notexactrank. Normalizingoriginalsectionsdoesnotcertifynonvanishing. Thisconditionalvariantisnotmainproofdependency.",
+        "Fullbibliography345linesread;historicaloriginalsnotyetchecked. Formaldocs020andregisteredchallenge/Mainentrylocated;challenge containsintentionalsorry endpoint,notlocalsolutionfailure. ActualMain/model andproofchainstilltoread."
+      ]
+    }
+  ],
+  "full_current_source_read_complete": true,
+  "execution_scope": "All15TeX3967lines+345Bib+README18read;canonicaldecomposition,formal/historyqualification andfullfamilyreview notcomplete.",
+  "publication_recovery": {
+    "at": "2026-10-26T09:26:40.441431+00:00",
+    "previous_version": "state/reading-progress/history/WP113-before-WP112-publication.json.gz",
+    "reason": "Preserve actual completed reading and selected formal/historical scope before owner-requested publication; canonical qualification still pending.",
+    "archive": "reports/reproducibility/20261026-WP112-publication/WP113-incomplete-helpers-and-metadata.tar.gz",
+    "full_current_source_read_complete": true,
+    "tex_files": 15,
+    "tex_lines": 3967,
+    "bibliography_lines": 345,
+    "formal_scope": {
+      "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "actual_read_files": [
+        {
+          "path": "math/lean/docs/020.md",
+          "sha256": "c8a12f6f4c351e1c5b9ab413acc7bb20afdbf3ba5ceaa354e2edc47dc6ac3bc7",
+          "lines": 15,
+          "actual_read_ranges": [
+            [
+              1,
+              15
+            ]
+          ],
+          "whole_file_read": true
+        },
+        {
+          "path": "math/lean/ComparatorChallenges/PowerFreeValues.lean",
+          "sha256": "5e42de8cf6611fb73cab28849edb8b473ab16a047c1fc29ec042463e87a1f2f1",
+          "lines": 46,
+          "actual_read_ranges": [
+            [
+              1,
+              46
+            ]
+          ],
+          "whole_file_read": true
+        },
+        {
+          "path": "math/lean/ComparatorChallenges/PowerFreeValues.json",
+          "sha256": "d47857339c42028297f4f800bb4ad35d38ba3a9949b9e6542189f9dd7f8fac2d",
+          "lines": 14,
+          "actual_read_ranges": [
+            [
+              1,
+              14
+            ]
+          ],
+          "whole_file_read": true
+        },
+        {
+          "path": "math/lean/OAI/NumberTheory/PowerFree/Model.lean",
+          "sha256": "289c3e116534e7340f7a19576bca3086fa3a05f441ec7d0041791537965ebb4e",
+          "lines": 37,
+          "actual_read_ranges": [
+            [
+              1,
+              37
+            ]
+          ],
+          "whole_file_read": true
+        },
+        {
+          "path": "math/lean/OAI/NumberTheory/PowerFree/Main.lean",
+          "sha256": "45ebf810c864d3b8f0d48c95e1728f11a854ed644b6d943924a50cbf90503d73",
+          "lines": 153,
+          "actual_read_ranges": [
+            [
+              1,
+              153
+            ]
+          ],
+          "whole_file_read": true
+        },
+        {
+          "path": "math/lean/OAI/NumberTheory/PowerFree/MediumDegree.lean",
+          "sha256": "ec5facd2488d70c421914c74de13c0af4599c4e5224c9720d705c28274d976ae",
+          "lines": 332,
+          "actual_read_ranges": [
+            [
+              1,
+              34
+            ],
+            [
+              231,
+              290
+            ]
+          ],
+          "whole_file_read": false
+        },
+        {
+          "path": "math/lean/OAI/NumberTheory/PowerFree/RadialFibres.lean",
+          "sha256": "b71e7bd15fb6df51d5019a42b57a94bc60f7548474e83a754c5cbc52a0bb173b",
+          "lines": 294,
+          "actual_read_ranges": [
+            [
+              1,
+              105
+            ]
+          ],
+          "whole_file_read": false
+        },
+        {
+          "path": "math/lean/formalization.yaml",
+          "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+          "lines": 1783,
+          "actual_read_ranges": [
+            [
+              632,
+              648
+            ],
+            [
+              1480,
+              1502
+            ]
+          ],
+          "whole_file_read": false
+        }
+      ],
+      "metadata_search_failure": "Firstpath lean/formalizations/020.md didnotexist;actualscopefile lean/docs/020.md found,not absenceof formalization.",
+      "registration": "formalization.yaml paperentry andPowerFreeValues declaration allDegrees/Main verified",
+      "actual_selected_endpoint_scope": "Natural thm:density andcor:all-degrees match selectedactualModel/Main staticinput/output:Q-irreducibleIntpolynomial,degree>=4,k=d-2,allprime localadmissibility,positiveinputcount,convergentpositiveEulerproduct,littleo per fixedpolynomial. SourceB foronlythesetwo;no localLeanbuild/human.",
+      "not_automatically_covered": [
+        "Simultaneousseparableproducts",
+        "26otherlocalbindings inclsupportand2unlabelledvariants",
+        "Actualrationalparametercertificateexecution",
+        "Entire naturalproofroute andsameconstants",
+        "Complete23klineproof/import/axiomaudit"
+      ],
+      "distinct_formal_route": "Main quarticdyadictail has3/1000,100primebins;currentnaturalparameterproof usesdifferentfixedgrid/margins. Mediumdegree5..8 and>=9 separate. Do notclaim everyproofmethod/constantcorresponds.",
+      "build": "not_run",
+      "Comparator": "not_run",
+      "human_spec_review": null,
+      "complete_dependency_grade": "unknown",
+      "static_index": "F020-formal-index.json.gz",
+      "index_scope": "63OAIclosurefiles23269lines1165lexicaldeclarations;zero lexicalsorry/admit/axiom,no missingOAIimports. Mathlibnotindexed;notfullproofreading/build/axiomaudit."
+    },
+    "historical_scope": {
+      "works": 28,
+      "selected_original_works": 4,
+      "unread_root_bodies": 24,
+      "recursive_lineage_complete": false,
+      "new_body_bytes": 1993868,
+      "selected_bodies": [
+        {
+          "work": "Reuss2015PowerFree",
+          "url": "https://arxiv.org/html/1307.2802v1",
+          "retrieved_at": "2026-10-26T09:09:41.696074+00:00",
+          "bytes": 476829,
+          "sha256": "0bea862b4d4449c6dfe0ba55b1f1bca916ff26155349a861c1bffde546927571",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": "\"CPzDwKD0uZYDEAE=\"",
+            "Last-Modified": "Mon, 24 Aug 2026 18:36:35 GMT"
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/Reuss2015PowerFree.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "Xiao2017PowerFree",
+          "url": "https://arxiv.org/html/1505.05587v2",
+          "retrieved_at": "2026-10-26T09:09:44.946938+00:00",
+          "bytes": 1134577,
+          "sha256": "18f8d52a999f0763bfa1b9f12ab7d8f5c87502b9f3eea9c1002bef4fa6a7c2fd",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": "\"CM/K2rf1uZYDEAE=\"",
+            "Last-Modified": "Mon, 24 Aug 2026 18:41:52 GMT"
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/Xiao2017PowerFree.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "HeathBrown2013Powerfree",
+          "url": "https://arxiv.org/html/1103.2028v1",
+          "retrieved_at": "2026-10-26T09:09:46.337412+00:00",
+          "bytes": 284874,
+          "sha256": "9d5bb07a255e395d4300104de5851a3f59f832aab4fde1ffd2e97ec948682224",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": "\"CLmoxN37uZYDEAE=\"",
+            "Last-Modified": "Mon, 24 Aug 2026 19:10:02 GMT"
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/HeathBrown2013Powerfree.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-00NQ",
+          "url": "https://stacks.math.columbia.edu/tag/00NQ",
+          "retrieved_at": "2026-10-26T09:09:53.131002+00:00",
+          "bytes": 14315,
+          "sha256": "28e8c01c12a52b05820c32d5a1dfc3f5f8d4e79776d2507b5588bcee0f4ffeac",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-00NQ.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-02JN",
+          "url": "https://stacks.math.columbia.edu/tag/02JN",
+          "retrieved_at": "2026-10-26T09:09:54.342952+00:00",
+          "bytes": 14863,
+          "sha256": "0488618047b529d02e314be2bb30efe0c0f33d714cc740109b0714f193410aaa",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-02JN.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-00NB",
+          "url": "https://stacks.math.columbia.edu/tag/00NB",
+          "retrieved_at": "2026-10-26T09:09:55.542300+00:00",
+          "bytes": 13898,
+          "sha256": "43e3b5aa0c0cf572447324b56253620bf5f2920f44c1453e622d0bca27669a5a",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-00NB.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-00NA",
+          "url": "https://stacks.math.columbia.edu/tag/00NA",
+          "retrieved_at": "2026-10-26T09:09:56.796564+00:00",
+          "bytes": 14069,
+          "sha256": "e95750018d0f6ca189ef1df7666f7b294d934470a77b803cec11f620a225f3c7",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-00NA.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-031Q",
+          "url": "https://stacks.math.columbia.edu/tag/031Q",
+          "retrieved_at": "2026-10-26T09:09:58.360989+00:00",
+          "bytes": 18263,
+          "sha256": "2ea1d6254bd264b9ba91b59f39ea5131dd5aa9321ae0dccd51f809aa356bff46",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-031Q.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        },
+        {
+          "work": "stacks-project-031R",
+          "url": "https://stacks.math.columbia.edu/tag/031R",
+          "retrieved_at": "2026-10-26T09:09:59.552638+00:00",
+          "bytes": 22180,
+          "sha256": "4dd8af1a72e6438e8483e35de013bc5f4b89e1112fcb0dc51eeee05eb1768574",
+          "response_headers": {
+            "Content-Type": "text/html; charset=utf-8",
+            "ETag": null,
+            "Last-Modified": null
+          },
+          "temporary_path": "/private/tmp/ai-paper-WP113/history/stacks-project-031R.html",
+          "scope": "OriginalHTMLversion/tag body;downloadhashnotfullreadingorproofreview"
+        }
+      ],
+      "verified_scopes": {
+        "Reuss2015PowerFree": {
+          "version": "1307.2802v1,2013authorversion of2015journalwork",
+          "scope": "Theorem2;Lemma3statement andselectedproof/unweightedlarge-divisormajorant;Lemma4statementandbeginproof;selected§4chartrelation;§6completefinalsum",
+          "summary": "For a fixed irreducible polynomial, the old exponent is d−1. Lemma3 reduces to unweighted squarefree-divisor triples; the final box sum gives a power saving. Ideal and unit balancing plus prime-grid box counting are explicit predecessors. Selected scopes only; prime-input constants differ from ordinary-input factors.",
+          "content_checked": true
+        },
+        "Xiao2017PowerFree": {
+          "version": "1505.05587v2;arxivversionheader2017,renderedDate2026observedseparately",
+          "scope": "Theorem1.1/definitions1.1-1.4,selectedapplicationparagraph;§9Theorem9.1/definitions9.1-9.2/proof",
+          "summary": "The binary-form theorem counts two-variable pairs. Section9 separately reproves Browning’s one-variable result for k≥(3d+1)/4 and bounds an exceptional set using squarefree divisors above B^(1−delta). This supports k=d−2 for d≥9. It does not turn two-variable densities into fixed-line results.",
+          "content_checked": true
+        },
+        "HeathBrown2013Powerfree": {
+          "version": "1103.2028v1,2011authorversion of2013journalwork",
+          "scope": "Introduction andTheorems1/2statements anddefinitions",
+          "summary": "The old theorem concerns irreducible binomials x^d+c with k≥(5d+3)/9 and a power-saving error. It covers k=d−2 for d≥6, not quartic squarefreeness. Prime inputs use a different admissibility condition and local factor.",
+          "content_checked": true
+        },
+        "stacks-project": {
+          "version": "sixnamedtagHTMLbodies fetched2026-10-26;pinnedwholefilehashes",
+          "scope": "00NQ/02JN/00NB/00NA/031Q/031Rstatement andshortprooftext",
+          "summary": "The selected tags give regular-local Cohen–Macaulayness, dimension-drop regular sequences, localization and dimension formula, and the links between no embedded primes, S1, R0 and reducedness. They support the stated complete-intersection criterion under its hypotheses; a boundary calculation is still needed.",
+          "content_checked": true
+        }
+      },
+      "limits": "No claim ofcompleteproofreview for anyhistoricalwork. Other24rootbodies andrecursiveinputs—includingBrowningdirectpublishedbody,Milneclass/unit proofs,EGHPminimaldegree andoldcountingworks—remainunread. Fourworkbudgetreached;no morefetchthispackage."
+    },
+    "auxiliary_reviews": {
+      "packet": "neutral-mapping-packet.json",
+      "opinions": [
+        "defender.md",
+        "skeptic.md"
+      ],
+      "provider": "OpenAI",
+      "exact_backend": "unknown",
+      "isolated_same_provider_roles": true,
+      "second_provider_review": false,
+      "human_review": false,
+      "status": "Provisional mapping discussion, not an admitted canonical candidate or executed application check; raw opinions archived."
+    }
+  }
+}

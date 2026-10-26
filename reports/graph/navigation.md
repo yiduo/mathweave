@@ -356,7 +356,7 @@
 | [F-297 · A ZFC counterexample to Naimark's problem.](index.html#F-297) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-298 · Two notions of free entropy differ even when both are finite.](index.html#F-298) | Operator algebras | 有选读记录 | [全文草稿](../families/F-298.md) | 9／11 | 0 |
 | [F-299 · The Kirchberg–Rørdam character criterion and infinite tensor-power Jiang–Su stability.](index.html#F-299) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-300 · Approximation and quadratic strong-operator paving.](index.html#F-300) | Operator algebras | 有选读记录 | [全文草稿](../families/F-300.md) | 56／20 | 0 |
+| [F-300 · Approximation and quadratic strong-operator paving.](index.html#F-300) | Operator algebras | 有选读记录 | [全文草稿](../families/F-300.md) | 56／27 | 0 |
 | [F-301 · Trace cones and Razak–Jacelon stabilization.](index.html#F-301) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-302 · Radius of comparison equals half the mean dimension.](index.html#F-302) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-303 · Weak pure infiniteness and Cuntz-algebra absorption.](index.html#F-303) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

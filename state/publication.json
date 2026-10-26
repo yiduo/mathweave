@@ -4,17 +4,17 @@
   "repository_url": "https://github.com/yiduo/mathweave",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-26T05:27:22.108125+00:00",
-  "verified_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+  "verified_at": "2026-10-26T08:18:41.789341+00:00",
+  "verified_commit": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "f5c404d9caa2e45bdf65ab66e89e4d8d25ada1c7",
+  "verified_tree": "fd2fa531627c5b661f49a3ea5d76783ee2583987",
   "anonymous_api_verification": true,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261026-WP110-publication/verification.json.gz",
+  "verification_receipt": "reports/reproducibility/20261026-WP111-publication/verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -28,7 +28,7 @@
   },
   "linux_ci_scope": "69core tests plus13scoped archivedreplays,graph export andpublication audit; EXP076 strictLinux andoptional NumPy excluded; noLean/human/provider/application acceptance",
   "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-  "verification_scope": "WP110 canonical GEN107/global039 plus incomplete WP1114745/7647lines;full remote path/mode/size/blob equality and7anonymous byte-equal reads;no officialmath or bulk localhistory",
+  "verification_scope": "WP111 canonical GEN108 plus unfinished WP112983-line source/license journal;full tree/path/mode/size/blob equality and7anonymous byte-equal reads;no officialmath or bulk localhistory",
   "prior_verifications": [
     {
       "verified_at": "2026-10-22T02:33:01.917778+00:00",
@@ -144,33 +144,60 @@
       },
       "latest_ci_receipt": "reports/reproducibility/20261026-owner-batch/CI-observation.json.gz",
       "latest_ci_conclusion": "success"
+    },
+    {
+      "verified_at": "2026-10-26T05:27:22.108125+00:00",
+      "verified_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+      "verified_tree": "f5c404d9caa2e45bdf65ab66e89e4d8d25ada1c7",
+      "verification_receipt": "reports/reproducibility/20261026-WP110-publication/verification.json.gz",
+      "verification_scope": "WP110 canonical GEN107/global039 plus incomplete WP1114745/7647lines;full remote path/mode/size/blob equality and7anonymous byte-equal reads;no officialmath or bulk localhistory",
+      "latest_scoped_ci": {
+        "at": "2026-10-26T05:29:59.676452+00:00",
+        "commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+        "runs": [
+          {
+            "id": 40274241467,
+            "name": "offline-core",
+            "head_sha": "453a806aecb454c3581726a8e949e439cd3bdb66",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/yiduo/mathweave/actions/runs/40274241467",
+            "created_at": "2026-10-26T05:26:41Z",
+            "updated_at": "2026-10-26T05:29:13Z"
+          }
+        ],
+        "api_fallbacks": [],
+        "scope": "69 core checks,13 archived replays,exports and publication audit; no EXP076 strict Linux,optional NumPy,Lean,human/provider or research acceptance"
+      },
+      "latest_ci_receipt": "reports/reproducibility/20261026-WP110-publication/CI-observation.json.gz",
+      "latest_ci_conclusion": "success"
     }
   ],
   "latest_progress_packages": [
-    "WP-110"
+    "WP-111"
   ],
   "latest_retrospective": "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md",
   "latest_scoped_ci": {
-    "at": "2026-10-26T05:29:59.676452+00:00",
-    "commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
+    "at": "2026-10-26T08:23:58.323066+00:00",
+    "commit": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
     "runs": [
       {
-        "id": 40274241467,
+        "id": 40291327153,
         "name": "offline-core",
-        "head_sha": "453a806aecb454c3581726a8e949e439cd3bdb66",
+        "head_sha": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40274241467",
-        "created_at": "2026-10-26T05:26:41Z",
-        "updated_at": "2026-10-26T05:29:13Z"
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40291327153",
+        "created_at": "2026-10-26T08:18:19Z",
+        "updated_at": "2026-10-26T08:22:45Z"
       }
     ],
     "api_fallbacks": [],
     "scope": "69 core checks,13 archived replays,exports and publication audit; no EXP076 strict Linux,optional NumPy,Lean,human/provider or research acceptance"
   },
-  "latest_ci_receipt": "reports/reproducibility/20261026-WP110-publication/CI-observation.json.gz",
+  "latest_ci_receipt": "reports/reproducibility/20261026-WP111-publication/CI-observation.json.gz",
   "latest_ci_conclusion": "success",
-  "receipt_storage_scope": "Saved and locally committed after public snapshot;not pushed again. The public tree records preparation and previous verification;this subsequent local receipt verifies actual publication and CI.",
+  "receipt_storage_scope": "Post-push verification andCI saved locally,not pushed again solelyforreceipts;public snapshot contains preparation andprevious verification.",
   "update_policy": {
     "recorded_at": "2026-10-22",
     "user_instruction": "减少频繁更新GitHub",
@@ -184,17 +211,17 @@
   "renamed_from": "yiduo/ai_paper",
   "renamed_at": "2026-10-23T09:42:44.467813+00:00",
   "anonymous_public_file_reads": 7,
-  "incomplete_reading_journal": "state/reading-progress/WP-111.json",
+  "incomplete_reading_journal": "state/reading-progress/WP-112.json",
   "pending_batch": {
-    "requested_at": "2026-10-26T07:56:35.759373+00:00",
+    "requested_at": "2026-10-26T09:26:40.441431+00:00",
     "status": "prepared_not_pushed",
-    "scope": "Completed WP111 GEN108 and unfinished WP112983-line source/license journal; latest global039 retained",
+    "scope": "Completed WP112 GEN109 plus unfinished WP113 F020 full-source reading and selected formal/history checkpoint; no new canonical F020 or application credit",
     "official_math_excluded": true,
-    "previous_public_commit": "453a806aecb454c3581726a8e949e439cd3bdb66",
-    "qa_directory": "reports/reproducibility/20261026-WP111-publication",
+    "previous_public_commit": "21ce7dcf480ef0d423626596b10ff2ccb8efc170",
+    "qa_directory": "reports/reproducibility/20261026-WP112-publication",
     "new_scientific_experiments": 0
   },
-  "latest_snapshot_files": 1986,
-  "latest_snapshot_bytes": 74975948,
-  "local_progress_after_verified_snapshot": "WP111 GEN108 complete;WP112 in progress,983 actual source/license lines only. This explicit owner-requested batch is pending push/readback."
+  "latest_snapshot_files": 2009,
+  "latest_snapshot_bytes": 76834090,
+  "local_progress_after_verified_snapshot": "Completed WP112 GEN109 plus unfinished WP113 F020 full-source reading and selected formal/history checkpoint; no new canonical F020 or application credit; owner-requested batch pending push/readback."
 }

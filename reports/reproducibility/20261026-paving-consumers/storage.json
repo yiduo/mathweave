@@ -1,0 +1,99 @@
+{
+  "at": "2026-10-26T08:47:09.730150+00:00",
+  "work_package": "WP-112",
+  "third_party_temporary_sources_hash_verified": [
+    {
+      "project": "petsc",
+      "path": "LICENSE",
+      "bytes": 1536,
+      "sha256": "efc206ebe66fda24a32ebe69e81caa2c5595e093626170e57fbeff522507cc54",
+      "removed": true
+    },
+    {
+      "project": "petsc",
+      "path": "src/ksp/pc/impls/deflation/deflation.c",
+      "bytes": 35780,
+      "sha256": "1f559b287abad3e9330ad13f742bb13d6185c7103d396c0ad67aed0fab8f1e5f",
+      "removed": true
+    },
+    {
+      "project": "petsc",
+      "path": "src/ksp/ksp/tutorials/ex11.c",
+      "bytes": 8449,
+      "sha256": "ff4f7d01956530e207c6fb310ebf73bfbffaed27d39340febfd6cd207748771d",
+      "removed": true
+    },
+    {
+      "project": "ginkgo",
+      "path": "LICENSE",
+      "bytes": 1495,
+      "sha256": "a1e7286d4ff2e9e878b93787fbb1aeb1890ef26aace051911c4e4fceebae6e5a",
+      "removed": true
+    },
+    {
+      "project": "ginkgo",
+      "path": "include/ginkgo/core/preconditioner/jacobi.hpp",
+      "bytes": 27127,
+      "sha256": "ee037fd7ee5c22d933467ad60c16b92f6050eb8a5bb617928f8dd0253c6047a3",
+      "removed": true
+    },
+    {
+      "project": "ginkgo",
+      "path": "core/preconditioner/jacobi.cpp",
+      "bytes": 17376,
+      "sha256": "21a6c0370edb464bb68dd158b44ba7f0f10b1def8f0d498c88f3c272208ea7fb",
+      "removed": true
+    },
+    {
+      "project": "ginkgo",
+      "path": "examples/preconditioned-solver/preconditioned-solver.cpp",
+      "bytes": 3228,
+      "sha256": "77952fa36ec02639c825aaec3c12c310f79f57cf5ac7febd59e31e6a7e9662d4",
+      "removed": true
+    },
+    {
+      "project": "tenpy",
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "removed": true
+    },
+    {
+      "project": "tenpy",
+      "path": "tenpy/linalg/truncation.py",
+      "bytes": 29907,
+      "sha256": "56543848d70d155c27bbf134964a8c4ac49330648c5f2c50bd609f524b94d954",
+      "removed": true
+    },
+    {
+      "project": "tenpy",
+      "path": "tenpy/algorithms/tebd.py",
+      "bytes": 41478,
+      "sha256": "48d16fa7fead43fdb92b2ad3eb3ca6b036e5b81e85734e83d468e4a7357e9067",
+      "removed": true
+    },
+    {
+      "project": "tenpy",
+      "path": "tenpy/algorithms/algorithm.py",
+      "bytes": 24760,
+      "sha256": "5ea2d3192fd10730f147f6e30fe59f707f6face7e7b0235753bde023e0e03d8a",
+      "removed": true
+    }
+  ],
+  "third_party_body_bytes_removed": 202494,
+  "third_party_bodies_republished": false,
+  "own_helper_members_verified": 27,
+  "helper_compressed_sha256": "9bcbae75de7847ac5ca47168fbdff2624a52237609d605bcebc1ea581fe94e01",
+  "helper_decompressed_sha256": "8c18ac29c31324637d8475299107de70f354a3d97bdbeb802510b43087b4e0e6",
+  "helper_archive_bytes": 140899,
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 2020,
+  "clean_bytes": 77117842,
+  "clean_copy_hashes_verified": true,
+  "source_and_failure_evidence_not_deleted": true,
+  "new_scientific_experiments": 0,
+  "scope": "No numerical experiment. Selected external source metadata/ranges/hashes retained;third-party full bodies removed afterhashverification. Our outputs,source helpers andfailedQA preserved compressed beforecleanup.",
+  "work_root_removed": true,
+  "removed_at": "2026-10-26T08:47:11.275681+00:00"
+}
