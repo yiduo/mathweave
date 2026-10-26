@@ -1,0 +1,15 @@
+# WP108 quality and actual evidence
+
+Both current F239 manuscripts:24TeX8083lines including278references and3TikZfigure-sourcefiles,plus2README actuallyread.68source-qualified bindings and16methodcontracts;bindingcounts include companionreuse/oldtheorems.4primaryworks inspected only in selectedscopes,8PDFpages actuallyviewed.28externalworks;24rootbodies andrecursivehistory remainunread. All68bindings C/fullchainunknown;no identified formalendpoint incheckedregistry scope,noLeanbuild/Comparator/humanapproval.10domain/3crossfamilyattempts do not count ascandidates.
+
+69core tests passed inproject andfinal no-mathdirectory.12positive/negative dependencyroutes passed,including distinctTalagrandworks and no main-theorem substitution betweenbiased/uniform arguments. CompleteJSONandGraphML objects match,notonlycounts.15archivedexperiments/267sourcemembers passedcompressed/decompressedhashchecks;unchangedcode andexperiments notscientificallyreplayed. No newcandidate/applicationtest/numericdata.
+
+4627oldcanonical JSONLrows,alloldedges,experiment source/spec/data,code/tests,corpus,52oldfamilyreports andoldcoverageentries bytepreserved.114newrecords,462newexplicitedges. Fullgraph7689nodes/21698relations;4741canonicalrecords/8357sourceannotations(8347core),7695localhashed/662external,459externalwithoutbytehash.
+
+One initialreport failed on missingexistingrendererfields after69tests/validation passed. Exactfirstanalysis v1 retained before metadata v2;validators/tests unchanged.15new biasedsupportbindings retain exactv1before makingalreadyreadnormalizedp/maxatom/meanrankcontext explicit. Thevalidator also rejected a mutable-dictionary priorarchive payload;exactv1records recovered from independently retained originalJSONLstrings,failedpayload/helper retained. No validatorbypass. Mainstatements/thresholds/candidatecounts unchanged. Six read Gaussian-coverdependencies were added explicitly. All initialfailure logs preserved.
+
+Final independentno-math clean copy:1924byte-matchedfiles/71453520bytes,exit0,thenremoved. Priorcleanpassbeforeexplicitbiascontext separatelypreserved. NoGitcache ormathcopy/install. Pinnedmissing-upstream hashmanifest is used incleanmode,not freshoriginalreading.
+
+W44actual5% reviewqueue:APP11901,APP23101,APP37401,pendingrealhumans,errorrateunknown. Totaldownload2797578bytes<8MiB. Numdam1995scanContent-Length11153316 rejectedbeforereadingbody;read1994authorversion explicitly instead. Temporarythird-partyPDF/text/pixels hashcheckedthenremoved;ownhelpers/failure/check logs compressed,allmemberroundtripSHAcheckedbeforeplaintextcleanup;finalstorage receipt is authoritative.
+
+Overall active_incomplete;retro038counter1,nextWP109boundedactualconsumerqualification. Last publicsnapshot48f1e64 remains recordedhistoricalpublication;thiswork localonly,noGitHubpush ornewremoteCIclaim.

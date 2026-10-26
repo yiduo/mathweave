@@ -1,0 +1,2367 @@
+{
+  "family_id": "F-239",
+  "work_package": "WP-108",
+  "generation_id": "GEN-20261026-105",
+  "at": "2026-10-26T03:10:09.930233+00:00",
+  "base_commit": "9fe06da6fdc8ba999692b7b861b9065dc6f690cd",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-a12e95803a6ff0ff",
+    "P-88bbfa0056a7bec9"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex",
+      "lines": 29,
+      "sha256": "5d4adc46d2fcc57655c1da035f7a57a8da45c7fac23f130f77312ba0909e13f6",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "lines": 81,
+      "sha256": "a53da3b8ff3bc6a4be4b1825ebf67a9324a5ad1ff4ee220921f431f795a8a8a5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex",
+      "lines": 120,
+      "sha256": "aa7473707f6e31290ea41698c247571a76af2f81c9fbc4ece4c5067e96d4815b",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+      "lines": 109,
+      "sha256": "dab571a2bae9bd8daa3541370be659d2a34e4e2ebbc27aab0e82cfa1b3151aa5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "lines": 284,
+      "sha256": "087456a9ffba7c12f41b20dc343be624c469fe557960464b2f4c3a4b686d57c0",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "lines": 482,
+      "sha256": "b85617e3a02589d0d49260e9edd726d606a856a2bafa40856273259b006546e7",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+      "lines": 396,
+      "sha256": "2ab4a2c8262548b88260deecf182c5b8b866232198bd9a5000139b29a9035e40",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+      "lines": 443,
+      "sha256": "a81f1372d5db3b75034fb17091facb69f4a2a0668ef780ac69f35b6736817d29",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+      "lines": 604,
+      "sha256": "11a8f2512c8d68b6556c107ea2e603556c12a3b4df1ef7b279346cb01a0b1679",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "lines": 434,
+      "sha256": "98bcc8e0422eadc4ac31cdd6d6ec93800acb50e5534ced5b5c5d06934334f378",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+      "lines": 653,
+      "sha256": "3eaede0e3972107e43fad71ebd3bf9958a60930454f63a6a99b75473bbc38b06",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+      "lines": 443,
+      "sha256": "dfbbfd9f284ed8699b9a8f60a104d9fd72e23a3e2e4e9ea767d786211b74d9c0",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+      "lines": 485,
+      "sha256": "9e5885834266b2cb77b5b5b30b1ba71d6734c138ea72e33104f2e63f69643ebf",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+      "lines": 687,
+      "sha256": "4d02930f2a0dc988d7797e750d1cd6c6f5649248c23274d26b4b4c221471514e",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+      "lines": 30,
+      "sha256": "8788bc218c4b4a7da370c2b8a9bb14dfd4babb493d1b410dfddfe413cf415032",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+      "lines": 31,
+      "sha256": "ce5a7909431246eadd4ccf77278fc84738963f477f5bd2924b867d4b72f55faf",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "lines": 63,
+      "sha256": "ee0fac762f98e97e64c9051c713578c50b8e2b7debd18e09728de45429ed2b8e",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex",
+      "lines": 158,
+      "sha256": "e5b8e68c986c208d8cb39669d0f8e8ea144c5915ed9926a26e6b199a23bd912b",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex",
+      "lines": 130,
+      "sha256": "5ddab1b91bd252c39075539b07f2f68e28bc75806e1b00056cc3d06fc95cbf6e",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "lines": 476,
+      "sha256": "7b34435ad58e1ab6c2ff852ae7a8db2b8410a42fc2beb73a8c62cb1738537e40",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+      "lines": 201,
+      "sha256": "7c58d254f7e015b03726cfcb3fc799432d31305694d61323ec99cc9906f308b6",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+      "lines": 481,
+      "sha256": "f66e6474774255d714b19abd057c3b9cfbf3055caa93104718b5410c71be0269",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "lines": 708,
+      "sha256": "d0efd715095cf38b5ce4310a49b8f6d274bf7788ff93553fc5d1f7a16160514c",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "lines": 555,
+      "sha256": "06e008516faf98efaf45d1a10d3a55496a6f3e3f0402a6f4c5d8ad10f5d5a0d7",
+      "actually_read": true
+    }
+  ],
+  "readmes": [
+    {
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/README.md",
+      "lines": 18,
+      "sha256": "a9ec26b4197ee78f12834f4f4d4d8b21e80d97365a007e98aebc3bdee0dde898",
+      "actually_read": true,
+      "scope": "README only,all body/formal/history unread"
+    },
+    {
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/README.md",
+      "lines": 18,
+      "sha256": "f5880f34383668ce3ce2589ea60d7f24a62aceba339b535333d3662d11336d62",
+      "actually_read": true,
+      "scope": "README only,all body/formal/history unread"
+    }
+  ],
+  "actual_read_ranges": {
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex": [
+      [
+        1,
+        81
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        109
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex": [
+      [
+        1,
+        29
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex": [
+      [
+        1,
+        284
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex": [
+      [
+        1,
+        482
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex": [
+      [
+        1,
+        396
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex": [
+      [
+        1,
+        443
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex": [
+      [
+        1,
+        604
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex": [
+      [
+        1,
+        434
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex": [
+      [
+        1,
+        653
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex": [
+      [
+        1,
+        443
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex": [
+      [
+        1,
+        485
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex": [
+      [
+        1,
+        687
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex": [
+      [
+        1,
+        120
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex": [
+      [
+        1,
+        63
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        130
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex": [
+      [
+        1,
+        476
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex": [
+      [
+        1,
+        201
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex": [
+      [
+        1,
+        481
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex": [
+      [
+        1,
+        708
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex": [
+      [
+        1,
+        555
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex": [
+      [
+        1,
+        30
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex": [
+      [
+        1,
+        31
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex": [
+      [
+        1,
+        158
+      ]
+    ]
+  },
+  "manual_file_reading_notes": [
+    {
+      "at": "2026-10-23T09:02:38.021051+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex"
+      ],
+      "note": "All81main+109intro+29figure-source lines actuallyread. Uniform independent ON/ABOVEdiagonal signs,not independentrows;Prsingular=2^-n+o(n) onlyasymptotic. Equal specified rowpair event2^-n lowerbound includes two diagonalcoupling conditions. ExactSchur reduction dimensionn->N=n-1 tobits,corankone/exposure reduction and admissible z quadratic in{0,1} plus bounded B^-1z;expectedcolumns2^o(N) target. Discriminant pairing,controlled-denominator partition,robust graphlattice,lowheight simultaneous rankcover and ReverseMinkowski quotient areproofinterfaces,not finiteeffective algorithm. Widthone commonquotient prime-power layers/retention certificates andwidthtwo BOTHcolumns admissibilitygate separate. Nonsingularprincipalminorpath steps1or2;longinitialpartcontrols highlayer tail,shortterminalwindowlimitslocalerror;no runtime/conditionnumber/finitegridgain inferred. Oldbounds andleast-singular references onlysourceclaims untiloriginalread. IncludedlayersTikZsource actuallyread,notPDFpixels."
+    },
+    {
+      "at": "2026-10-23T09:03:22.565770+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex"
+      ],
+      "note": "All284framework+482lattice lines actualread. Exact uniformsign-to-bit n->n-1 uses firstrowdetermined diagonalcongruence and Schur-2B;doesnot transfer directlytobiasedsigns. Typical means failure<=2^-Nf(N),f->infty uniformlym∈[N-N^.7,N],not merely highprobability;all loglog exponents fixedbeforeN. Principalrank overANYfield;forcedsymmetricjblock gives coranktail sum binom(m,j)2^-j(j+1)/2 and >N^.6 superexptail. Diagonalbitflip k-1 independentkernelcoordinatefunctionals produces corank1,subexp preimagesonly uniformlaw. Delete largestkernelcoordinate and adjugate rankone yields admissiblecolumn Schur valuea∈bits plus infinitynorm<=1;boundN2^-N E|S(B_N-1)|. Psi sumweightphi(layerheight),nu=log_Np/N,phi0=phi1=0,phi2=7/5,phik=2k;Hadamard=>Psi<=1;admissibletypicalbound andpotentialmoment still propositions whosefullproof unreadhere. Latticequotient requiresprimitiveK,orthogonal realspanquotient not ambient projectionmistake;dual/projection/preimage determinant formulas includezero ranks det1. Rationalheight>=1,finiteboundedheight via integerwedge;submodularityuses saturation and volume inequality,not exactmultiplicativeequality. Normalduallattice det=H(V)/H(U);arbitraryM has indexfactor and bound>=1/H(U). ReverseMinkowski citedoldTheorem1.2 requires EVERYsublattice det>=T^rank,not totaldetalone;tau=10(logj+2),mass<=3/2. Poisson allowslargerscalesfactor(sprime/s)^j. Primitive normalizeddetminimizer existsviafinitelowwedgevalues inclrank0;quotient allsubdetTbound;extrae^-Delta T0bound=>removedrank<=Delta/log(T0/T). Robustextraction maximizes cardinality2^-rhorank,loss<=rhom;atfixeda0 manyordered independentdifferencebases inclr0. RationalinjectiveaffineimagewithALLdifferences<=C0sqrtN givesactualdiscreterankr difference lattice;T=log^4N quotientGaussian distinctprojectioncount2^O(N/log^6N),robustfiber=>j<=O(Nell^D/log^6N);quotientgeneratingvectors=>detGamma<=(C0sqrtN)^j andlogdet<=4Nell+o(Nell). No computedminimizer/finiteeffectiveN ornewnumericalrun."
+    },
+    {
+      "at": "2026-10-23T09:04:26.831606+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex"
+      ],
+      "note": "All396cover+443typicallines actuallyread. Lowheightcover fixedD,A largeN for0<=m<=N,size<=2^(N²ell^-A),rankdistance<=Nell^-A,not angle/metric approximation or practical enumeration. Greatest minimizers h(U)+a d(U,Ps) form descendingchain,unprocessedcoordinatesinUs,E nondecreasing;no-dropcount andfinaldistance bound totalmultidrops<=4Delta. Normaldualbalance allsubdet>=N^-arank andsuffixdetbounds;shortestprimitiveflag,onlyO(ac)expensivepositions andnonec1;quotient normalizeddetminimizer removalrank<=2c/a;Gaussian image count and per-image AFFINEfiber actualdifferences/boundedradius yield O(c/a logN)bits,notdetalonenumbercount. Decodeonlyactualchainprefixes,subsumS²+N;allfixedexponents beforeN. TypicalrankF2 test uniformSYMMETRICbits inclindependentDIAGONAL:forfixedS,T,b<=a,rankdef>=t prob<=C0 2^-t(t+1)/2;equations ta-binome2 handlesenlarged mod2intersection anddiagonalconditionsinchar2. Primitiveintegerbasis retainsrankmod2;realrank>=mod2rank. THIS IS binaryB,not directsignA mod2(allones). Deficiencychanges<=rankdistance;coverP=2A+4 andallcoordinateX union2^m =>superexp simultaneousheightclass,not fixedspaceonly. Inverserestriction corollary is B^-1 BILINEARformonW,notmaprank,radicalsiso viaB. UniformALLprimecorank<=N^.6 onlyfor realnonsingularB,prime<=|detB|<=N^(N/2),union2^O(NlogN)dominated2^-cN^1.2. Small-spectrum boundNell^-A eigenvalues in±sqrtN ell^-(A+6),not leastsingularvalue orconditionnumber. Quantitativeclosedwalkmoments loopallowed,evenedges,treeCatalan,j=ell^(2A+4),momenterror m^-1+o1;nonnegativepolynomialmajorant validallreal,expectedtent o(mell^-A). Tent=1-g1+g2 convextraceparts globalL=sqrt2/w fromHoffmanWielandt;Talagrandtail exponentN²ell^-(4A+10),notordinarybounded-differencesNscale. RankoneJ perturbation altersintervalcount<=2. No oldoriginals or newnumericaloutput."
+    },
+    {
+      "at": "2026-10-23T09:05:14.825716+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex"
+      ],
+      "note": "All604discriminant+434minor-moves lines actualread. Perfectfinite discriminant pairing Z^m/BZ^m toQ/Z,orthogonalprimaries,oddp cyclicblocks and2-primaryeven-diagonal odd-offdiagonal2x2blocks. Coloringisotropic classes atcutoffb3 leaves<=2topfactors;onefactor/deepdivisibility,twocyclicvaluationF+unitratio colors (odd roots<=2,p2<=4),oddheightgap1 mergesdeepcolor;2x2 pivot+oddderivativerootlift=>Cp<=1+8b1 andoddCp<=2^(b2-b3). Largeprimes>=N^.8 chargeheight2 coefficient5/4<beta7/5;smallprimes costO(N^.8logN),notlogp percolor. Onecolor differences restrictedpairingimageorder<=N^(N JB) withJB=sumheight>=3 kν;top<=2generators killedp^b3 andbottomorder bound. Rationalform radicalprimitive,projectedlattice;index t of pairing kernel onONEside givesdetorth>=1/[t detLbar²],not t²;rank0det1. Admissible graphgamma=(z,B^-1z) differences<=sqrt5N,robustheightbothW/L,adaptiveWallowedbysimultaneoustypicalrank;radicalKdet>=1 viainjectiveintegralfirstcoordinatevolume. Graphmetricinverseform eigenmu=lambda/(1+lambda²);compressionsdetupperviaexteriorpower/largestsingulars,not invariantS assumed. Ranklower andspectrum=>r/N<=2JB+O(ell^-P),pluscolorcost yieldsPsi staticbound. Gateddeletion:ifinversehasnonzerodiag delete1;elsemaxabsoluteoffdiagkappa givesnonsingular2delete viaJacobi,Schurdiag0 andbothcolumnsadmissible infinitynorm<=1;emptyminor det1/emptycolumn. Forwardwidth2 BOTHindependentuniformcolumns gateprob=(|S(C)|/2^m)²;destinationneednottypical,localmoment propositionnotyetproved. CommonquotientC bycolumns equalsdestinationGB bynewstandardclasses ONLYifdestnonsing;Cquotientsdefinedevenifdest singular. Cyclicquotient prefixF dropsu_t=max_i(min(bi,t)-ri)+,increments0/1;retainedlayersprefixwithinEACHoldconstantheightplateau,not arbitraryglobalprefix. Retentionlattice forANY selectedpositivelayers imposes coordinatep^countdivisibility;index productp^sumk exactlyN^Nq,necessarynotIFFretention. Symmetrickernelinequality overZ/p^t,notfield-only:alpha newcolumnclasses,imagep^U;gamma=Vtranspose onkerC has sameimage via perfectcharacterannihilatorJ=(kerC)perp andsymmetry;secondblocksolublefiber<=p^(FC-U),firstychoicesp^(ht-U),soFB<=FC+ht-2U inclchar2,t0. No numericalexperiment or historicalsourcebodyread."
+    },
+    {
+      "at": "2026-10-23T09:13:10.695086+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex"
+      ],
+      "note": "All653cube+443certificate lines actuallyread. CubeconcentrationuniformEVERY intermediate fullrankK containingBZ^m,EVERYcoset,adaptiveotherdata allowed onONEstartingBtypicalevent;indexN^qN q<=1/2. Profile c(d/2)=1-(1-d)z(d/(1-d)),z=(1+sqrt(2u-u²))^-1 up to1then1/2;continuousendpoints,cmonotoneconcave,uniformhalfHolder. Exactlowheightorderedaffinebasiscount leadingj²bits includescenter2^m inlowerorder evenj0;newgraphheight ratio a sqrt(1+||v||²),largejumpschargeheight,duallatticedetminimizer+ReverseMinkowskiquotient andbinaryevaluationfibercost<=r0,not allsubspaceenumerationpractical. Witnesspricingrobustpieces<=3/eta,directSUMdifferenceWs,dims tiN;smallcosetcount onD xN<=tN;xt-x²/2<=sumti(ti-alphai)+etat+eta³. Encodebases thenchooseP usinguniformprojectedranks,revealPcolumns;knownL spannedbasisdifferences+columns LsubsetK fullrank withindex<=N^N/2. EnumerateKs AFTERknownL but BEFOREunrevealedblock viaannihilator dual<=N^.6generators;costO(N^1.6logN),notuncontrolledallsubgrouplist. Symmetricrowencoding usescolumns inK;countmatrix-basisPAIRS choosesonewitnessperB forlowercount,allKupper;floorlogsizegroups androbustbasismultiplicity cancelleadingcost,superexpviolationbound. Concentrationquotientdetminimizer T=log^4N,smallGaussianprojectionfibers;d=(m-rankF)/N andf=1-d INCLUDESN-m offset. q<=d/2+4ell/logN. PivotcomplementJ0smallcosetcount,greedyminimumcardinalityAi hasnondecreasingcardinality,disjointpivottriangularargument givesdirectsumWi,stop t>=alpha-2eta within<3/eta steps;removeONEcoordinatefromlastAi buildsSAMEsmall-countD fortwo witnesscalls. Piece-listlower on d+s andsinglefullsetupper solvealpha<=fz(d/f)+O(sqrteta),notnew independenceassumption;profileHolderabsorbsqerror. CertificatefixedE conditiontestedcolumnconditionallyUNIFORMgivenexposedC/quotient;marks maydependontestedcolumn/otherbits,subeventarbitrary. Classes constructedBEFORErepresentative/targets;wholeplateaucategoriesatmost2,heightlowerwi,markedprefixneeded. Largeprimeweightrecordallmarks,smallprimerecordprefixcounts,intermediatecellsbinlowerweight>=1-delta,countmarks only. Eachoutcomeoffersproductbinom(rj,aj) vs candidateproductbinom(nj,aj);doublecount original conditionalprobability,neverconditionv onobservedmarksasifstilluniform. Knownmarksincludefull,celltargetfloor,halfHolderuniformatboundaries;entropyE=H(s,u)-H(s-x,u),Etheta superadditive;class/roundingerrors fixedprecisionbeforeN. Retainedlayercostsigma=ceil(ell²)^-6,choosecertificateweightx=sigma²,profile~2sqrtq andentropyO(sigma²logsigma^-1) gives<=2^-Nsigma/2;conditionalprecedingcolumnallowed,DESTnonsingularitynotneeded. No primary originals or numericalexperimentyet."
+    },
+    {
+      "at": "2026-10-23T09:19:39.750856+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex"
+      ],
+      "note": "All485potential+687minorpaths+120references actualread;UNIFORM manuscript all14TeX5250lines now read inclreferences/TikZsource. Widthone layerbudget distinguishesactualmarkedmass a fromeffectivea0=a-L+P∈[0,a];symmetrickernelprefix atlastoldheight>=2 givesP<=L,increment<=beta g+(6-beta)a0-beta u withBbudget2g+3a0+u<=1/2 andCbudgetg+v0+2a0+2u<=1/2. Marks wholeplateaucategories,prefix evenheight1g viaBmonotonicheights;class partition BEFOREchoosemaxPsioutcome/targets,thenEdecreasinginfirstmass letsreplacea0 bya. Scalarbudget exact analyticdual,not numericaloptimization:evaluateentropyminimumL(t,h),supportingslope justifiesdualattainedequality;lambda/mu 3rangesw<=8/5,[8/5,3],>=3,integerinequalitiesverifyD21/10<2/5 andquarterLbound. Width2 gateindependentcolumns +PsiB<=1,PsiC<=1 yieldslocalmoment;no destinationtypicality imposedinconditionalbound. TailrecursionW_s(B)<=W_s+h(C)+2retentionweight restrictedheight>=s+1-h. Heavyretention lemma WITHOUTtypicality:fixedmasklatticeindex,maximumdissociatedgroupgenerators yieldatom<=2^-j;{-1,0,1}matrixM C rankj andHadamard=>index<=N^1.5j =>cost2qN/3. Highlayerprefixmaskentropy small/largeprimes splitthresholdsqrtN,heights>=R-1,R=ceil ell²;dyadicQ∈[q,2q),q>=eta/(100logN) bound2^-3qN/5. LongJ*=2ceilN^.6 beforewindowL*=ceilR^12;unionallnearfullprincipalminors/subexpfixedindexpaths. BACKWARDrealizedpath onlyeventcover;allprobabilities exposeFIXEDpath forwards,neverconditionfuturepathchoice/nonsingularity/gates asindependence. HeavytruncatedQ moment<=1+o1 forENTIREprobspace singularstartQ=0;tailbackwarditeration thresholdpastN^.6primecapforceshigh-tail sumQ>=epsilonprime(R-1)/4,prob2^-Omega(NR). LowPsiwindowlocalmoments accumulateonlyL*ell^-60=Oell^-36,notlongJ*. RemaininghighPsi/smalltail:Z=W2+R^-2 W1 bounded1;noncostlywidth1descentepsilon/(20R³),width2 atPsiC>1-1/R descent1/(40R). NeedOmegaepsilon(L*/R³)costlypositions,eachfuture-unconditionedeventprob<=3*2^-Nsigma/2,positionsentropyOt logR dominatedNsigmat =>2^-Omega(NR³),weight2^N safe. Thenepsilonfixed,N->infty,epsilon->0 yieldsmoment2^oN andsignN=n-1 rate;no explicitthreshold/uniformfinitefailurebudget. All18bibliographicentriesreadmetadataonly,primaryhistoricalbodiesnotyetread;no scientificrun/fullfamilypromotion."
+    },
+    {
+      "at": "2026-10-23T09:19:39.781521+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex"
+      ],
+      "note": "All63main+130intro actualread. FIXEDp∈(0,1) excluding1/2,Prsing^(1/n)->p²+(1-p)²,error maydependp;equalrowlowerprob changesfixedcorneronly. Global sign allowsp<1/2. Maxcolumnatomb=1-p too weak;structuralexception needsTWOrareextensions andnonexception deletionnearlyfull ORIGINAL Shannonentropy. Anchorrowgauge conditional independentbits probabilities{p,1-p},meanrank<=2,NOTuniformbitlaw;do not reuseunbiasedchangeofbasisinvariance. AdmissibleB^-1z l2<=L0sqrtn,notunbiasedinfinitynorm. Selectedoriginalcolumntypicalpositivecount needed forentropyweight,notallcolumns. CTVmaximumatomoldcoversfixedbias;JSSdiscretenonuniformoldindependentrowsstrategy;companionuniformproofreusedexactboundedinterfaces,notindependentnewproof. Newnearlycompletecubeentropy lossstatement allowsindexN^tauN,tau inversepolyloglog,adaptiveK ononenewtypicalevent;fullproofunreadhere. No historicaloriginal ornewapplicationtestyet."
+    },
+    {
+      "at": "2026-10-23T09:22:23.477604+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex"
+      ],
+      "note": "All476reductions+201typical actuallyread. p<1/2 b=1-p,Q=p²+b²,a=-log2b,d*=-log2Q,h*=binaryentropy;strict2a>d*,h*>d* onlyfixedbias (gapsvanishp->1/2). Generalcorankforcedprincipalblock maxatom b tail2^-Omega_p(n^1.2);diagonalflip k-1 createscorank1,nowprobabilityratio(b/p)^t pluspreimageentropy subexp,not uniformcount alone. Anchortailoffmaxcoordinate normalizedl2=1,anchor<=sqrt(n-1). Compressibletaillemma choosegamma then delta then lambda;centeredWopnorm net/Hoeffdingfailure2^-4n,SEPARATEscalaru approximatessumv toavoidrankonemeanamplification. Outside chosenS,selectedfixed netrowtests use disjointindependententries WITHOUTconditioningnormevent;two largecoeffs giveallowedoppositevertices total<=Q,smallcoeffcase BerryEsseen withunequalsummands/varianceboundedp andthirdmomentu0;rowindependencenotfullmatrixrows. Anchorgaugeconditionalbits probs{p,b},mean=.5 11T-.5mut uuT rank<=2 includingdiagonal/principalminors;nullitypreservedandtailcoordinatesignschanged. Bitmodeluniformoverfixedprobarrays+rankmean<=2;typical2^-omegaN. AdmissibleS_L0 norml2<=L0sqrtN. Columnestimate claimed for m=N-1 only:prob nonsingand|S|>2^e0N <=2^-N(2a-10e0),fullprooflater. Rowcounts probabilityfewdeviantrows exp(-Omega(n²)) usesSUMselectedrowcounts independentuppertri bitscoeff1or2,notindependentrowcounts. Incompressibletailatleastlambda n/2coords>=c/sqrtn;fewbadrowsallowslargecoordinatewithORIGINAL typicalpositivecount. Fixanchor/deletionindices BEFOREconditioninganchorrow,unionn² notchosenkernelevent;B independentdeletedcol givenanchorrow. CompatiblezspecifiesoriginalN-1signs,pointprobs p^r b^(N-1-r) <=2^-N(h*-Cpw1-o1) onlywithoriginalrowcountcondition;dropdeleteddiag requirementforupperbound. ChooseL0 then e0,w1 smallusingstrictmargins;lowerboundequalrowfixedcorner(p³+b³)Q^(n-2). Primecorankbiasedbits proof DOESNOTuseunbiasedF2basis invariance:principalSchurforcedblock for ANYfixedsymmetricshift overANYfieldwheretwobitsdistinct,tail<=2^d b^k(k+1)/2. Realnonsingdet primeunion=>allprimecapN^.6 withuniformp-arraybounds;groupgeneratorsmaxprimecorank. Deterministicheightcover,primitivequotients,minimizer,ReverseMinkowski projectedcounts explicitly reuseUNIFORMcompanion alreadyread;not newindependentclaims nor algorithm. No historicaloriginalreadyet."
+    },
+    {
+      "at": "2026-10-23T09:24:31.883310+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex"
+      ],
+      "note": "All481lattice actuallyread. SimultaneousANYK containingBZ^m withindex>=N^(tauN),tau=ell^-DfixedD,ANYrealcoset<2^alphaN forANYfixedalpha>0;one typicalevent uniformp/bbitarrays. Highindexalone deterministicdoesNOTimplysmallcubeintersection. MinimizedK0 T=log^4N,lowheightF<=e^4Nell,quotientLambda det>=N^tauN/e^4Nell;Gaussianfewprojection=>dimF>=alphaN/2. CoverF rankdistance,notangle:U=Vperp dim<=(1-alpha/3)N,W0=E∩U,missingr<=Nell^-P;anisotropicS=N²onW0,N^-C-5onrcompl actuallycreatesEuclideanclosenesslater. ANYsublatticeZ^j⊕Pi lowerdet>=1/H(F) via integerfull-lift actualrank,not assumedfullrank. Pi/Lambda quotientGB <=N^.6generators => multiplicationu<=N^C imageorder>=N^(tauN-o(tauN)). Maximal separatedsubsets yields{-1,0,1}representations+Pierrors scalednorm<=R0sqrtN;volume boundforceserrorrank o(tauN),MCnonsingrank andHadamardforce>=c tauN separatedcoordinateindices foreachu. SmallJ<=gammaN intersectsALLpoly-manyIu byprobabilisticexistence,not explicitalgorithm. DualGaussianonLambda* weighted||S^-1y|| producesByintegral bysymmetry. Fourier squaredmod productexpect viaXi-Xiprime,Poissonratio nonnegative<=1;discardarbitraryshiftswithabsolutes;fartranslateGaussian e^-cN,neartranslate atmostonesubsetsum onJ∩Iu,prob<=b^c tauN. k=floorkappa tauN/logN independentdualvector samples,conditionallbutonenonzerowcoeff allowsarbitraryshift;unionallintegerw||w||∞<=N^C,choosegamma/C THENFourierconstants THENsmallkappa. Geometrynorm<=R0N^2sqrtN,distanceU<=R0N^-C-5sqrtN. Netscellsdiam4N^-C,representativeschosenONLYfixedU,J/cells satisfyinggeometry+Fourier,independentB andneednotbelongactualdual. Actualwitnessimpliesapproxintegrality4N^-CsqrtN. ConditionallbutJ×Jc crossblock =>DIFFERENTtestedrows disjointbits;biasedp/b haveidenticalcharacteristicMODULUS. ProductFejerkernelsM0=N^(C-2),nonzerofrequencybounds andsmallkappa =>rowprob<=N^-(C-3)k. PositiveentropyDelta=(C-3)(1-2gamma)-(C+4)(1-alpha/3) paysnets;superexpprob e^-c tauN² plusprimecorankfailure. No independentfullrows/angleapproximation/adaptivelatticenets/freeefficientGaussianconstructor assumed. HistoricalGaussiancomparison/ReverseMinkowski originalsnotread yet,no numericalrun."
+    },
+    {
+      "at": "2026-10-23T09:27:54.570565+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex"
+      ],
+      "note": "All708pairinglines actualread. T2=sumheightEXACTLY2weights distinctfromJB=sumheight>=3 kν andW2=sum(k-2)+ν;JB<=3W2. Staticcolumn estimate W2<=zeta implies|S_L0|<=2^e0N ononetypicalevent. Pairingcolorinputexplicitlyreuseuniformcompanionalreadyread,restrictedpairingonH notHomwholeGB. EachprimaryCOLORitself liesinsubgroupindex>=l^(b2-b3):scaledpairingradicalU[l^f],perfectquotient,samecolorimagesgeneratesisotropicA⊂Aperp =>index>=sqrtquotientorder. ColorcostifT2>=sigma chooseprimeprefixuntilthreshold,lastprimechargedOlogN polynomialcolorbound avoidovershoot;total2^oN. T2<sigma allcolorssubexp. LargeT2 colors intohighindexK thenbiasedsmallintersectiontheoremD20 (tau=o sigma),adaptiveKallowed. SmallT2 robustgraphl2bound differences²<=(1+4L0²)N,detLexpO_L0Nell andlowheightspan;bilinearinverse-ranklossonadaptiveF<=xiN andfewsmallB-eigenvalues<=xiN =>graphcompressionr/N<=2JB+2xi+o1 includingindefinite/rank0. RestrictedpairingimageindexONEpower andintegralfirstcoordsdetK>=1 inheritedexact. Biasedinverse-rank adaptation:fixedREALU choosebasisVI=I,conditionoutsideprincipalIblock=>VtBV=BII+fixedH,forcedblockatomcorankboundapplies;NOunbiasedF2distributioninvariance. Coverlist2^N²ell^-P plusnullityrankdistance,pushradicals bynonsingularB,uniforminprobarrays. Small-spectrum usescenteredvariancepb,rankmean<=2 ONLYHERE;fixedmomentsemicircleuniformallarrays (oddmomentsnotexactzero underbias,butlimit0),fixedw(xi,p),convexLipschitztracesL=(1/w)sqrt(2/pb),TalagrandARBITRARYproduct[0,1] theorem4.1.1 ratherthanuniformcubeTheorem3;ranktwo meanperturbationintervalcount<=4. NeedkeepTalagrandbibliographyIDENTITYqualifiedbymanuscript ifkeydenotesdifferentoldwork. Finally6zeta+2xi<e0;no explicitfiniteNthreshold/least-singular bound/efficientsampler,oldoriginals unread."
+    },
+    {
+      "at": "2026-10-23T09:30:44.093663+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex"
+      ],
+      "note": "All555paths+61figure-source+158references actuallyread. Bothcurrentmanuscripts all24TeX8083lines nowactualread incl278referenceTeXlines;notcanonical/fullfamilypromotion. Gateddeletionoldinfinitynorm<=1 impliesnewl2<=L0sqrtN;commonquotients/retentionnecessarylattices/arbitrarylayer sets/tailrecursion inheriteduniformcompanion. CostlydefinedONLYretainedweight>=sigma;onecostlyextension probability<=pN=2^-N(a-2e0) via2^oNprefixmaskcover,simultaneoushighindexcubeintersection andmaxatom b^m,not probability2^-Shannon. SmallW2start width2 BOTHindependentcolumns gate<=pN². Dissociatedfixedmaskgeneralbiasedcost b^(2qN/3) withouttypicality;heavyheight>=R-1 masksentropy o_eta(qN) forq>=eta/100logN gives2^-cp qN. FixedlongH0=2ceilN^.6paths count2^oN,allnodes nearfullrankmean<=2 retained;backwardpathonlyeventcover,forwardfixedpathexposure conditionalindependence andfutureeventsindicatorsnotconditioning. Entireexposure truncatedheavyQ=0singularstart,dyadicmoment<=1+o1;tailrecursionbackthreshold>N^.6 killsallprimeheight cap;anywindowWR>eta entailsQsum>=eta(R-1)/4 =>2^-Omega_peta(NR). Biasedterminalwindow5R notuniformR^12;assumeterminalW2>zeta andallWR<=eta<zeta/4,deterministicallyTWOcostlydistinctsteps ORwidth2gatefromsmallW2. Ifexactlyonecostly latewithinR,twoearliernodeshaveW2<=delta;absencecheapstartwidth2 forcesadjacenttwowidth1,firstW1<=delta+4sigma thenheightinterlacingkeepsW2smallacrosscostlystep,remainingnoncostlycontradiction. For2positions towerconditionalexpectations <=pN² EVENadjacent,notassumedindependentsteps. UnionO(R²)and2^oNpaths,staticW2small bound,exception<=2^-N(2a-10e0). Figureschematicbounds/TikZsourceactuallyread;noPDFpixelsyet. Bibliographies:UNIFORMTalagrandkey1988Theorem3 DOI0964871-7 versusBIASEDTalagrand1995productspacesTheorem4.1.1 DOI BF02699376,DIFFERENTWORKS despiteSAMEKEY;mustqualifybeforemerge. ReverseMinkowskinumberingexplicitauthorarXiv1611.05979v6 distinctfrom2024publishedbytes. JSSDiscreteauthor2010.06554v2 andLT2004.03131v1 versionsspecified;SymmetricRateinternalcurrentcompanionread,HuSongWu2026newprimarynotread. No externalrootbodyread/Leanbuild/Comparator/numericrun."
+    }
+  ],
+  "source_sections": [
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex"
+  ],
+  "source_tex_lines": 8083,
+  "bibliography_lines_included_in_tex": 278,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "target": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex"
+    },
+    {
+      "source": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "target": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex"
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-239-U-THM-MAIN",
+      "qualified_label": "U:thm:main",
+      "label": "thm:main",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        11,
+        18
+      ],
+      "statement": "Uniform symmetric signs have singularity probability 2^(-n+o(n)).",
+      "conditions": [
+        "Independent on and above diagonal, including diagonal; n tends to infinity; no effective finite n0 or least-singular-value statement."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-SIGN-BIT",
+      "qualified_label": "U:lem:sign-bit",
+      "label": "lem:sign-bit",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        14,
+        19
+      ],
+      "statement": "Uniform sign singularity equals binary symmetric singularity in dimension n-1.",
+      "conditions": [
+        "n>=2; first-row gauge and Schur complement; not a distribution identity for biased signs."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-PRINCIPAL-RANK",
+      "qualified_label": "U:lem:principal-rank",
+      "label": "lem:principal-rank",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        58,
+        61
+      ],
+      "statement": "A symmetric matrix over any field has a nonsingular principal minor of its rank.",
+      "conditions": [
+        "Rank-zero minor has determinant one; not restricted to characteristic different from two."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-CORANK-TAIL",
+      "qualified_label": "U:lem:corank-tail",
+      "label": "lem:corank-tail",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        75,
+        88
+      ],
+      "statement": "Binary symmetric corank has the binomial forced-block tail over every field.",
+      "conditions": [
+        "Uniform bits including diagonal; sum(j>=k) binom(m,j)2^(-j(j+1)/2); m in I_N gives superexponential tail beyond N^(3/5)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-CORANK-REDUCTION",
+      "qualified_label": "U:lem:corank-reduction",
+      "label": "lem:corank-reduction",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        102,
+        109
+      ],
+      "statement": "Singularity reduces to corank-one mass up to subexponential and superexponential terms.",
+      "conditions": [
+        "Uniform binary model, diagonal flips and bounded preimages; not a rank-one output algorithm."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-COLUMN-REDUCTION",
+      "qualified_label": "U:lem:column-reduction",
+      "label": "lem:column-reduction",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        150,
+        156
+      ],
+      "statement": "Corank-one probability is at most N 2^(-N) times the expected admissible-column count.",
+      "conditions": [
+        "S(B) requires z^t B^-1 z in {0,1} and infinity norm of B^-1 z <=1; singular B contributes empty admissible set as defined in framework."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-ADMISSIBLE-POTENTIAL",
+      "qualified_label": "U:prop:admissible-potential",
+      "label": "prop:admissible-potential",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        245,
+        251
+      ],
+      "statement": "Typical admissible-column count is bounded by the discriminant potential Psi.",
+      "conditions": [
+        "Fixed precision A>0 before sufficiently large N, m in I_N, nonsingular start; atypical probability 2^(-N f(N)), f tends to infinity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-PATH-POTENTIAL",
+      "qualified_label": "U:prop:path-potential",
+      "label": "prop:path-potential",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+      "statement_lines": [
+        255,
+        261
+      ],
+      "statement": "The nonsingular-weighted potential moment is subexponential.",
+      "conditions": [
+        "Size N-1; includes indicator of nonsingularity; no finite sampling algorithm or effective rate."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-LATTICE-QUOTIENT",
+      "qualified_label": "U:lem:lattice-quotient",
+      "label": "lem:lattice-quotient",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        33,
+        61
+      ],
+      "statement": "Primitive orthogonal lattice quotients obey covolume and dual formulas.",
+      "conditions": [
+        "Quotient is projected inside the real span; primitive K; preimage determinant identity; all zero ranks use determinant one."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-HEIGHT-SUBMODULARITY",
+      "qualified_label": "U:lem:height-submodularity",
+      "label": "lem:height-submodularity",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        94,
+        104
+      ],
+      "statement": "Rational-subspace height is submodular and bounded-height classes are finite.",
+      "conditions": [
+        "H(U+V)H(U intersect V)<=H(U)H(V); dimensions and cutoff fixed; no efficient enumeration guarantee."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-NORMAL-HEIGHT",
+      "qualified_label": "U:lem:normal-height",
+      "label": "lem:normal-height",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        149,
+        169
+      ],
+      "statement": "Normal dual lattice covolumes equal rational-height ratios with an index factor.",
+      "conditions": [
+        "V subset U rational; arbitrary sublattice determinant >=1/H(U), including deficient rank and rank zero."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-THM-REVERSE-MINKOWSKI",
+      "qualified_label": "U:thm:reverse-minkowski",
+      "label": "thm:reverse-minkowski",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        201,
+        213
+      ],
+      "statement": "All-sublattice determinant bounds control Gaussian mass at scale T/[10(log j+2)].",
+      "conditions": [
+        "Every M subset L must have det M>=T^rank M; rank j>=1 gives mass<=3/2; rank zero mass one; old theorem, not a new result."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-GAUSSIAN-COUNT",
+      "qualified_label": "U:lem:gaussian-count",
+      "label": "lem:gaussian-count",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        226,
+        246
+      ],
+      "statement": "Gaussian mass bounds point counts and scales by at most the dimension power.",
+      "conditions": [
+        "R>=0,s>0,s'>=s; use all-sublattice hypothesis before Reverse Minkowski specialization; rank zero separate."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-DET-MINIMIZER",
+      "qualified_label": "U:lem:det-minimizer",
+      "label": "lem:det-minimizer",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        271,
+        293
+      ],
+      "statement": "A primitive normalized-determinant minimizer leaves a quotient with all-sublattice lower bounds.",
+      "conditions": [
+        "Minimize det(M)/T^rank(M); optional rank <=Delta/log(T0/T) requires all original sublattices >=exp(-Delta)T0^rank; existence is not an algorithm."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-ROBUST-EXTRACTION",
+      "qualified_label": "U:lem:robust-extraction",
+      "label": "lem:robust-extraction",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        333,
+        355
+      ],
+      "statement": "An affine restriction retains entropy while making a cube set robust.",
+      "conditions": [
+        "Nonempty binary set; loss<=rho m; ordered independent-basis lower bound includes rank-zero empty tuple."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-ROBUST-HEIGHT",
+      "qualified_label": "U:lem:robust-height",
+      "label": "lem:robust-height",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+      "statement_lines": [
+        395,
+        421
+      ],
+      "statement": "Short differences of an injective rational affine robust cube image have controlled lattice covolume.",
+      "conditions": [
+        "Fixed D,C0, rho=(loglog N)^(-D); actual image-difference lattice rank r, det<=exp(O(N loglog N)); no bound from diameter alone without robustness."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-THM-LOW-HEIGHT-COVER",
+      "qualified_label": "U:thm:low-height-cover",
+      "label": "thm:low-height-cover",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+      "statement_lines": [
+        28,
+        40
+      ],
+      "statement": "Low rational-height spaces admit a subquadratic-bit list up to rank distance.",
+      "conditions": [
+        "Fixed D,A; m<=N; size<=2^(N^2 ell^-A), rank distance<=N ell^-A for H<=exp(N ell^D); not angular distance or practical construction."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-TYPICAL-RANKS",
+      "qualified_label": "U:prop:typical-ranks",
+      "label": "prop:typical-ranks",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+      "statement_lines": [
+        56,
+        74
+      ],
+      "statement": "One typical event controls all low-height restrictions and coordinate-projected column ranks.",
+      "conditions": [
+        "Uniform symmetric binary B; rational W and all coordinate sets simultaneously; no nonsingularity required; not uniform sign A reduced mod2."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-COR-INVERSE-RANK",
+      "qualified_label": "U:cor:inverse-rank",
+      "label": "cor:inverse-rank",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+      "statement_lines": [
+        163,
+        175
+      ],
+      "statement": "The inverse bilinear form loses few ranks on every low-height rational subspace.",
+      "conditions": [
+        "B nonsingular; restriction is a bilinear form, not an injective linear-map restriction; uniform typical event."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-PRIME-CORANK",
+      "qualified_label": "U:prop:prime-corank",
+      "label": "prop:prime-corank",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+      "statement_lines": [
+        205,
+        214
+      ],
+      "statement": "One typical event bounds corank modulo every prime by N^(3/5).",
+      "conditions": [
+        "Condition includes real nonsingularity, so only finitely many determinant primes matter; no claim for real singular matrices."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-TYPICAL-SPECTRUM",
+      "qualified_label": "U:prop:typical-spectrum",
+      "label": "prop:typical-spectrum",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+      "statement_lines": [
+        239,
+        251
+      ],
+      "statement": "Typical binary matrices have few eigenvalues in a shrinking interval around zero.",
+      "conditions": [
+        "Fixed A, C_A=A+6 is allowed; count<=N ell^-A in +/-sqrt(N)ell^-C_A; no nonsingularity and no smallest-singular-value bound."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-DISCRIMINANT-BLOCKS",
+      "qualified_label": "U:lem:discriminant-blocks",
+      "label": "lem:discriminant-blocks",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+      "statement_lines": [
+        38,
+        51
+      ],
+      "statement": "Perfect symmetric primary pairings split into cyclic blocks and special binary blocks.",
+      "conditions": [
+        "Odd primes cyclic; p=2 also rank-two blocks with even diagonal and odd off-diagonal; Q/Z values."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-PRIMARY-COLORING",
+      "qualified_label": "U:lem:primary-coloring",
+      "label": "lem:primary-coloring",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+      "statement_lines": [
+        88,
+        104
+      ],
+      "statement": "Isotropic primary elements admit colors with controlled scaled pairings and color counts.",
+      "conditions": [
+        "h=b3, top blocks exponent>h; C_p<=1+8b1, odd p also <=2^(b2-b3); not total group size."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-COLORED-IMAGE-ORDER",
+      "qualified_label": "U:lem:colored-image-order",
+      "label": "lem:colored-image-order",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+      "statement_lines": [
+        288,
+        303
+      ],
+      "statement": "Within-color differences have small restricted pairing image.",
+      "conditions": [
+        "H generated by differences; Hom(H,Q/Z), not Hom(G_B,Q/Z); image order<=N^(N J_B)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-PAIRING-DETERMINANT",
+      "qualified_label": "U:lem:pairing-determinant",
+      "label": "lem:pairing-determinant",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+      "statement_lines": [
+        352,
+        376
+      ],
+      "statement": "A rational form's nonradical determinant has a one-sided pairing-index lower bound.",
+      "conditions": [
+        "Primitive radical lattice K; orthogonal nonradical space; det >=det(K)^2/[t det(L)^2], one power t rather than t^2; rank-zero convention."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-GATED-DELETION",
+      "qualified_label": "U:lem:gated-deletion",
+      "label": "lem:gated-deletion",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "statement_lines": [
+        9,
+        20
+      ],
+      "statement": "A nonsingular symmetric bit matrix admits one deletion or a gated two-deletion.",
+      "conditions": [
+        "In the two-deletion case both cross columns are admissible for the same nonsingular start; empty minor included."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-POTENTIAL-STEP",
+      "qualified_label": "U:prop:potential-step",
+      "label": "prop:potential-step",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "statement_lines": [
+        94,
+        106
+      ],
+      "statement": "A width-one or gated width-two extension controls the nonsingular weighted potential moment.",
+      "conditions": [
+        "Typicality only on starting C; endpoint indicator and gate remain inside expectation; fixed precision and conditionally independent uniform fresh bits."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-LAYER-QUOTIENT",
+      "qualified_label": "U:lem:layer-quotient",
+      "label": "lem:layer-quotient",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "statement_lines": [
+        156,
+        174
+      ],
+      "statement": "Quotient by one element removes at most one unit from each primary layer.",
+      "conditions": [
+        "Prefix increments u_t in {0,1}; retained layers form prefixes within each constant-height plateau, not across all layers."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-RETENTION-LATTICE",
+      "qualified_label": "U:lem:retention-lattice",
+      "label": "lem:retention-lattice",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "statement_lines": [
+        240,
+        254
+      ],
+      "statement": "Specified retained layers force membership in a preselected lattice of known index.",
+      "conditions": [
+        "Nonsingular C, fixed quotient and any positive-layer set E; retention implies membership, not an equivalence; index N^(N q(E))."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-LAYER-INEQUALITY",
+      "qualified_label": "U:lem:layer-inequality",
+      "label": "lem:layer-inequality",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+      "statement_lines": [
+        322,
+        328
+      ],
+      "statement": "Symmetric nonsingular extensions obey a prime-power kernel prefix inequality.",
+      "conditions": [
+        "Widths h=1 or2; F_B(p,t)<=F_C(p,t)+h t-2 U_t over Z/p^t, not merely fields."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-CUBE-CONCENTRATION",
+      "qualified_label": "U:prop:cube-concentration",
+      "label": "prop:cube-concentration",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+      "statement_lines": [
+        41,
+        51
+      ],
+      "statement": "One typical event bounds every intermediate lattice coset's binary intersection.",
+      "conditions": [
+        "B nonsingular, BZ^m subset K subset Z^m; M_K<=2^[N(1-c(q_K)+ell^-A)]; K may depend on B and other data."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-EXACT-BASIS-COUNT",
+      "qualified_label": "U:lem:exact-basis-count",
+      "label": "lem:exact-basis-count",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+      "statement_lines": [
+        93,
+        104
+      ],
+      "statement": "Low-height cube affine bases have leading j^2 encoding cost.",
+      "conditions": [
+        "All m in I_N and j from0 to m, fixed C,C'; upper count 2^[j^2+o(N^2 ell^-C')]; not a feasible enumeration runtime."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-WITNESS-PRICING",
+      "qualified_label": "U:prop:witness-pricing",
+      "label": "prop:witness-pricing",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+      "statement_lines": [
+        181,
+        200
+      ],
+      "statement": "Robust direct-sum witnesses impose an entropy-versus-coordinate constraint.",
+      "conditions": [
+        "h<=3/eta, rho=eta^3; W_i form a direct sum and S_i-S_i subset K; same coordinate D with |D|=xN<=tN and small M_K(D) is necessary."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-CERTIFICATE-PRICING",
+      "qualified_label": "U:prop:certificate-pricing",
+      "label": "prop:certificate-pricing",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+      "statement_lines": [
+        67,
+        104
+      ],
+      "statement": "Outcome classes price at most two plateau-category retention certificates.",
+      "conditions": [
+        "Exposed C and quotient first; tested column stays conditionally uniform; classes fixed before representatives or target weights; probability conditioned only on exposed information, not marks."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-PROP-RETENTION-COST",
+      "qualified_label": "U:prop:retention-cost",
+      "label": "prop:retention-cost",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+      "statement_lines": [
+        380,
+        400
+      ],
+      "statement": "Retained-layer weight at least sigma has conditional cost at most 2^(-N sigma/2).",
+      "conditions": [
+        "Typical nonsingular start, widths1/2; preceding column may be exposed; no destination nonsingularity needed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-BUDGET-OPTIMIZATION",
+      "qualified_label": "U:lem:budget-optimization",
+      "label": "lem:budget-optimization",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+      "statement_lines": [
+        110,
+        123
+      ],
+      "statement": "An explicit scalar dual budget pays the discriminant potential increment.",
+      "conditions": [
+        "Nonnegative g,v0,a0,u; 2g+3a0+u<=1/2 and g+v0+2a0+2u<=1/2; beta=7/5; analytic argument, not numerical optimization."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-TAIL-RECURSION",
+      "qualified_label": "U:lem:tail-recursion",
+      "label": "lem:tail-recursion",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+      "statement_lines": [
+        25,
+        36
+      ],
+      "statement": "High-layer excess at an extension is bounded by older excess plus retained weights.",
+      "conditions": [
+        "Nonsingular endpoints, width h=1/2 and integer s>=h; W_s(B)<=W_(s+h)(C)+2 retained weight above s+1-h."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-U-LEM-HEAVY-RETENTION-COST",
+      "qualified_label": "U:lem:heavy-retention-cost",
+      "label": "lem:heavy-retention-cost",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+      "statement_lines": [
+        80,
+        99
+      ],
+      "statement": "Heavy retained layers have a conditional exponential tail without typicality.",
+      "conditions": [
+        "Fixed nonsingular C and quotient, tested uniform bits; eta fixed, eta/(100 log N)<=q<=1/2; probability<=2^(-3qN/5); preceding column allowed only if fresh uniformity remains."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-THM-MAIN",
+      "qualified_label": "B:thm:main",
+      "label": "thm:main",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        12,
+        18
+      ],
+      "statement": "Fixed biased symmetric signs have exponential singularity base p^2+(1-p)^2.",
+      "conditions": [
+        "Each fixed p in (0,1) excluding1/2 before n tends to infinity; no uniform p(n) result or effective finite threshold."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-CORANK-REDUCTION",
+      "qualified_label": "B:lem:corank-reduction",
+      "label": "lem:corank-reduction",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "statement_lines": [
+        45,
+        51
+      ],
+      "statement": "Biased sign singularity reduces to corank-one mass with subexponential loss.",
+      "conditions": [
+        "Diagonal flips have a p-dependent likelihood ratio as well as preimage cost; p fixed; tail 2^(-Omega_p(n^(6/5)))."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-COMPRESSIBLE",
+      "qualified_label": "B:lem:compressible",
+      "label": "lem:compressible",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "statement_lines": [
+        109,
+        117
+      ],
+      "statement": "A sparse-approximable normalized kernel tail has mass below the target exponent.",
+      "conditions": [
+        "For every epsilon choose fixed lambda,delta then large n; normalized off-anchor tail; exponent -d_*+epsilon; not absence of all sparse vectors deterministically."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-ANCHOR-CONGRUENCE",
+      "qualified_label": "B:lem:anchor-congruence",
+      "label": "lem:anchor-congruence",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "statement_lines": [
+        248,
+        261
+      ],
+      "statement": "Conditioning an anchor row produces independent p-or-b bits with rank-two mean and preserved nullity.",
+      "conditions": [
+        "N=n-1; b=1-p; sign changes of normalized kernel tail; not uniform bit law or independent full matrix rows."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-PROP-COLUMN-BOUND",
+      "qualified_label": "B:prop:column-bound",
+      "label": "prop:column-bound",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "statement_lines": [
+        324,
+        335
+      ],
+      "statement": "Large admissible-column sets are exponentially rare at twice the maximum-atom exponent.",
+      "conditions": [
+        "m=N-1 only, fixed L0>=1 and sufficiently small fixed e0; probability<=2^[-N(2a-10e0)]; S_L0 uses l2 inverse norm<=L0 sqrt N."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-ROW-COUNTS",
+      "qualified_label": "B:lem:row-counts",
+      "label": "lem:row-counts",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+      "statement_lines": [
+        343,
+        348
+      ],
+      "statement": "Only a small fraction of original rows have atypical positive-sign counts.",
+      "conditions": [
+        "rho,w fixed; probability exp(-Omega(n^2)); proof counts independent upper-triangle variables with multiplicity, not independent rows."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PRIME-CORANK",
+      "qualified_label": "B:lem:prime-corank",
+      "label": "lem:prime-corank",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+      "statement_lines": [
+        37,
+        51
+      ],
+      "statement": "Biased bit models have simultaneous all-prime corank control when nonsingular.",
+      "conditions": [
+        "Uniform p/b arrays with rank mean<=2; bound N^(3/5), group generators<=ceil(N^(3/5)); real singular case excluded."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-THM-HEIGHT-COVER",
+      "qualified_label": "B:thm:height-cover",
+      "label": "thm:height-cover",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+      "statement_lines": [
+        100,
+        113
+      ],
+      "statement": "The companion low-height rank-distance cover is reused.",
+      "conditions": [
+        "Fixed D,P; m<=N; cardinality2^(N^2 ell^-P); rank distance, not angles; companion source, not an independent new construction."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-MINIMIZER",
+      "qualified_label": "B:lem:minimizer",
+      "label": "lem:minimizer",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+      "statement_lines": [
+        137,
+        149
+      ],
+      "statement": "The companion saturated determinant minimizer provides a stable quotient.",
+      "conditions": [
+        "All sublattices in quotient satisfy det>=T^rank; existence, not efficient construction."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PROJECTED-COUNT",
+      "qualified_label": "B:lem:projected-count",
+      "label": "lem:projected-count",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+      "statement_lines": [
+        172,
+        186
+      ],
+      "statement": "An all-sublattice determinant bound makes projected short-point counts subexponential.",
+      "conditions": [
+        "Scale T/[10(log j+2)], T=log^4 N, radius sqrt N; j<=N, rank zero countone; no determinant-only premise."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-THM-SMALL-INTERSECTION",
+      "qualified_label": "B:thm:small-intersection",
+      "label": "thm:small-intersection",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        10,
+        24
+      ],
+      "statement": "One typical biased matrix event controls all high-index intermediate lattice cosets.",
+      "conditions": [
+        "Fixed D,alpha in(0,1), tau=ell^-D; nonsingular B and index>=N^(tau N) imply intersection<2^(alpha N), uniformly in p/b arrays; adaptivity allowed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-SEPARATED-SUBSETS",
+      "qualified_label": "B:lem:separated-subsets",
+      "label": "lem:separated-subsets",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        142,
+        151
+      ],
+      "statement": "Many projected coordinate subset sums remain separated modulo the scaled quotient lattice.",
+      "conditions": [
+        "Uses the preceding constructed E,Lambda,S,C,R0; every integer 1<=abs(u)<=N^C; at least c1 tau N indices; not arbitrary lattice statement."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-DUAL-FOURIER-AVERAGE",
+      "qualified_label": "B:lem:dual-fourier-average",
+      "label": "lem:dual-fourier-average",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        253,
+        260
+      ],
+      "statement": "Dual Gaussian averaging suppresses all bounded integer Fourier frequencies despite shifts.",
+      "conditions": [
+        "The constructed dual law and hitting set J are required; any real shifts; expected squared characteristic product<=exp(-c3 tau N)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-PROP-STATIC-COLUMN",
+      "qualified_label": "B:prop:static-column",
+      "label": "prop:static-column",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        78,
+        87
+      ],
+      "statement": "Small high-layer tail yields a subexponential admissible-column bound.",
+      "conditions": [
+        "L0,e0 fixed then zeta; typical nonsingular bit B with W2<=zeta; not a determinant-only bound."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PAIRING-COLORS",
+      "qualified_label": "B:lem:pairing-colors",
+      "label": "lem:pairing-colors",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        127,
+        156
+      ],
+      "statement": "The companion primary-coloring and restricted pairing-image inputs are reused.",
+      "conditions": [
+        "Perfect discriminant pairing of nonsingular symmetric integer B; top exponents above third; restricted H-to-H dual image, not full-group dual."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-COLOR-SUBGROUP",
+      "qualified_label": "B:lem:color-subgroup",
+      "label": "lem:color-subgroup",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        166,
+        171
+      ],
+      "statement": "Each primary color lies in a subgroup with a second-layer-gap index bound.",
+      "conditions": [
+        "Index at least l^(b_l2-b_l3); uses scaled pairing radical and isotropic subgroup, not all colors forming a partition by subgroups."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-COLOR-COST",
+      "qualified_label": "B:lem:color-cost",
+      "label": "lem:color-cost",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        204,
+        217
+      ],
+      "statement": "Specifying selected colors costs sublinear bits with a height-two dichotomy.",
+      "conditions": [
+        "T2 sums layers of height exactly2; if T2>=sigma choose primes reaching sigma with o(N) color cost, otherwise all colors cost o(N)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-ROBUST-EXTRACTION",
+      "qualified_label": "B:lem:robust-extraction",
+      "label": "lem:robust-extraction",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        283,
+        291
+      ],
+      "statement": "An affine restriction makes a binary set robust with entropy loss at most rho m.",
+      "conditions": [
+        "Nonempty set, rho>0; companion extraction input, not a new application algorithm."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-ROBUST-IMAGE",
+      "qualified_label": "B:lem:robust-image",
+      "label": "lem:robust-image",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        293,
+        307
+      ],
+      "statement": "Robust short rational affine image differences have small covolume.",
+      "conditions": [
+        "Fixed D,C0, rho=ell^-D; injective rational affine Phi and pairwise distance<=C0 sqrt N; rank zero determinantone."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PAIRING-DETERMINANT",
+      "qualified_label": "B:lem:pairing-determinant",
+      "label": "lem:pairing-determinant",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        323,
+        338
+      ],
+      "statement": "The companion rational-form determinant bound uses one pairing-index factor.",
+      "conditions": [
+        "Primitive radical K and orthogonal complement S; determinant>=detK^2/[t detL^2]; no squaring t."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-GRAPH-COMPARISON",
+      "qualified_label": "B:lem:graph-comparison",
+      "label": "lem:graph-comparison",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        364,
+        381
+      ],
+      "statement": "Admissible graphs have a size bound controlled by the high-layer pairing tail.",
+      "conditions": [
+        "T2<sigma; all height<=exp(N ell^2) inverse bilinear restrictions lose<=xi N rank and at mostxi N small eigenvalues; output exponent2J_B+2xi+o1, for fixed L0,xi,w."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-PROP-INVERSE-RANK",
+      "qualified_label": "B:prop:inverse-rank",
+      "label": "prop:inverse-rank",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        516,
+        524
+      ],
+      "statement": "One typical event controls inverse bilinear restriction ranks on low-height spaces.",
+      "conditions": [
+        "Nonsingular B; D,xi fixed; all rational F with height<=exp(N ell^D); shifted symmetric-block proof, no uniform F2 basis invariance."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-PROP-SMALL-SPECTRUM",
+      "qualified_label": "B:prop:small-spectrum",
+      "label": "prop:small-spectrum",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+      "statement_lines": [
+        584,
+        593
+      ],
+      "statement": "Typical biased bit matrices have few eigenvalues near zero with exp(-cN^2) failure.",
+      "conditions": [
+        "xi fixed; interval +/-w_xi sqrt N with p-dependent w; centered variance p(1-p) and rank-two mean; not a least-singular-value guarantee."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-DELETION",
+      "qualified_label": "B:lem:path-deletion",
+      "label": "lem:path-deletion",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        27,
+        42
+      ],
+      "statement": "The companion one-or-gated-two principal deletion applies.",
+      "conditions": [
+        "Both cross columns satisfy the stronger infinity norm<=1 and scalar bit gate; implies new l2 gate for L0>=1; empty minor included."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-ALGEBRA",
+      "qualified_label": "B:lem:path-algebra",
+      "label": "lem:path-algebra",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        88,
+        115
+      ],
+      "statement": "Companion retention lattices and excess-layer recursion apply to the biased path.",
+      "conditions": [
+        "Retention only implies fixed-lattice membership; endpoint nonsingularity for recursion, widths1/2; specified positive layers and fixed quotient."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-RETENTION-COST",
+      "qualified_label": "B:lem:path-retention-cost",
+      "label": "lem:path-retention-cost",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        152,
+        164
+      ],
+      "statement": "A costly extension costs one maximum-atom exponent, while a small-tail width-two gate costs two.",
+      "conditions": [
+        "p_N=2^[-N(a-2e0)]; preceding-column conditioning retains fresh independence; smallW2 start required for gate bound p_N^2."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-DISSOCIATION",
+      "qualified_label": "B:lem:path-dissociation",
+      "label": "lem:path-dissociation",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        224,
+        232
+      ],
+      "statement": "An intermediate lattice constraint has a maximum-atom bound without typicality.",
+      "conditions": [
+        "Nonsingular C, indexN^(qN), independent bits with max atom<=b; probability<=b^(2qN/3)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-HEAVY-COST",
+      "qualified_label": "B:lem:path-heavy-cost",
+      "label": "lem:path-heavy-cost",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        265,
+        277
+      ],
+      "statement": "Heavy retained layers cost 2^(-c_p qN) conditionally on valid previous exposure.",
+      "conditions": [
+        "q>=eta/(100 log N), q<=1/2; eta,p fixed; start nonsingular and tested p/b bits independent; no destination conditioning."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-HIGH-TAIL",
+      "qualified_label": "B:lem:path-high-tail",
+      "label": "lem:path-high-tail",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        362,
+        369
+      ],
+      "statement": "High-layer tails on the last window are exponentially unlikely along a fixed path.",
+      "conditions": [
+        "Event A includes path gates/nonsingular nodes; fixed path, terminal5R window, bound2^[-Omega_p,eta(NR)]; backward existence is not an adaptive forward sampling law."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    },
+    {
+      "id": "CLM-239-B-LEM-PATH-WINDOW",
+      "qualified_label": "B:lem:path-window",
+      "label": "lem:path-window",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+      "statement_lines": [
+        441,
+        448
+      ],
+      "statement": "A deterministic terminal window needs two costly steps or a width-two small-tail gate.",
+      "conditions": [
+        "5R nonsingular gated steps, allW_R<=eta and terminalW2>zeta; large N; distinct costly events, not asserted independent."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "label_aliases": []
+    }
+  ],
+  "methods": [
+    {
+      "id": "PART-239-SIGN-BIT",
+      "input": "Uniform symmetric signs",
+      "output": "Exact n-to-n-1 bit singularity reduction",
+      "qualified_source_label": "U:lem:sign-bit",
+      "conditions": "Uniform signs, diagonal randomness and Schur congruence; no biased-law reuse"
+    },
+    {
+      "id": "PART-239-ALL-FIELD-TAIL",
+      "input": "Symmetric independent bits over a specified field",
+      "output": "Corank-tail certificate",
+      "qualified_source_label": "U:lem:corank-tail",
+      "conditions": "Count principal rank and forced symmetric blocks; diagonal included"
+    },
+    {
+      "id": "PART-239-QUOTIENT-STABILIZE",
+      "input": "Euclidean lattice and threshold T",
+      "output": "Primitive quotient satisfying all-sublattice determinant bounds",
+      "qualified_source_label": "U:lem:det-minimizer",
+      "conditions": "Existential minimizer; account for rank removed and construction cost"
+    },
+    {
+      "id": "PART-239-GAUSSIAN-COUNT",
+      "input": "Lattice with every subdeterminant lower bound",
+      "output": "Gaussian mass and short-vector count upper bounds",
+      "qualified_source_label": "U:thm:reverse-minkowski",
+      "conditions": "Strong all-sublattice premise, not merely total determinant; inherited old theorem"
+    },
+    {
+      "id": "PART-239-ROBUST-IMAGE",
+      "input": "Binary affine set and rational short-image map",
+      "output": "Robust restriction and low-covolume difference lattice",
+      "qualified_source_label": "U:lem:robust-height",
+      "conditions": "Keep entropy loss, rationality, injectivity, diameter and rank-zero cases"
+    },
+    {
+      "id": "PART-239-RANK-DISTANCE-COVER",
+      "input": "Rational subspaces of bounded integer height",
+      "output": "Finite rank-distance approximation list",
+      "qualified_source_label": "U:thm:low-height-cover",
+      "conditions": "Not angular accuracy or efficient enumerator"
+    },
+    {
+      "id": "PART-239-PRIMARY-COLOR",
+      "input": "Perfect symmetric finite discriminant pairing",
+      "output": "Isotropic color classes and restricted pairing-image bound",
+      "qualified_source_label": "U:lem:primary-coloring",
+      "conditions": "Special2-primary blocks and third exponent cutoff; not independent rows"
+    },
+    {
+      "id": "PART-239-PAIRING-INDEX",
+      "input": "Rational form on a lattice with finite pairing image",
+      "output": "Orthogonal determinant lower bound",
+      "qualified_source_label": "U:lem:pairing-determinant",
+      "conditions": "Primitive radical; single index factor and Euclidean covolumes"
+    },
+    {
+      "id": "PART-239-ADAPTIVE-COSET",
+      "input": "One typical nonsingular random bit matrix",
+      "output": "Simultaneous bounds for all intermediate lattice cosets",
+      "qualified_source_label": "U:prop:cube-concentration",
+      "conditions": "Random matrix premise and profile; arbitrary high-index deterministic lattice alone insufficient"
+    },
+    {
+      "id": "PART-239-CERTIFICATE-PRICE",
+      "input": "Exposed quotient with conditionally uniform fresh column",
+      "output": "Probability bound for retention-outcome classes",
+      "qualified_source_label": "U:prop:certificate-pricing",
+      "conditions": "Class partition before representative/target selection; do not condition on marks"
+    },
+    {
+      "id": "PART-239-ANCHOR-BIAS",
+      "input": "Biased symmetric signs with fixedp",
+      "output": "Conditionally independent p/b bit model with rank-two mean",
+      "qualified_source_label": "B:lem:anchor-congruence",
+      "conditions": "Anchor row fixed first; preserve nullity, not uniformity"
+    },
+    {
+      "id": "PART-239-SPARSE-TAIL",
+      "input": "Anchored normalized kernel tail",
+      "output": "Compressible contribution bounded below target exponent",
+      "qualified_source_label": "B:lem:compressible",
+      "conditions": "Parameter order and original coordinate normalization; no automatic finite error certificate"
+    },
+    {
+      "id": "PART-239-DUAL-FOURIER",
+      "input": "High-index intermediate lattice of a typical biased bit matrix",
+      "output": "Uniform small binary coset intersections",
+      "qualified_source_label": "B:thm:small-intersection",
+      "conditions": "Anisotropic quotient, separated sums and fixed geometric net; not diagonalizing dependent rows"
+    },
+    {
+      "id": "PART-239-COLOR-SUBGROUP",
+      "input": "A primary isotropic color with scaled orthogonality",
+      "output": "Containing subgroup with controlled index",
+      "qualified_source_label": "B:lem:color-subgroup",
+      "conditions": "Preserve perfect quotient pairing and second-minus-third exponent"
+    },
+    {
+      "id": "PART-239-TWO-RARE-STEPS",
+      "input": "Fixed nonsingular principal path with small high-layer tail",
+      "output": "Two-costly-event or small-tail width-two alternative",
+      "qualified_source_label": "B:lem:path-window",
+      "conditions": "Tower of conditional bounds for adjacent events; not independence assumption"
+    },
+    {
+      "id": "PART-239-ORIGINAL-ROW-ENTROPY",
+      "input": "Original biased row count plus incompressible kernel tail",
+      "output": "Entropy-efficient deletion column",
+      "qualified_source_label": "B:lem:row-counts",
+      "conditions": "Count original signs, not gauge-transformed bits; no numerical conditioning guarantee"
+    }
+  ],
+  "historical_references_by_qualified_key": {
+    "U:SymmetricExponential": "LIT-239-SYMMETRICEXPONENTIAL",
+    "U:SymmetricLeastSingular": "LIT-239-SYMMETRICLEASTSINGULAR",
+    "U:CJMSRevisited": "LIT-239-CJMSREVISITED",
+    "U:CamposMattosMorrisMorrison": "LIT-239-CAMPOSMATTOSMORRISMORRISON",
+    "U:CTV": "LIT-239-CTV",
+    "U:FerberJain": "LIT-239-FERBERJAIN",
+    "U:Grayson": "LIT-239-GRAYSON",
+    "U:HanRank": "LIT-239-HANRANK",
+    "U:HoffmanWielandt": "LIT-239-HOFFMANWIELANDT",
+    "U:JainSahSawhney": "LIT-239-JAINSAHSAWHNEY",
+    "U:Komlos": "LIT-239-KOMLOS",
+    "U:Miranda": "LIT-239-MIRANDA",
+    "U:Nguyen": "LIT-239-NGUYEN",
+    "U:ReverseMinkowski": "LIT-239-REVERSEMINKOWSKI",
+    "U:Talagrand": "LIT-239-TALAGRAND1988",
+    "U:Tikhomirov": "LIT-239-TIKHOMIROV",
+    "U:Vershynin": "LIT-239-VERSHYNIN",
+    "U:Wigner": "LIT-239-WIGNER",
+    "B:Banaszczyk": "LIT-239-BANASZCZYK",
+    "B:Berry": "LIT-239-BERRY",
+    "B:SymmetricExponential": "LIT-239-SYMMETRICEXPONENTIAL",
+    "B:CTV": "LIT-239-CTV",
+    "B:Esseen": "LIT-239-ESSEEN",
+    "B:FerberJain": "LIT-239-FERBERJAIN",
+    "B:Grayson": "LIT-239-GRAYSON",
+    "B:Hoeffding": "LIT-238-5378FBEB44",
+    "B:HoffmanWielandt": "LIT-239-HOFFMANWIELANDT",
+    "B:HuSongWu": "LIT-239-HUSONGWU",
+    "B:JainSahSawhneyDiscrete": "LIT-239-JAINSAHSAWHNEYDISCRETE",
+    "B:KahnKomlosSzemeredi": "LIT-239-KAHNKOMLOSSZEMEREDI",
+    "B:Komlos": "LIT-239-KOMLOS",
+    "B:LitvakTikhomirov": "LIT-239-LITVAKTIKHOMIROV",
+    "B:Miranda": "LIT-239-MIRANDA",
+    "B:Nguyen": "LIT-239-NGUYEN",
+    "B:SymmetricRate": "P-a12e95803a6ff0ff",
+    "B:ReverseMinkowski": "LIT-239-REVERSEMINKOWSKI",
+    "B:Talagrand": "LIT-239-TALAGRAND1995",
+    "B:Tikhomirov": "LIT-239-TIKHOMIROV",
+    "B:Tyurin": "LIT-239-TYURIN",
+    "B:Vershynin": "LIT-239-VERSHYNIN",
+    "B:Wigner": "LIT-239-WIGNER"
+  },
+  "historical_external_work_count": 28,
+  "bibliography_key_collision": {
+    "key": "Talagrand",
+    "uniform": "LIT-239-TALAGRAND1988",
+    "biased": "LIT-239-TALAGRAND1995",
+    "reason": "DifferentDOIs/works,notaliases"
+  },
+  "historical_selected_originals": [
+    {
+      "key": "reverse-minkowski-v6",
+      "url": "https://arxiv.org/pdf/1611.05979v6",
+      "resolved_url": "https://arxiv.org/pdf/1611.05979v6",
+      "at": "2026-10-26T02:59:58.714705+00:00",
+      "bytes": 914676,
+      "sha256": "8db9daed2daf66595f0bee39729e33946bdedd1ecd03fc333e208876e8c3c5f5",
+      "local_path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.pdf",
+      "third_party_not_for_redistribution": true,
+      "node_id": "LIT-239-REVERSEMINKOWSKI",
+      "qualified_bib_key": "U:ReverseMinkowski",
+      "version": "arXiv1611.05979v6,7Jul2022;numbering distinguished from2024Annals",
+      "actually_read_selected_scope": "Extracted lines58-145 and1320-1420;PDF2/3 actually viewed.",
+      "verified_contract": "Theorem1.2 requires det(M)>=1 for every sublattice M, not only totaldet. Scaling yields T/[10(log j+2)] mass<=3/2. Corollary1.4 shifted count has stated radius ranges. Existential quotient minimizer does not establish computation cost.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "cjms-v2",
+      "url": "https://arxiv.org/pdf/2105.11384v2",
+      "resolved_url": "https://arxiv.org/pdf/2105.11384v2",
+      "at": "2026-10-26T03:00:00.329323+00:00",
+      "bytes": 617122,
+      "sha256": "f35efdd863619b369d6a86929fb59533ae9a6aeaba5221f00cf98fbcdd8326f5",
+      "local_path": "/private/tmp/ai-paper-WP108-history/cjms-v2.pdf",
+      "third_party_not_for_redistribution": true,
+      "node_id": "LIT-239-SYMMETRICEXPONENTIAL",
+      "qualified_bib_key": "U:SymmetricExponential",
+      "version": "arXiv2105.11384v2,8Jun2021;not read as2025JAMS finalbytes",
+      "actually_read_selected_scope": "Extracted lines1-150;PDF1/3 actually viewed.",
+      "verified_contract": "Theorem1.1 already gives exp(-cn) for uniform symmetric signs. The sharp exponent constant is not supplied by that statement. The independent-entry sharp-rate discussion is a distinct model; least-singular-value extension is deferred there.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "talagrand1988",
+      "url": "https://www.ams.org/journals/proc/1988-104-03/S0002-9939-1988-0964871-7/S0002-9939-1988-0964871-7.pdf",
+      "resolved_url": "https://www.ams.org/journals/proc/1988-104-03/S0002-9939-1988-0964871-7/S0002-9939-1988-0964871-7.pdf",
+      "at": "2026-10-26T03:00:02.163922+00:00",
+      "bytes": 419551,
+      "sha256": "33fe00d16cb51e0181ba6c9834fe501fd56854d72c260960b8f83dbb7b11f2bb",
+      "local_path": "/private/tmp/ai-paper-WP108-history/talagrand1988.pdf",
+      "third_party_not_for_redistribution": true,
+      "node_id": "LIT-239-TALAGRAND1988",
+      "qualified_bib_key": "U:Talagrand",
+      "version": "PublishedProcAMS104(3),1988,905-909",
+      "actually_read_selected_scope": "Fullfive-page extracted text read;PDF2/4 actually viewed,printed906/908.",
+      "verified_contract": "Theorem3 controls a convex Euclidean-Lipschitz function on uniform signs about its median:4exp(-t^2/(8sigma^2)). Convexity is essential. F239 integrates the tail and changes constants to center at the expectation.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "talagrand1994-v1",
+      "url": "https://arxiv.org/pdf/math/9406212v1",
+      "resolved_url": "https://arxiv.org/pdf/math/9406212v1",
+      "at": "2026-10-26T03:00:54.390408+00:00",
+      "bytes": 846229,
+      "sha256": "ba6e629c20cfae7dd4184630c6e173386351bbbb84641fa00e27d66dc3a6d976",
+      "local_path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.pdf",
+      "third_party_not_for_redistribution": true,
+      "node_id": "LIT-239-TALAGRAND1995",
+      "qualified_bib_key": "B:Talagrand",
+      "version": "arXivmath/9406212v1,7Jun1994;1995publication scan not downloaded",
+      "actually_read_selected_scope": "Selected product notation lines425-440 and section4.1 lines2717-2867,plus introductorycontext;PDF50/51 actually viewed.",
+      "verified_contract": "Theorem4.1.1 controls convex distance in a product space with exp(fc^2/4) integral <=1/P(A). The read version uses common-product notation. The p-or-(1-p) bit arrays needed here reduce to a common Bernoulli law by fixed coordinate complements, preserving convexity and Euclidean Lipschitz constants; this is a local inference, not human approval of arbitrary distributions.",
+      "whole_work_and_recursive_history_complete": false
+    }
+  ],
+  "unread_root_work_ids": [
+    "LIT-239-SYMMETRICLEASTSINGULAR",
+    "LIT-239-CJMSREVISITED",
+    "LIT-239-CAMPOSMATTOSMORRISMORRISON",
+    "LIT-239-CTV",
+    "LIT-239-FERBERJAIN",
+    "LIT-239-GRAYSON",
+    "LIT-239-HANRANK",
+    "LIT-239-HOFFMANWIELANDT",
+    "LIT-239-JAINSAHSAWHNEY",
+    "LIT-239-KOMLOS",
+    "LIT-239-MIRANDA",
+    "LIT-239-NGUYEN",
+    "LIT-239-TIKHOMIROV",
+    "LIT-239-VERSHYNIN",
+    "LIT-239-WIGNER",
+    "LIT-239-BANASZCZYK",
+    "LIT-239-BERRY",
+    "LIT-239-ESSEEN",
+    "LIT-238-5378FBEB44",
+    "LIT-239-HUSONGWU",
+    "LIT-239-JAINSAHSAWHNEYDISCRETE",
+    "LIT-239-KAHNKOMLOSSZEMEREDI",
+    "LIT-239-LITVAKTIKHOMIROV",
+    "LIT-239-TYURIN"
+  ],
+  "historical_versions_in_corpus": [],
+  "version_history_scope": "Pinned currenttwoREADME andmath/history read;noF239historicalversion row observed,notclaimallpossibleeditionsread",
+  "formal_status": {
+    "registry_path": "math/lean/formalization.yaml",
+    "registry_sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+    "matching_manuscript_ids_observed": false,
+    "docs239_exists": false,
+    "catalogue_scope": "math/CONTENTS.md lines5953-5973 have no Lean link forF239",
+    "bounded_challenge_filename_search": "No matching symmetric sign/Bernoulli singularity challenge filename; unrelated SymmetricDomains and Canonical239 files are not evidence for this family.",
+    "absence_of_all_possible_Lean_proofs_claimed": false,
+    "local_lean_build": false,
+    "comparator_run": false,
+    "human_spec_review": false,
+    "assessment": "All68 source bindings conservatively C;fulldependencychain unknown. No formal endpoint identified in the checked registration scope."
+  },
+  "actual_pdf_pixels": [
+    {
+      "source": "reverse-minkowski-v6",
+      "pdf_page": 2,
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p2.png",
+      "bytes": 320768,
+      "sha256": "6936b70f2fdf12fd84ce7c1483542d055bbb970f937c21cff67f37f54fe7aa57",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "2",
+        "-l",
+        "2",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.pdf",
+        "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p2"
+      ]
+    },
+    {
+      "source": "reverse-minkowski-v6",
+      "pdf_page": 3,
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p3.png",
+      "bytes": 299591,
+      "sha256": "e44251cfa3eb5afa1a1db17f6e32cea181784d8223a3acd241d849190302e6be",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "3",
+        "-l",
+        "3",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.pdf",
+        "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p3"
+      ]
+    },
+    {
+      "source": "cjms-v2",
+      "pdf_page": 1,
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2-p1.png",
+      "bytes": 333560,
+      "sha256": "a469cbb6133fdde4f5a9689b3330a8cbefa78b4614a4396d1467809d1ab5b4bd",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "1",
+        "-l",
+        "1",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/cjms-v2.pdf",
+        "/private/tmp/ai-paper-WP108-history/cjms-v2-p1"
+      ]
+    },
+    {
+      "source": "cjms-v2",
+      "pdf_page": 3,
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2-p3.png",
+      "bytes": 349979,
+      "sha256": "564a077ad5a09b856bf53d6f391bf3c600bcb080ff74a11c9667ba97c6d21ee4",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "3",
+        "-l",
+        "3",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/cjms-v2.pdf",
+        "/private/tmp/ai-paper-WP108-history/cjms-v2-p3"
+      ]
+    },
+    {
+      "source": "talagrand1988",
+      "pdf_page": 2,
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988-p2.png",
+      "bytes": 249133,
+      "sha256": "a0354f44b0dca045052c2322f7a8f6f5ff448be0227308c86814526e04af4f6e",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "2",
+        "-l",
+        "2",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/talagrand1988.pdf",
+        "/private/tmp/ai-paper-WP108-history/talagrand1988-p2"
+      ]
+    },
+    {
+      "source": "talagrand1988",
+      "pdf_page": 4,
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988-p4.png",
+      "bytes": 217302,
+      "sha256": "a6d72884149333c4f60a63f8db49ddc2c8c5e87ed65316561ee07ee9237833bd",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "4",
+        "-l",
+        "4",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/talagrand1988.pdf",
+        "/private/tmp/ai-paper-WP108-history/talagrand1988-p4"
+      ]
+    },
+    {
+      "source": "talagrand1994-v1",
+      "pdf_page": 50,
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p50.png",
+      "bytes": 244410,
+      "sha256": "5152aa577e05c4f7b1fa70f41b7f19d61ce96591d61e3aaba69626383d6823ac",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "50",
+        "-l",
+        "50",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.pdf",
+        "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p50"
+      ]
+    },
+    {
+      "source": "talagrand1994-v1",
+      "pdf_page": 51,
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p51.png",
+      "bytes": 304328,
+      "sha256": "c0014a746b73a297f3c7487c74646033796b5081469b5a83ff5a0fe90760ee2a",
+      "actually_viewed": true,
+      "render_command": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-f",
+        "51",
+        "-l",
+        "51",
+        "-scale-to",
+        "1600",
+        "-singlefile",
+        "-png",
+        "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.pdf",
+        "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p51"
+      ]
+    }
+  ],
+  "acquisition": {
+    "limit_bytes": 8388608,
+    "downloaded_bytes": 2797578,
+    "files": [
+      {
+        "key": "reverse-minkowski-v6",
+        "url": "https://arxiv.org/pdf/1611.05979v6",
+        "resolved_url": "https://arxiv.org/pdf/1611.05979v6",
+        "at": "2026-10-26T02:59:58.714705+00:00",
+        "bytes": 914676,
+        "sha256": "8db9daed2daf66595f0bee39729e33946bdedd1ecd03fc333e208876e8c3c5f5",
+        "local_path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.pdf",
+        "third_party_not_for_redistribution": true
+      },
+      {
+        "key": "cjms-v2",
+        "url": "https://arxiv.org/pdf/2105.11384v2",
+        "resolved_url": "https://arxiv.org/pdf/2105.11384v2",
+        "at": "2026-10-26T03:00:00.329323+00:00",
+        "bytes": 617122,
+        "sha256": "f35efdd863619b369d6a86929fb59533ae9a6aeaba5221f00cf98fbcdd8326f5",
+        "local_path": "/private/tmp/ai-paper-WP108-history/cjms-v2.pdf",
+        "third_party_not_for_redistribution": true
+      },
+      {
+        "key": "talagrand1988",
+        "url": "https://www.ams.org/journals/proc/1988-104-03/S0002-9939-1988-0964871-7/S0002-9939-1988-0964871-7.pdf",
+        "resolved_url": "https://www.ams.org/journals/proc/1988-104-03/S0002-9939-1988-0964871-7/S0002-9939-1988-0964871-7.pdf",
+        "at": "2026-10-26T03:00:02.163922+00:00",
+        "bytes": 419551,
+        "sha256": "33fe00d16cb51e0181ba6c9834fe501fd56854d72c260960b8f83dbb7b11f2bb",
+        "local_path": "/private/tmp/ai-paper-WP108-history/talagrand1988.pdf",
+        "third_party_not_for_redistribution": true
+      },
+      {
+        "key": "talagrand1994-v1",
+        "url": "https://arxiv.org/pdf/math/9406212v1",
+        "resolved_url": "https://arxiv.org/pdf/math/9406212v1",
+        "at": "2026-10-26T03:00:54.390408+00:00",
+        "bytes": 846229,
+        "sha256": "ba6e629c20cfae7dd4184630c6e173386351bbbb84641fa00e27d66dc3a6d976",
+        "local_path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.pdf",
+        "third_party_not_for_redistribution": true
+      }
+    ],
+    "failures": [
+      {
+        "key": "talagrand1995",
+        "url": "https://www.numdam.org/item/PMIHES_1995__81__73_0.pdf",
+        "type": "ValueError",
+        "error": "Content-Length exceeds remaining8MiBbudget: 11153316",
+        "at": "2026-10-26T03:00:03.720422+00:00"
+      }
+    ]
+  },
+  "domain_attempts": [
+    {
+      "domain": "medical imaging",
+      "problem": "Random signed measurement-system invertibility",
+      "possible_mapping": "Full-rank rate for a hypothetical symmetric binary design",
+      "judgment": "Real sensing matrices are often rectangular and require small singular values/noise bounds; no certified target distribution or finiteN judge.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "robotics",
+      "problem": "Random reciprocal couplings in a sampled controller",
+      "possible_mapping": "Symmetric sign rank-failure scaling",
+      "judgment": "Stability and dissipativity require eigenvalue/sign constraints, not mere nonsingularity; actual couplings are not independent including diagonal.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "machine learning",
+      "problem": "Symmetric binary recurrent weight initialization",
+      "possible_mapping": "Asymptotic rank failure under fixed bias",
+      "judgment": "Training dynamics, conditioning and tied/zero diagonals differ; no finite threshold or measured gain over rank screening.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "ecology",
+      "problem": "Random reciprocal interaction networks",
+      "possible_mapping": "Generic rank-failure thought experiment",
+      "judgment": "Real interactions have heterogeneity, correlation and diagonal self-regulation; persistence is not determinant nonzero.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "economics",
+      "problem": "Binary reciprocal dependency systems",
+      "possible_mapping": "Uniqueness of a linear system under a matching random model",
+      "judgment": "Observed networks and equilibrium Jacobians are not the independent symmetric sign ensemble; no typed benefit prediction.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "computer graphics",
+      "problem": "Random signed symmetric deformation operators",
+      "possible_mapping": "Rank screening before a solve",
+      "judgment": "Laplacians have row-sum constraints and often a forced nullspace; ordinary exact/numerical rank tests may suffice.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "materials",
+      "problem": "Discrete random symmetric Hamiltonians",
+      "possible_mapping": "Probability of an exact zero eigenvalue",
+      "judgment": "Typical physical observables require spectral gaps, local laws and symmetry classes beyond random signed diagonal; no conditioning inference.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "language processing",
+      "problem": "Tied symmetric binary embedding interactions",
+      "possible_mapping": "Invertible random transform construction",
+      "judgment": "An actual reversible embedding consumer and acceptable precision are absent; finite transform cost and near-singularity unresolved.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "transportation",
+      "problem": "Signed reciprocal flow-assignment matrices",
+      "possible_mapping": "Rank-failure scaling for a synthetic reciprocal design",
+      "judgment": "Incidence/conservation structure and fixed diagonal break the ensemble; determinant probability is not congestion or runtime.",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "art and design",
+      "problem": "Reversible symmetric binary mixing filters",
+      "possible_mapping": "The sign-to-bit Schur transform as a structural interface",
+      "judgment": "Concrete filter convention, finite failure budget and gain over direct exact rank/rejection remain unspecified; retain route without counting a candidate.",
+      "counts_as_new_candidate": false
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "family": "F-174",
+      "comparison": "Sign matrices versus PSD frame/decomposition inputs",
+      "boundary": "Generic symmetric sign matrices need not be PSD; shifting or formingGram changes the distribution and theorem; no direct PSD certificate gain."
+    },
+    {
+      "family": "F-131",
+      "comparison": "Random graph adjacency versus independent symmetric bits",
+      "boundary": "Ordinary graph adjacency fixes the diagonal and may constrain degrees; the read theorems include random diagonal entries and no fixed-degree law."
+    },
+    {
+      "family": "F-238",
+      "comparison": "Conditional exposure versus permutation/shuffle laws",
+      "boundary": "Fixed-path fresh-entry independence is not a theorem for permutation matrices or adaptive conditioned shuffles; no mixing-rate transfer."
+    }
+  ],
+  "gaps": [
+    "Both current source bodies are read and qualified, but not all historical root works, recursive inputs or unavailable previous editions.",
+    "Selected4historicalworks are not four complete proof audits;Talagrand1994 author version andCJMS2021 author version distinguished from later publications.",
+    "No matching formal endpoint identified within pinned catalogue/registry/challenge filename scope;all68C and fullchainunknown,not proof of universalLeanabsence.",
+    "Asymptotic exponents and existential covering do not supply effective finiteN,conditionnumber,finitegrid/rankalgorithm or measured engineering gain.",
+    "No new candidate,externalcheck,numerical/symbolic experiment,human/provider review or pilot;the weekly human-review queue remains pending."
+  ],
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "source_reuse_policy": "Only original derived notes,versions,locators andhashes retained;third-party fulltexts/pixels temporary andexcluded;mathreadonly",
+  "github_push": false
+}

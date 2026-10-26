@@ -1,0 +1,329 @@
+{
+  "at": "2026-10-26T03:27:58.615697+00:00",
+  "archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+  "compressed_bytes": 73690,
+  "uncompressed_tar_bytes": 276480,
+  "archive_sha256": "63ac8a3837efd88fbfdffc96e3e1da57e5668ba4947bf5745b44e121f67555dd",
+  "decompressed_tar_sha256": "11204072e394b1e57dd90ec3b79ebb3189ffa7b49eb040bf09efb2956621648c",
+  "members": [
+    {
+      "name": "acquisition.json",
+      "bytes": 2242,
+      "sha256": "736143577bbd0f6c166a553663fbc05816020e716832f6883427a90b0b1ee288"
+    },
+    {
+      "name": "clean-before-explicit-bias-context.log",
+      "bytes": 489,
+      "sha256": "ed534fb0f9c4948d31c010a67f19d18ec3e6e2f655f4e89a458543c9f8fecbdf"
+    },
+    {
+      "name": "clean-check.py",
+      "bytes": 2228,
+      "sha256": "0fcf3c8a5a50a248eaf2ec437e679142e36b2f931957d818a9fd6dd5995bd6ea"
+    },
+    {
+      "name": "clean-helper-final.log",
+      "bytes": 488,
+      "sha256": "9fb5a492e3ac80ae80a549dbf9da5a0c3789bb36c8341f56ef99a74ef5bf1296"
+    },
+    {
+      "name": "clean-helper.log",
+      "bytes": 489,
+      "sha256": "ed534fb0f9c4948d31c010a67f19d18ec3e6e2f655f4e89a458543c9f8fecbdf"
+    },
+    {
+      "name": "cleanup-sources.json",
+      "bytes": 4282,
+      "sha256": "77f2c66322b0961acd8a9b4aeb54d7c8015187cfa312f6123983cb999ff574ab"
+    },
+    {
+      "name": "close-state.log",
+      "bytes": 818,
+      "sha256": "d2bfd0cf02dd47ebbe4d2fd55845b571f0f9474ae09d2f6370fdc7bd560fc1aa"
+    },
+    {
+      "name": "close-state.py",
+      "bytes": 13149,
+      "sha256": "a6efe93c482d55aec56eb9ef466cb638599c0542706ce5dd62436b3727382a5e"
+    },
+    {
+      "name": "core-final.log",
+      "bytes": 11538,
+      "sha256": "88cf4175f6dde56e1a81d5a2d4feebc86c54dafbbf64b5f644f10506cc7ea729"
+    },
+    {
+      "name": "core-first-report-failed.log",
+      "bytes": 11772,
+      "sha256": "25e51989f648884f1500c1a735846823ba9294ee738d1f6e06a4555dc67b920f"
+    },
+    {
+      "name": "core.log",
+      "bytes": 11772,
+      "sha256": "25e51989f648884f1500c1a735846823ba9294ee738d1f6e06a4555dc67b920f"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 24777,
+      "sha256": "e9ad34c6bc993a1d3040c27024cb070e8d4c6852d6040c22815421688244ab5a"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 4069,
+      "sha256": "f8f951dd85fb1fb4a297b0add818020b0af66cdbad5c1bb245add9377cd9cec2"
+    },
+    {
+      "name": "facts.py",
+      "bytes": 18748,
+      "sha256": "96f46a6a9d6e3679c987fb7014a88f5eef1d5a644f5d3fbadc335f27ec563e8c"
+    },
+    {
+      "name": "fetch.py",
+      "bytes": 1886,
+      "sha256": "5da295d517373a4af44e1b101aef80e3ad4c2e7f1b29d996122992cb25dce612"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 3460,
+      "sha256": "77a27e82d0607e89d1d73fe123b42b68c80ee91a201420323502f13e3f5f12d3"
+    },
+    {
+      "name": "next-WP109.json",
+      "bytes": 2379,
+      "sha256": "c9da0bae5e52a5e913b6efcdb455e69dbc01c4996a552d6b75133cebe8d9174b"
+    },
+    {
+      "name": "no-math-clean-before-explicit-bias-context.log",
+      "bytes": 11538,
+      "sha256": "bcca7c800a8da4a46e709c94e137de7fcb0434cfdf6175d8c89c606aabd3b858"
+    },
+    {
+      "name": "no-math-clean.log",
+      "bytes": 11538,
+      "sha256": "c903aa1b051846037da3a835272ca929275034234615b71de39375813dc8fb66"
+    },
+    {
+      "name": "pixels.json",
+      "bytes": 4589,
+      "sha256": "40e87035b0472f6932a8a85d6d8493e62189510681b00d51ec7b250ad58504df"
+    },
+    {
+      "name": "previous-clean-check.py",
+      "bytes": 2214,
+      "sha256": "2a6fd78ac1a2f70e12fcd3ace9de5674814a084227fff8b8bfe16fa18ca4c81e"
+    },
+    {
+      "name": "previous-close-state.py",
+      "bytes": 13991,
+      "sha256": "d65524551508775cde481cd1963e107ce49dfb0eb75f2b495139e6fdcd53bb11"
+    },
+    {
+      "name": "previous-curate.py",
+      "bytes": 26538,
+      "sha256": "4c5d7f44bdb17502ae64cb9e8c7d131c545c9cb4b26d9bff7d830ff866c5c8fe"
+    },
+    {
+      "name": "previous-facts.py",
+      "bytes": 16390,
+      "sha256": "8e7931c113ac1eff2cd473e739b22652ed5b18f970613a6b559425f1847bea3b"
+    },
+    {
+      "name": "previous-finalize.py",
+      "bytes": 3725,
+      "sha256": "f66dcea3175465d5b265b934dad75b5e634a519ae4476e675c1ea16241e849e9"
+    },
+    {
+      "name": "previous-quality.py",
+      "bytes": 5225,
+      "sha256": "ddcc549c6626b1593a81c3b5d558fa1d084e83abc46b9e969224239b3d2c6102"
+    },
+    {
+      "name": "qualify-bias-context-first-draft.py",
+      "bytes": 2578,
+      "sha256": "a7f92f691159d38302e546e65ad731870b9df880f1852322ef32a28d69655465"
+    },
+    {
+      "name": "qualify-bias-context.py",
+      "bytes": 2578,
+      "sha256": "a7f92f691159d38302e546e65ad731870b9df880f1852322ef32a28d69655465"
+    },
+    {
+      "name": "quality-accepted-final.log",
+      "bytes": 894,
+      "sha256": "de473cf1f3c7530215cfeec9762e0fa7b0351f645d6705f76365182f7632800f"
+    },
+    {
+      "name": "quality-bias-archive-failed.log",
+      "bytes": 608,
+      "sha256": "b977861ee5024287e912f9f8f6fd2d3658e72fd4017d6eaddf4853ef620d9ffd"
+    },
+    {
+      "name": "quality-final.log",
+      "bytes": 894,
+      "sha256": "7816fa597841415d2978023f15fbcf480dd0ee5b390a76aef28fa5c1756785b5"
+    },
+    {
+      "name": "quality-qualified-final.log",
+      "bytes": 608,
+      "sha256": "b977861ee5024287e912f9f8f6fd2d3658e72fd4017d6eaddf4853ef620d9ffd"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 894,
+      "sha256": "e172a8d6818ecbff2784305ab76d57921be7f433c7b68385798dbbdc86331076"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 5362,
+      "sha256": "b51d663a778fa3580e2df2aaec4ed1bb1b1f9ed2128b8e6b3a01325220fb520c"
+    },
+    {
+      "name": "repair-bias-prior-archive.py",
+      "bytes": 1521,
+      "sha256": "0b63baddea824ae5c3ed5fb1eceb11aef992acfaca4ee920af23fa10b56b1bc3"
+    },
+    {
+      "name": "repair-report-fields.py",
+      "bytes": 3447,
+      "sha256": "34327ed7fa6bde233f502127ad10d3cb8c44a0e139a1f5d457e20f5ab9f05162"
+    },
+    {
+      "name": "report-accepted-final.log",
+      "bytes": 769,
+      "sha256": "88198782ce8875039aba50b4613f0f072208d6de4cef0ccbb2ffae22ad891f9e"
+    },
+    {
+      "name": "report-and-next.py",
+      "bytes": 7325,
+      "sha256": "7165fe0661e5e5c099edaa7a3248769bed2af80fe1af53c536b147b635c5c6df"
+    },
+    {
+      "name": "report-qualified-final.log",
+      "bytes": 995,
+      "sha256": "f83bb05d52ebbc2e88b5627c35d1401ea6604dbda0de47c8ac1607d1dfd93313"
+    },
+    {
+      "name": "update-entry-docs.py",
+      "bytes": 5047,
+      "sha256": "995f3e9488d2905749cc49af1892b686cfb8bfbd55ed0f402c25389262066816"
+    }
+  ],
+  "all_member_roundtrip_hashes_verified": true,
+  "own_plaintext_bytes_removed": 243854,
+  "third_party_files_verified_removed": [
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.pdf",
+      "bytes": 914676,
+      "sha256": "8db9daed2daf66595f0bee39729e33946bdedd1ecd03fc333e208876e8c3c5f5",
+      "type": "primary_pdf"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2.pdf",
+      "bytes": 617122,
+      "sha256": "f35efdd863619b369d6a86929fb59533ae9a6aeaba5221f00cf98fbcdd8326f5",
+      "type": "primary_pdf"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988.pdf",
+      "bytes": 419551,
+      "sha256": "33fe00d16cb51e0181ba6c9834fe501fd56854d72c260960b8f83dbb7b11f2bb",
+      "type": "primary_pdf"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.pdf",
+      "bytes": 846229,
+      "sha256": "ba6e629c20cfae7dd4184630c6e173386351bbbb84641fa00e27d66dc3a6d976",
+      "type": "primary_pdf"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p2.png",
+      "bytes": 320768,
+      "sha256": "6936b70f2fdf12fd84ce7c1483542d055bbb970f937c21cff67f37f54fe7aa57",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6-p3.png",
+      "bytes": 299591,
+      "sha256": "e44251cfa3eb5afa1a1db17f6e32cea181784d8223a3acd241d849190302e6be",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2-p1.png",
+      "bytes": 333560,
+      "sha256": "a469cbb6133fdde4f5a9689b3330a8cbefa78b4614a4396d1467809d1ab5b4bd",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2-p3.png",
+      "bytes": 349979,
+      "sha256": "564a077ad5a09b856bf53d6f391bf3c600bcb080ff74a11c9667ba97c6d21ee4",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988-p2.png",
+      "bytes": 249133,
+      "sha256": "a0354f44b0dca045052c2322f7a8f6f5ff448be0227308c86814526e04af4f6e",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988-p4.png",
+      "bytes": 217302,
+      "sha256": "a6d72884149333c4f60a63f8db49ddc2c8c5e87ed65316561ee07ee9237833bd",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p50.png",
+      "bytes": 244410,
+      "sha256": "5152aa577e05c4f7b1fa70f41b7f19d61ce96591d61e3aaba69626383d6823ac",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1-p51.png",
+      "bytes": 304328,
+      "sha256": "c0014a746b73a297f3c7487c74646033796b5081469b5a83ff5a0fe90760ee2a",
+      "type": "actually_viewed_pixels"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1988.txt",
+      "bytes": 13013,
+      "sha256": "2a9f4a05ed26abd33c49c9c3fb271522684b665f401ba8185c92460d132ba86d",
+      "type": "temporary_fulltext_or_automatic_source_statement_index_not_published"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/reverse-minkowski-v6.txt",
+      "bytes": 141748,
+      "sha256": "81f15c886e5df5d490db2c1ea96b4055831615da295e7badf8cc0dbae8dbc58a",
+      "type": "temporary_fulltext_or_automatic_source_statement_index_not_published"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/talagrand1994-v1.txt",
+      "bytes": 373782,
+      "sha256": "ab98f4e8a7decddc93b556d0eb70df849e45634f2868d02e15de59b7bd19f4e8",
+      "type": "temporary_fulltext_or_automatic_source_statement_index_not_published"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/statements.txt",
+      "bytes": 33627,
+      "sha256": "7960051204e124f4aea354e2238dffc34b3095b6089ee3e755f235cc6e1b51cc",
+      "type": "temporary_fulltext_or_automatic_source_statement_index_not_published"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP108-history/cjms-v2.txt",
+      "bytes": 178002,
+      "sha256": "17c9c2ada19e55dd17c72d4510b6524cacd3e2584eb2361584ab257d0c91dfca",
+      "type": "temporary_fulltext_or_automatic_source_statement_index_not_published"
+    }
+  ],
+  "third_party_temporary_bytes_removed": 5856821,
+  "temporary_root_removed": true,
+  "scientific_archive_integrity": {
+    "archives": 15,
+    "source_members": 267
+  },
+  "new_scientific_experiment": false,
+  "scientific_replays_this_package": [],
+  "new_numerical_data": "None;unchanged original raw/summary/source experiment payloads remain compressed;only software/data checks run.",
+  "all_quality_handles_terminal": true,
+  "upstream_math_written": false,
+  "github_write": false,
+  "overall_goal": "active_incomplete"
+}

@@ -3372,7 +3372,7 @@
     {
       "id": "WP-108",
       "priority": 1,
-      "status": "in_progress",
+      "status": "completed",
       "parent_task": "WP-006",
       "objective": "Actually read both F239 symmetric random sign singularity manuscripts,qualify finite versus asymptotic interfaces and compare historical/formal scopes before application tests",
       "selection_reason": "Retro038 ends F174 PSD same-contract library expansion and declines genericOT toy;probability remains3/29 while TCS12/40. F239 has2currentmanuscripts24TeX8083lines,unread. Full source can resolve symmetry/bias/asymptotic effective-constant uncertainty;F238eight unread companions and other low-coverage fields remain alternatives.",
@@ -3387,7 +3387,7 @@
         "manuscripts": 2,
         "tex_files": 24,
         "tex_lines": 8083,
-        "actual_scope": "TwoREADME18each actualread;allbody/formal/historyunread,no canonicalcoveragepromotion"
+        "actual_scope": "All24TeX8083lines and2READMEread;qualifiedcurrent-source draft curated;historical/formal gaps remain,notfullfamilycomplete"
       },
       "resource_limit": "Read-only pinnedmath,no clone/install/cache;atmost4necessaryprimaryoldworks/8MiBnewdownloads,normalTLS;existingruntimesonly;compress outputs/helpers with roundtripSHA beforecleanup. No scientificnumeric/symbolic output before independently frozen executable specification.",
       "acceptance": "Read completebothcurrent manuscripts/includeclosure/references,relevantversions andactualformalendpoints. Bind all named/unlabelledmain/supportresults,methods,constants,quantifiers. Separate independentuppertriangle from dependentrows,fixed/varyingbias,singularityprobability/smallballs/conditionnumber,asymptotico(n)/finiteeffectivebounds. Ten-domain andcross-family attempts without quotas;conditionalcandidate stage distinctfromexperimentadmission. Actualnewhypothesis requires isolatedskeptic/defender auxiliaries,not secondprovider/humans. Fullgraph/FK/hash/gates/impact/export/core/no-mathQA andcompressedrecords.",
@@ -3396,8 +3396,43 @@
       "retrospective_due": "AfterWP108-110 thenretro039;earliermajorevidence ortwono-informationpackages",
       "github_push": false,
       "started_at": "2026-10-23T09:02:37.973027+00:00",
-      "execution_journal": "state/reading-progress/F-239.json"
+      "execution_journal": "state/reading-progress/F-239.json",
+      "completed_at": "2026-10-26T03:27:58.526950+00:00",
+      "full_source_completed": true,
+      "canonical_coverage_promoted": true,
+      "evidence": [
+        "GEN-20261026-105",
+        "data/provenance/readings/F-239.json",
+        "reports/symmetric-sign-F239-reading.md",
+        "reports/families/F-239.md",
+        "reports/reproducibility/20261026-symmetric-sign"
+      ],
+      "result": "Two currentmanuscripts24TeX8083lines/2READMEactuallyread;68qualifiedsourcebindings16methods,4selectedoriginals/8actualPDFpages.28externalworks,24rootbodies/recursivehistoryunread;Talagrand1988and1995distinct,1994authorversionexplicit. All68C/fullchainunknown,noformalendpointidentified incheckedregistration scope/noBuild/noHuman.114newcanonical462newedges;4627oldcanonical/oldedges/source/tests/experiments/corpus/52oldfamilyreports preserved.69core/12impact/fullJSONGraphML/15archives267members/no-mathcleanpassed;noactualscientificreplay/newcandidate/check/experiment.58read53draft1530labels+4unlabelled;44candidates13checks5limitedsupport8adverse unchanged.15supportbindings exactv1 archived before explicitnormalizedp context;analysisv1 archived before reportfieldrepair. CurrentWP108localonly;WP109boundedactualmatrixconsumerqualificationnext;retro038counter1.",
+      "next_actual_action": "WP109 boundedactualconsumerqualification beforeany applicationexperiment"
+    },
+    {
+      "id": "WP-109",
+      "priority": 1,
+      "status": "in_progress",
+      "parent_task": "WP-006",
+      "objective": "Qualify actual symmetric discrete-matrix consumers, their diagonal/bias law, exact-rank versus conditioning output, and strongest old baselines before a new application hypothesis or finite experiment",
+      "selection_reason": "WP108 resolves asymptotic/source interfaces but leaves a real finite consumer and incremental benefit uncertain. A bounded reverse-demand package alternates coverage with application work; the materially different alternative is F238 eight unread companions or another low-coverage subject. No requirement for production maturity is imposed on retaining conditional mappings.",
+      "inputs": [
+        "F-239",
+        "ANALYSIS-F-239",
+        "reports/symmetric-sign-F239-reading.md",
+        "data/provenance/readings/F-239.json",
+        "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
+      ],
+      "resource_limit": "Atmost3originalpublicsoftware/applicationprojects,<=6MiBnewbodydownloads;pinselectedversions/readactualcallers. Noinstall/clone or mathwrite. Reuseoldsourceonlywithmatchinghash. Compress ownoutputs andcleanthirdpartytemporarycopies. No numerical run before independent preregistration.",
+      "acceptance": "Identify actual random symmetric sign/bit ensemble including diagonal,independence andfixedbias;target exactsingularity/conditionnumber/solve/rejection output andfinitebudget. Compare existing exact/numerical rank,least-singular bounds and oldexponential guarantee. Retain defensible conditional candidate even without matureproductioncaller;any new hypothesis needs isolatedskeptic/defender auxiliary review,not secondprovider/humans. Fullgraph/hash/FK/gates/impact/export/core/no-math QA for graphchanges.",
+      "stop_or_redirect": "Stop after3primaryprojects or earlier resolved premise gap. Do not equate fixedzero graphdiagonal,continuousGOE,PSD or rectangular independentrows withthe read ensemble;do not derive a finite threshold fromo(n). If no executable judge,record scopedgaps and rotate WP110 towardF238unreadcompanions orother lowcoverage;no exhaustive library expansion or calibrated smallmatrixfrequency check.",
+      "created_at": "2026-10-26T03:16:51.996837+00:00",
+      "retrospective_due": "AfterWP110,third substantive package since038;earliermajor evidence or two no-information packages",
+      "github_push": false,
+      "started_at": "2026-10-26T03:31:00.153989+00:00",
+      "execution_journal": "state/reading-progress/WP-109.json"
     }
   ],
-  "updated_at": "2026-10-23T09:02:37.973027+00:00"
+  "updated_at": "2026-10-26T03:27:58.526950+00:00"
 }

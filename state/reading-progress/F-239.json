@@ -175,14 +175,14 @@
   "tex_files": 24,
   "tex_lines": 8083,
   "source_body_read": true,
-  "canonical_coverage_promoted": false,
+  "canonical_coverage_promoted": true,
   "full_family_complete": false,
   "numeric_or_symbolic_run": false,
   "actual_scope": "All 24 current TeX files / 8083 lines including references and TikZ source, plus both READMEs actually read; historical originals, formal scope and canonical curation pending. No new canonical coverage credit.",
-  "at": "2026-10-23T09:42:44.467813+00:00",
+  "at": "2026-10-26T03:27:58.526950+00:00",
   "base_commit": "7ce71bb",
-  "next_action": "Resume WP108 with bounded historical/formal qualification and canonical curation; do not reread completed source ranges. Publication requested first.",
-  "status": "source_bodies_read_pending_curation",
+  "next_action": "WP109 boundedactualconsumerqualification;source bodies not repeated;historicalrootandrecursivegaps remain.",
+  "status": "source_decomposition_draft_complete",
   "actual_read_ranges": {
     "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex": [
       [
@@ -441,5 +441,6 @@
     "previous_storage_members_verified": 26,
     "upstream_worktree_clean": true,
     "source_inventory_hashes_verified": 24
-  }
+  },
+  "quality_evidence": "reports/reproducibility/20261026-symmetric-sign"
 }

@@ -2,7 +2,7 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；57族有实际阅读记录；53份族分析、52份全文草稿；44候选、13实际检验。
+372族登记；58族有实际阅读记录；54份族分析、53份全文草稿；44候选、13实际检验。
 
 其中19候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
@@ -294,7 +294,7 @@
 | [F-236 · The exact factor-of-IID threshold for free Ising spins on trees.](index.html#F-236) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-237 · The three-quarter exponent for honeycomb self-avoiding walk.](index.html#F-237) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-238 · Optimal logarithmic mixing of the Thorp shuffle.](index.html#F-238) | Probability and statistical mechanics | 有选读记录 | [局部分析](../families/F-238.md) | 96／39 | 2 |
-| [F-239 · Sharp singularity rates for symmetric random sign matrices.](index.html#F-239) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-239 · Sharp singularity rates for symmetric random sign matrices.](index.html#F-239) | Probability and statistical mechanics | 有选读记录 | [全文草稿](../families/F-239.md) | 68／16 | 0 |
 | [F-240 · Shelah's eventual categoricity and the prescribed-threshold obstruction.](index.html#F-240) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-241 · Rigidity of the Turing degrees.](index.html#F-241) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-242 · Single-fold Diophantine representations and undecidability under an at-most-one-solution promise.](index.html#F-242) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

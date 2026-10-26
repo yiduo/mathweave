@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-26T03:50:41.139761+00:00",
+  "core_tests": 69,
+  "core_exit_code": 0,
+  "no_math_exit_code": 0,
+  "no_math_copied_files": 1931,
+  "no_math_copied_bytes": 71714860,
+  "no_math_directory_removed": true,
+  "archive": "reports/reproducibility/20261026-publication/prepublication-helpers-and-logs.tar.gz",
+  "archive_sha256": "cc0fadce870de9c06639870503b7366d6cf941cd05e9d02745b1e1d6e4ca76df",
+  "decompressed_sha256": "9700148d6a9a319e347b721286b8ed698bb27a6600067fdaf72fc581e0d61351",
+  "archive_bytes": 9601,
+  "decompressed_bytes": 61440,
+  "member_bytes_verified": 8,
+  "scope": "Core and clean-directory publication QA; WP108 graph impact/export/archive receipts remain separately scoped. No new scientific experiment or new hypothesis validation. Exact final staged audit and remote commit/CI checked separately."
+}

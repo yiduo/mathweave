@@ -4,17 +4,17 @@
   "repository_url": "https://github.com/yiduo/mathweave",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-22T05:36:10.206747+00:00",
-  "verified_commit": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
+  "verified_at": "2026-10-23T09:54:24.590985+00:00",
+  "verified_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "91332f651a47d20c5c311ec7efc9da4f7bcb8ae9",
-  "anonymous_api_verification": true,
+  "verified_tree": "cd1e66e30b7c0a6f4d1a780d99f130feedc110e5",
+  "anonymous_api_verification": false,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261022-publication-followup/WP090-WP092-publication-verification.json.gz",
+  "verification_receipt": "reports/reproducibility/20261023-mathweave/publication-verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -26,9 +26,9 @@
     "runtime": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
     "comparison_unchanged": true
   },
-  "linux_ci_scope": "68core checks,13otherarchived replays,exports and publication scan;EXP076andoptionalNumPyarchiveexcluded,not claimedportable",
+  "linux_ci_scope": "69core tests plus13scoped archivedreplays,graph export andpublication audit; EXP076 strictLinux andoptional NumPy excluded; noLean/human/provider/application acceptance",
   "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-  "verification_scope": "Exact WP090–WP092/retro033 publicsnapshot;all1592blob paths/modes/sizes/IDs match;6selectedfiles actualbytes anonymouslyread;onlypreviouspubliccommitparent. No officialmath.",
+  "verification_scope": "Curated through WP107/retro038 plus WP108 incomplete reading journal; no bulk local history or phase-one acceptance; all1899blob paths/modes/sizes/objectIDs match, seven selected public files read byte-for-byte",
   "prior_verifications": [
     {
       "verified_at": "2026-10-22T02:33:01.917778+00:00",
@@ -66,150 +66,51 @@
     }
   ],
   "latest_progress_packages": [
-    "WP-090",
-    "WP-091",
-    "WP-092"
+    "WP-093",
+    "WP-094",
+    "WP-095",
+    "WP-096",
+    "WP-097",
+    "WP-098",
+    "WP-099",
+    "WP-100",
+    "WP-101",
+    "WP-102",
+    "WP-103",
+    "WP-104",
+    "WP-105",
+    "WP-106",
+    "WP-107"
   ],
-  "latest_retrospective": "033",
+  "latest_retrospective": "038",
   "latest_scoped_ci": {
-    "checked_at": "2026-10-22T05:41:10.422660+00:00",
-    "head_sha": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
+    "checked_at": "2026-10-23T09:54:40.712067+00:00",
+    "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
     "runs": [
       {
-        "id": 39728877160,
+        "id": 39934773725,
         "name": "offline-core",
-        "head_sha": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
+        "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/ai_paper/actions/runs/39728877160",
-        "created_at": "2026-10-22T05:35:15Z",
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/39934773725",
+        "created_at": "2026-10-23T09:50:27Z",
+        "updated_at": "2026-10-23T09:53:49Z",
         "run_attempt": 1
       }
     ],
-    "jobs": [
+    "api_fallbacks": [
       {
-        "name": "portable-core",
-        "status": "completed",
-        "conclusion": "success",
-        "steps": [
-          {
-            "name": "Set up job",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run actions/checkout@v4",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run actions/setup-python@v5",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/check.py",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-128-001-adf42abc31aca23e",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-097-001-f4db184a4c5e6d4d",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-130-001-eadb2e7b3a00d556",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-374-001-bc1d2887fa6a5d33",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/CHK-374-MOMENTS-001-67a3ef843df4bf9f",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-238-001-a1d52c04aeb9b1ba",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-200-001-a8300854205212bf",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/CHK-200-LEX-001-433f4f99a2d5ac2e",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-221-001-be34f84b97b2e9a9",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-314-001-ce8cf18c32275b81",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-325-001-9bedfaa5ac3a53d0",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-119-001-e9d098be0b1dda8f",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run PYTHONPATH=src python -m ai_value.cli export-graph",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Run python scripts/audit_publication.py",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Post Run actions/setup-python@v5",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Post Run actions/checkout@v4",
-            "status": "completed",
-            "conclusion": "success"
-          },
-          {
-            "name": "Complete job",
-            "status": "completed",
-            "conclusion": "success"
-          }
-        ]
+        "endpoint": "/actions/runs?per_page=10",
+        "anonymous_status": 403,
+        "reason": "rate limit exceeded; authenticated configured helper retry"
       }
     ],
-    "scope": "68core,13configuredarchivedreplays,exports andpublicationaudit. EXP076strictLinux/optionalNumPyexcluded;noLean/human/secondproviderornewapplicationtest."
+    "scope": "69core and13scoped archivedreplays,exports,publication scan; no Lean/human/second-provider/application acceptance"
   },
   "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP090-WP092-CI-observation.json.gz",
   "latest_ci_conclusion": "success",
-  "receipt_storage_scope": "Last verified publicf0c3ddc coversWP090-WP092/retro033 only;WP093-WP095,currentfullsource/graph/quality andretro034 localonly. No push in WP095;meaningful milestone batches only.",
+  "receipt_storage_scope": "Current exact public snapshot verified; post-push receipts saved locally for next meaningful batch, avoiding a second routine push. Officialmath excluded.",
   "update_policy": {
     "recorded_at": "2026-10-22",
     "user_instruction": "减少频繁更新GitHub",
@@ -222,10 +123,14 @@
   "repository_id": 1429150108,
   "renamed_from": "yiduo/ai_paper",
   "renamed_at": "2026-10-23T09:42:44.467813+00:00",
+  "anonymous_public_file_reads": true,
+  "incomplete_reading_journal": "WP108 F239 current24TeX8083lines read; historical/formal qualification and canonical curation pending; counters unchanged",
   "pending_batch": {
-    "scope": "WP093-WP107/retrospectives034-038 plus incomplete WP108 reading journal",
-    "state": "preparing",
-    "requested_by_owner": true,
-    "new_ci_verified": false
+    "requested_at": "2026-10-26T03:47:38.811077+00:00",
+    "status": "prepared_not_pushed",
+    "scope": "WP108 canonical source draft and reproducibility receipts; WP109 explicitly unfinished qualification journal only",
+    "base_verified_public_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
+    "official_math_excluded": true,
+    "cadence": "Explicit owner publication request; one batch, post-push receipts local until next meaningful batch."
   }
 }
