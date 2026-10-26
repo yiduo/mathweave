@@ -1,0 +1,302 @@
+{
+  "at": "2026-10-26T04:15:11.559339+00:00",
+  "archive": "reports/reproducibility/20261026-symmetric-consumers/helpers-and-logs.tar.gz",
+  "compressed_bytes": 47396,
+  "uncompressed_tar_bytes": 184320,
+  "archive_sha256": "1145e49b1350a48714e6b8c0f77c2cacf48c8662d5485475d570ecd4e2cf2127",
+  "decompressed_tar_sha256": "4d7057345e304a32c4020d4dc3fc09f1e8f28f9f6cdb58a5c1fbf4ff961bca01",
+  "members": [
+    {
+      "name": "acquire.py",
+      "bytes": 2134,
+      "sha256": "29800d6aee0232e5439393e60659fb8b9b862152cfbcad0075888da9aaacbb6a"
+    },
+    {
+      "name": "acquisition.json",
+      "bytes": 12883,
+      "sha256": "ed6b540ee60497448fef62e8032522c13063a237ecaebafd93f6c701746238ca"
+    },
+    {
+      "name": "before-explicit-gate-clean-helper.log",
+      "bytes": 511,
+      "sha256": "713df86cec9f6ab902112cfa337fdb719dc206194621903e1eb33ecfd0fbcf01"
+    },
+    {
+      "name": "before-explicit-gate-core.log",
+      "bytes": 11538,
+      "sha256": "2a9bce98347053bec31b323a31f17a344f5b9d9946c1a7bf14545e3320f0bf84"
+    },
+    {
+      "name": "before-explicit-gate-no-math-clean.log",
+      "bytes": 11538,
+      "sha256": "0edf9e8c4dd934ae4554d50106cfcdfceed5e5d925e0aff66695a11cfe1a0a31"
+    },
+    {
+      "name": "before-explicit-gate-quality.log",
+      "bytes": 1006,
+      "sha256": "9ecad8ceb5e0a6959add70822d2ac3f67d809f1797af9852c3a20f0bdb77ed72"
+    },
+    {
+      "name": "candidate-packet.json",
+      "bytes": 3299,
+      "sha256": "af957bbec7d1b0e2c4d84733af94d69f4303f045317e9f0116e8a83e34bc8486"
+    },
+    {
+      "name": "clean-check.py",
+      "bytes": 2247,
+      "sha256": "755f6d48050b47c79ba4a8513837899e73ba46cbf9fe5ee0fed6211272a09480"
+    },
+    {
+      "name": "clean-helper.log",
+      "bytes": 510,
+      "sha256": "cb87f033399433a459d03063b11f3d2503bb22a4252a5bf0168e522f1982643e"
+    },
+    {
+      "name": "cleanup-sources.json",
+      "bytes": 7555,
+      "sha256": "1aaf751ff5caed9709dbc26334746b37c8bff2f5b34ddf829572012e0cd70a8f"
+    },
+    {
+      "name": "close-state.log",
+      "bytes": 221,
+      "sha256": "d1aaac505b79c19b7175b4fcff93c7cb2fa2b9065d994e179915bb70195575fe"
+    },
+    {
+      "name": "close_state.py",
+      "bytes": 10519,
+      "sha256": "ad18ed779aec0d27f3234fd3b29b58f81855d623f626730a14e3ded25add2265"
+    },
+    {
+      "name": "core.log",
+      "bytes": 11538,
+      "sha256": "4368a1f53865d7efe54fd95c12be8e4d8a41f6d13a5f86513ca9e4c31bb870f1"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 24533,
+      "sha256": "28c53cb189bbc190ac94a2b982a1449e1979f0701a5feff6bb312386b6201ff2"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 781,
+      "sha256": "1d7b35075d198e89907bb1851b368ffa2318c214155f668c4fed78562cde916e"
+    },
+    {
+      "name": "defender.md",
+      "bytes": 4790,
+      "sha256": "0f76595c7e148ba9793d4665b40d788b8fb5d0b5454d3bf9b498ca46ee859646"
+    },
+    {
+      "name": "explicit-gate.log",
+      "bytes": 131,
+      "sha256": "6c3232dbb10cd3026e2bb40d5b23a76f3e7b5f8aa7f9a440700aaa8dba6fa3b1"
+    },
+    {
+      "name": "explicit_gate.py",
+      "bytes": 4236,
+      "sha256": "3a3d6d01756064bbc22f7ff978e5d270d7d827b9b1428b3e6ec5f38fab0bdabc"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 4052,
+      "sha256": "df809bb5534d97c30614e2a40f6aba0c9efefb2e851c90f6c1eef3c1afe996bd"
+    },
+    {
+      "name": "manifest.json",
+      "bytes": 3469,
+      "sha256": "cc1875d85bbb7d058677c121867fe965205ac7599f5c146f84e38190047fbb76"
+    },
+    {
+      "name": "no-math-clean.log",
+      "bytes": 11538,
+      "sha256": "15ae2c87c7e9bb617454c1ba5ca5c4e281070d74e10cd0b261de92c5e5e8ed5b"
+    },
+    {
+      "name": "prepare-close.log",
+      "bytes": 123,
+      "sha256": "14d1272ea639bb141701ae786c196cdd639e6849480ed198d9e21dc2d43416b5"
+    },
+    {
+      "name": "prepare_close.py",
+      "bytes": 10840,
+      "sha256": "01772d450a994ddcdaacc1291fe51516913657f82747a82755f7cd0df1c6eaee"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 1006,
+      "sha256": "1820edec256ba8bc7ceb76f8a764bad2ff11556e7c8926b7b5cca7cc241b2eb2"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 4888,
+      "sha256": "8b911fc0103c6c4846d52ffacbc3293f4c0c2e940c39d72582bb7ec4aaa8b81d"
+    },
+    {
+      "name": "skeptic.md",
+      "bytes": 5178,
+      "sha256": "8e1f4b529f5cbe64e83571d535b44ad35c19649cc09d0794d523ea8af131fd34"
+    },
+    {
+      "name": "validate.log",
+      "bytes": 267,
+      "sha256": "1ea8140015c99e3272bd9f5e4773af0eced1219402f9d021d8b4a1d43acb9fef"
+    },
+    {
+      "name": "write_report.py",
+      "bytes": 4590,
+      "sha256": "80a675271af646f73e07fbeb4b80ca685e3873635b532bfe3e3403e01d6dd6a0"
+    }
+  ],
+  "all_member_roundtrip_hashes_verified": true,
+  "own_plaintext_bytes_removed": 155921,
+  "third_party_files_verified_removed": [
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/jcmgray--quimb/LICENSE.txt",
+      "bytes": 558,
+      "sha256": "e708fa9633397b771e5a7c14fc471e3b2185499e1820fe4b3c7837918918e621",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/LICENSE.txt"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/jcmgray--quimb/quimb/tensor/tensor_builder.py",
+      "bytes": 201141,
+      "sha256": "95da6ecd98e882a2611e721962399edf5ccd02b030176d790f975ed03c069ea7",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/tensor/tensor_builder.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/jcmgray--quimb/quimb/gen/rand.py",
+      "bytes": 18649,
+      "sha256": "4aaa4831876a0ad550f3e51c82295fbc4ddc61303687515ba6e324b8f015df3c",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/gen/rand.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/jcmgray--quimb/quimb/tensor/array_ops.py",
+      "bytes": 19817,
+      "sha256": "46d700ec14d797a0cf67661e798c77fd9e8687e423dbd8ba2f8c04782e8a0ee9",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/tensor/array_ops.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/jcmgray--quimb/tests/test_tensor/test_tensor_builder.py",
+      "bytes": 28244,
+      "sha256": "fa81e3efe960f441a815b6445444150db9b3d4b6b7e6507a8dc025d4655bc8ba",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/tests/test_tensor/test_tensor_builder.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/LICENSE.md",
+      "bytes": 1318,
+      "sha256": "5c9d473ee9f07c7656a1436378cd012d8c434535c825cf0f1798efd628bc089e",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/LICENSE.md"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/README.md",
+      "bytes": 9124,
+      "sha256": "93c7738c924de59b8796a0ecc580dfc089df08972b72f23af06820ac720538da",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/README.md"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/Project.toml",
+      "bytes": 772,
+      "sha256": "e04d78d6e11950d3e9ea512a4b36a14681e9a2c4750337760d9ec18f08867415",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/Project.toml"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/src/RandomMatrices.jl",
+      "bytes": 1444,
+      "sha256": "7784b7dee403ae5905701b1c1b4b6ae109c644d3f1fac165bb53f99589cce13d",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/src/RandomMatrices.jl"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/src/GaussianEnsembles.jl",
+      "bytes": 14068,
+      "sha256": "b2b0bf5cb513e307b726adb4074c3f848c7c968819fa1480ed678556ece5556b",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/src/GaussianEnsembles.jl"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/JuliaMath--RandomMatrices.jl/test/GaussianEnsembles.jl",
+      "bytes": 1644,
+      "sha256": "a05935714d459e359ac6c3fcda9ecfcd11e8b1e7f9e8e19cf3f16cd11b07a36e",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/test/GaussianEnsembles.jl"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/LICENSE",
+      "bytes": 1066,
+      "sha256": "1c8e82b42d8a3eb1fcd0cb2fd5929b88db76f9a9defc5075bd81137562c52cef",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/LICENSE"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/reservoirpy/mat_gen.py",
+      "bytes": 47935,
+      "sha256": "953cee31a5ee7209df7aa3f6c9e1c5da272f418e87423f1380cb8038f8dee406",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/mat_gen.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/reservoirpy/nodes/reservoir.py",
+      "bytes": 9466,
+      "sha256": "82e97a95bc425094a49a3ee7573467e7c80c198b8965551bbd205958ed6d7078",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/nodes/reservoir.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/reservoirpy/observables.py",
+      "bytes": 17725,
+      "sha256": "75e3ab6e80c035757673c4f23f5f3818c2e2085ea12158399ee97791bc5b2a03",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/observables.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/reservoirpy/tests/test_mat_gen.py",
+      "bytes": 16145,
+      "sha256": "4cbd68563f5d8b434a5a5dbb3aca34c33f3709269c6b84ad6f26a0ff9d0a7301",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/tests/test_mat_gen.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP109/sources/reservoirpy--reservoirpy/reservoirpy/nodes/tests/test_reservoir.py",
+      "bytes": 4894,
+      "sha256": "98538633e69888f4059a338fb6adc39ed990d6ac48161ba5cf368790e7fa9736",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/nodes/tests/test_reservoir.py"
+    }
+  ],
+  "third_party_temporary_bytes_removed": 394010,
+  "reused_helper_copies_replaced_by_archive_references": [
+    {
+      "member": "clean-check.py",
+      "sha256": "0fcf3c8a5a50a248eaf2ec437e679142e36b2f931957d818a9fd6dd5995bd6ea",
+      "source_archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+      "duplicate_plaintext_removed": true
+    },
+    {
+      "member": "close-state.py",
+      "sha256": "a6efe93c482d55aec56eb9ef466cb638599c0542706ce5dd62436b3727382a5e",
+      "source_archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+      "duplicate_plaintext_removed": true
+    },
+    {
+      "member": "finalize.py",
+      "sha256": "77a27e82d0607e89d1d73fe123b42b68c80ee91a201420323502f13e3f5f12d3",
+      "source_archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+      "duplicate_plaintext_removed": true
+    },
+    {
+      "member": "previous-curate.py",
+      "sha256": "4c5d7f44bdb17502ae64cb9e8c7d131c545c9cb4b26d9bff7d830ff866c5c8fe",
+      "source_archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+      "duplicate_plaintext_removed": true
+    },
+    {
+      "member": "quality.py",
+      "sha256": "b51d663a778fa3580e2df2aaec4ed1bb1b1f9ed2128b8e6b3a01325220fb520c",
+      "source_archive": "reports/reproducibility/20261026-symmetric-sign/helpers-and-logs.tar.gz",
+      "duplicate_plaintext_removed": true
+    }
+  ],
+  "temporary_root_removed": true,
+  "scientific_archive_integrity": {
+    "archives": 15,
+    "source_members": 267
+  },
+  "new_scientific_experiment": false,
+  "scientific_replays_this_package": [],
+  "new_numerical_data": "None;new data is software-source contract/provenance,not a numeric experiment. Original raw/summary/source payloads stay compressed.",
+  "all_quality_handles_terminal": true,
+  "upstream_math_written": false,
+  "github_write_this_research_package": false,
+  "last_verified_public_commit": "8700f8b7dbb6e9ecd1f62e7d5e5794e81d99b30f",
+  "overall_goal": "active_incomplete"
+}

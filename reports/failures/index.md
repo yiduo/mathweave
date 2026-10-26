@@ -27,6 +27,7 @@
 - APP-178-01（待定）：保留直接构造应用，先取得需求与可实现性证据，不为凑验证数运行旧小图校准。；证据及未执行项见对应卡片。
 - APP-231-01（待定）：ConditionalfiniteinterfacewithuniformL/Picardpiecesbuttwogatesunestablished;readsource fullynow,do notallocateunregisterednumerics.；证据及未执行项见对应卡片。
 - APP-238-02（待定）：Preserve a distinct conditional target;no extra toy QA or numerical initial-check promotion；证据及未执行项见对应卡片。
+- APP-239-01（待定）：Low numerical priority:concrete law interface established,but no actual rank-sensitive consumer or incremental decision value. Retain conditionally and rotate after bounded search.；证据及未执行项见对应卡片。
 - APP-243-01（待定）：降低数值实现优先级：两项实际语言均未建立合格CPT子集与可行紧凑见证；先整理知识图谱适用条件和缺口。；证据及未执行项见对应卡片。
 - APP-255-01（待定）：Specific source component retained with effectiveness gap;not an eleventh check or demonstrated engineering gain；证据及未执行项见对应卡片。
 - APP-256-01（待定）：Lower immediate implementation priority after bounded GAP/Sage/KBMAG audit:actual outputs need stronger semantics or already old-known constructions;no independentguardjudge/realbatch/fullcost. Retain nearconditionalcandidate,notformalrejection.；证据及未执行项见对应卡片。

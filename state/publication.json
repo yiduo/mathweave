@@ -4,17 +4,17 @@
   "repository_url": "https://github.com/yiduo/mathweave",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-23T09:54:24.590985+00:00",
-  "verified_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
+  "verified_at": "2026-10-26T03:57:45.865395+00:00",
+  "verified_commit": "8700f8b7dbb6e9ecd1f62e7d5e5794e81d99b30f",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "cd1e66e30b7c0a6f4d1a780d99f130feedc110e5",
+  "verified_tree": "44c374cc51f282336c36ecfb05b6e9aaa01ee805",
   "anonymous_api_verification": false,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261023-mathweave/publication-verification.json.gz",
+  "verification_receipt": "reports/reproducibility/20261026-publication/publication-verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -28,7 +28,7 @@
   },
   "linux_ci_scope": "69core tests plus13scoped archivedreplays,graph export andpublication audit; EXP076 strictLinux andoptional NumPy excluded; noLean/human/provider/application acceptance",
   "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-  "verification_scope": "Curated through WP107/retro038 plus WP108 incomplete reading journal; no bulk local history or phase-one acceptance; all1899blob paths/modes/sizes/objectIDs match, seven selected public files read byte-for-byte",
+  "verification_scope": "WP108 canonical source draft and explicitly unfinished WP109 selected-source journal; overall research incomplete;exact full tree SHA matches locally reviewed tree,1934files/math0;seven anonymous public files byte-equal",
   "prior_verifications": [
     {
       "verified_at": "2026-10-22T02:33:01.917778+00:00",
@@ -63,6 +63,40 @@
       },
       "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-CI-observation.json.gz",
       "latest_ci_conclusion": "success"
+    },
+    {
+      "verified_at": "2026-10-23T09:54:24.590985+00:00",
+      "verified_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
+      "verified_tree": "cd1e66e30b7c0a6f4d1a780d99f130feedc110e5",
+      "verification_receipt": "reports/reproducibility/20261023-mathweave/publication-verification.json.gz",
+      "verification_scope": "Curated through WP107/retro038 plus WP108 incomplete reading journal; no bulk local history or phase-one acceptance; all1899blob paths/modes/sizes/objectIDs match, seven selected public files read byte-for-byte",
+      "latest_scoped_ci": {
+        "checked_at": "2026-10-23T09:54:40.712067+00:00",
+        "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
+        "runs": [
+          {
+            "id": 39934773725,
+            "name": "offline-core",
+            "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/yiduo/mathweave/actions/runs/39934773725",
+            "created_at": "2026-10-23T09:50:27Z",
+            "updated_at": "2026-10-23T09:53:49Z",
+            "run_attempt": 1
+          }
+        ],
+        "api_fallbacks": [
+          {
+            "endpoint": "/actions/runs?per_page=10",
+            "anonymous_status": 403,
+            "reason": "rate limit exceeded; authenticated configured helper retry"
+          }
+        ],
+        "scope": "69core and13scoped archivedreplays,exports,publication scan; no Lean/human/second-provider/application acceptance"
+      },
+      "latest_ci_conclusion": "success",
+      "latest_ci_receipt": "reports/reproducibility/20261023-mathweave/CI-observation.json.gz"
     }
   ],
   "latest_progress_packages": [
@@ -80,37 +114,25 @@
     "WP-104",
     "WP-105",
     "WP-106",
-    "WP-107"
+    "WP-107",
+    "WP-108"
   ],
   "latest_retrospective": "038",
   "latest_scoped_ci": {
-    "checked_at": "2026-10-23T09:54:40.712067+00:00",
-    "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
-    "runs": [
-      {
-        "id": 39934773725,
-        "name": "offline-core",
-        "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
-        "status": "completed",
-        "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/39934773725",
-        "created_at": "2026-10-23T09:50:27Z",
-        "updated_at": "2026-10-23T09:53:49Z",
-        "run_attempt": 1
-      }
-    ],
-    "api_fallbacks": [
-      {
-        "endpoint": "/actions/runs?per_page=10",
-        "anonymous_status": 403,
-        "reason": "rate limit exceeded; authenticated configured helper retry"
-      }
-    ],
-    "scope": "69core and13scoped archivedreplays,exports,publication scan; no Lean/human/second-provider/application acceptance"
+    "checked_at": "2026-10-26T03:57:15.556Z",
+    "id": 40266152023,
+    "name": "offline-core",
+    "head_sha": "8700f8b7dbb6e9ecd1f62e7d5e5794e81d99b30f",
+    "status": "completed",
+    "conclusion": "success",
+    "html_url": "https://github.com/yiduo/mathweave/actions/runs/40266152023",
+    "created_at": "2026-10-26T03:52:03Z",
+    "updated_at": "2026-10-26T03:56:20Z",
+    "scope": "69 core checks and13 scoped historical archive replays,graph export andpublication audit; excludes EXP076 Linux strict equality,optional NumPy,Lean,human,independent provider and research acceptance"
   },
-  "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP090-WP092-CI-observation.json.gz",
+  "latest_ci_receipt": "reports/reproducibility/20261026-publication/CI-observation.json.gz",
   "latest_ci_conclusion": "success",
-  "receipt_storage_scope": "Current exact public snapshot verified; post-push receipts saved locally for next meaningful batch, avoiding a second routine push. Officialmath excluded.",
+  "receipt_storage_scope": "This publication verified;post-push receipts retained locally for next meaningful batch,with no second routine GitHub push.",
   "update_policy": {
     "recorded_at": "2026-10-22",
     "user_instruction": "减少频繁更新GitHub",
@@ -124,13 +146,18 @@
   "renamed_from": "yiduo/ai_paper",
   "renamed_at": "2026-10-23T09:42:44.467813+00:00",
   "anonymous_public_file_reads": true,
-  "incomplete_reading_journal": "WP108 F239 current24TeX8083lines read; historical/formal qualification and canonical curation pending; counters unchanged",
+  "incomplete_reading_journal": "WP109:3fixedprojects/17files394010downloadedbytes/2522actuallyreadlines;conditional mapping auxiliary reviews completed;canonical admission/card/packageQA unfinished;no newcandidate/checkcredit",
   "pending_batch": {
-    "requested_at": "2026-10-26T03:47:38.811077+00:00",
-    "status": "prepared_not_pushed",
-    "scope": "WP108 canonical source draft and reproducibility receipts; WP109 explicitly unfinished qualification journal only",
-    "base_verified_public_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
+    "state": "preparing_not_pushed",
+    "requested_by": "project owner, current explicit request",
+    "prepared_at": "2026-10-26T04:33:28.776223+00:00",
+    "scope": "WP109 canonical progress and unfinished WP110 reading10014/10336 lines; no new application validation",
     "official_math_excluded": true,
-    "cadence": "Explicit owner publication request; one batch, post-push receipts local until next meaningful batch."
-  }
+    "name": "MathWeave (数学织网)",
+    "repository_url": "https://github.com/yiduo/mathweave",
+    "new_commit_ci": "not_observed"
+  },
+  "latest_snapshot_files": 1934,
+  "latest_snapshot_bytes": 71820048,
+  "local_progress_after_verified_snapshot": "Completed WP109 and incomplete WP110 journal; pending explicit requested batch. Existing verified snapshot and CI identify only8700f8b."
 }

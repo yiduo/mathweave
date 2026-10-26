@@ -1,0 +1,51 @@
+{
+  "connection_id": "APP-239-01",
+  "version": 1,
+  "created_at": "2026-10-26T04:04:07.959487+00:00",
+  "status": "conditional_plan_not_preregistered",
+  "scientific_run": false,
+  "actual_consumer_identified": false,
+  "input": "Explicit selected raw real symmetric D-by-D Rademacher initializers with random diagonal,standard fill,unshifted unit scale and ideal IID law;independent operational workload and non-value-dependent selection policy still missing.",
+  "output": "Asymptotic exact-rank risk annotation only until independently justified finite-D decision evidence exists. No condition-number or performance output.",
+  "falsifiable_prediction": "For a consumer that must preserve this raw symmetric-sign law and requires invertible two-index maps,sharp asymptotic rank-loss metadata could improve a predeclared initialization/risk decision beyond old exponential metadata or direct screening. No magnitude or finite-D benefit is established;the actual decision,utility metric,finite-D validity and threshold must be independently frozen before any run. The source-only prediction is -log2(P[exact rank<D])/D ->1,which is not itself an application-value test.",
+  "source_asymptotic_statement": "2^(-D+o(D));not an effective finite-D risk budget",
+  "ensemble_conditions": [
+    "Exactly two raw equal-size indices (D,D);real floating dtype;dist=rademacher,loc=0,scale=1;standard fill function;random diagonal retained.",
+    "Probability is under the ideal independent-uniform RNG model before value-dependent selection/rejection. A fixed seed is deterministic;no finite-PRNG independence certification.",
+    "For TN2D only selected raw two-index corner tensors of an ordinary open lattice Lx,Ly>=2;not a full contracted network or arbitrary higher-order flattening.",
+    "Theorem supplies asymptotic exact singularity 2^(-D+o(D));no effective finite threshold,conditioning,runtime or contraction-quality statement.",
+    "Actual invertibility demand,law-preservation requirement,finite risk decision and incremental value remain unestablished."
+  ],
+  "entry_gates": [
+    "An inspectable consumer/domain specification that actually requires exact invertibility and states whether this initializer law must be preserved",
+    "Freeze D range,number and selection of tested matrices,seed policy,decision and meaningful loss/cost",
+    "Obtain independently justified finite-D validity/calibration and an external judge;no universal finite threshold inferred from o(D)",
+    "Freeze strongest same-output old baselines,full costs,holdout,success/failure thresholds and resource limit before outputs"
+  ],
+  "baselines": [
+    "Exact algebraic rank screening/rejection answers invertibility for each realized integer sign matrix;charge generation and rejected attempts,not only accepted draws.",
+    "Tolerance-aware SVD/QR and least-singular-value criteria address numerical stability if that is the actual request;exact nonsingularity is not an equivalent output.",
+    "Old CJMS exp(-cD) already gives exponential decay for the same uniform symmetric law;source-selected2021v2 scope retained separately from2025 publication bytes.",
+    "Guaranteed-invertible orthogonal/unitary or structured choices only when a changed initializer law and its different symmetry are permitted by the consumer."
+  ],
+  "full_cost": [
+    "RNG generation and its law qualification",
+    "Exact rank or numerical tolerance verification according to the actual output",
+    "Rejected matrices,selection-induced law changes and fallback",
+    "Finite-D calibration,metadata construction,serialization,wall time and peak process memory",
+    "Downstream decision loss and numerical effects,including alternate-law costs"
+  ],
+  "controls": [
+    "Normal-default,shifted,zero-scale,complex,fixed-diagonal and higher-order-flattened arrays are different models",
+    "Exact rank versus conditioning output audited separately",
+    "Old exponential versus sharp-asymptotic metadata;no-metadata/direct-screening null",
+    "One matrix versus explicitly selected batch;fixed seeds versus random-law probability"
+  ],
+  "success_threshold": null,
+  "failure_threshold": null,
+  "reason_thresholds_unset": "Real consumer,independent judge and finite-D task absent;this is not an executable preregistration",
+  "stop_rule": "Do not run small-matrix frequency reproduction or metadata checker as application efficacy. Stop software search after3projects;retain pending conditional mapping and rotate.",
+  "reproducibility": "Future admitted run requires a new immutable executable spec before outputs;gzip numerical/raw/source payloads and verify decompressed SHA256 before cleanup.",
+  "model_roles": "data/provenance/reviews/APP-239-01-isolated-roles.json.gz",
+  "human_and_second_provider": "missing,deferred not waived"
+}

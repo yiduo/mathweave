@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-26T03:57:45.865395+00:00",
+  "archive_sha256": "2c9a12229a733ed5f567d3871509ede49cb54a432691dbe14b5d44010f81c071",
+  "decompressed_sha256": "94f1aae5fe52a054fcee316ee4747c679e95c3172638c1c3d3a59d98587ad0aa",
+  "compressed_bytes": 5259,
+  "raw_tar_bytes": 20480,
+  "member_bytes_verified": 7,
+  "all_logs_and_helpers_compressed": true,
+  "temporary_third_party_sources_retained_bytes": 394010,
+  "reason": "WP109 source acquisition already complete;small pinned temporary copies retained for unfinished curation,never included in public tree.",
+  "no_new_scientific_experiment": true,
+  "local_only_until_next_meaningful_batch": true,
+  "temporary_publication_workspace_removed": true,
+  "temporary_publication_bytes_removed": 157979
+}

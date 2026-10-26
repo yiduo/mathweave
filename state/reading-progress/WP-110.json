@@ -1,0 +1,2332 @@
+{
+  "work_package": "WP-110",
+  "family_id": "F-238",
+  "at": "2026-10-26T04:08:53.951075+00:00",
+  "status": "in_progress_partial_source_reading",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscripts": [
+    {
+      "manuscript_id": "P-33d1bc7e07c70610",
+      "title": "Random coordinate frames and partial permutation laws",
+      "readme": {
+        "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/README.md",
+        "lines": 15,
+        "sha256": "a53da7212bf032ee86ab0b4288ce1b19d8aa39c99c525673ed9269689d00d82e",
+        "actually_read": true
+      },
+      "tex_files": [
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/companion-references.tex",
+          "bytes": 986,
+          "lines": 23,
+          "sha256": "13e87855493bee830eb7a2232b836e10b7f82e9f9288b796c4a82b1e59efe708",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              23
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/main.tex",
+          "bytes": 2394,
+          "lines": 66,
+          "sha256": "924cdff1bb5b25aed1ae831d03a49486439076639cf11b92e2871e5b4ed00420",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              66
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/references.tex",
+          "bytes": 9020,
+          "lines": 206,
+          "sha256": "79eedeeca6a7e657432dd2aa393727f3a5d69e6eb0eea81d09e9f46380a0a6aa",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              206
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/00-introduction.tex",
+          "bytes": 12352,
+          "lines": 224,
+          "sha256": "84df14246805cd32f9f58e94b5f557c9df4342db0c4eaf79841c0426fc43fba7",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              224
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/01-preliminaries.tex",
+          "bytes": 5243,
+          "lines": 115,
+          "sha256": "7e6c234afe77620627539086a5454591e14862e2fbb8a844b54fea7760628c92",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              115
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/02-frames.tex",
+          "bytes": 8495,
+          "lines": 199,
+          "sha256": "cdec03ecc1c4b8530e43f122606e6c3c84ead457f3e29df46a80d0ad6d6f4875",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              199
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/03-marginals.tex",
+          "bytes": 14931,
+          "lines": 349,
+          "sha256": "89eb01acd23769a44c23ecbb069ee6e5690f944b35a7eb215fca80388b6cf706",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              349
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/04-degrees.tex",
+          "bytes": 9752,
+          "lines": 242,
+          "sha256": "791ca3e4cb2abf0dc405aa3fd0866d6f8fe8cba443d23c7d951c16fdf5c5449f",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              242
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/05-lift.tex",
+          "bytes": 9998,
+          "lines": 247,
+          "sha256": "5150c6a6b65d8e2d7db53ca53dfdcfd567f494f334f307705106de2597516a1d",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              247
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/06-completion.tex",
+          "bytes": 5760,
+          "lines": 132,
+          "sha256": "c8c8c18830429f10dac76018702ee4e47154090646b331b79fda1a208c20cd76",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              132
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07-shear.tex",
+          "bytes": 25317,
+          "lines": 598,
+          "sha256": "92d9184dd61230130a108cc324a9238f75580cb78dec90b02b7d6605664c403c",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              598
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07a-disjoint-transfer-proof.tex",
+          "bytes": 8047,
+          "lines": 197,
+          "sha256": "4afcbd09cdf4440c65b689b0429bf4c3c6cdc09a3a4920ae0f4d7a2aa6956079",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              197
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07b-delayed-symmetry.tex",
+          "bytes": 5711,
+          "lines": 126,
+          "sha256": "d252f05d93b37d24116a391222c3d7571d387cae1708a3062ac185d0a7b54ba5",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              126
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07c-transfer-applications.tex",
+          "bytes": 19983,
+          "lines": 491,
+          "sha256": "68f500dcafdc2953035eb165828b334d8f9ca426b93c3d2f7000cf293947f598",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              491
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/08-frame-variants.tex",
+          "bytes": 63214,
+          "lines": 1408,
+          "sha256": "a2ecbda354770b755f04be25d2819b9527eb25c996fccfb20d0a786779f8e1f9",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              1408
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/09-equivariant.tex",
+          "bytes": 12375,
+          "lines": 297,
+          "sha256": "6b5f722f3856ef9731c61eeaa6ad1fda4cb0c2ff4c646ee7a2ff382bee0cc023",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              297
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/10-character-explicit.tex",
+          "bytes": 19493,
+          "lines": 442,
+          "sha256": "11324f514d842eddd976ef619310c5d699272c51f7ac952676268a1c7e56c52f",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              442
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/11-character-repair.tex",
+          "bytes": 12236,
+          "lines": 283,
+          "sha256": "2639608b83a9d01f08071128449d9d097fef94cc186c8eedfad83a12f44be39c",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              283
+            ]
+          ]
+        }
+      ],
+      "tex_file_count": 18,
+      "tex_lines": 5645,
+      "source_body_read": true,
+      "source_body_partial_read": false,
+      "canonical_qualification_complete": false,
+      "source_read_completed_at": "2026-10-26T04:23:48.136187+00:00"
+    },
+    {
+      "manuscript_id": "P-d7bc9b13ce9fc85f",
+      "title": "From partial permutation information to Fourier bounds",
+      "readme": {
+        "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/README.md",
+        "lines": 16,
+        "sha256": "a9a8b1c65d485f127b544e97c9eb7f01a1b5de046cf56726a54573eafa480571",
+        "actually_read": true
+      },
+      "tex_files": [
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/main.tex",
+          "bytes": 2419,
+          "lines": 62,
+          "sha256": "968a7dcaf7417a156376a5f4b0e3872980a8805e871c9f619dbdd3cf30edb0d0",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              62
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/references.tex",
+          "bytes": 4239,
+          "lines": 93,
+          "sha256": "2a2e882e948e7240503c08a30acd14a41e3d57acef510d6e76bb02744081735c",
+          "body_actually_read": false
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/characters.tex",
+          "bytes": 9110,
+          "lines": 208,
+          "sha256": "c0e1d0d06aae412f8a6fb6d8db56ddf1c3323113db2fd7cdf16e94f01b93c9c3",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              208
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/comparisons.tex",
+          "bytes": 10876,
+          "lines": 144,
+          "sha256": "7ed7210582e0e1c432aa504ab8b076ea1b3624613371f9cdef28fb1c50373b2c",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              144
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/core.tex",
+          "bytes": 10240,
+          "lines": 154,
+          "sha256": "f5c289a3212845780f25852e893b795ecab41a2d8722ee39b357b7c7c9906b9d",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              154
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degree-supplement.tex",
+          "bytes": 19777,
+          "lines": 458,
+          "sha256": "42d565c886b7eedaf7d2d95311595f683b9aff9372c4e254a3bba56e4d8d94c3",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              458
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degrees.tex",
+          "bytes": 12111,
+          "lines": 275,
+          "sha256": "f810016a13036755d9d1aee11ba5f2a26ffd948909bfdecaab95f532ed672b09",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              275
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/domains.tex",
+          "bytes": 16293,
+          "lines": 411,
+          "sha256": "a813d2fd028476ca9c6bd9eecc61d54e6c574d25948f09a3c301cc5c421787fc",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              411
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/equivariant.tex",
+          "bytes": 18543,
+          "lines": 461,
+          "sha256": "b4571760a61fdce47898cc181cc129238bafb065a171617a716be44a966f34c8",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              461
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/forests.tex",
+          "bytes": 10649,
+          "lines": 261,
+          "sha256": "ae531297aad8624c16a9d629968453a586b94764266439311623657849f11a1d",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              261
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/foundations.tex",
+          "bytes": 7923,
+          "lines": 97,
+          "sha256": "aab20b666f281fbdf64bfcde025651e9044d7e90cf6fb11366377929124f7f9d",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              97
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/introduction.tex",
+          "bytes": 11757,
+          "lines": 97,
+          "sha256": "4703eb6243c947eb4468a6f5174a699658624a3ead4059a508e5d1fa14602d21",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              97
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/palettes.tex",
+          "bytes": 17301,
+          "lines": 403,
+          "sha256": "67458a92b22509b1416979733eea60a9dae022ed7b3e41b2eafc092b13cd340c",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              403
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/random-partition.tex",
+          "bytes": 4378,
+          "lines": 106,
+          "sha256": "deebc911102bbbe3ae893fd7cd25dfe7d19fd622756bf9c283502b7f36f58dee",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              106
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/replica.tex",
+          "bytes": 6705,
+          "lines": 157,
+          "sha256": "bb3fd99e9d63170824c43a4ef4f810f884265b85a68251118bc246bf75a6c64a",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              157
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid-supplement.tex",
+          "bytes": 7679,
+          "lines": 193,
+          "sha256": "73e582b5ba1ff40156605d7f2c51bd707090c91705fd36241f896a9bbd7d8c12",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              193
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid.tex",
+          "bytes": 14838,
+          "lines": 375,
+          "sha256": "a81da10114054942531a34dd12e1489776c1dc73a96bec9b23d179155d88d978",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              375
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tilts.tex",
+          "bytes": 6770,
+          "lines": 172,
+          "sha256": "a378218580541a864a9860c3461705579095331522a3b314c6782a6e87ca8428",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              172
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/transfer-supplement.tex",
+          "bytes": 11655,
+          "lines": 229,
+          "sha256": "5f92f93eb1feef48204ab5086b630caf385b976f503ac23890454353208bd212",
+          "body_actually_read": false
+        },
+        {
+          "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/two-sided.tex",
+          "bytes": 14088,
+          "lines": 335,
+          "sha256": "03327ca5946e16dfb2e951d511953b88fd87a28ba63637c5db82cca7d5297cb0",
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              335
+            ]
+          ]
+        }
+      ],
+      "tex_file_count": 20,
+      "tex_lines": 4691,
+      "source_body_read": false,
+      "source_body_partial_read": true
+    }
+  ],
+  "full_family_manuscripts": 12,
+  "previously_read_manuscripts": 4,
+  "new_source_body_read_manuscripts": 1,
+  "selection": "Read this pair next;other6unreadbodies remain explicit afterfuturepaircompletion",
+  "scientific_experiment": false,
+  "updated_at": "2026-10-26T04:33:28.776223+00:00",
+  "started_at": "2026-10-26T04:17:34.845201+00:00",
+  "base_commit": "5ecdfdd",
+  "actual_source_files_read": [
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/main.tex",
+      "sha256": "924cdff1bb5b25aed1ae831d03a49486439076639cf11b92e2871e5b4ed00420",
+      "lines": 66,
+      "actually_read_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/00-introduction.tex",
+      "sha256": "84df14246805cd32f9f58e94b5f557c9df4342db0c4eaf79841c0426fc43fba7",
+      "lines": 224,
+      "actually_read_ranges": [
+        [
+          1,
+          224
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1293,
+          "statement_start": 1324,
+          "statement_end": 1506
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/01-preliminaries.tex",
+      "sha256": "7e6c234afe77620627539086a5454591e14862e2fbb8a844b54fea7760628c92",
+      "lines": 115,
+      "actually_read_ranges": [
+        [
+          1,
+          115
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:lower",
+          "title_tex": "Support lower bound",
+          "label_aliases": [],
+          "start": 2416,
+          "statement_start": 2467,
+          "statement_end": 2981
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:one-card-lower",
+          "title_tex": "One-card comparison",
+          "label_aliases": [],
+          "start": 3682,
+          "statement_start": 3742,
+          "statement_end": 4033
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/02-frames.tex",
+      "sha256": "cdec03ecc1c4b8530e43f122606e6c3c84ead457f3e29df46a80d0ad6d6f4875",
+      "lines": 199,
+      "actually_read_ranges": [
+        [
+          1,
+          199
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:frames",
+          "title_tex": "Fixed-schedule frame identity",
+          "label_aliases": [
+            "shear:lem:general-frame"
+          ],
+          "start": 1982,
+          "statement_start": 2045,
+          "statement_end": 3186
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:frames:marginals",
+          "title_tex": "Endpoint distances and the input map",
+          "label_aliases": [],
+          "start": 6730,
+          "statement_start": 6814,
+          "statement_end": 7514
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/03-marginals.tex",
+      "sha256": "89eb01acd23769a44c23ecbb069ee6e5690f944b35a7eb215fca80388b6cf706",
+      "lines": 349,
+      "actually_read_ranges": [
+        [
+          1,
+          349
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:marginal-averaging",
+          "title_tex": "Online averaging and cross-hyperplane contraction",
+          "label_aliases": [
+            "shear:lem:energy"
+          ],
+          "start": 2908,
+          "statement_start": 3003,
+          "statement_end": 3891
+        },
+        {
+          "kind": "lemma",
+          "label": "shear:lem:tuple",
+          "title_tex": "Terminal data and an ordinary tuple law",
+          "label_aliases": [],
+          "start": 7514,
+          "statement_start": 7592,
+          "statement_end": 8526
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:marginals",
+          "title_tex": "One partition with nearly complete marginals",
+          "label_aliases": [],
+          "start": 10557,
+          "statement_start": 10645,
+          "statement_end": 10904
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/05-lift.tex",
+      "sha256": "5150c6a6b65d8e2d7db53ca53dfdcfd567f494f334f307705106de2597516a1d",
+      "lines": 247,
+      "actually_read_ranges": [
+        [
+          1,
+          247
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:trim",
+          "title_tex": "Simultaneous trimming",
+          "label_aliases": [],
+          "start": 1734,
+          "statement_start": 1787,
+          "statement_end": 2473
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:lift:orbit-sum",
+          "title_tex": "Coset densities and squared subgroup degrees",
+          "label_aliases": [],
+          "start": 4584,
+          "statement_start": 4677,
+          "statement_end": 5438
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/04-degrees.tex",
+      "sha256": "791ca3e4cb2abf0dc405aa3fd0866d6f8fe8cba443d23c7d951c16fdf5c5449f",
+      "lines": 242,
+      "actually_read_ranges": [
+        [
+          1,
+          242
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:degrees",
+          "title_tex": "Summability of inverse degrees",
+          "label_aliases": [],
+          "start": 1762,
+          "statement_start": 1827,
+          "statement_end": 2348
+        },
+        {
+          "kind": "corollary",
+          "label": "prop:lift",
+          "title_tex": "From bounded coset densities to Fourier decay",
+          "label_aliases": [],
+          "start": 8286,
+          "statement_start": 8368,
+          "statement_end": 9025
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/06-completion.tex",
+      "sha256": "c8c8c18830429f10dac76018702ee4e47154090646b331b79fda1a208c20cd76",
+      "lines": 132,
+      "actually_read_ranges": [
+        [
+          1,
+          132
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:plancherel",
+          "title_tex": "The full-group variation bound",
+          "label_aliases": [],
+          "start": 651,
+          "statement_start": 718,
+          "statement_end": 1005
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:fair-sign",
+          "title_tex": "Fair sign",
+          "label_aliases": [],
+          "start": 1556,
+          "statement_start": 1601,
+          "statement_end": 1890
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07-shear.tex",
+      "sha256": "92d9184dd61230130a108cc324a9238f75580cb78dec90b02b7d6605664c403c",
+      "lines": 598,
+      "actually_read_ranges": [
+        [
+          1,
+          598
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:concentration",
+          "title_tex": "Concentration estimates",
+          "label_aliases": [],
+          "start": 1361,
+          "statement_start": 1424,
+          "statement_end": 2017
+        },
+        {
+          "kind": "lemma",
+          "label": "shear:lem:fixed-balance",
+          "title_tex": "Balance after the previous transverse switch",
+          "label_aliases": [],
+          "start": 3480,
+          "statement_start": 3571,
+          "statement_end": 3919
+        },
+        {
+          "kind": "proposition",
+          "label": "shear:prop:fixed-marginal",
+          "title_tex": "Uniform large-marginal estimates",
+          "label_aliases": [],
+          "start": 4769,
+          "statement_start": 4856,
+          "statement_end": 5941
+        },
+        {
+          "kind": "lemma",
+          "label": "shear:lem:keys",
+          "title_tex": "Independent shear realization",
+          "label_aliases": [],
+          "start": 8294,
+          "statement_start": 8360,
+          "statement_end": 9422
+        },
+        {
+          "kind": "proposition",
+          "label": "shear:prop:reservoir",
+          "title_tex": "A reservoir of omitted labels",
+          "label_aliases": [],
+          "start": 14702,
+          "statement_start": 14781,
+          "statement_end": 15222
+        },
+        {
+          "kind": "lemma",
+          "label": "lifts:averaged-tuples",
+          "title_tex": "Averaged tuple bound",
+          "label_aliases": [],
+          "start": 16908,
+          "statement_start": 16973,
+          "statement_end": 17581
+        },
+        {
+          "kind": "corollary",
+          "label": "lifts:tuple-constants",
+          "title_tex": "Block lengths for the averaged input",
+          "label_aliases": [],
+          "start": 19347,
+          "statement_start": 19432,
+          "statement_end": 19760
+        },
+        {
+          "kind": "proposition",
+          "label": "shear:prop:random-tuple",
+          "title_tex": "Averaged tuples with no initial deterministic sweep",
+          "label_aliases": [],
+          "start": 22058,
+          "statement_start": 22162,
+          "statement_end": 22541
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:average-law",
+          "title_tex": "Ordinary random-input marginals",
+          "label_aliases": [],
+          "start": 23922,
+          "statement_start": 23995,
+          "statement_end": 24186
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07a-disjoint-transfer-proof.tex",
+      "sha256": "4afcbd09cdf4440c65b689b0429bf4c3c6cdc09a3a4920ae0f4d7a2aa6956079",
+      "lines": 197,
+      "actually_read_ranges": [
+        [
+          1,
+          197
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07b-delayed-symmetry.tex",
+      "sha256": "d252f05d93b37d24116a391222c3d7571d387cae1708a3062ac185d0a7b54ba5",
+      "lines": 126,
+      "actually_read_ranges": [
+        [
+          1,
+          126
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "shear:lem:delayed-symmetry",
+          "title_tex": "Delayed half-space symmetry",
+          "label_aliases": [],
+          "start": 536,
+          "statement_start": 613,
+          "statement_end": 2159
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07c-transfer-applications.tex",
+      "sha256": "68f500dcafdc2953035eb165828b334d8f9ca426b93c3d2f7000cf293947f598",
+      "lines": 491,
+      "actually_read_ranges": [
+        [
+          1,
+          491
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "shear:prop:fourier-inputs",
+          "title_tex": "Degree and coset inputs",
+          "label_aliases": [],
+          "start": 2245,
+          "statement_start": 2323,
+          "statement_end": 3260
+        },
+        {
+          "kind": "proposition",
+          "label": "shear:prop:disjoint-transfer",
+          "title_tex": "Fourier bounds from disjoint coset systems",
+          "label_aliases": [],
+          "start": 4447,
+          "statement_start": 4547,
+          "statement_end": 6462
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:subprobability-fourier",
+          "title_tex": "Fourier normalization for retained mass",
+          "label_aliases": [],
+          "start": 7139,
+          "statement_start": 7228,
+          "statement_end": 7996
+        },
+        {
+          "kind": "corollary",
+          "label": "shear:cor:512",
+          "title_tex": "Two time blocks from the isotypic transfer",
+          "label_aliases": [],
+          "start": 9975,
+          "statement_start": 10058,
+          "statement_end": 10250
+        },
+        {
+          "kind": "theorem",
+          "label": "shear:thm:2048",
+          "title_tex": "Eight time blocks from the orbit estimate",
+          "label_aliases": [],
+          "start": 11881,
+          "statement_start": 11962,
+          "statement_end": 12389
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:average-marginals",
+          "title_tex": "Sixteen time blocks from averaged input lists",
+          "label_aliases": [],
+          "start": 14440,
+          "statement_start": 14539,
+          "statement_end": 15101
+        },
+        {
+          "kind": "theorem",
+          "label": "shear:thm:32-block",
+          "title_tex": "Thirty-two time blocks from coefficient projection",
+          "label_aliases": [],
+          "start": 16570,
+          "statement_start": 16664,
+          "statement_end": 16807
+        },
+        {
+          "kind": "theorem",
+          "label": "shear:thm:4096",
+          "title_tex": "Four time blocks from the branching estimate",
+          "label_aliases": [],
+          "start": 18140,
+          "statement_start": 18224,
+          "statement_end": 18369
+        },
+        {
+          "kind": "corollary",
+          "label": "shear:cor:order",
+          "title_tex": "Mixing order and lower estimates",
+          "label_aliases": [],
+          "start": 19301,
+          "statement_start": 19376,
+          "statement_end": 19603
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/companion-references.tex",
+      "sha256": "13e87855493bee830eb7a2232b836e10b7f82e9f9288b796c4a82b1e59efe708",
+      "lines": 23,
+      "actually_read_ranges": [
+        [
+          1,
+          23
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/08-frame-variants.tex",
+      "sha256": "a2ecbda354770b755f04be25d2819b9527eb25c996fccfb20d0a786779f8e1f9",
+      "lines": 1408,
+      "actually_read_ranges": [
+        [
+          1,
+          1408
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "frames:matching-invariance",
+          "title_tex": "Matching and input-list invariance",
+          "label_aliases": [],
+          "start": 2288,
+          "statement_start": 2372,
+          "statement_end": 3079
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:holes",
+          "title_tex": "Conditional mass on unobserved positions",
+          "label_aliases": [],
+          "start": 4329,
+          "statement_start": 4405,
+          "statement_end": 5432
+        },
+        {
+          "kind": "corollary",
+          "label": "frames:conditional-interface",
+          "title_tex": "Complete and chronological conditioning",
+          "label_aliases": [],
+          "start": 6703,
+          "statement_start": 6798,
+          "statement_end": 7955
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:cross-energy",
+          "title_tex": "Fresh-direction contraction",
+          "label_aliases": [],
+          "start": 9958,
+          "statement_start": 10028,
+          "statement_end": 10636
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:crossing-balance",
+          "title_tex": "Balance supplied by an earlier crossing",
+          "label_aliases": [],
+          "start": 14334,
+          "statement_start": 14420,
+          "statement_end": 14922
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:backward-removal",
+          "title_tex": "Removing exceptional histories in descending order",
+          "label_aliases": [],
+          "start": 16454,
+          "statement_start": 16551,
+          "statement_end": 17878
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:pointwise-applications",
+          "title_tex": "Two applications of the retained event",
+          "label_aliases": [],
+          "start": 19175,
+          "statement_start": 19272,
+          "statement_end": 19539
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:stopped-marginals",
+          "title_tex": "Stopped partial-observation estimate",
+          "label_aliases": [],
+          "start": 22610,
+          "statement_start": 22700,
+          "statement_end": 23102
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:pruning-application",
+          "title_tex": "The stopped-energy and pruning application",
+          "label_aliases": [],
+          "start": 30580,
+          "statement_start": 30678,
+          "statement_end": 30796
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:reference-rows",
+          "title_tex": "Conditional masses in trajectory-label coordinates",
+          "label_aliases": [],
+          "start": 32544,
+          "statement_start": 32639,
+          "statement_end": 33640
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:typical-history",
+          "title_tex": "One typical event for all reservoir sizes",
+          "label_aliases": [],
+          "start": 35773,
+          "statement_start": 35860,
+          "statement_end": 36179
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:shadow-entropy",
+          "title_tex": "Entropy comparison for arbitrary tilted histories",
+          "label_aliases": [],
+          "start": 39895,
+          "statement_start": 39989,
+          "statement_end": 40214
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:entropy-tail",
+          "title_tex": "Representation-coefficient tails from entropy",
+          "label_aliases": [],
+          "start": 42082,
+          "statement_start": 42176,
+          "statement_end": 42904
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:entropy-application",
+          "title_tex": "The typical-history entropy application",
+          "label_aliases": [],
+          "start": 43957,
+          "statement_start": 44052,
+          "statement_end": 44158
+        },
+        {
+          "kind": "theorem",
+          "label": "frames:aux:theorem",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 46220,
+          "statement_start": 46261,
+          "statement_end": 46669
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:aux:directions",
+          "title_tex": "Inverse-frame form of the shear law",
+          "label_aliases": [],
+          "start": 47969,
+          "statement_start": 48049,
+          "statement_end": 48958
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:aux:energy",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 51261,
+          "statement_start": 51299,
+          "statement_end": 51546
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:aux:marginal",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 55092,
+          "statement_start": 55138,
+          "statement_end": 55561
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:aux:orbit-lift",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 59375,
+          "statement_start": 59417,
+          "statement_end": 59703
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/09-equivariant.tex",
+      "sha256": "6b5f722f3856ef9731c61eeaa6ad1fda4cb0c2ff4c646ee7a2ff382bee0cc023",
+      "lines": 297,
+      "actually_read_ranges": [
+        [
+          1,
+          297
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "lifts:random-four-blocks",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 2581,
+          "statement_start": 2632,
+          "statement_end": 2771
+        },
+        {
+          "kind": "theorem",
+          "label": "lifts:sixteen-theorem",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 6310,
+          "statement_start": 6354,
+          "statement_end": 6495
+        },
+        {
+          "kind": "proposition",
+          "label": "lifts:neumann-theorem",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 11218,
+          "statement_start": 11266,
+          "statement_end": 11409
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/10-character-explicit.tex",
+      "sha256": "11324f514d842eddd976ef619310c5d699272c51f7ac952676268a1c7e56c52f",
+      "lines": 442,
+      "actually_read_ranges": [
+        [
+          1,
+          442
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "frames:char:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1104,
+          "statement_start": 1143,
+          "statement_end": 1513
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:char:half-list",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 2006,
+          "statement_start": 2048,
+          "statement_end": 2455
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:char:one-pass",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 6046,
+          "statement_start": 6087,
+          "statement_end": 6492
+        },
+        {
+          "kind": "lemma",
+          "label": "char:sweep-trace",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8944,
+          "statement_start": 8981,
+          "statement_end": 9448
+        },
+        {
+          "kind": "lemma",
+          "label": "frames:char:minimum-degree",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 12751,
+          "statement_start": 12798,
+          "statement_end": 12914
+        },
+        {
+          "kind": "proposition",
+          "label": "frames:char:block-norm",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 13704,
+          "statement_start": 13753,
+          "statement_end": 14108
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/11-character-repair.tex",
+      "sha256": "2639608b83a9d01f08071128449d9d097fef94cc186c8eedfad83a12f44be39c",
+      "lines": 283,
+      "actually_read_ranges": [
+        [
+          1,
+          283
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "char:main",
+          "title_tex": "Half-deck repair and character amplification",
+          "label_aliases": [],
+          "start": 610,
+          "statement_start": 689,
+          "statement_end": 1136
+        },
+        {
+          "kind": "lemma",
+          "label": "char:repair",
+          "title_tex": "Simultaneous marginal repair",
+          "label_aliases": [],
+          "start": 1714,
+          "statement_start": 1776,
+          "statement_end": 2492
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/references.tex",
+      "sha256": "79eedeeca6a7e657432dd2aa393727f3a5d69e6eb0eea81d09e9f46380a0a6aa",
+      "lines": 206,
+      "actually_read_ranges": [
+        [
+          1,
+          206
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/main.tex",
+      "sha256": "968a7dcaf7417a156376a5f4b0e3872980a8805e871c9f619dbdd3cf30edb0d0",
+      "lines": 62,
+      "actually_read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/introduction.tex",
+      "sha256": "4703eb6243c947eb4468a6f5174a699658624a3ead4059a508e5d1fa14602d21",
+      "lines": 97,
+      "actually_read_ranges": [
+        [
+          1,
+          97
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:main",
+          "title_tex": "Complementary cosets control Fourier matrices",
+          "label_aliases": [],
+          "start": 1884,
+          "statement_start": 1961,
+          "statement_end": 2652
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/foundations.tex",
+      "sha256": "aab20b666f281fbdf64bfcde025651e9044d7e90cf6fb11366377929124f7f9d",
+      "lines": 97,
+      "actually_read_ranges": [
+        [
+          1,
+          97
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:degree-basic",
+          "title_tex": "A short reciprocal-degree proof",
+          "label_aliases": [],
+          "start": 547,
+          "statement_start": 615,
+          "statement_end": 837
+        },
+        {
+          "kind": "lemma",
+          "label": "l:partition-selection",
+          "title_tex": "Selecting one partition",
+          "label_aliases": [],
+          "start": 2923,
+          "statement_start": 2990,
+          "statement_end": 3229
+        },
+        {
+          "kind": "lemma",
+          "label": "l:trim",
+          "title_tex": "Two common trimming operations",
+          "label_aliases": [],
+          "start": 3471,
+          "statement_start": 3530,
+          "statement_end": 4112
+        },
+        {
+          "kind": "lemma",
+          "label": "l:plancherel",
+          "title_tex": "Plancherel with a mass deficit",
+          "label_aliases": [],
+          "start": 5251,
+          "statement_start": 5316,
+          "statement_end": 5876
+        },
+        {
+          "kind": "proposition",
+          "label": "l:amplification",
+          "title_tex": "Fourier amplification",
+          "label_aliases": [],
+          "start": 6685,
+          "statement_start": 6750,
+          "statement_end": 7288
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/core.tex",
+      "sha256": "f5c289a3212845780f25852e893b795ecab41a2d8722ee39b357b7c7c9906b9d",
+      "lines": 154,
+      "actually_read_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:single-orbit",
+          "title_tex": "The orbit of a single vector",
+          "label_aliases": [],
+          "start": 486,
+          "statement_start": 551,
+          "statement_end": 816
+        },
+        {
+          "kind": "proposition",
+          "label": "l:orbit-span",
+          "title_tex": "Orbit-span transfer",
+          "label_aliases": [],
+          "start": 2392,
+          "statement_start": 2452,
+          "statement_end": 2588
+        },
+        {
+          "kind": "corollary",
+          "label": "l:orbit-completion",
+          "title_tex": "Four convolutions by the orbit argument",
+          "label_aliases": [
+            "l:eight-convolutions"
+          ],
+          "start": 4786,
+          "statement_start": 4870,
+          "statement_end": 5103
+        },
+        {
+          "kind": "lemma",
+          "label": "l:central-isotypic",
+          "title_tex": "Cosetwise isotypic estimate",
+          "label_aliases": [],
+          "start": 6412,
+          "statement_start": 6480,
+          "statement_end": 6748
+        },
+        {
+          "kind": "proposition",
+          "label": "l:isotypic",
+          "title_tex": "Isotypic transfer",
+          "label_aliases": [],
+          "start": 8265,
+          "statement_start": 8321,
+          "statement_end": 8481
+        },
+        {
+          "kind": "corollary",
+          "label": "l:isotypic-completion",
+          "title_tex": "Two convolutions from eight complements",
+          "label_aliases": [
+            "l:four-convolutions"
+          ],
+          "start": 9442,
+          "statement_start": 9529,
+          "statement_end": 9649
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/comparisons.tex",
+      "sha256": "7ed7210582e0e1c432aa504ab8b076ea1b3624613371f9cdef28fb1c50373b2c",
+      "lines": 144,
+      "actually_read_ranges": [
+        [
+          1,
+          144
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:coefficient-evaluation",
+          "title_tex": "Evaluation in a coefficient space",
+          "label_aliases": [],
+          "start": 3349,
+          "statement_start": 3429,
+          "statement_end": 3678
+        },
+        {
+          "kind": "proposition",
+          "label": "l:coefficient-operator",
+          "title_tex": "Coefficient-evaluation transfer",
+          "label_aliases": [],
+          "start": 4135,
+          "statement_start": 4217,
+          "statement_end": 4343
+        },
+        {
+          "kind": "lemma",
+          "label": "l:isotypic-alternatives",
+          "title_tex": "Coefficient and pointwise character estimates",
+          "label_aliases": [],
+          "start": 5442,
+          "statement_start": 5533,
+          "statement_end": 6023
+        },
+        {
+          "kind": "proposition",
+          "label": "l:coefficient-lift",
+          "title_tex": "Coefficient and character Hilbert--Schmidt transfers",
+          "label_aliases": [
+            "l:coarse-character-lift"
+          ],
+          "start": 6984,
+          "statement_start": 7084,
+          "statement_end": 7362
+        },
+        {
+          "kind": "proposition",
+          "label": "l:central-projector-operator",
+          "title_tex": "Low-type central-projector estimates",
+          "label_aliases": [],
+          "start": 8020,
+          "statement_start": 8113,
+          "statement_end": 8592
+        },
+        {
+          "kind": "proposition",
+          "label": "l:branching-hs",
+          "title_tex": "Branching refinement",
+          "label_aliases": [],
+          "start": 9607,
+          "statement_start": 9670,
+          "statement_end": 9857
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/random-partition.tex",
+      "sha256": "deebc911102bbbe3ae893fd7cd25dfe7d19fd622756bf9c283502b7f36f58dee",
+      "lines": 106,
+      "actually_read_ranges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "l:random-partition",
+          "title_tex": "Random-partition lift",
+          "label_aliases": [],
+          "start": 502,
+          "statement_start": 570,
+          "statement_end": 1255
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degrees.tex",
+      "sha256": "f810016a13036755d9d1aee11ba5f2a26ffd948909bfdecaab95f532ed672b09",
+      "lines": 275,
+      "actually_read_ranges": [
+        [
+          1,
+          275
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:tableau-constructions",
+          "title_tex": "Tableau constructions",
+          "label_aliases": [],
+          "start": 2888,
+          "statement_start": 2955,
+          "statement_end": 3967
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-hook-ratio",
+          "title_tex": "Separating the first-row hooks",
+          "label_aliases": [],
+          "start": 5695,
+          "statement_start": 5767,
+          "statement_end": 6328
+        },
+        {
+          "kind": "theorem",
+          "label": "l:degree-all-powers",
+          "title_tex": "Every positive inverse power",
+          "label_aliases": [],
+          "start": 7039,
+          "statement_start": 7111,
+          "statement_end": 7632
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-inverse-first",
+          "title_tex": "Near-row dimensions and inverse-first summability",
+          "label_aliases": [],
+          "start": 10071,
+          "statement_start": 10166,
+          "statement_end": 10561
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-type-absorption",
+          "title_tex": "Absorbing the number of tail types",
+          "label_aliases": [],
+          "start": 11280,
+          "statement_start": 11361,
+          "statement_end": 11615
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/characters.tex",
+      "sha256": "c0e1d0d06aae412f8a6fb6d8db56ddf1c3323113db2fd7cdf16e94f01b93c9c3",
+      "lines": 208,
+      "actually_read_ranges": [
+        [
+          1,
+          208
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:small-index-character",
+          "title_tex": "A character from a row--column assignment",
+          "label_aliases": [],
+          "start": 558,
+          "statement_start": 646,
+          "statement_end": 852
+        },
+        {
+          "kind": "lemma",
+          "label": "l:subcharacter-isotypic",
+          "title_tex": "Averaging character projections",
+          "label_aliases": [],
+          "start": 5103,
+          "statement_start": 5181,
+          "statement_end": 5734
+        },
+        {
+          "kind": "theorem",
+          "label": "l:character-lift",
+          "title_tex": "Character-projection transfer",
+          "label_aliases": [],
+          "start": 7041,
+          "statement_start": 7112,
+          "statement_end": 7736
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/two-sided.tex",
+      "sha256": "03327ca5946e16dfb2e951d511953b88fd87a28ba63637c5db82cca7d5297cb0",
+      "lines": 335,
+      "actually_read_ranges": [
+        [
+          1,
+          335
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:joint-types",
+          "title_tex": "Counting joint types",
+          "label_aliases": [],
+          "start": 1205,
+          "statement_start": 1262,
+          "statement_end": 1772
+        },
+        {
+          "kind": "theorem",
+          "label": "l:joint-type-operator",
+          "title_tex": "Joint-type orbit transfer",
+          "label_aliases": [],
+          "start": 2972,
+          "statement_start": 3044,
+          "statement_end": 3366
+        },
+        {
+          "kind": "corollary",
+          "label": "l:four-block-reservoir",
+          "title_tex": "Four-block transfer",
+          "label_aliases": [],
+          "start": 5177,
+          "statement_start": 5246,
+          "statement_end": 5519
+        },
+        {
+          "kind": "corollary",
+          "label": "l:eight-block-probe",
+          "title_tex": "Eight-block transfer",
+          "label_aliases": [],
+          "start": 6725,
+          "statement_start": 6792,
+          "statement_end": 7066
+        },
+        {
+          "kind": "theorem",
+          "label": "l:two-sided",
+          "title_tex": "Two-sided Fourier multiplication",
+          "label_aliases": [],
+          "start": 9335,
+          "statement_start": 9404,
+          "statement_end": 10048
+        },
+        {
+          "kind": "corollary",
+          "label": "l:two-sided-completion",
+          "title_tex": "Two-factor completion",
+          "label_aliases": [],
+          "start": 12884,
+          "statement_start": 12955,
+          "statement_end": 13443
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/equivariant.tex",
+      "sha256": "b4571760a61fdce47898cc181cc129238bafb065a171617a716be44a966f34c8",
+      "lines": 461,
+      "actually_read_ranges": [
+        [
+          1,
+          461
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:equivariant-sixteen",
+          "title_tex": "Sixteen equivariant subkernels",
+          "label_aliases": [],
+          "start": 2977,
+          "statement_start": 3054,
+          "statement_end": 4466
+        },
+        {
+          "kind": "theorem",
+          "label": "l:three-group",
+          "title_tex": "Three-group two-sided truncation",
+          "label_aliases": [],
+          "start": 10809,
+          "statement_start": 10880,
+          "statement_end": 12704
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/domains.tex",
+      "sha256": "a813d2fd028476ca9c6bd9eecc61d54e6c574d25948f09a3c301cc5c421787fc",
+      "lines": 411,
+      "actually_read_ranges": [
+        [
+          1,
+          411
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:spectral-pruning",
+          "title_tex": "Spectral pruning",
+          "label_aliases": [],
+          "start": 1611,
+          "statement_start": 1671,
+          "statement_end": 2216
+        },
+        {
+          "kind": "lemma",
+          "label": "l:adaptive-domain-preparation",
+          "title_tex": "Good domains and averaged projections",
+          "label_aliases": [],
+          "start": 5115,
+          "statement_start": 5205,
+          "statement_end": 6435
+        },
+        {
+          "kind": "theorem",
+          "label": "l:omitted-set-transfer",
+          "title_tex": "Omitted-set transfer",
+          "label_aliases": [],
+          "start": 9124,
+          "statement_start": 9192,
+          "statement_end": 9786
+        },
+        {
+          "kind": "theorem",
+          "label": "l:domain-transfer",
+          "title_tex": "Random-domain transfer",
+          "label_aliases": [],
+          "start": 12834,
+          "statement_start": 12899,
+          "statement_end": 13608
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tilts.tex",
+      "sha256": "a378218580541a864a9860c3461705579095331522a3b314c6782a6e87ca8428",
+      "lines": 172,
+      "actually_read_ranges": [
+        [
+          1,
+          172
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:tilted-entropy",
+          "title_tex": "Arbitrary-tilt entropy transfer",
+          "label_aliases": [],
+          "start": 1106,
+          "statement_start": 1179,
+          "statement_end": 2216
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/palettes.tex",
+      "sha256": "67458a92b22509b1416979733eea60a9dae022ed7b3e41b2eafc092b13cd340c",
+      "lines": 403,
+      "actually_read_ranges": [
+        [
+          1,
+          403
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:palette-information",
+          "title_tex": "Information from a retained reveal experiment",
+          "label_aliases": [],
+          "start": 2131,
+          "statement_start": 2221,
+          "statement_end": 3113
+        },
+        {
+          "kind": "lemma",
+          "label": "l:palette-degree",
+          "title_tex": "A dimension estimate in terms of the longest row or column",
+          "label_aliases": [],
+          "start": 6844,
+          "statement_start": 6917,
+          "statement_end": 7303
+        },
+        {
+          "kind": "lemma",
+          "label": "l:signed-palette",
+          "title_tex": "Signed palettes with controlled entropy",
+          "label_aliases": [],
+          "start": 8025,
+          "statement_start": 8104,
+          "statement_end": 8699
+        },
+        {
+          "kind": "theorem",
+          "label": "l:palette-transfer",
+          "title_tex": "Signed-palette transfer",
+          "label_aliases": [],
+          "start": 10689,
+          "statement_start": 10756,
+          "statement_end": 11843
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/replica.tex",
+      "sha256": "bb3fd99e9d63170824c43a4ef4f810f884265b85a68251118bc246bf75a6c64a",
+      "lines": 157,
+      "actually_read_ranges": [
+        [
+          1,
+          157
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:replica-clipping",
+          "title_tex": "Entropy clipping and isotypic transfer",
+          "label_aliases": [],
+          "start": 848,
+          "statement_start": 930,
+          "statement_end": 1894
+        },
+        {
+          "kind": "corollary",
+          "label": "l:replica-partition-selection",
+          "title_tex": "Selecting complementary lists by averaging",
+          "label_aliases": [],
+          "start": 4582,
+          "statement_start": 4681,
+          "statement_end": 5053
+        },
+        {
+          "kind": "corollary",
+          "label": "l:replica-large-dimension",
+          "title_tex": "The logarithmic cutoff with 256 blocks",
+          "label_aliases": [],
+          "start": 5510,
+          "statement_start": 5601,
+          "statement_end": 6108
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/forests.tex",
+      "sha256": "ae531297aad8624c16a9d629968453a586b94764266439311623657849f11a1d",
+      "lines": 261,
+      "actually_read_ranges": [
+        [
+          1,
+          261
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:forest-clipping",
+          "title_tex": "One retained law for sixteen entropy bounds",
+          "label_aliases": [],
+          "start": 1128,
+          "statement_start": 1212,
+          "statement_end": 1853
+        },
+        {
+          "kind": "lemma",
+          "label": "l:forest-degree",
+          "title_tex": "Dimension with at most $n/2$ rows",
+          "label_aliases": [],
+          "start": 3000,
+          "statement_start": 3072,
+          "statement_end": 3298
+        },
+        {
+          "kind": "proposition",
+          "label": "l:forest-bulk",
+          "title_tex": "Sixteen groups in the large-degree range",
+          "label_aliases": [],
+          "start": 4471,
+          "statement_start": 4554,
+          "statement_end": 4906
+        },
+        {
+          "kind": "theorem",
+          "label": "l:forest-hybrid",
+          "title_tex": "Entropy and sparse-degree hybrid",
+          "label_aliases": [],
+          "start": 7961,
+          "statement_start": 8034,
+          "statement_end": 8903
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degree-supplement.tex",
+      "sha256": "42d565c886b7eedaf7d2d95311595f683b9aff9372c4e254a3bba56e4d8d94c3",
+      "lines": 458,
+      "actually_read_ranges": [
+        [
+          1,
+          458
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:degree-reciprocal-twenty",
+          "title_tex": "Inverse-twentieth powers and type counts",
+          "label_aliases": [],
+          "start": 804,
+          "statement_start": 894,
+          "statement_end": 1115
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-inverse-square",
+          "title_tex": "Direct inverse-square summability",
+          "label_aliases": [
+            "l:degree-reciprocal-two"
+          ],
+          "start": 2801,
+          "statement_start": 2881,
+          "statement_end": 3037
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-elementary-sixteen",
+          "title_tex": "Elementary sixteenth and thirteenth powers",
+          "label_aliases": [],
+          "start": 9363,
+          "statement_start": 9456,
+          "statement_end": 9570
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-diagonal-four",
+          "title_tex": "A tail-adapted diagonal bound",
+          "label_aliases": [],
+          "start": 10323,
+          "statement_start": 10397,
+          "statement_end": 10618
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-inverse-ten",
+          "title_tex": "Inverse-tenth powers from a square-root first line",
+          "label_aliases": [],
+          "start": 11450,
+          "statement_start": 11544,
+          "statement_end": 11679
+        },
+        {
+          "kind": "lemma",
+          "label": "l:degree-sqrt-deficit",
+          "title_tex": "A square-root lower bound in the deficit",
+          "label_aliases": [],
+          "start": 13913,
+          "statement_start": 13998,
+          "statement_end": 14250
+        }
+      ],
+      "reading_evidence": "Read in immediately preceding continuation; this checkpoint closes its 1026-line bookkeeping lag, without rereading or canonical promotion."
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid-supplement.tex",
+      "sha256": "73e582b5ba1ff40156605d7f2c51bd707090c91705fd36241f896a9bbd7d8c12",
+      "lines": 193,
+      "actually_read_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "l:tabloid-degree-sums",
+          "title_tex": "Degree sums from the tabloid embedding",
+          "label_aliases": [],
+          "start": 5877,
+          "statement_start": 5960,
+          "statement_end": 6204
+        }
+      ],
+      "reading_evidence": "Read in immediately preceding continuation; this checkpoint closes its 1026-line bookkeeping lag, without rereading or canonical promotion."
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid.tex",
+      "sha256": "a81da10114054942531a34dd12e1489776c1dc73a96bec9b23d179155d88d978",
+      "lines": 375,
+      "actually_read_ranges": [
+        [
+          1,
+          375
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "l:tabloid-product",
+          "title_tex": "Conditional-product transfer",
+          "label_aliases": [],
+          "start": 1475,
+          "statement_start": 1546,
+          "statement_end": 3029
+        },
+        {
+          "kind": "lemma",
+          "label": "l:tabloid-embedding",
+          "title_tex": "Polynomial-size signed tabloid embedding",
+          "label_aliases": [],
+          "start": 4300,
+          "statement_start": 4383,
+          "statement_end": 4602
+        },
+        {
+          "kind": "lemma",
+          "label": "l:tabloid-hs",
+          "title_tex": "Buffer-complement estimate",
+          "label_aliases": [],
+          "start": 5752,
+          "statement_start": 5814,
+          "statement_end": 6285
+        },
+        {
+          "kind": "lemma",
+          "label": "l:tabloid-lr",
+          "title_tex": "Two-factor multiplicity bound",
+          "label_aliases": [],
+          "start": 8366,
+          "statement_start": 8431,
+          "statement_end": 8679
+        },
+        {
+          "kind": "corollary",
+          "label": "l:tabloid-completion",
+          "title_tex": "Completion of the conditional-product bound",
+          "label_aliases": [],
+          "start": 13084,
+          "statement_start": 13175,
+          "statement_end": 13645
+        }
+      ],
+      "reading_evidence": "Read in immediately preceding continuation; this checkpoint closes its 1026-line bookkeeping lag, without rereading or canonical promotion."
+    }
+  ],
+  "actual_source_lines_read": 10014,
+  "full_family_read_count_unchanged": null,
+  "source_claim_notes_not_canonical_or_reviewed": [
+    {
+      "source": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/00-introduction.tex",
+      "note": "Introduction claims worst-start TV after32800d physicalshuffles tends0;512d consequence explicitly combines another Fourier companion. These are source assertions;proof/companion/formal qualification not yet read in this package."
+    },
+    {
+      "source": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/00-introduction.tex",
+      "note": "Fixed-complete-schedule frame comparison may use future directions;chronological fresh-direction reveal calculation is separate. Operator-norm orbit transfer and Hilbert-Schmidt isotypic transfer are distinguished."
+    },
+    {
+      "source": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/01-preliminaries.tex",
+      "note": "Physical step costs n/2 fairbits;one sweep d steps. Exact support lower bound and single-card uniformity afterd do not identify full-deck mixing. No numeric experiment or new mathematical claim."
+    }
+  ],
+  "next_actual_read": "Second manuscript sections/transfer-supplement.tex (229 lines), then references.tex (93 lines);322 lines remain. Historical/formal qualification, canonical bindings, graph QA and retrospective039 remain pending.",
+  "reading_batches": [
+    {
+      "at": "2026-10-26T04:20:14.310051+00:00",
+      "files": [
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/02-frames.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/03-marginals.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/05-lift.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/04-degrees.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/06-completion.tex"
+      ],
+      "lines": 1169,
+      "status": "source_segment_read_not_canonical_qualification",
+      "notes": [
+        "Frame lemma has two labels for one statement;general L0 relabels inputs,same-list identity only when L0=I;uniform independent input lists preserve averages. Frame is fixed-schedule,not an adapted online algorithm.",
+        "Online field is Xi,directionprefix,predecessorpathprefixes only;Xi independent. Future paths/additional terminal data cannot silently be inserted. Exact matching energy decrement distinguishes averaging from mass transport.",
+        "Unconditional omitted-block imbalance bound is used after removing path conditioning;Delta<=1 permits correlated energy and bad balance. Terminal Lambda identification is an explicit extra hypothesis unlessLambda is just complete schedule.",
+        "Existence of one64-block partition after1025d;simultaneous trimming conditions on one event,removes<=2sum marginalTV,normalizes coset cap2/(1-epsilon).",
+        "Single-vector subgroup orbit dimension sums distinct squared degrees,not isotypic multiplicity;local inverse-sixteenth-power estimate is weaker than citedoldLiebeckShalev and doesnot byitself give engineeringvalue.",
+        "First independent32800d sourceproof read throughcompletion:32blocks,op-to-HS dimensionweight,signseparate,convolution approximation accumulation. No effective universal finiteD threshold/cutoff/optimalconstant;historical/formal/remainingsectionsnotqualified."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:21:21.479970+00:00",
+      "files": [
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07-shear.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07a-disjoint-transfer-proof.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07b-delayed-symmetry.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07c-transfer-applications.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/companion-references.tex"
+      ],
+      "lines": 1435,
+      "status": "source_segment_read_not_canonical_qualification",
+      "notes": [
+        "Fixed-list balance uses previous transverse switch then intervening half-preserving switches;probability is not conditional on observed paths. Explicit256d/257d/2049d tuple bounds retained separately from asymptotic whole-deck rates.",
+        "Independent shear construction has triangular first basis but A0=I and fixed inputs unchanged;arbitrary first-basis fixed-schedule construction instead hasL0 inverse input map. Fresh columns keyed by next-read time;terminal Lambda factorization for pathprefix,not arbitraryfuturepathrevelation.",
+        "Uniform randominput averagedistance is E_C TV(lawgivenC,uniform),not TV of mixture. Randominitialbasis inputmap removedonlyafteraveraging;reservoir/samplebalance unconditional after removing sample.",
+        "Delayed-symmetry lemma conditions at earlier visit,retains B0,p0 as functions of original observation field;conditioning pastswitches doesnot redefine p0 as hiddenposterior givenallcardpositions.",
+        "Disjoint support Fourier transfer neednotcoveralllabels;orbitop/isotypicHS/coefficientK^2/branching inequalities distinct,multiplicities retained.07a proof closure explicitly included by07c line158.",
+        "512duses2blocks andcompanioninverseallpowers plusisotypicHS;2048d8orbitblocks,2056dvariants,32768daveraged16blocks,65568d32coefficientblocks,4096d4branchingblocks are different routes,not independent applicationresults.",
+        "Subprobability transforms unnormalized:massz,trivialz^ell,sign<=1-z,missingmassrestoration charged. Commonf<=mu orcommonheavycosetdeletion cannotbereplaced byseparatelytrimmedlaws.",
+        "CompanionLref23line numerical alias table read;actual companion target proofs still unread. No new scientific outputs/candidate/cardcredit."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:22:43.157199+00:00",
+      "files": [
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/08-frame-variants.tex"
+      ],
+      "lines": 1408,
+      "status": "source_segment_read_not_canonical_qualification",
+      "notes": [
+        "Complete observedpaths are feasible coin-array cylinders underfixedschedule;unvisitedtime-edgecoinsremainfair. This supplies additional full-path-prefix and terminal-shear disclosure factorization;freshdirections stillaveraged inchronologicalfield first. Not a license for arbitraryfutureauxiliaryconditioning.",
+        "Descending exceptional-history removal fixesonepartition/orders andonecommonevent;backward eliminationyieldsallcosetcaps. Markovrq*n^6*eps andnormalizationa factors retained;not independentlyconditioned marginal laws.",
+        "Stopped fixedlist route nestsbalanceevents overj andtime,charges4T/m once;maximalcoupling retainsrealendpointkernel ratherthan conditioningon previouscouplingsuccess.322d ordinarymarginal feedsseparatecompanionpruning for5152dglobalconclusion.",
+        "Trajectory-label matrices Q=B1...Bt are reference-indexed posterior rows;conditioningremainsobservedcomplement,notfullreferencehistory. HSenergy sumsdependentcards,doesnotassumeindependence.",
+        "Onehistoryevent intersectsreservoir-size subsetaverageconstraints;highprobability then entropyD(nu||P)>=E_XD(nu_X||U_X)-n^-2 forEVERYlaw supportedthere. Thisall-tiltquantifierneeded forrepresentation-selectedrareevents;ordinarymarginalTV alone insufficient.",
+        "Entropycoefficient tailbound includesmassnormalizationC/a,sign(o1),fixed4096blockcount andlargephysicalblocktime;notnewapplicationverification.",
+        "Deferred-column inverseframe keepssamefixedinputswithB0I;inputaveragingentersonlybalance overallspecifiedaffinehalves. r128,T12801d,40blocks512040d separatefrom512dleadingroute. No finiteDpracticalbudget/efficientcommon-eventconstructor established."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:23:48.136187+00:00",
+      "files": [
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/09-equivariant.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/10-character-explicit.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/11-character-repair.tex",
+        "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/references.tex"
+      ],
+      "lines": 1228,
+      "status": "first_manuscript_full_current_source_read_not_yet_canonical_qualification",
+      "notes": [
+        "Equivariant-kernel theoremneedsfullsignmultiplicityHSsmallness ineach quotientfiber,not just global fair sign. Matched ignoredpair cancelsentireoutgoingfiber signrow;all-trivialmultiplicity alsohandled bycompanion.",
+        "Averagedomittedsets and16separatetruncations aredifferentroutefromonecommonf;overlappingomitted-set projectionproductskeepnoncommutingorder. No generic arbitrarykerneluniformmixing claim.",
+        "Onepasscharactertrace usesLarsenShalev uniformslack,E(g) orbitgrowth not onlysupportsize;fixedpointroutes tail,restrictiondegree/multiplicity andinverse-degree sums areseparateoldinputs. Alternativebranching1/40 strongerthan shared1/100butdoesnotrewriteproofconstants.",
+        "BPoutput-halfpreimages cappedseparatelyforpositiveoperators commutecomplement;no jointdensitycaporindependentpreimagesrequired. PBinput-halfimages repairedexactly;conditional subgroupcoordinateshaveuniformmarginals butmaybedependent. PositivecontractionSchuraveragingusesmin(qalpha,qbeta),notproductfromfakeindependence.",
+        "Halfimage repair TVcost eps1+eps2+3epspartition includespartitionmarginalreplacement and conditionalcouplings. No efficient computationalrepair sampler established.",
+        "Physicalphase variableblocklengths neednotmultiplesofd ifoneremainingterminalrotation restored;blockphaseuniformityandindependentpasses explicit. Worst-startnotstationaryaveragelaw.",
+        "Full206linebibliography and23linecompanionnumericalaliasesread;internalcompaniontargetsnext. Externaloriginalbodies/notpreviouslyverifiedscopes stillpending. First18TeX5645lines fullsource read,notfullfamily/history/formalreview."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:25:03.465658+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/main.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/introduction.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/foundations.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/core.tex"
+      ],
+      "lines": 410,
+      "status": "second_source_segment_read_not_canonical_qualification",
+      "notes": [
+        "Abstracteightcomplements theorem requiresaverageoverfixedlist/cosetTV andsignmeano1;2convolutionsfromHSversus4fromorbit. Labels l:eight-convolutions andl:four-convolutions are retainedaliases,not actualcurrentconvolutioncounts. Bindtextnotlabelname.",
+        "Degree-basic provesallpositivefixedu viahook/tableau andpartitioncount;C_u finitebutnoeffectiveoperationaln0 supplied. Commonexacttrim (pointwisemin orsuccessivetrim) versusnormalizedheavycosetdeletion distinct.",
+        "Corecentral-idempotent isotypicestimate hasB*z*a^2,globalambientHSnorm andrightprojectionforleftcoset;fullmultiplicities included. Positiveprojection alternative gives samebound byidempotence/positivity.",
+        "Input-companion partiallaws occur beforetheirfullmixingapplications;graphmustconnectrawinputs andtransfersratherthanusetheirfullmixingconclusionsasmutualproofhypotheses. No abstractphysicaltimeincluded."
+      ],
+      "output_recovery": "First combinedprint was truncated;reopened introduction81-97 andcore1-75. All missing content actuallyread before marking filescomplete."
+    },
+    {
+      "at": "2026-10-26T04:26:02.535455+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/comparisons.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/random-partition.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degrees.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/characters.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/two-sided.tex"
+      ],
+      "lines": 1068,
+      "status": "second_source_segment_read_not_canonical_qualification",
+      "notes": [
+        "CoefficientprojectionB^2 andpointwisecharactera^4 transfersweakerthanB*zcentralisotypic;sameinputnotnewindependentapplicationvalue. Lowtypecentralsumvscoefficientboundcounttypesonce,notcopies.",
+        "Randompartitionlift putsall-goodpartitioneventbeforevectorcomponentdecomposition;conditionalretainedmassM,2/Mprefactor andsignrestorecharged. Differentretainedlawfromfixedcommonpartition,not universalallcosetcaps.",
+        "Degreehookratio exactproduct retainslowerdiagramdegree andoppositeorderrearrangement;fixedu>0beforeNlimit,typesabsorptionconstantBfixedbeforeN. Uniformtaildeficit andnear-row estimatesneedtheirshape/rangethresholds,not dimension-onlyallNpromise.",
+        "SubcharacterJ<=S_n existenceindex<=D^1024 notefficientpracticalconstructor;characterprojectionboundgeneralindexa+2/b. Trivial/signdegreeonecasesseparate.",
+        "Twosidedtheoremrequiresalpha(H_i*g) andbeta(g*H_i),producthatbeta*hatalpha inthatorder. Imagecapsdo notimplyinverseimagecaps;Klambda^2 jointtypecountkept,signproductneedsgoto0,dominatedmassrestored."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:26:54.095401+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/equivariant.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/domains.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tilts.tex"
+      ],
+      "lines": 1044,
+      "status": "second_source_segment_read_not_canonical_qualification",
+      "notes": [
+        "16separatelytruncatedkernels requiredouble-stochasticH-equivariance,meanquotientrowTVdelta,epsilon->0 withdelta/epsilon->0,retainedsignfullmultiplicityHSbeta_i->0. Entireall-trivialmultiplicity controlledrankone,not justconstant eigenvector. Worststart needsadditionaltransitiveequivariance.",
+        "3group15powerrouteusesonejointcutoff,EVERYquotientrowandcolumnTV,additionaluntrimmedallsignmatrixabsoluterow/colsumsa->0. Massloss<=6delta perrow/column. Not interchangeablewith16kernelaverageorone scalarparity. Nonlinear/carrier-mixed/alltrivial/allsign blocks separate.",
+        "Spectralpruningterminatesfinitecoefficientdeletionlists;appliesmarginalerrorONCEtoentireunionofquotienttests,not testcount timesdelta. Existence notefficientalgorithmcostclaim.",
+        "Omittedsetgood-domainretentionE hasmass>=1-16delta;P_R formsoverlappingnoncommutingfamily. ScalaraveragecI andnormalizedfiniteexpansion(q1024) orunnormalizedpolynomial(q256) retainorderedproducts;differentD^-1/4versusD^-1/8bounds and8/32compositions.",
+        "Arbitrarytiltentropy requiresONEcommonG chosenbeforeρ,u,z andEVERYσsupportedthere;referenceisPnotPconditionedG,rarecoefficienteventD(σ||P)=log1/P(event),factor1/aonlyendpointconditioning. Singlelawentropy cannotreplaceall-tilt premise."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:27:46.648930+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/palettes.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/replica.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/forests.tex"
+      ],
+      "lines": 821,
+      "status": "second_source_segment_read_not_canonical_qualification",
+      "notes": [
+        "PaletterareconditioningrequirespointwiseaccumulatedrevealerrorboundonONEG forbothAB/BAorderaverages andallreferencehistories;underraremappingeventQ retainedpointwisebound survives,ordinaryP-average doesnot. Entropycap includesunrevealedcolorentropyvH(p),n^2a_n and-logz.",
+        "Signedpaletteoccurrence andentropycomplexityviaPieri/strips/longestlinedeficit;capsrequiredallpalettes/allplacements,bothhalves,beforechoosingrepresentation. SourceHS^-1/3 gives4independentfactors;30operatorrouteweakerkeptseparately;δchosenafterC0.",
+        "Singlelawentropyclipping keepsoneUNNORMALIZEDv<=w,loss(K+q/e)/t andexp(t)cosetcaps,collisionorientationcheckv*v. Atq256,K=O(d^4),t=d^6 onlylogD>d^8 absorbed;no claimsmalldimensioncontrol.",
+        "Forestsclippingq16 usesgrowingcap2exp(n^1/50),bulkrequiresk=n-firstrow>n^1/20 AND firstcolumn<=n/2. No transposingawaythesparse-firstrowcondition.",
+        "HybridrequiresSEPARATEindependentK withn^-k/10longrowdecay andEXACTzero for>n/2rows. Productnu^12*K^40 orderkept;no presumedconvolutionrootrelation. Signremovedbyexactrowannihilationnotweakentropy alone."
+      ]
+    },
+    {
+      "at": "2026-10-26T04:33:28.776223+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degree-supplement.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid-supplement.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid.tex"
+      ],
+      "lines": 1026,
+      "status": "previous_continuation_reading_reconciled_not_new_canonical_qualification",
+      "notes": [
+        "Conditional-product transfer requires actual conditional independence after fixing the environment; uniform half marginals alone do not suffice. Buffer count L>=4000000 and coarse polynomial embedding constants are not practical costs.",
+        "Degree-sum supplements give distinct proof routes rather than distinct applications. Signed-tabloid existence and all-positive inverse degree powers remain source claims, not local proof or engineering validation."
+      ]
+    }
+  ],
+  "canonical_family_qualified_manuscripts_still": 4,
+  "actual_current_bodies_read_including_uncurated": 5
+}

@@ -1,0 +1,28 @@
+{
+  "id": "WP-110",
+  "priority": 1,
+  "status": "queued",
+  "parent_task": "WP-006",
+  "objective": "Actually read and qualify two still-unread F238 companion manuscripts:random coordinate frames/partial permutation laws and partial information-to-Fourier interfaces;preserve complete12-manuscript family scope and remaining gaps",
+  "selection_reason": "Three F239 consumer projects identify a qualified producer but no actual rank decision,so stop same-law search. F238 remains4/12read despite existing small-deck checks;the coordinate-frame and Fourier transfer seam can expose omitted conditions and reusable parts. Alternative is unread operator-algebra/dynamical-family coverage;choose this bounded closure gap now,then compare again in mandatory039,without calling6/12 a completedfamily.",
+  "inputs": [
+    "F-238",
+    "P-33d1bc7e07c70610",
+    "P-d7bc9b13ce9fc85f",
+    "state/reading-progress/WP-110.json",
+    "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
+  ],
+  "source_inventory_only": {
+    "manuscripts": 2,
+    "tex_files": 38,
+    "tex_lines": 10336,
+    "actual_scope": "Two README files and filesystem/hash inventory only;zero TeX body reading claimed. F238current4/12coverageunchanged."
+  },
+  "resource_limit": "Read-only fixedmath;read complete selected source/include/reference closure,not clone/install. Atmost4necessaryoriginals/8MiBnewbodydownloads,normalTLS,existingruntimesonly. Compress ownoutputs androundtriphash beforecleanup. No numeric/symbolicexperiment before independent executable specification.",
+  "acceptance": "Bind all selected main/auxiliary results with manuscript+file qualification,coordinate choices/reveals/frame symmetries and exact constants/quantifiers. Compare actual historical/formal scopes and endpoints,not generic O(logn) or small-deck inference. Preserve already-read4manuscripts and8unreadscope untilnewreadingactuallydone;never callselected2or6/12fullfamily. Ten-domain/cross-family attempts may yield no candidate;newhypothesis gets isolatedauxiliaryroles,not independentprovider/human. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
+  "stop_or_redirect": "Do not prove new Fourier inequalities or enlarge shuffle small-deck frequencies as fulltheorem/applicationvalidation. If transfer premises or effective constructor are unavailable,retain conditional routes/gaps and compare a materiallydifferent lowcoverage subject at039.",
+  "created_at": "2026-10-26T04:08:53.951075+00:00",
+  "retrospective_due": "Mandatory039 afterWP110,the third substantive package WP108-110 since038;earliermajorcounterevidence/dataissue",
+  "github_push": false,
+  "execution_journal": "state/reading-progress/WP-110.json"
+}

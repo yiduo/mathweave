@@ -41,3 +41,8 @@ The owner requested fewer GitHub updates on 2026-10-22 and reaffirmed this prefe
 ## October 26 owner-requested batch
 
 The owner requested publication of current progress and an easy-to-share project name. The existing name **MathWeave (数学织网)** is retained: “math” identifies the source material and “weave” describes linking results, historical methods and testable applications. The public repository and local origin already use `https://github.com/yiduo/mathweave`; no duplicate repository or local directory rename is needed. This batch adds WP108 canonical F239 reading and evidence, plus WP109's explicitly unfinished selected-source qualification journal. It adds no application-check or human-review credit. The official `math/` tree and bulk local history remain excluded. Post-push verification receipts are retained locally for the next meaningful batch, avoiding a second routine push.
+
+
+## Current explicit owner request: WP109 and unfinished WP110
+
+The owner again requested current progress on GitHub. Retain **MathWeave (数学织网)** and the existing repository address; no duplicate repository or directory rename is needed. Include completed WP109 canonical records and its conditional APP23901, plus the WP110 reading checkpoint (36/38 files,10014/10336 lines; canonical F238 coverage still4/12). WP110 is not a completed package and adds no application validation. Create one reviewed public commit parented by the previous public branch, excluding bulk local history and official math. Record post-push verification locally for the next meaningful batch to avoid a second routine push.

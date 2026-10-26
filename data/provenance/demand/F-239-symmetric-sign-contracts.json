@@ -1,0 +1,653 @@
+{
+  "work_package": "WP-109",
+  "family_id": "F-239",
+  "generation_id": "GEN-20261026-106",
+  "at": "2026-10-26T04:04:07.959487+00:00",
+  "base_commit": "ab9f4f1869d72591e39d0d5543283fab4be2b59a",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "projects": [
+    {
+      "repository": "jcmgray/quimb",
+      "branch": "main",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "commit_date": "2026-10-21T20:21:51Z",
+      "files": [
+        {
+          "path": "LICENSE.txt",
+          "git_blob": "ec31d920798f2fb132bee77da4e69a6d0e1bd833",
+          "bytes": 558
+        },
+        {
+          "path": "quimb/tensor/tensor_builder.py",
+          "git_blob": "faa23296e9af5d9f8ffa9f2f933a09ada648a045",
+          "bytes": 201141
+        },
+        {
+          "path": "quimb/gen/rand.py",
+          "git_blob": "a8410249c89b811aefee9c1d8e2638f46ae6acdb",
+          "bytes": 18649
+        },
+        {
+          "path": "quimb/tensor/array_ops.py",
+          "git_blob": "13ccee8c179bd43ae2b8d43cc35bbe150aa0b18b",
+          "bytes": 19817
+        },
+        {
+          "path": "tests/test_tensor/test_tensor_builder.py",
+          "git_blob": "577e70b49e203594a26eabc871edde1944e5d68f",
+          "bytes": 28244
+        }
+      ]
+    },
+    {
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "branch": "master",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "commit_date": "2026-06-30T07:22:17Z",
+      "files": [
+        {
+          "path": "LICENSE.md",
+          "git_blob": "d8c0c18e823fa18cf5b42a2427a9a1fb533f1935",
+          "bytes": 1318
+        },
+        {
+          "path": "README.md",
+          "git_blob": "ff6c19213c6f993424d473c45372424f4aac20e0",
+          "bytes": 9124
+        },
+        {
+          "path": "Project.toml",
+          "git_blob": "4b628ed015b169e33445135b319306038ad944c2",
+          "bytes": 772
+        },
+        {
+          "path": "src/RandomMatrices.jl",
+          "git_blob": "3b3dee346cacaacef50ff534472bfc96cc80cad5",
+          "bytes": 1444
+        },
+        {
+          "path": "src/GaussianEnsembles.jl",
+          "git_blob": "6ae30418308c62c450fac2a93e6359001af2d523",
+          "bytes": 14068
+        },
+        {
+          "path": "test/GaussianEnsembles.jl",
+          "git_blob": "ce92b8e66d140ab04e855f3306a1c646103645ef",
+          "bytes": 1644
+        }
+      ]
+    },
+    {
+      "repository": "reservoirpy/reservoirpy",
+      "branch": "master",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "commit_date": "2026-06-17T10:00:20Z",
+      "files": [
+        {
+          "path": "LICENSE",
+          "git_blob": "3e47148f1b1e087a16a89387a7340b26685b04b1",
+          "bytes": 1066
+        },
+        {
+          "path": "reservoirpy/mat_gen.py",
+          "git_blob": "da1748eac25edd44a540550b21c16a7120ec7e88",
+          "bytes": 47935
+        },
+        {
+          "path": "reservoirpy/nodes/reservoir.py",
+          "git_blob": "03ce5efa1c3dd2e2c9a3a6bf98f50ed5b114cd95",
+          "bytes": 9466
+        },
+        {
+          "path": "reservoirpy/observables.py",
+          "git_blob": "4e4e7956d962d0c1672aff19b798af056a4942ec",
+          "bytes": 17725
+        },
+        {
+          "path": "reservoirpy/tests/test_mat_gen.py",
+          "git_blob": "74e5faf001436bf24387a8117c52f310a86250eb",
+          "bytes": 16145
+        },
+        {
+          "path": "reservoirpy/nodes/tests/test_reservoir.py",
+          "git_blob": "58db463f8f5dc8e54243ee89a8be5710bc779f5a",
+          "bytes": 4894
+        }
+      ]
+    }
+  ],
+  "project_cap": 3,
+  "download_budget_bytes": 6291456,
+  "new_body_bytes": 394010,
+  "selected_source_files": [
+    {
+      "key": "jcmgray/quimb:LICENSE.txt",
+      "repository": "jcmgray/quimb",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "source_path": "LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/LICENSE.txt",
+      "at": "2026-10-26T03:33:58.238971+00:00",
+      "bytes": 558,
+      "git_blob": "ec31d920798f2fb132bee77da4e69a6d0e1bd833",
+      "git_blob_sha1_verified": true,
+      "sha256": "e708fa9633397b771e5a7c14fc471e3b2185499e1820fe4b3c7837918918e621",
+      "lines": 13,
+      "actually_read_ranges": [
+        [
+          1,
+          13
+        ]
+      ],
+      "actually_read_lines": 13,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-QUIMB-LICENSE",
+      "actual_scope": "Apache-2.0 license selected in full;no third-party full source republished.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "jcmgray/quimb:quimb/tensor/tensor_builder.py",
+      "repository": "jcmgray/quimb",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "source_path": "quimb/tensor/tensor_builder.py",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/tensor/tensor_builder.py",
+      "at": "2026-10-26T03:33:59.387747+00:00",
+      "bytes": 201141,
+      "git_blob": "faa23296e9af5d9f8ffa9f2f933a09ada648a045",
+      "git_blob_sha1_verified": true,
+      "sha256": "95da6ecd98e882a2611e721962399edf5ccd02b030176d790f975ed03c069ea7",
+      "lines": 6682,
+      "actually_read_ranges": [
+        [
+          1,
+          50
+        ],
+        [
+          140,
+          240
+        ],
+        [
+          1592,
+          1810
+        ],
+        [
+          1844,
+          1930
+        ],
+        [
+          5258,
+          5360
+        ]
+      ],
+      "actually_read_lines": 560,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-QUIMB-BUILDER",
+      "actual_scope": "Permutation-orbit scalar cache creates raw symmetric arrays;two-index Rademacher qualification,open-grid corner shapes,normal default,alternative MPO Hermitian symmetrization and scaling boundaries inspected. Not all 6682 lines read.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "jcmgray/quimb:quimb/gen/rand.py",
+      "repository": "jcmgray/quimb",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "source_path": "quimb/gen/rand.py",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/gen/rand.py",
+      "at": "2026-10-26T03:34:00.198489+00:00",
+      "bytes": 18649,
+      "git_blob": "a8410249c89b811aefee9c1d8e2638f46ae6acdb",
+      "git_blob_sha1_verified": true,
+      "sha256": "4aaa4831876a0ad550f3e51c82295fbc4ddc61303687515ba6e324b8f015df3c",
+      "lines": 697,
+      "actually_read_ranges": [
+        [
+          1,
+          205
+        ],
+        [
+          245,
+          373
+        ],
+        [
+          443,
+          478
+        ]
+      ],
+      "actually_read_lines": 370,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-QUIMB-RAND",
+      "actual_scope": "Generator handler,uniform choice,Rademacher real versus complex support,seed setup,fill factory and normal Hermitian construction inspected. Finite PRNG is abstracted by an ideal IID law,not certified independent bits.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "jcmgray/quimb:quimb/tensor/array_ops.py",
+      "repository": "jcmgray/quimb",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "source_path": "quimb/tensor/array_ops.py",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/quimb/tensor/array_ops.py",
+      "at": "2026-10-26T03:34:01.011708+00:00",
+      "bytes": 19817,
+      "git_blob": "13ccee8c179bd43ae2b8d43cc35bbe150aa0b18b",
+      "git_blob_sha1_verified": true,
+      "sha256": "46d700ec14d797a0cf67661e798c77fd9e8687e423dbd8ba2f8c04782e8a0ee9",
+      "lines": 724,
+      "actually_read_ranges": [
+        [
+          351,
+          372
+        ]
+      ],
+      "actually_read_lines": 22,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-QUIMB-ARRAYOPS",
+      "actual_scope": "sensibly_scale norm-based scaling inspected;normalization does not restore a changed sign distribution.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "jcmgray/quimb:tests/test_tensor/test_tensor_builder.py",
+      "repository": "jcmgray/quimb",
+      "commit": "1b64353d9e562529694e71abf40a2861ee8dcdfa",
+      "source_path": "tests/test_tensor/test_tensor_builder.py",
+      "url": "https://raw.githubusercontent.com/jcmgray/quimb/1b64353d9e562529694e71abf40a2861ee8dcdfa/tests/test_tensor/test_tensor_builder.py",
+      "at": "2026-10-26T03:34:01.861544+00:00",
+      "bytes": 28244,
+      "git_blob": "577e70b49e203594a26eabc871edde1944e5d68f",
+      "git_blob_sha1_verified": true,
+      "sha256": "fa81e3efe960f441a815b6445444150db9b3d4b6b7e6507a8dc025d4655bc8ba",
+      "lines": 837,
+      "actually_read_ranges": [
+        [
+          815,
+          837
+        ]
+      ],
+      "actually_read_lines": 23,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-QUIMB-TEST",
+      "actual_scope": "Actual normal-default TN2D symmetric caller tests contraction and permutation invariance;no Rademacher branch,rank requirement or rejection consumer established.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:LICENSE.md",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "LICENSE.md",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/LICENSE.md",
+      "at": "2026-10-26T03:34:02.580827+00:00",
+      "bytes": 1318,
+      "git_blob": "d8c0c18e823fa18cf5b42a2427a9a1fb533f1935",
+      "git_blob_sha1_verified": true,
+      "sha256": "5c9d473ee9f07c7656a1436378cd012d8c434535c825cf0f1798efd628bc089e",
+      "lines": 23,
+      "actually_read_ranges": [
+        [
+          1,
+          23
+        ]
+      ],
+      "actually_read_lines": 23,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-LICENSE",
+      "actual_scope": "MIT license selected in full;no third-party full source republished.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:README.md",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "README.md",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/README.md",
+      "at": "2026-10-26T03:34:03.270611+00:00",
+      "bytes": 9124,
+      "git_blob": "ff6c19213c6f993424d473c45372424f4aac20e0",
+      "git_blob_sha1_verified": true,
+      "sha256": "93c7738c924de59b8796a0ecc580dfc089df08972b72f23af06820ac720538da",
+      "lines": 202,
+      "actually_read_ranges": [
+        [
+          1,
+          92
+        ],
+        [
+          126,
+          141
+        ]
+      ],
+      "actually_read_lines": 108,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-README",
+      "actual_scope": "Selected Gaussian/eigenvalue API and sampling documentation;README aliases not substituted for current code.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:Project.toml",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "Project.toml",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/Project.toml",
+      "at": "2026-10-26T03:34:03.942590+00:00",
+      "bytes": 772,
+      "git_blob": "4b628ed015b169e33445135b319306038ad944c2",
+      "git_blob_sha1_verified": true,
+      "sha256": "e04d78d6e11950d3e9ea512a4b36a14681e9a2c4750337760d9ec18f08867415",
+      "lines": 26,
+      "actually_read_ranges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "actually_read_lines": 26,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-PROJECT",
+      "actual_scope": "Full Project.toml:version0.5.6 and Julia1.10 compatibility;no package installed.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:src/RandomMatrices.jl",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "src/RandomMatrices.jl",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/src/RandomMatrices.jl",
+      "at": "2026-10-26T03:34:04.615000+00:00",
+      "bytes": 1444,
+      "git_blob": "3b3dee346cacaacef50ff534472bfc96cc80cad5",
+      "git_blob_sha1_verified": true,
+      "sha256": "7784b7dee403ae5905701b1c1b4b6ae109c644d3f1fac165bb53f99589cce13d",
+      "lines": 53,
+      "actually_read_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "actually_read_lines": 53,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-MODULE",
+      "actual_scope": "Full module imports/includes and selected exports;not a whole-library absence claim.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:src/GaussianEnsembles.jl",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "src/GaussianEnsembles.jl",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/src/GaussianEnsembles.jl",
+      "at": "2026-10-26T03:34:05.435472+00:00",
+      "bytes": 14068,
+      "git_blob": "6ae30418308c62c450fac2a93e6359001af2d523",
+      "git_blob_sha1_verified": true,
+      "sha256": "b2b0bf5cb513e307b726adb4074c3f848c7c968819fa1480ed678556ece5556b",
+      "lines": 447,
+      "actually_read_ranges": [
+        [
+          1,
+          140
+        ]
+      ],
+      "actually_read_lines": 140,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-GAUSSIAN",
+      "actual_scope": "Dense GaussianHermite/Wigner field-index sampling and eigenvalue/tridiagonal context;real branch continuous Gaussian symmetrization,not symmetric Bernoulli. Dyson beta is not Bernoulli bias.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "JuliaMath/RandomMatrices.jl:test/GaussianEnsembles.jl",
+      "repository": "JuliaMath/RandomMatrices.jl",
+      "commit": "0fde454787f3ccbfcef251e383c12ceb9b80380c",
+      "source_path": "test/GaussianEnsembles.jl",
+      "url": "https://raw.githubusercontent.com/JuliaMath/RandomMatrices.jl/0fde454787f3ccbfcef251e383c12ceb9b80380c/test/GaussianEnsembles.jl",
+      "at": "2026-10-26T03:34:06.133992+00:00",
+      "bytes": 1644,
+      "git_blob": "ce92b8e66d140ab04e855f3306a1c646103645ef",
+      "git_blob_sha1_verified": true,
+      "sha256": "a05935714d459e359ac6c3fcda9ecfcd11e8b1e7f9e8e19cf3f16cd11b07a36e",
+      "lines": 65,
+      "actually_read_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "actually_read_lines": 65,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-JULIA-TEST",
+      "actual_scope": "Full selected Gaussian sampling tests;shape/type/eigenvalue interfaces inspected,not executed.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "reservoirpy/reservoirpy:LICENSE",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/LICENSE",
+      "at": "2026-10-26T03:34:06.811369+00:00",
+      "bytes": 1066,
+      "git_blob": "3e47148f1b1e087a16a89387a7340b26685b04b1",
+      "git_blob_sha1_verified": true,
+      "sha256": "1c8e82b42d8a3eb1fcd0cb2fd5929b88db76f9a9defc5075bd81137562c52cef",
+      "lines": 21,
+      "actually_read_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "actually_read_lines": 21,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-LICENSE",
+      "actual_scope": "MIT license selected in full;no third-party full source republished.",
+      "code_executed": false,
+      "whole_file_read": true
+    },
+    {
+      "key": "reservoirpy/reservoirpy:reservoirpy/mat_gen.py",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "reservoirpy/mat_gen.py",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/mat_gen.py",
+      "at": "2026-10-26T03:34:07.836355+00:00",
+      "bytes": 47935,
+      "git_blob": "da1748eac25edd44a540550b21c16a7120ec7e88",
+      "git_blob_sha1_verified": true,
+      "sha256": "953cee31a5ee7209df7aa3f6c9e1c5da272f418e87423f1380cb8038f8dee406",
+      "lines": 1327,
+      "actually_read_ranges": [
+        [
+          143,
+          330
+        ],
+        [
+          466,
+          584
+        ],
+        [
+          727,
+          797
+        ]
+      ],
+      "actually_read_lines": 378,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-MATGEN",
+      "actual_scope": "Initializer scaling,independent Bernoulli scalar choice,sparse/fixed-degree/dense shapes and Bernoulli factory inspected. No mirroring in selected generator;actual spectral-radius scaling is not exact-rank rejection.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "reservoirpy/reservoirpy:reservoirpy/nodes/reservoir.py",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "reservoirpy/nodes/reservoir.py",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/nodes/reservoir.py",
+      "at": "2026-10-26T03:34:08.515560+00:00",
+      "bytes": 9466,
+      "git_blob": "03ce5efa1c3dd2e2c9a3a6bf98f50ed5b114cd95",
+      "git_blob_sha1_verified": true,
+      "sha256": "82e97a95bc425094a49a3ee7573467e7c80c198b8965551bbd205958ed6d7078",
+      "lines": 250,
+      "actually_read_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          145,
+          250
+        ]
+      ],
+      "actually_read_lines": 236,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-NODE",
+      "actual_scope": "Reservoir init and recurrent step selected ranges:default normal W,sparse connectivity,rectangular Bernoulli Win;callable W can be square but not thereby symmetric;matrix-vector recurrence requires no inverse.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "reservoirpy/reservoirpy:reservoirpy/observables.py",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "reservoirpy/observables.py",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/observables.py",
+      "at": "2026-10-26T03:34:09.329736+00:00",
+      "bytes": 17725,
+      "git_blob": "4e4e7956d962d0c1672aff19b798af056a4942ec",
+      "git_blob_sha1_verified": true,
+      "sha256": "75e3ab6e80c035757673c4f23f5f3818c2e2085ea12158399ee97791bc5b2a03",
+      "lines": 551,
+      "actually_read_ranges": [
+        [
+          46,
+          124
+        ],
+        [
+          484,
+          551
+        ]
+      ],
+      "actually_read_lines": 147,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-OBSERVABLES",
+      "actual_scope": "spectral_radius computes max absolute eigenvalue;effective variant returns spectral_radius(lr*W+(1-lr)I),not a least singular value or condition number. Actual code used where doc wording differs.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "reservoirpy/reservoirpy:reservoirpy/tests/test_mat_gen.py",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "reservoirpy/tests/test_mat_gen.py",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/tests/test_mat_gen.py",
+      "at": "2026-10-26T03:34:10.177905+00:00",
+      "bytes": 16145,
+      "git_blob": "74e5faf001436bf24387a8117c52f310a86250eb",
+      "git_blob_sha1_verified": true,
+      "sha256": "4cbd68563f5d8b434a5a5dbb3aca34c33f3709269c6b84ad6f26a0ff9d0a7301",
+      "lines": 488,
+      "actually_read_ranges": [
+        [
+          1,
+          143
+        ],
+        [
+          164,
+          217
+        ]
+      ],
+      "actually_read_lines": 197,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-MATGEN-TEST",
+      "actual_scope": "Selected generation/scaling/type/connectivity/seed tests;not executed and not a proof of rank demand.",
+      "code_executed": false,
+      "whole_file_read": false
+    },
+    {
+      "key": "reservoirpy/reservoirpy:reservoirpy/nodes/tests/test_reservoir.py",
+      "repository": "reservoirpy/reservoirpy",
+      "commit": "1fc11351bfba7f4b9a35464a1b99d804a5d6ccea",
+      "source_path": "reservoirpy/nodes/tests/test_reservoir.py",
+      "url": "https://raw.githubusercontent.com/reservoirpy/reservoirpy/1fc11351bfba7f4b9a35464a1b99d804a5d6ccea/reservoirpy/nodes/tests/test_reservoir.py",
+      "at": "2026-10-26T03:34:10.843898+00:00",
+      "bytes": 4894,
+      "git_blob": "58db463f8f5dc8e54243ee89a8be5710bc779f5a",
+      "git_blob_sha1_verified": true,
+      "sha256": "98538633e69888f4059a338fb6adc39ed990d6ac48161ba5cf368790e7fa9736",
+      "lines": 193,
+      "actually_read_ranges": [
+        [
+          1,
+          140
+        ]
+      ],
+      "actually_read_lines": 140,
+      "reading_scope": "Selected source ranges; downloading a complete file is not complete-file reading",
+      "node_id": "LIT-239-RESERVOIR-NODE-TEST",
+      "actual_scope": "Selected reservoir setup/activation/shape/matrix-input checks;not executed;no claim of reading remainder.",
+      "code_executed": false,
+      "whole_file_read": false
+    }
+  ],
+  "actually_read_lines": 2522,
+  "reading_note": "Whole download hashes and selected reading ranges are distinct. No project installation/clone or source-code execution. External full source excluded from archives.",
+  "qualified_ensemble_conditions": [
+    "Exactly two raw equal-size indices (D,D);real floating dtype;dist=rademacher,loc=0,scale=1;standard fill function;random diagonal retained.",
+    "Probability is under the ideal independent-uniform RNG model before value-dependent selection/rejection. A fixed seed is deterministic;no finite-PRNG independence certification.",
+    "For TN2D only selected raw two-index corner tensors of an ordinary open lattice Lx,Ly>=2;not a full contracted network or arbitrary higher-order flattening.",
+    "Theorem supplies asymptotic exact singularity 2^(-D+o(D));no effective finite threshold,conditioning,runtime or contraction-quality statement.",
+    "Actual invertibility demand,law-preservation requirement,finite risk decision and incremental value remain unestablished."
+  ],
+  "actual_contract_comparisons": [
+    {
+      "project": "quimb",
+      "producer_qualified": true,
+      "scope": "Only explicitly parameterized real raw two-index Rademacher branch;not normal-default actual test",
+      "actual_output": "Tensor contraction/permutation invariance in inspected caller",
+      "invertibility_demand_identified": false,
+      "decision": "Retain conditional rank-risk metadata mapping;consumer and incremental benefit unqualified"
+    },
+    {
+      "project": "RandomMatrices.jl",
+      "producer_qualified": false,
+      "scope": "Selected GaussianHermite/Wigner and eigenvalue/tridiagonal APIs",
+      "actual_output": "Continuous Gaussian random matrices/eigenvalues",
+      "decision": "Does not match selected discrete ensemble;no universal library absence claim"
+    },
+    {
+      "project": "ReservoirPy",
+      "producer_qualified": false,
+      "scope": "Selected Bernoulli generator,sparse/dense arrays,reservoir init/recurrent step and observables",
+      "actual_output": "Recurrent matrix-vector dynamics with optional eigenvalue-radius scaling",
+      "decision": "No mirrored symmetry or inverse demand established;rectangular input and conditioning/eigenvalue targets kept separate"
+    }
+  ],
+  "baselines": [
+    "Exact algebraic rank screening/rejection answers invertibility for each realized integer sign matrix;charge generation and rejected attempts,not only accepted draws.",
+    "Tolerance-aware SVD/QR and least-singular-value criteria address numerical stability if that is the actual request;exact nonsingularity is not an equivalent output.",
+    "Old CJMS exp(-cD) already gives exponential decay for the same uniform symmetric law;source-selected2021v2 scope retained separately from2025 publication bytes.",
+    "Guaranteed-invertible orthogonal/unitary or structured choices only when a changed initializer law and its different symmetry are permitted by the consumer."
+  ],
+  "gaps": [
+    "No inspected caller requires invertibility of the qualified raw two-index matrices;quimb actual selected test uses normal law and contracts tensors.",
+    "No fixed operational D range,number/selection of matrices,allowed failure probability,loss/cost,seed policy or law-preservation requirement supplied.",
+    "No independent finite-D bound/calibration,domain judge or same-output costed benchmark admitted. Asymptotic rate cannot select a finite rejection budget.",
+    "Higher-order permutation-symmetric tensor flattening need not have independent upper-triangle entries;duplicate-row flattenings can be singular. No blanket TN-network guarantee.",
+    "Julia selected Wigner implementation is continuous Gaussian. ReservoirPy selected Bernoulli shape/sparsity/recurrent output is not a mirrored symmetric sign model;changes cannot be hidden under the same name.",
+    "Source C/full dependency chain unknown;both isolated roles are same-provider auxiliaries. Human classification/specification and independent provider remain pending.",
+    "Small-matrix frequencies or successful metadata parsing would not count as application-value evidence. No numerical/symbolic experiment was run."
+  ],
+  "reviews": "data/provenance/reviews/APP-239-01-isolated-roles.json.gz",
+  "candidate_id": "APP-239-01",
+  "candidate_decision": "Admit one narrow conditional near analogy;implemented law exists and exact failure event is typed. Real rank-sensitive consumer and utility test not yet admitted.",
+  "initial_checks_added": 0,
+  "scientific_experiments_added": 0,
+  "claim_of_new_mathematics": false,
+  "stop_decision": "Three-project cap reached;stop expanding similar libraries. Finish package QA then rotate towardF238 unread companions/other lowcoverage before retro039.",
+  "prior_weekly_human_sample": "Existing W44 sample remains pending;adding candidate updates pending grading population,not completed reviews."
+}

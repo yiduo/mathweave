@@ -524,17 +524,18 @@
     }
   ],
   "scientific_experiment": false,
-  "status": "in_progress_publication_checkpoint",
-  "updated_at": "2026-10-26T03:47:38.811077+00:00",
+  "status": "completed",
+  "updated_at": "2026-10-26T04:15:11.421081+00:00",
   "downloaded_bytes": 394010,
   "actually_read_lines": 2522,
   "source_files_downloaded": 17,
   "numerical_runs": 0,
-  "canonical_curation_complete": false,
-  "candidate_admitted": false,
+  "canonical_curation_complete": true,
+  "candidate_admitted": true,
   "counts_unchanged": {
-    "candidates": 44,
-    "preliminary_application_checks": 13
+    "preliminary_application_checks": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13
   },
   "provisional_findings": [
     "quimb raw ndim=2 real unshifted unit-scale Rademacher symmetric initializer matches independent upper-triangle signs including random diagonal under the ideal IID generator interpretation. Standard parameters and selected corner tensors only.",
@@ -562,8 +563,13 @@
     },
     "classification": "Auxiliary same-provider opinions, not external application evidence or human acceptance."
   },
-  "interruption_reason": "Owner requested current-progress GitHub publication before continuing research.",
-  "next_action": "Finish WP109 canonical demand records and conditional-card fields, preserve isolated role evidence, then full graph QA. Do not redownload the 17 hash-pinned files or run a small-matrix frequency check as theorem proof.",
-  "temporary_sources": "/private/tmp/ai-paper-WP109/sources; hash-check before use; no external full-code copies included in publication.",
-  "metadata_channel": "GitHub connector branch/tree GET;minimal commit/path/blob metadata;no personal commit metadata retained"
+  "interruption_reason": null,
+  "next_action": "WP110 read selected F238 source bodies;do not rerun WP109 curator or numerical frequency test",
+  "temporary_sources": "Acquired code bodies will be hash-verified and removed by storage close;retain pinned URLs/hashes and actual selected ranges in canonical demand ledger;do not redownload just to repeat this package.",
+  "metadata_channel": "GitHub connector branch/tree GET;minimal commit/path/blob metadata;no personal commit metadata retained",
+  "candidate_id": "APP-239-01",
+  "candidate_count_after": 45,
+  "reading_coverage_unchanged": true,
+  "canonical_ledger": "data/provenance/demand/F-239-symmetric-sign-contracts.json",
+  "package_quality": "reports/reproducibility/20261026-symmetric-consumers"
 }

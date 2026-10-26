@@ -2,9 +2,9 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；58族有实际阅读记录；54份族分析、53份全文草稿；44候选、13实际检验。
+372族登记；58族有实际阅读记录；54份族分析、53份全文草稿；45候选、13实际检验。
 
-其中19候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
+其中19候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。11候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
 方法契约字段仅作结构盘点；语义完整性、最强旧方法、人审和完整谱系仍须实际审核。点击ID进入图谱并查看原始来源；未读标题来自目录，不计阅读。
 
@@ -40,6 +40,7 @@
 | [APP-231-01](index.html#APP-231-01) | F-231 | 尚未运行 | 4 | [PART-231-FINITE-QUERY-ORACLE-GATE](index.html#PART-231-FINITE-QUERY-ORACLE-GATE)、[PART-231-QUERY-CONSUMER-GATE](index.html#PART-231-QUERY-CONSUMER-GATE) | [卡片](../cards/APP-231-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-238-01](index.html#APP-238-01) | F-238 | 有run；按原预测结果 | 0 | 未显式标记 | [卡片](../cards/APP-238-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-238-02](index.html#APP-238-02) | F-238 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-238-02.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-239-01](index.html#APP-239-01) | F-239 | 尚未运行 | 3 | [PROB-239-RANK-CONSUMER-GATE](index.html#PROB-239-RANK-CONSUMER-GATE) | [卡片](../cards/APP-239-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-243-01](index.html#APP-243-01) | F-243 | 尚未运行 | 3 | [PART-243-CPT-COMPILER-GATE](index.html#PART-243-CPT-COMPILER-GATE)、[PART-243-SPARSE-ENCODING-GATE](index.html#PART-243-SPARSE-ENCODING-GATE) | [卡片](../cards/APP-243-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-255-01](index.html#APP-255-01) | F-255 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-255-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-256-01](index.html#APP-256-01) | F-256 | 尚未运行 | 4 | 未显式标记 | [卡片](../cards/APP-256-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -294,7 +295,7 @@
 | [F-236 · The exact factor-of-IID threshold for free Ising spins on trees.](index.html#F-236) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-237 · The three-quarter exponent for honeycomb self-avoiding walk.](index.html#F-237) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-238 · Optimal logarithmic mixing of the Thorp shuffle.](index.html#F-238) | Probability and statistical mechanics | 有选读记录 | [局部分析](../families/F-238.md) | 96／39 | 2 |
-| [F-239 · Sharp singularity rates for symmetric random sign matrices.](index.html#F-239) | Probability and statistical mechanics | 有选读记录 | [全文草稿](../families/F-239.md) | 68／16 | 0 |
+| [F-239 · Sharp singularity rates for symmetric random sign matrices.](index.html#F-239) | Probability and statistical mechanics | 有选读记录 | [全文草稿](../families/F-239.md) | 68／20 | 1 |
 | [F-240 · Shelah's eventual categoricity and the prescribed-threshold obstruction.](index.html#F-240) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-241 · Rigidity of the Turing degrees.](index.html#F-241) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-242 · Single-fold Diophantine representations and undecidability under an at-most-one-solution promise.](index.html#F-242) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

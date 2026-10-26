@@ -1,5 +1,5 @@
 {
-  "saved_at": "2026-10-26T03:47:38.811077+00:00",
+  "saved_at": "2026-10-26T04:33:28.776223+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "/Users/smzdm/.codex/attachments/9889aa5b-5623-4db2-8f84-3b34de21114d/goal-objective.md",
   "latest_retrospective": "reports/retrospectives/038-source-guarantees-and-actual-consumers.md",
@@ -112,16 +112,17 @@
     "WP-105",
     "WP-106",
     "WP-107",
-    "WP-108"
+    "WP-108",
+    "WP-109"
   ],
-  "work_packages_since_last_retrospective": 1,
-  "retrospective_due_after": "WP110thenretro039;earlier major evidence or two no-information packages",
+  "work_packages_since_last_retrospective": 2,
+  "retrospective_due_after": "WP110 thenmandatoryglobal039;earliermajorevidence/dataissue",
   "metrics": {
-    "nodes": 7689,
-    "research_nodes": 4737,
-    "edges": 21698,
-    "citations_checked": 8347,
-    "candidate_connections": 44,
+    "nodes": 7735,
+    "research_nodes": 4762,
+    "edges": 21817,
+    "citations_checked": 8394,
+    "candidate_connections": 45,
     "externally_checked_cards": 13,
     "effective_leads": 5,
     "distinct_validation_hypotheses": 13,
@@ -143,7 +144,7 @@
   },
   "running_research_experiments": [],
   "running_preview": {
-    "status": "No active projectpreview process observed at recovery;notrestarted",
+    "status": "No active project preview;not restarted",
     "pid": null
   },
   "must_not_repeat": [
@@ -540,7 +541,9 @@
     "WP1043projectcap reached:Sage/Kenzoactual6files1597lines,OriginalCHomPofficialdocsonly because2primaryTLS+1mirrorfailure. No realcoarseboundconsumer/completeexactdiagram/qbatch. APP30401v2qualificationonly,prediction/plan/rolesunchanged;do notq3toycounts. 221/325existingexactreplaypassed,notnewhypotheses. Retro037done;F174onlyREADME/inventory,no sourcecoverage. No routineGitHubpush.",
     "WP105all32TeX7384+582Bibactuallyread;3selectedoldoriginals1635535B/6PDFpixels. Do notrerun curation/reacquirePDFs or count sourceoldsigning13/current40/costcorollary as projectdiscovery.8bibliographyaliases merged and104lexicalreferences distinguished from manuallyqualifiedproofdependencies;exact firstdraft retained. No candidate/experiment added.",
     "WP106 bounded3project cap reached:SymPy/Qiskit/CVXPY7sourcefiles1350selectedlines;actual outputs weightedLDL/floatKraus/numericquadform,not requiredexactunweightedrationalcolumns. Noeligiblebatch/judge/benefit,candidateor science run. Do not repeatAPI403/TLS or rerun curator afterprewrite IDfailure;two underscoreIDs corrected,exact firstdraft retained. RotateF360,thenretro038.",
-    "WP107 allF36015sourcefiles5013TeX+389Bib alreadyread/hashbound;do not rerun one-shotcurator/reacquire fourPDFs or claim55bindings independent(8restated). Firstcount56 and corruptSHA-editfailed BEFOREcanonicalwrites,logsarchived. MainB2/53auxC,finiteformal localinjectivity not arbitrarypotential;no explicitHolderalpha/gridrate. Two representative replays332/374 alreadymatch thisretro."
+    "WP107 allF36015sourcefiles5013TeX+389Bib alreadyread/hashbound;do not rerun one-shotcurator/reacquire fourPDFs or claim55bindings independent(8restated). Firstcount56 and corruptSHA-editfailed BEFOREcanonicalwrites,logsarchived. MainB2/53auxC,finiteformal localinjectivity not arbitrarypotential;no explicitHolderalpha/gridrate. Two representative replays332/374 alreadymatch thisretro.",
+    "Publication8700f8b verified;no duplicate repo/rename/routine repush. WP10917pinnedfiles already acquired and selected ranges read;resume curation rather than redownload. No scientific experiment was run.",
+    "WP1093projectcap reached,17sourcehashes/ranges recorded;do not rerun one-shotcurate.py/explicit_gate.py or acquire more similar libraries. APP23901 isconditional,not an actualcheck. Prior andexplicitgate QA retained."
   ],
   "resume_commands": [
     "Readgoal/AGENTS/charter/roadmap/status/checkpoint/backlog/retro038 and WP108quality/storage;checkdisk/processes first.",
@@ -550,64 +553,91 @@
     "CurrentWP108 and postpublicationreceipts are localonly;do not automaticallypush toGitHub."
   ],
   "next_work_package": {
-    "id": "WP-109",
+    "id": "WP-110",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Qualify actual symmetric discrete-matrix consumers, their diagonal/bias law, exact-rank versus conditioning output, and strongest old baselines before a new application hypothesis or finite experiment",
-    "selection_reason": "WP108 resolves asymptotic/source interfaces but leaves a real finite consumer and incremental benefit uncertain. A bounded reverse-demand package alternates coverage with application work; the materially different alternative is F238 eight unread companions or another low-coverage subject. No requirement for production maturity is imposed on retaining conditional mappings.",
+    "objective": "Actually read and qualify two still-unread F238 companion manuscripts:random coordinate frames/partial permutation laws and partial information-to-Fourier interfaces;preserve complete12-manuscript family scope and remaining gaps",
+    "selection_reason": "Three F239 consumer projects identify a qualified producer but no actual rank decision,so stop same-law search. F238 remains4/12read despite existing small-deck checks;the coordinate-frame and Fourier transfer seam can expose omitted conditions and reusable parts. Alternative is unread operator-algebra/dynamical-family coverage;choose this bounded closure gap now,then compare again in mandatory039,without calling6/12 a completedfamily.",
     "inputs": [
-      "F-239",
-      "ANALYSIS-F-239",
-      "reports/symmetric-sign-F239-reading.md",
-      "data/provenance/readings/F-239.json",
+      "F-238",
+      "P-33d1bc7e07c70610",
+      "P-d7bc9b13ce9fc85f",
+      "state/reading-progress/WP-110.json",
       "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
     ],
-    "resource_limit": "Atmost3originalpublicsoftware/applicationprojects,<=6MiBnewbodydownloads;pinselectedversions/readactualcallers. Noinstall/clone or mathwrite. Reuseoldsourceonlywithmatchinghash. Compress ownoutputs andcleanthirdpartytemporarycopies. No numerical run before independent preregistration.",
-    "acceptance": "Identify actual random symmetric sign/bit ensemble including diagonal,independence andfixedbias;target exactsingularity/conditionnumber/solve/rejection output andfinitebudget. Compare existing exact/numerical rank,least-singular bounds and oldexponential guarantee. Retain defensible conditional candidate even without matureproductioncaller;any new hypothesis needs isolatedskeptic/defender auxiliary review,not secondprovider/humans. Fullgraph/hash/FK/gates/impact/export/core/no-math QA for graphchanges.",
-    "stop_or_redirect": "Stop after3primaryprojects or earlier resolved premise gap. Do not equate fixedzero graphdiagonal,continuousGOE,PSD or rectangular independentrows withthe read ensemble;do not derive a finite threshold fromo(n). If no executable judge,record scopedgaps and rotate WP110 towardF238unreadcompanions orother lowcoverage;no exhaustive library expansion or calibrated smallmatrixfrequency check.",
-    "created_at": "2026-10-26T03:16:51.996837+00:00",
-    "retrospective_due": "AfterWP110,third substantive package since038;earliermajor evidence or two no-information packages",
+    "source_inventory_only": {
+      "manuscripts": 2,
+      "tex_files": 38,
+      "tex_lines": 10336,
+      "actual_scope": "Two README files and filesystem/hash inventory only;zero TeX body reading claimed. F238current4/12coverageunchanged."
+    },
+    "resource_limit": "Read-only fixedmath;read complete selected source/include/reference closure,not clone/install. Atmost4necessaryoriginals/8MiBnewbodydownloads,normalTLS,existingruntimesonly. Compress ownoutputs androundtriphash beforecleanup. No numeric/symbolicexperiment before independent executable specification.",
+    "acceptance": "Bind all selected main/auxiliary results with manuscript+file qualification,coordinate choices/reveals/frame symmetries and exact constants/quantifiers. Compare actual historical/formal scopes and endpoints,not generic O(logn) or small-deck inference. Preserve already-read4manuscripts and8unreadscope untilnewreadingactuallydone;never callselected2or6/12fullfamily. Ten-domain/cross-family attempts may yield no candidate;newhypothesis gets isolatedauxiliaryroles,not independentprovider/human. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
+    "stop_or_redirect": "Do not prove new Fourier inequalities or enlarge shuffle small-deck frequencies as fulltheorem/applicationvalidation. If transfer premises or effective constructor are unavailable,retain conditional routes/gaps and compare a materiallydifferent lowcoverage subject at039.",
+    "created_at": "2026-10-26T04:08:53.951075+00:00",
+    "retrospective_due": "Mandatory039 afterWP110,the third substantive package WP108-110 since038;earliermajorcounterevidence/dataissue",
     "github_push": false,
-    "started_at": "2026-10-26T03:31:00.153989+00:00",
-    "execution_journal": "state/reading-progress/WP-109.json"
+    "execution_journal": "state/reading-progress/WP-110.json",
+    "started_at": "2026-10-26T04:17:34.845201+00:00",
+    "execution_progress": {
+      "source_files_fully_read": 36,
+      "source_lines_read": 10014,
+      "selected_total_tex_lines": 10336,
+      "new_manuscripts_fully_read": 1,
+      "family_canonical_qualified_manuscripts": "4/12",
+      "actual_bodies_read_including_uncurated": "5/12",
+      "remaining_selected_lines": 322,
+      "qualification_status": "incomplete; no new canonical bindings or application checks"
+    }
   },
-  "release_state": "PublicMathWeave 48f1e64 throughWP107/retro038 plusWP108incompletejournal APIverified1899files/math0;7anonymouspublicbytechecks;CI completed/success",
-  "last_quality_evidence": "reports/reproducibility/20261026-symmetric-sign",
+  "release_state": "Owner-requested publication batch prepared locally; old verified public commit8700f8b retained until actual push and independent readback.",
+  "last_quality_evidence": "reports/reproducibility/20261026-symmetric-consumers",
   "previous_goal_turn_classification": {
     "classification": "progress",
-    "evidence": [
-      "6463835",
-      "data/provenance/readings/F-239.json",
-      "reports/reproducibility/20261026-symmetric-sign/storage.json"
-    ],
-    "scope": "WP108curated68sourcebindings16methods,4selectedoriginals/8pages;69core/fullgraph/12impacts/no-mathpass;archivehashes verified now. Not wholeprojectcompletion."
+    "evidence": "Previous WP109completed/local5ecdfdd and405linereadingcommit6889188 verified. CurrentturnfirstF238selectedbodyall18TeX5645read,second9files1478read;no canonicalcoveragepromotionyet."
   },
   "active_work_package": {
-    "id": "WP-109",
+    "id": "WP-110",
     "priority": 1,
     "status": "in_progress",
     "parent_task": "WP-006",
-    "objective": "Qualify actual symmetric discrete-matrix consumers, their diagonal/bias law, exact-rank versus conditioning output, and strongest old baselines before a new application hypothesis or finite experiment",
-    "selection_reason": "WP108 resolves asymptotic/source interfaces but leaves a real finite consumer and incremental benefit uncertain. A bounded reverse-demand package alternates coverage with application work; the materially different alternative is F238 eight unread companions or another low-coverage subject. No requirement for production maturity is imposed on retaining conditional mappings.",
+    "objective": "Actually read and qualify two still-unread F238 companion manuscripts:random coordinate frames/partial permutation laws and partial information-to-Fourier interfaces;preserve complete12-manuscript family scope and remaining gaps",
+    "selection_reason": "Three F239 consumer projects identify a qualified producer but no actual rank decision,so stop same-law search. F238 remains4/12read despite existing small-deck checks;the coordinate-frame and Fourier transfer seam can expose omitted conditions and reusable parts. Alternative is unread operator-algebra/dynamical-family coverage;choose this bounded closure gap now,then compare again in mandatory039,without calling6/12 a completedfamily.",
     "inputs": [
-      "F-239",
-      "ANALYSIS-F-239",
-      "reports/symmetric-sign-F239-reading.md",
-      "data/provenance/readings/F-239.json",
+      "F-238",
+      "P-33d1bc7e07c70610",
+      "P-d7bc9b13ce9fc85f",
+      "state/reading-progress/WP-110.json",
       "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
     ],
-    "resource_limit": "Atmost3originalpublicsoftware/applicationprojects,<=6MiBnewbodydownloads;pinselectedversions/readactualcallers. Noinstall/clone or mathwrite. Reuseoldsourceonlywithmatchinghash. Compress ownoutputs andcleanthirdpartytemporarycopies. No numerical run before independent preregistration.",
-    "acceptance": "Identify actual random symmetric sign/bit ensemble including diagonal,independence andfixedbias;target exactsingularity/conditionnumber/solve/rejection output andfinitebudget. Compare existing exact/numerical rank,least-singular bounds and oldexponential guarantee. Retain defensible conditional candidate even without matureproductioncaller;any new hypothesis needs isolatedskeptic/defender auxiliary review,not secondprovider/humans. Fullgraph/hash/FK/gates/impact/export/core/no-math QA for graphchanges.",
-    "stop_or_redirect": "Stop after3primaryprojects or earlier resolved premise gap. Do not equate fixedzero graphdiagonal,continuousGOE,PSD or rectangular independentrows withthe read ensemble;do not derive a finite threshold fromo(n). If no executable judge,record scopedgaps and rotate WP110 towardF238unreadcompanions orother lowcoverage;no exhaustive library expansion or calibrated smallmatrixfrequency check.",
-    "created_at": "2026-10-26T03:16:51.996837+00:00",
-    "retrospective_due": "AfterWP110,third substantive package since038;earliermajor evidence or two no-information packages",
+    "source_inventory_only": {
+      "manuscripts": 2,
+      "tex_files": 38,
+      "tex_lines": 10336,
+      "actual_scope": "Two README files and filesystem/hash inventory only;zero TeX body reading claimed. F238current4/12coverageunchanged."
+    },
+    "resource_limit": "Read-only fixedmath;read complete selected source/include/reference closure,not clone/install. Atmost4necessaryoriginals/8MiBnewbodydownloads,normalTLS,existingruntimesonly. Compress ownoutputs androundtriphash beforecleanup. No numeric/symbolicexperiment before independent executable specification.",
+    "acceptance": "Bind all selected main/auxiliary results with manuscript+file qualification,coordinate choices/reveals/frame symmetries and exact constants/quantifiers. Compare actual historical/formal scopes and endpoints,not generic O(logn) or small-deck inference. Preserve already-read4manuscripts and8unreadscope untilnewreadingactuallydone;never callselected2or6/12fullfamily. Ten-domain/cross-family attempts may yield no candidate;newhypothesis gets isolatedauxiliaryroles,not independentprovider/human. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
+    "stop_or_redirect": "Do not prove new Fourier inequalities or enlarge shuffle small-deck frequencies as fulltheorem/applicationvalidation. If transfer premises or effective constructor are unavailable,retain conditional routes/gaps and compare a materiallydifferent lowcoverage subject at039.",
+    "created_at": "2026-10-26T04:08:53.951075+00:00",
+    "retrospective_due": "Mandatory039 afterWP110,the third substantive package WP108-110 since038;earliermajorcounterevidence/dataissue",
     "github_push": false,
-    "started_at": "2026-10-26T03:31:00.153989+00:00",
-    "execution_journal": "state/reading-progress/WP-109.json"
+    "execution_journal": "state/reading-progress/WP-110.json",
+    "started_at": "2026-10-26T04:17:34.845201+00:00",
+    "execution_progress": {
+      "source_files_fully_read": 36,
+      "source_lines_read": 10014,
+      "selected_total_tex_lines": 10336,
+      "new_manuscripts_fully_read": 1,
+      "family_canonical_qualified_manuscripts": "4/12",
+      "actual_bodies_read_including_uncurated": "5/12",
+      "remaining_selected_lines": 322,
+      "qualification_status": "incomplete; no new canonical bindings or application checks"
+    }
   },
   "publication_work": {
-    "status": "preparing_explicit_owner_batch",
+    "status": "published_verified_ci_success",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/mathweave",
     "official_math_excluded": true,
@@ -619,47 +649,62 @@
     "initial_remote_ci_failure_preserved": true,
     "macos_strict_replay_passed": true,
     "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-    "latest_public_commit": "48f1e64240d71d87a2b915a800acf2490274fc12",
+    "latest_public_commit": "8700f8b7dbb6e9ecd1f62e7d5e5794e81d99b30f",
     "latest_ci": [
       {
-        "id": 39934773725,
+        "checked_at": "2026-10-26T03:57:15.556Z",
+        "id": 40266152023,
         "name": "offline-core",
-        "head_sha": "48f1e64240d71d87a2b915a800acf2490274fc12",
+        "head_sha": "8700f8b7dbb6e9ecd1f62e7d5e5794e81d99b30f",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/39934773725",
-        "created_at": "2026-10-23T09:50:27Z",
-        "updated_at": "2026-10-23T09:53:49Z",
-        "run_attempt": 1
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40266152023",
+        "created_at": "2026-10-26T03:52:03Z",
+        "updated_at": "2026-10-26T03:56:20Z",
+        "scope": "69 core checks and13 scoped historical archive replays,graph export andpublication audit; excludes EXP076 Linux strict equality,optional NumPy,Lean,human,independent provider and research acceptance"
       }
     ],
-    "current_local_research_not_yet_pushed": "WP108 completed canonical records and WP109 unfinished qualification journal; current explicit owner request authorizes one reviewed publication batch.",
-    "synchronization_status": "prepared_not_pushed",
+    "current_local_research_not_yet_pushed": "This explicit owner-requested batch includes completed WP109 canonical work and incomplete WP110 reading checkpoint10014/10336 lines. Remote synchronization and CI pending.",
+    "synchronization_status": "preparing_owner_requested_batch",
     "pending_public_commit": null,
     "pending_public_tree": null,
     "active_push_exec_session": null,
-    "scientific_local_commit": "f59c4ef",
+    "scientific_local_commit": "c5f2c006e056ff42e734bfd017499264dc6e940e",
     "prepush_audit": "reports/reproducibility/20261023-mathweave/prepush-final-audit.json.gz",
-    "latest_public_tree": "cd1e66e30b7c0a6f4d1a780d99f130feedc110e5",
-    "latest_verification_receipt": "reports/reproducibility/20261023-mathweave/publication-verification.json.gz",
-    "latest_ci_receipt": "reports/reproducibility/20261023-mathweave/CI-observation.json.gz",
+    "latest_public_tree": "44c374cc51f282336c36ecfb05b6e9aaa01ee805",
+    "latest_verification_receipt": "reports/reproducibility/20261026-publication/publication-verification.json.gz",
+    "latest_ci_receipt": "reports/reproducibility/20261026-publication/CI-observation.json.gz",
     "update_policy": "User reaffirmed fewer GitHub updates2026-10-23:local routine checkpoints/commits,meaningful milestone batches only;publication_policy in configs/research.json;no scheduler.",
-    "receipt_storage_scope": "Local routinecheckpoint/commit;next meaningfulpublicationbatch only"
+    "receipt_storage_scope": "Routine localcommit/checkpoint;no automaticGitHubpush"
   },
   "recovery_commands": [
-    "Readgoal/AGENTS/charter/roadmap/status/checkpoint/backlog/retro038 and WP108quality/storage;checkdisk/processes first.",
-    "WP108 completecurrent-source draft,not fullfamily/history. Do not rerun one-shotcurator or scientificexperiments. Allsourcehashes/oldrecords preserved.",
-    "WP109:atmost3primary publicprojects,actual symmetricdiscrete ensemble+diagonal+bias/output/oldbaseline qualification;noinstall/clone/mathwrite and no finite-rate experiment before separate preregistration.",
-    "Continue F238eightunread companions orother lowcoverage if boundedconsumer qualification uninformative;mandatoryretro039afterWP110.",
-    "Read state/publication.json for actual publication receipt; do not infer success from a prepared batch. Resume WP109 curation from its reading-progress journal, with no new acquisition needed."
+    "Readgoal/AGENTS/charter/roadmap/status/checkpoint/backlog/latestretro038;verifydisk/processesandWP109quality/storagefirst.",
+    "Second manuscript sections/transfer-supplement.tex (229 lines), then references.tex (93 lines);322 lines remain. Historical/formal qualification, canonical bindings, graph QA and retrospective039 remain pending.",
+    "WP109 completedactualsourcequalification,not sourcefamily/history orapplicationvalidation. No newscientificexperiment;15archiveintegrity267members only. Do not rerun curator/experiment.",
+    "WP110:read bothselectedF238unreadsource/include/referenceclosures38TeX10336lines. Currentonly2READMEandinventoryread,no newbodycredit. Preserve12-manuscriptscope;afterpairwouldstill6/12,notfullfamily.",
+    "Compare actualselectedformal/historicalscopes,retainsourcequalifiers/frame/reveal/Fourierpremises andstrongoldbaselines. No scientific outputs before independent executable preregistration.",
+    "AfterWP110 mandatoryglobal039,compare materiallydifferent lowcoveragefamily/oldmethodnull.",
+    "Officialmathread-only,noinstall/clone/caches;compress ownoutputs+sourcesnapshot androundtriphashbeforecleanup. Routineworklocal;public8700f8b/CI40266152023 separatefromcurrentlocalquality."
   ],
   "recovery_observation": {
-    "at": "2026-10-26T03:31:00.153989+00:00",
-    "worktree": "clean at6463835",
-    "available_disk": "20GiB",
-    "running_project_processes": "None in authoritative processquery",
-    "WP108compressed_and_decompressed_hashes_match": true,
-    "WP108temporary_root_absent": true
+    "at": "2026-10-26T04:08:53.951075+00:00",
+    "base_commit": "ab9f4f1869d72591e39d0d5543283fab4be2b59a",
+    "disk_available_observed": "21GiB",
+    "project_processes_at_recovery": [],
+    "prior17sourcehashes_reverified": true,
+    "newdownloads_this_continuation": 0,
+    "final_boundary_at": "2026-10-26T04:15:49.633407+00:00",
+    "disk_available_at_boundary": "19GiB;system-wide observation,not attributed to this package",
+    "running_project_processes": [],
+    "all_quality_handles_terminal": true,
+    "temporary_WP109_root_removed": true,
+    "publication_recovery": {
+      "at": "2026-10-26T04:33:28.776223+00:00",
+      "base_commit": "6889188",
+      "disk_available": "19GiB; system observation",
+      "running_project_processes": [],
+      "new_research_experiments": 0
+    }
   },
   "runtime_resolution": {
     "default_observed": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3 Python3.9.6,unsupported",
@@ -668,47 +713,41 @@
     "failed_clean_receipt": "reports/reproducibility/20261022-bernoulli/clean-directory-incompatible-python.json.gz"
   },
   "last_completed_work_package": {
-    "id": "WP-108",
+    "id": "WP-109",
     "priority": 1,
     "status": "completed",
     "parent_task": "WP-006",
-    "objective": "Actually read both F239 symmetric random sign singularity manuscripts,qualify finite versus asymptotic interfaces and compare historical/formal scopes before application tests",
-    "selection_reason": "Retro038 ends F174 PSD same-contract library expansion and declines genericOT toy;probability remains3/29 while TCS12/40. F239 has2currentmanuscripts24TeX8083lines,unread. Full source can resolve symmetry/bias/asymptotic effective-constant uncertainty;F238eight unread companions and other low-coverage fields remain alternatives.",
+    "objective": "Qualify actual symmetric discrete-matrix consumers, their diagonal/bias law, exact-rank versus conditioning output, and strongest old baselines before a new application hypothesis or finite experiment",
+    "selection_reason": "WP108 resolves asymptotic/source interfaces but leaves a real finite consumer and incremental benefit uncertain. A bounded reverse-demand package alternates coverage with application work; the materially different alternative is F238 eight unread companions or another low-coverage subject. No requirement for production maturity is imposed on retaining conditional mappings.",
     "inputs": [
       "F-239",
-      "P-a12e95803a6ff0ff",
-      "P-88bbfa0056a7bec9",
-      "state/reading-progress/F-239.json",
+      "ANALYSIS-F-239",
+      "reports/symmetric-sign-F239-reading.md",
+      "data/provenance/readings/F-239.json",
       "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
     ],
-    "source_inventory_only": {
-      "manuscripts": 2,
-      "tex_files": 24,
-      "tex_lines": 8083,
-      "actual_scope": "All24TeX8083lines and2READMEread;qualifiedcurrent-source draft curated;historical/formal gaps remain,notfullfamilycomplete"
-    },
-    "resource_limit": "Read-only pinnedmath,no clone/install/cache;atmost4necessaryprimaryoldworks/8MiBnewdownloads,normalTLS;existingruntimesonly;compress outputs/helpers with roundtripSHA beforecleanup. No scientificnumeric/symbolic output before independently frozen executable specification.",
-    "acceptance": "Read completebothcurrent manuscripts/includeclosure/references,relevantversions andactualformalendpoints. Bind all named/unlabelledmain/supportresults,methods,constants,quantifiers. Separate independentuppertriangle from dependentrows,fixed/varyingbias,singularityprobability/smallballs/conditionnumber,asymptotico(n)/finiteeffectivebounds. Ten-domain andcross-family attempts without quotas;conditionalcandidate stage distinctfromexperimentadmission. Actualnewhypothesis requires isolatedskeptic/defender auxiliaries,not secondprovider/humans. Fullgraph/FK/hash/gates/impact/export/core/no-mathQA andcompressedrecords.",
-    "stop_or_redirect": "No newmathematicalproof or smallmatrixfrequencyasproof ofsharpasymptotics. If effectiveconstructor/constants/actualoutputjudge absent,retain preciseconditional route andcompareF238remainingcompanions/otherlowcoverage ratherthan widenknownmatrixgrid.",
-    "created_at": "2026-10-23T08:57:55.365942+00:00",
-    "retrospective_due": "AfterWP108-110 thenretro039;earliermajorevidence ortwono-informationpackages",
+    "resource_limit": "Atmost3originalpublicsoftware/applicationprojects,<=6MiBnewbodydownloads;pinselectedversions/readactualcallers. Noinstall/clone or mathwrite. Reuseoldsourceonlywithmatchinghash. Compress ownoutputs andcleanthirdpartytemporarycopies. No numerical run before independent preregistration.",
+    "acceptance": "Identify actual random symmetric sign/bit ensemble including diagonal,independence andfixedbias;target exactsingularity/conditionnumber/solve/rejection output andfinitebudget. Compare existing exact/numerical rank,least-singular bounds and oldexponential guarantee. Retain defensible conditional candidate even without matureproductioncaller;any new hypothesis needs isolatedskeptic/defender auxiliary review,not secondprovider/humans. Fullgraph/hash/FK/gates/impact/export/core/no-math QA for graphchanges.",
+    "stop_or_redirect": "Stop after3primaryprojects or earlier resolved premise gap. Do not equate fixedzero graphdiagonal,continuousGOE,PSD or rectangular independentrows withthe read ensemble;do not derive a finite threshold fromo(n). If no executable judge,record scopedgaps and rotate WP110 towardF238unreadcompanions orother lowcoverage;no exhaustive library expansion or calibrated smallmatrixfrequency check.",
+    "created_at": "2026-10-26T03:16:51.996837+00:00",
+    "retrospective_due": "AfterWP110,third substantive package since038;earliermajor evidence or two no-information packages",
     "github_push": false,
-    "started_at": "2026-10-23T09:02:37.973027+00:00",
-    "execution_journal": "state/reading-progress/F-239.json",
-    "completed_at": "2026-10-26T03:27:58.526950+00:00",
-    "full_source_completed": true,
-    "canonical_coverage_promoted": true,
+    "started_at": "2026-10-26T03:31:00.153989+00:00",
+    "execution_journal": "state/reading-progress/WP-109.json",
+    "completed_at": "2026-10-26T04:15:11.421081+00:00",
     "evidence": [
-      "GEN-20261026-105",
-      "data/provenance/readings/F-239.json",
-      "reports/symmetric-sign-F239-reading.md",
-      "reports/families/F-239.md",
-      "reports/reproducibility/20261026-symmetric-sign"
+      "GEN-20261026-106",
+      "data/provenance/demand/F-239-symmetric-sign-contracts.json",
+      "reports/F239-symmetric-sign-interface-audit.md",
+      "reports/cards/APP-239-01.md",
+      "reports/reproducibility/20261026-symmetric-consumers"
     ],
-    "result": "Two currentmanuscripts24TeX8083lines/2READMEactuallyread;68qualifiedsourcebindings16methods,4selectedoriginals/8actualPDFpages.28externalworks,24rootbodies/recursivehistoryunread;Talagrand1988and1995distinct,1994authorversionexplicit. All68C/fullchainunknown,noformalendpointidentified incheckedregistration scope/noBuild/noHuman.114newcanonical462newedges;4627oldcanonical/oldedges/source/tests/experiments/corpus/52oldfamilyreports preserved.69core/12impact/fullJSONGraphML/15archives267members/no-mathcleanpassed;noactualscientificreplay/newcandidate/check/experiment.58read53draft1530labels+4unlabelled;44candidates13checks5limitedsupport8adverse unchanged.15supportbindings exactv1 archived before explicitnormalizedp context;analysisv1 archived before reportfieldrepair. CurrentWP108localonly;WP109boundedactualmatrixconsumerqualificationnext;retro038counter1.",
-    "next_actual_action": "WP109 boundedactualconsumerqualification beforeany applicationexperiment"
+    "result": "3fixedprimaryprojects17files394010bytes2522selectedlines. Qualified rawtwo-indexrealRademacher law,not actualinvertibilityconsumer. OneconditionalcandidateAPP23901,no externalcheck/experiment.25newcanonical72explicitrelations;4741oldcanonical/alloldedges/experiments/source/tests/corpus/coverage/F239readingledger/53familyreports preserved.69core13impact/fullJSONGraphML/15archives267members and no-mathcleanexit0passed. Firstclass unestablishedconsumer/finite-decisiongate added withpriorQA retained. SourceC/fullchainunknown,isolatedrolesauxonly.45candidates13checks5limitedsupport8adverse. No newGitHubwrite;verified8700f8b onlyearlierunfinished109journal. NextWP110twoF238unreadcompanions;onlyREADME+38TeX10336inventory read;mandatory039after110.",
+    "canonical_curation_complete": true,
+    "next_actual_action": "WP110 read actual first selected F238 manuscript include closure before claiming new source coverage"
   },
   "project_goal_prompt": "prompts/continuous-research-goal.md",
   "goal_objective_version_receipt": "state/goal-objective-version.json",
-  "storage_receipt": "reports/reproducibility/20261026-symmetric-sign/storage.json"
+  "storage_receipt": "reports/reproducibility/20261026-symmetric-consumers/storage.json",
+  "publication_qa_evidence": "reports/reproducibility/20261026-publication"
 }

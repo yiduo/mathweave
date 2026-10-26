@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-26T04:35:37.877494+00:00",
+  "core_exit_code": 0,
+  "core_tests": 69,
+  "no_math_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 1957,
+  "clean_bytes": 72481910,
+  "copy_hashes_verified": true,
+  "staged_audit_failures": 0,
+  "official_math_paths": 0,
+  "archive_sha256": "24361912318adaed80e5752bb279f7665c06e9d5fbb7d88435d980c35c1ac50a",
+  "decompressed_sha256": "ace81b3d482b168514525a267126652a848a36c82a283059ce4967d16954954e",
+  "archive_bytes": 11040,
+  "archive_members_verified": 10,
+  "scientific_experiments_added": 0,
+  "scope": "Publication QA of docs and incomplete reading checkpoint; WP109 graph/export/impact/15-archive receipts remain independently scoped. No new application validation, local Lean build or human/provider review."
+}
