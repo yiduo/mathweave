@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-26T04:42:21.355537+00:00",
+  "archive": "reports/reproducibility/20261026-owner-batch/postpublication-helpers-and-receipts.tar.gz",
+  "sha256": "4a3d0eaac02429ffd5530cc3888762c105155791d497c33ef7a0199cfea90170",
+  "decompressed_sha256": "85a2e2211ea91ab9c07697407552696cc8fc0a0df64ca1cc96d7c14a3686ea87",
+  "bytes": 6522,
+  "decompressed_bytes": 20480,
+  "members_verified": 7,
+  "temporary_clean_copy_removed": true,
+  "scope": "Lossless own helper/readback archive; exact final metadata updated after scoped core/clean checks; no changed mathematical record, code or experiment.",
+  "temporary_own_files_verified_against_archives_before_removal": 16,
+  "temporary_work_directory_removed": true
+}

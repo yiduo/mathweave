@@ -1,0 +1,416 @@
+{
+  "work_package": "WP-110",
+  "generation_id": "GEN-20261026-107",
+  "at": "2026-10-26T04:55:38.485166+00:00",
+  "family_id": "F-238",
+  "manuscript_id": "P-33d1bc7e07c70610",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "full_current_source_decomposition_draft",
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/companion-references.tex",
+      "bytes": 986,
+      "lines": 23,
+      "sha256": "13e87855493bee830eb7a2232b836e10b7f82e9f9288b796c4a82b1e59efe708",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          23
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/main.tex",
+      "bytes": 2394,
+      "lines": 66,
+      "sha256": "924cdff1bb5b25aed1ae831d03a49486439076639cf11b92e2871e5b4ed00420",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          66
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/references.tex",
+      "bytes": 9020,
+      "lines": 206,
+      "sha256": "79eedeeca6a7e657432dd2aa393727f3a5d69e6eb0eea81d09e9f46380a0a6aa",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          206
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/00-introduction.tex",
+      "bytes": 12352,
+      "lines": 224,
+      "sha256": "84df14246805cd32f9f58e94b5f557c9df4342db0c4eaf79841c0426fc43fba7",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          224
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/01-preliminaries.tex",
+      "bytes": 5243,
+      "lines": 115,
+      "sha256": "7e6c234afe77620627539086a5454591e14862e2fbb8a844b54fea7760628c92",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          115
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/02-frames.tex",
+      "bytes": 8495,
+      "lines": 199,
+      "sha256": "cdec03ecc1c4b8530e43f122606e6c3c84ead457f3e29df46a80d0ad6d6f4875",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          199
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/03-marginals.tex",
+      "bytes": 14931,
+      "lines": 349,
+      "sha256": "89eb01acd23769a44c23ecbb069ee6e5690f944b35a7eb215fca80388b6cf706",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          349
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/04-degrees.tex",
+      "bytes": 9752,
+      "lines": 242,
+      "sha256": "791ca3e4cb2abf0dc405aa3fd0866d6f8fe8cba443d23c7d951c16fdf5c5449f",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          242
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/05-lift.tex",
+      "bytes": 9998,
+      "lines": 247,
+      "sha256": "5150c6a6b65d8e2d7db53ca53dfdcfd567f494f334f307705106de2597516a1d",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          247
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/06-completion.tex",
+      "bytes": 5760,
+      "lines": 132,
+      "sha256": "c8c8c18830429f10dac76018702ee4e47154090646b331b79fda1a208c20cd76",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          132
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07-shear.tex",
+      "bytes": 25317,
+      "lines": 598,
+      "sha256": "92d9184dd61230130a108cc324a9238f75580cb78dec90b02b7d6605664c403c",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          598
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07a-disjoint-transfer-proof.tex",
+      "bytes": 8047,
+      "lines": 197,
+      "sha256": "4afcbd09cdf4440c65b689b0429bf4c3c6cdc09a3a4920ae0f4d7a2aa6956079",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          197
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07b-delayed-symmetry.tex",
+      "bytes": 5711,
+      "lines": 126,
+      "sha256": "d252f05d93b37d24116a391222c3d7571d387cae1708a3062ac185d0a7b54ba5",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          126
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/07c-transfer-applications.tex",
+      "bytes": 19983,
+      "lines": 491,
+      "sha256": "68f500dcafdc2953035eb165828b334d8f9ca426b93c3d2f7000cf293947f598",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          491
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/08-frame-variants.tex",
+      "bytes": 63214,
+      "lines": 1408,
+      "sha256": "a2ecbda354770b755f04be25d2819b9527eb25c996fccfb20d0a786779f8e1f9",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          1408
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/09-equivariant.tex",
+      "bytes": 12375,
+      "lines": 297,
+      "sha256": "6b5f722f3856ef9731c61eeaa6ad1fda4cb0c2ff4c646ee7a2ff382bee0cc023",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          297
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/10-character-explicit.tex",
+      "bytes": 19493,
+      "lines": 442,
+      "sha256": "11324f514d842eddd976ef619310c5d699272c51f7ac952676268a1c7e56c52f",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          442
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Random-coordinate-frames-and-partial-permutation-laws-September-26-2026/build/sections/11-character-repair.tex",
+      "bytes": 12236,
+      "lines": 283,
+      "sha256": "2639608b83a9d01f08071128449d9d097fef94cc186c8eedfad83a12f44be39c",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          283
+        ]
+      ]
+    }
+  ],
+  "tex_files_total": 18,
+  "tex_lines_total": 5645,
+  "named_results": 63,
+  "aliases_not_extra_results": 2,
+  "canonical_result_ids": {
+    "thm:main": "CLM-238-FRAMES-THM-MAIN",
+    "lem:lower": "CLM-238-FRAMES-LEM-LOWER",
+    "lem:one-card-lower": "CLM-238-FRAMES-LEM-ONE-CARD-LOWER",
+    "lem:frames": "CLM-238-FRAMES-LEM-FRAMES",
+    "cor:frames:marginals": "CLM-238-FRAMES-COR-FRAMES-MARGINALS",
+    "lem:marginal-averaging": "CLM-238-FRAMES-LEM-MARGINAL-AVERAGING",
+    "shear:lem:tuple": "CLM-238-FRAMES-SHEAR-LEM-TUPLE",
+    "prop:marginals": "CLM-238-FRAMES-PROP-MARGINALS",
+    "lem:degrees": "CLM-238-FRAMES-LEM-DEGREES",
+    "prop:lift": "CLM-238-FRAMES-PROP-LIFT",
+    "lem:trim": "CLM-238-FRAMES-LEM-TRIM",
+    "prop:lift:orbit-sum": "CLM-238-FRAMES-PROP-LIFT-ORBIT-SUM",
+    "lem:plancherel": "CLM-238-FRAMES-LEM-PLANCHEREL",
+    "lem:fair-sign": "CLM-238-FRAMES-LEM-FAIR-SIGN",
+    "lem:concentration": "CLM-238-FRAMES-LEM-CONCENTRATION",
+    "shear:lem:fixed-balance": "CLM-238-FRAMES-SHEAR-LEM-FIXED-BALANCE",
+    "shear:prop:fixed-marginal": "CLM-238-FRAMES-SHEAR-PROP-FIXED-MARGINAL",
+    "shear:lem:keys": "CLM-238-FRAMES-SHEAR-LEM-KEYS",
+    "shear:prop:reservoir": "CLM-238-FRAMES-SHEAR-PROP-RESERVOIR",
+    "lifts:averaged-tuples": "CLM-238-FRAMES-LIFTS-AVERAGED-TUPLES",
+    "lifts:tuple-constants": "CLM-238-FRAMES-LIFTS-TUPLE-CONSTANTS",
+    "shear:prop:random-tuple": "CLM-238-FRAMES-SHEAR-PROP-RANDOM-TUPLE",
+    "frames:average-law": "CLM-238-FRAMES-FRAMES-AVERAGE-LAW",
+    "shear:lem:delayed-symmetry": "CLM-238-FRAMES-SHEAR-LEM-DELAYED-SYMMETRY",
+    "shear:prop:fourier-inputs": "CLM-238-FRAMES-SHEAR-PROP-FOURIER-INPUTS",
+    "shear:prop:disjoint-transfer": "CLM-238-FRAMES-SHEAR-PROP-DISJOINT-TRANSFER",
+    "lem:subprobability-fourier": "CLM-238-FRAMES-LEM-SUBPROBABILITY-FOURIER",
+    "shear:cor:512": "CLM-238-FRAMES-SHEAR-COR-512",
+    "shear:thm:2048": "CLM-238-FRAMES-SHEAR-THM-2048",
+    "frames:average-marginals": "CLM-238-FRAMES-FRAMES-AVERAGE-MARGINALS",
+    "shear:thm:32-block": "CLM-238-FRAMES-SHEAR-THM-32-BLOCK",
+    "shear:thm:4096": "CLM-238-FRAMES-SHEAR-THM-4096",
+    "shear:cor:order": "CLM-238-FRAMES-SHEAR-COR-ORDER",
+    "frames:matching-invariance": "CLM-238-FRAMES-FRAMES-MATCHING-INVARIANCE",
+    "frames:holes": "CLM-238-FRAMES-FRAMES-HOLES",
+    "frames:conditional-interface": "CLM-238-FRAMES-FRAMES-CONDITIONAL-INTERFACE",
+    "frames:cross-energy": "CLM-238-FRAMES-FRAMES-CROSS-ENERGY",
+    "frames:crossing-balance": "CLM-238-FRAMES-FRAMES-CROSSING-BALANCE",
+    "frames:backward-removal": "CLM-238-FRAMES-FRAMES-BACKWARD-REMOVAL",
+    "frames:pointwise-applications": "CLM-238-FRAMES-FRAMES-POINTWISE-APPLICATIONS",
+    "frames:stopped-marginals": "CLM-238-FRAMES-FRAMES-STOPPED-MARGINALS",
+    "frames:pruning-application": "CLM-238-FRAMES-FRAMES-PRUNING-APPLICATION",
+    "frames:reference-rows": "CLM-238-FRAMES-FRAMES-REFERENCE-ROWS",
+    "frames:typical-history": "CLM-238-FRAMES-FRAMES-TYPICAL-HISTORY",
+    "frames:shadow-entropy": "CLM-238-FRAMES-FRAMES-SHADOW-ENTROPY",
+    "frames:entropy-tail": "CLM-238-FRAMES-FRAMES-ENTROPY-TAIL",
+    "frames:entropy-application": "CLM-238-FRAMES-FRAMES-ENTROPY-APPLICATION",
+    "frames:aux:theorem": "CLM-238-FRAMES-FRAMES-AUX-THEOREM",
+    "frames:aux:directions": "CLM-238-FRAMES-FRAMES-AUX-DIRECTIONS",
+    "frames:aux:energy": "CLM-238-FRAMES-FRAMES-AUX-ENERGY",
+    "frames:aux:marginal": "CLM-238-FRAMES-FRAMES-AUX-MARGINAL",
+    "frames:aux:orbit-lift": "CLM-238-FRAMES-FRAMES-AUX-ORBIT-LIFT",
+    "lifts:random-four-blocks": "CLM-238-FRAMES-LIFTS-RANDOM-FOUR-BLOCKS",
+    "lifts:sixteen-theorem": "CLM-238-FRAMES-LIFTS-SIXTEEN-THEOREM",
+    "lifts:neumann-theorem": "CLM-238-FRAMES-LIFTS-NEUMANN-THEOREM",
+    "frames:char:main": "CLM-238-FRAMES-FRAMES-CHAR-MAIN",
+    "frames:char:half-list": "CLM-238-FRAMES-FRAMES-CHAR-HALF-LIST",
+    "frames:char:one-pass": "CLM-238-FRAMES-FRAMES-CHAR-ONE-PASS",
+    "char:sweep-trace": "CLM-238-FRAMES-CHAR-SWEEP-TRACE",
+    "frames:char:minimum-degree": "CLM-238-FRAMES-FRAMES-CHAR-MINIMUM-DEGREE",
+    "frames:char:block-norm": "CLM-238-FRAMES-FRAMES-CHAR-BLOCK-NORM",
+    "char:main": "CLM-238-FRAMES-CHAR-MAIN",
+    "char:repair": "CLM-238-FRAMES-CHAR-REPAIR"
+  },
+  "all132_result_statements_reviewed": true,
+  "section_scope_notes": {
+    "00-introduction.tex": "32800d独立自然证明与旧1600d、伴随512d路线分别保留；渐近结论没有有效有限d0。",
+    "01-preliminaries.tex": "n=2^d；物理一步使用n/2公平独立位；单牌边际不决定全排列。",
+    "02-frames.tex": "完整固定方向表之后的框架可用未来；一般L0同时重标记输入；仅L0=I保持同一指定列表。",
+    "03-marginals.tex": "在线观察场只含方向及前驱路径前缀和独立Xi；额外终端数据要核对隐藏律识别。无条件坏平衡概率在去除路径条件后使用。",
+    "04-degrees.tex": "自证逆16次幂弱于已核LS2004全固定正幂旧界；轨道计数是不同类型平方和，保留完整重数。",
+    "05-lift.tex": "所有余类共同裁剪一个事件；归一化上界2/(1-epsilon)，不能分别裁剪后当成同一概率律。",
+    "06-completion.tex": "普通未归一化Fourier质量变换；平凡、符号和非线性表示分开恢复。",
+    "07-shear.tex": "固定列表和随机独立输入列表平均分别处理；剪切键与完整方向表的条件分解不能替换为任意未来附加披露。",
+    "07b-delayed-symmetry.tex": "原有观察场下的B0和p0保持函数定义；额外历史只固定它们，不将p0偷换为全牌位置后验。",
+    "07c-transfer-applications.tex": "不覆盖全体也可取互不交支持；算子/HS、K与K²、两次/八次/三十二次放大是不同路线。512d依赖伴随HS而非所选Lean32800d。",
+    "08-frame-variants.tex": "完整路径须是固定公平开关阵列的可行圆柱。参考历史只是索引；共同G选在任意倾斜律之前。停止坏事件代价只计一次；平均TV不是混合平均律TV。",
+    "09-equivariant.tex": "等变双随机核保留所有重数，符号纤维矩阵条件不能用整体标量符号均值代替；最坏起点须传递等变。",
+    "10-character-explicit.tex": "BP用输出半牌前像上界；PB用输入半牌像修复，不能混换左右余类。uniform固定slack字符界只有所读2024重述范围，2008原作未得。",
+    "11-character-repair.tex": "两半条件边际均匀仍可依赖；正算子估计取min(qalpha,qbeta)而非乘积。存在性修复未给高效采样器。",
+    "two-sided.tex": "左右余类方向与beta*alpha次序固定；联合类型数保留完整重数，恢复两侧质量与符号乘积。",
+    "characters.tex": "子角色存在性与巨大次数不等于实际高效构造；等型投影必须包含所有重数。",
+    "comparisons.tex": "Bz、B²和角色a4是不同估计；分枝缺口是n-max(firstrow,firstcolumn)，固定参数后才取n充分大。",
+    "core.tex": "八系统共同子概率的算子路线四卷积、HS路线两卷积。l:eight-convolutions/l:four-convolutions是旧标签别名，不按名字读次数。",
+    "degrees.tex": "固定u>0先给定再取n极限；包含平凡与符号两项，局部证明不优化旧LS2004速率。",
+    "degree-supplement.tex": "多条逆幂/填充证明是同一接口的替代路线，不计新应用或独立验证。",
+    "domains.tex": "同一完整商测试并集的坏集合预算只计一次；遗漏投影可以不交换，展开须保留乘积次序。",
+    "equivariant.tex": "16核需要保留核每个符号重数HS；3组需要每行每列TV及未裁剪全符号矩阵绝对行列和，不是标量奇偶均值。",
+    "forests.tex": "k=n-firstrow，不可转置抹去首列限制；独立K还须小缺口n^(-k/10)及首列>n/2精确零，不假定与mu卷积根有关。",
+    "foundations.tex": "同一未归一化f必须满足全部上界；质量缺损、符号和高维表示分开。",
+    "introduction.tex": "有限非空不等块、非负子概率、全部左余类上界、任意固定正u和未归一化范数；不由有限估计自动完成渐近两卷积。",
+    "palettes.tex": "同一好事件逐点控制两种半优先揭露顺序，所有调色板/放置/两半上界先成立；普通P平均不能在稀有Q下沿用。",
+    "random-partition.tex": "选共同好事件后才分拆向量；保留质量M和2/M归一化因子，另恢复符号。",
+    "replica.tex": "单律相对熵裁剪出同一未归一化v；logD>d^8的大维数范围不能外推到小维数。",
+    "tabloid-supplement.tex": "钩长、Pieri与带符号嵌入为数学存在性输入，未建立全原作谱系。",
+    "tabloid.tex": "给定环境z后nuA⊗nuC实际乘积是必要接口；仅条件边际均匀不够。L>=4000000与独立xi的逆像上界及保留总质量/符号分别要求。",
+    "tilts.tex": "一个先选的G上EVERY sigma；相对熵参照原P，不是P|G。尾事件再倾斜，条件化代价1/a。",
+    "transfer-supplement.tex": "平均低类型投影与完整联合类型分拆是不同证明；剥离C=512²和b=2^22为粗大存在常数。"
+  },
+  "formal_evidence": "data/provenance/readings/F-238-companions-formal.json",
+  "historical_evidence": "data/provenance/readings/F-238-companions-history.json",
+  "bibliography_keys": {
+    "aldous-diaconis1987": "LIT-238-COMPANIONS-4C2B56D8DB",
+    "alon-lovett2013": "LIT-238-COMPANIONS-3D8E9E86E0",
+    "azuma1967": "LIT-238-55D3797F5E",
+    "Czumaj2015": "LIT-238-COMPANIONS-66ADB6D3EE",
+    "CzumajVocking2014": "LIT-238-ACA7026C59",
+    "dai-hoang-tessaro2017": "LIT-238-COMPANIONS-C1ABAC9088",
+    "DiaconisShahshahani1981": "LIT-238-A3BAC570AC",
+    "etingof": "LIT-238-EA937F2E0E",
+    "hmr2014": "LIT-238-23372BEA1E",
+    "hoeffding1963": "LIT-238-5378FBEB44",
+    "James1978": "LIT-238-COMPANIONS-25FD4AAEC8",
+    "keller-lifshitz-sheinfeld2024": "LIT-238-REVEALED-35C7E9E543",
+    "larsen-shalev2008": "LIT-238-REVEALED-F0F40184F9",
+    "liebeck-shalev2004": "LIT-238-D1FFAB98FE",
+    "montenegro-tetali2006": "LIT-238-2940B6A45B",
+    "morris44": "LIT-238-BE3BF33CD8",
+    "morris-exclusion2006": "LIT-238-A2EA875F5D",
+    "morris4": "LIT-238-9DB965FBBC",
+    "morris3": "LIT-238-9CD198B10C",
+    "morris-rogaway2014": "LIT-238-COMPANIONS-4363900D24",
+    "mrs": "LIT-238-FAE783EF81",
+    "partial-fourier": "P-d7bc9b13ce9fc85f",
+    "optimal-thorp": "P-025591fd075b13f8",
+    "ristenpart-yilek2013": "LIT-238-COMPANIONS-4905D2737F",
+    "sagan": "LIT-238-E975AAB7D6",
+    "thorp": "LIT-238-E4A8F13028"
+  },
+  "method_contract_ids": [
+    "PART-238-COMP-FIXED-FRAME",
+    "PART-238-COMP-HIDDEN-ENERGY",
+    "PART-238-COMP-TERMINAL-IDENTIFICATION",
+    "PART-238-COMP-COMMON-TRIM",
+    "PART-238-COMP-DISTINCT-ORBIT",
+    "PART-238-COMP-ISOTYPIC-CAP",
+    "PART-238-COMP-HS-COMPOSITION",
+    "PART-238-COMP-FIXED-LIST",
+    "PART-238-COMP-SHEAR-DISCLOSURE",
+    "PART-238-COMP-DELAYED-SYMMETRY",
+    "PART-238-COMP-FULL-PATH-CYLINDER",
+    "PART-238-COMP-BACKWARD-REMOVAL",
+    "PART-238-COMP-STOPPED-LIST",
+    "PART-238-COMP-REFERENCE-ROWS",
+    "PART-238-COMP-ALL-TILTS",
+    "PART-238-COMP-KERNEL-SIGN-FIBER",
+    "PART-238-COMP-KERNEL-ROW-COLUMN",
+    "PART-238-COMP-ORDERED-CAPS",
+    "PART-238-COMP-SPECTRAL-PRUNING",
+    "PART-238-COMP-OMITTED-PROJECTIONS",
+    "PART-238-COMP-PALETTE-CAP",
+    "PART-238-COMP-SIGNED-PALETTE",
+    "PART-238-COMP-ENTROPY-CLIP",
+    "PART-238-COMP-SPARSE-HYBRID",
+    "PART-238-COMP-CONDITIONAL-PRODUCT",
+    "PART-238-COMP-DEPENDENT-HALF-REPAIR",
+    "PART-238-COMP-CHARACTER-ORDER",
+    "PART-238-COMP-INVERSE-DEGREES",
+    "PART-238-COMP-SUBCHARACTER",
+    "PART-238-COMP-PEELING"
+  ],
+  "full_family_complete": false,
+  "application_checks_added": 0,
+  "scientific_experiments": []
+}

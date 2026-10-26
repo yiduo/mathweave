@@ -46,3 +46,8 @@ The owner requested publication of current progress and an easy-to-share project
 ## Current explicit owner request: WP109 and unfinished WP110
 
 The owner again requested current progress on GitHub. Retain **MathWeave (数学织网)** and the existing repository address; no duplicate repository or directory rename is needed. Include completed WP109 canonical records and its conditional APP23901, plus the WP110 reading checkpoint (36/38 files,10014/10336 lines; canonical F238 coverage still4/12). WP110 is not a completed package and adds no application validation. Create one reviewed public commit parented by the previous public branch, excluding bulk local history and official math. Record post-push verification locally for the next meaningful batch to avoid a second routine push.
+
+
+## Current owner-requested batch: completed WP110 and unfinished WP111
+
+Retain **MathWeave (数学织网)** and the existing public address [yiduo/mathweave](https://github.com/yiduo/mathweave), whose stable repository ID is 1429150108. The repository and local origin already use this name, so no duplicate repository or local checkout rename is needed. Publish completed WP110 / GEN107 and retrospective039, plus WP111’s incomplete source-reading checkpoint: 15 complete TeX files / 4,500 lines and a further 245-line partial range, totaling 4,745/7,647 lines. No new application check or human/provider review is claimed. Create one reviewed public commit parented by the last public commit, excluding the official math directory and bulk local history. Save post-push verification locally for the next meaningful batch; routine publication remains disabled.

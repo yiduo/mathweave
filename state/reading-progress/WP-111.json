@@ -1,0 +1,943 @@
+{
+  "work_package": "WP-111",
+  "family_id": "F-300",
+  "status": "in_progress_partial_source_reading",
+  "source_files": [
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/README.md",
+      "lines": 18,
+      "bytes": 827,
+      "sha256": "97b87ae365256208e75d19077b572d8c26e7d42196f8a7f72c3e292da13ec328",
+      "actually_read": true
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+      "lines": 67,
+      "bytes": 2951,
+      "sha256": "89e474f474fe75037802ea18511c443ab28f00adf9ca9bc9ba1a15d048266e76",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          67
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "lines": 66,
+      "bytes": 2398,
+      "sha256": "31c871535d5d160aae7bc9f4cb8dd2536e826e3a5e5f02ebe5b70f4fca1290c5",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          66
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+      "lines": 231,
+      "bytes": 10137,
+      "sha256": "333d692339a69549b2e2ee74f78728413e738e9705f9370a70cf4336d3114290",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          231
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "lines": 594,
+      "bytes": 28060,
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          594
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "lines": 444,
+      "bytes": 18700,
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          444
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "lines": 158,
+      "bytes": 7826,
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          158
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "lines": 405,
+      "bytes": 17983,
+      "sha256": "fb823f84e413d1dc64d26071aabfa35cbe28b47a4c5a15756d4bae2bbfbb0f4a",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          405
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "lines": 690,
+      "bytes": 30556,
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          690
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "lines": 151,
+      "bytes": 5779,
+      "sha256": "6bad91192e35b6ca35f2dab5204fca1001446ce7636fb40b6d2afa3a5f3bfee7",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          151
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "lines": 700,
+      "bytes": 33612,
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          700
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-095dcf7bab0be0ae",
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex",
+      "lines": 144,
+      "bytes": 6007,
+      "sha256": "4a8c8f50420234c2e8ecb2161fd9bff7f59e52402091bec631f324df0cc9950e",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          144
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/README.md",
+      "lines": 18,
+      "bytes": 911,
+      "sha256": "207fd754eb46480315d0b9a392361fc6e6efba1f55835a0c6d682485dda931a1",
+      "actually_read": true
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/shortest-pair.tex",
+      "lines": 39,
+      "bytes": 1453,
+      "sha256": "974569da0d17031354da095a0a72683ce4894bab5ef86b65702815df1ac8455e",
+      "actually_read": false
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "lines": 51,
+      "bytes": 1889,
+      "sha256": "788a37eec774623ad6564ba0a125013316fe2d54fdca0e692c9fda8820d0cfd4",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          51
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/references.tex",
+      "lines": 122,
+      "bytes": 5612,
+      "sha256": "ac8240cbc473da137e63ec87b27c6f420a3afe0a9a835206b0188e4581c1d9c9",
+      "actually_read": false
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/coloring.tex",
+      "lines": 850,
+      "bytes": 40195,
+      "sha256": "acbe23b6297b9b74b9fc3909cab3f3f2e858b60bf6f1e21bf3ed1d01bdd96bb9",
+      "actually_read": false
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/completion.tex",
+      "lines": 193,
+      "bytes": 12041,
+      "sha256": "4b77217911b369a5abf65db04161b8f3afd5f188361fb9e1053398f3a63068f6",
+      "actually_read": false
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "lines": 89,
+      "bytes": 12653,
+      "sha256": "79bc826e2775af465f2fcf18f4c6efc71562e45430247727a5437a3918e259e2",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          89
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/invariant.tex",
+      "lines": 493,
+      "bytes": 24799,
+      "sha256": "368883c2881aa8311dbd85d4dbe60702167d3caff892a3329d7150c38c0e3f96",
+      "actually_read": false
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "lines": 350,
+      "bytes": 16028,
+      "sha256": "38e9733d73361206c9a187eead062504416f5fd9e23112cf4360bc1f8e9f8d10",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          350
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "lines": 681,
+      "bytes": 29158,
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "actually_read": false,
+      "actually_read_ranges": [
+        [
+          1,
+          245
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "lines": 360,
+      "bytes": 15885,
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          360
+        ]
+      ]
+    },
+    {
+      "manuscript_id": "P-8a687a97b053c803",
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/transfer.tex",
+      "lines": 769,
+      "bytes": 37004,
+      "sha256": "27f56edeb61c412b3004482492b93579b1f8ad5e03bbcbf93ba5c6fd7ada8f8d",
+      "actually_read": false
+    }
+  ],
+  "source_tex_files": 22,
+  "source_tex_lines": 7647,
+  "manuscripts": [
+    "P-095dcf7bab0be0ae",
+    "P-8a687a97b053c803"
+  ],
+  "actual_body_read_lines": 4745,
+  "canonical_reading_credit_added": false,
+  "selection_pending_global039": false,
+  "selection_decision": "Chosen by completedglobal039;zero bodycredit",
+  "started_at": "2026-10-26T05:08:27.322428+00:00",
+  "updated_at": "2026-10-26T05:20:52.745612+00:00",
+  "base_commit": "11fcd13",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_source_files_read": [
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "sha256": "31c871535d5d160aae7bc9f4cb8dd2536e826e3a5e5f02ebe5b70f4fca1290c5",
+      "lines": 66,
+      "actually_read_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "a670f02200c796c1c7b8ba6146b55818e61ac738882bc33ad6c237851682f481",
+      "lines": 158,
+      "actually_read_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1945,
+          "statement_start": 1976,
+          "statement_end": 2705
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:so-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 3335,
+          "statement_start": 3373,
+          "statement_end": 3911
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:quadratic-expected-approximation",
+          "title_tex": "Quadratic approximation paving for expected MASAs",
+          "label_aliases": [],
+          "start": 4419,
+          "statement_start": 4532,
+          "statement_end": 4894
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/preliminaries.tex",
+      "sha256": "6bad91192e35b6ca35f2dab5204fca1001446ce7636fb40b6d2afa3a5f3bfee7",
+      "lines": 151,
+      "actually_read_ranges": [
+        [
+          1,
+          151
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:compression-net",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1736,
+          "statement_start": 1776,
+          "statement_end": 2139
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:sequence-quotient",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 3368,
+          "statement_start": 3410,
+          "statement_end": 3879
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/main.tex",
+      "sha256": "788a37eec774623ad6564ba0a125013316fe2d54fdca0e692c9fda8820d0cfd4",
+      "lines": 51,
+      "actually_read_ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/introduction.tex",
+      "sha256": "79bc826e2775af465f2fcf18f4c6efc71562e45430247727a5437a3918e259e2",
+      "lines": 89,
+      "actually_read_ranges": [
+        [
+          1,
+          89
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:main",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1275,
+          "statement_start": 1306,
+          "statement_end": 1791
+        },
+        {
+          "kind": "corollary",
+          "label": "cor:ultrapower-paving",
+          "title_tex": "Quadratic norm paving in Ocneanu ultrapowers",
+          "label_aliases": [],
+          "start": 2405,
+          "statement_start": 2497,
+          "statement_end": 3098
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "86cfbe80897f7fe70b3aa69c2318c79dac4f886e353960a4f10dd60123bbaaaa",
+      "lines": 690,
+      "actually_read_ranges": [
+        [
+          1,
+          690
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:stability",
+          "title_tex": "Stability",
+          "label_aliases": [],
+          "start": 1718,
+          "statement_start": 1763,
+          "statement_end": 2802
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:local-data",
+          "title_tex": "Local spectral data",
+          "label_aliases": [],
+          "start": 5904,
+          "statement_start": 5960,
+          "statement_end": 8487
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:mss-paving",
+          "title_tex": "Initial largest-root bound",
+          "label_aliases": [],
+          "start": 12562,
+          "statement_start": 12625,
+          "statement_end": 13010
+        },
+        {
+          "kind": "lemma",
+          "label": "poly:tail-control",
+          "title_tex": "Control of the residues",
+          "label_aliases": [],
+          "start": 18261,
+          "statement_start": 18324,
+          "statement_end": 18743
+        },
+        {
+          "kind": "lemma",
+          "label": "poly:boole",
+          "title_tex": "Boole length identity",
+          "label_aliases": [],
+          "start": 20993,
+          "statement_start": 21047,
+          "statement_end": 21480
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:buffered-pin",
+          "title_tex": "Buffered pin inequality",
+          "label_aliases": [],
+          "start": 22770,
+          "statement_start": 22832,
+          "statement_end": 23467
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+      "sha256": "6f5648f338ac73d045ede82b12d1644d942c0aae57668311488d64c730d013ee",
+      "lines": 700,
+      "actually_read_ranges": [
+        [
+          1,
+          700
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:measured-paving",
+          "title_tex": "One-sided measured paving",
+          "label_aliases": [],
+          "start": 1498,
+          "statement_start": 1568,
+          "statement_end": 2104
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:slab-limits",
+          "title_tex": "Local limits on a bounded slab",
+          "label_aliases": [],
+          "start": 7473,
+          "statement_start": 7542,
+          "statement_end": 8635
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:far-deletion",
+          "title_tex": "Far-deletion comparison",
+          "label_aliases": [],
+          "start": 13447,
+          "statement_start": 13510,
+          "statement_end": 14076
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:coherent-choice",
+          "title_tex": "Coherent choices",
+          "label_aliases": [],
+          "start": 28834,
+          "statement_start": 28893,
+          "statement_end": 29722
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+      "sha256": "89e474f474fe75037802ea18511c443ab28f00adf9ca9bc9ba1a15d048266e76",
+      "lines": 67,
+      "actually_read_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex",
+      "sha256": "fb823f84e413d1dc64d26071aabfa35cbe28b47a4c5a15756d4bae2bbfbb0f4a",
+      "lines": 405,
+      "actually_read_ranges": [
+        [
+          1,
+          405
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "prop:sparse-pinning",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 554,
+          "statement_start": 600,
+          "statement_end": 1373
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:descent",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 12575,
+          "statement_start": 12607,
+          "statement_end": 13420
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+      "sha256": "46734a5141aba53e80143d05d73bac96aba1b6f7696175ab0a47b9a2372de3c4",
+      "lines": 594,
+      "actually_read_ranges": [
+        [
+          1,
+          594
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "theorem",
+          "label": "thm:state-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 718,
+          "statement_start": 757,
+          "statement_end": 1295
+        },
+        {
+          "kind": "lemma",
+          "label": "exp:normalizer-paving",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 5057,
+          "statement_start": 5099,
+          "statement_end": 5465
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:off-normalizer",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 7402,
+          "statement_start": 7448,
+          "statement_end": 7672
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:random-freeness",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8033,
+          "statement_start": 8073,
+          "statement_end": 8732
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:free-compression",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 19704,
+          "statement_start": 19745,
+          "statement_end": 20055
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex",
+      "sha256": "333d692339a69549b2e2ee74f78728413e738e9705f9370a70cf4336d3114290",
+      "lines": 231,
+      "actually_read_ranges": [
+        [
+          1,
+          231
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:atomless",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 1625,
+          "statement_start": 1658,
+          "statement_end": 1735
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+      "sha256": "dd5edb4fa5348beef62d55a8a52b46457cd782dd82d9c45587adcdec8b48d52c",
+      "lines": 444,
+      "actually_read_ranges": [
+        [
+          1,
+          444
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:separable-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 730,
+          "statement_start": 774,
+          "statement_end": 911
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:no-central-functional",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 4107,
+          "statement_start": 4153,
+          "statement_end": 4567
+        },
+        {
+          "kind": "corollary",
+          "label": "gen:no-central-approximation",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 8571,
+          "statement_start": 8624,
+          "statement_end": 9099
+        },
+        {
+          "kind": "lemma",
+          "label": "gen:support-decomposition",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 9831,
+          "statement_start": 9877,
+          "statement_end": 10221
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex",
+      "sha256": "4a8c8f50420234c2e8ecb2161fd9bff7f59e52402091bec631f324df0cc9950e",
+      "lines": 144,
+      "actually_read_ranges": [
+        [
+          1,
+          144
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+      "sha256": "66c2926c285f6f2d4332438c601d5e76fd8b1703448ea8b364796cf4a5dfc09d",
+      "lines": 360,
+      "actually_read_ranges": [
+        [
+          1,
+          360
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:no-central",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 2716,
+          "statement_start": 2751,
+          "statement_end": 3244
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:state-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 7835,
+          "statement_start": 7882,
+          "statement_end": 8598
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:pinching",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 11357,
+          "statement_start": 11390,
+          "statement_end": 11966
+        },
+        {
+          "kind": "lemma",
+          "label": "lem:separable-reduction",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 13200,
+          "statement_start": 13244,
+          "statement_end": 13739
+        }
+      ]
+    },
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex",
+      "sha256": "38e9733d73361206c9a187eead062504416f5fd9e23112cf4360bc1f8e9f8d10",
+      "lines": 350,
+      "actually_read_ranges": [
+        [
+          1,
+          350
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "lemma",
+          "label": "lem:type-i-normalizers",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 5276,
+          "statement_start": 5319,
+          "statement_end": 5624
+        },
+        {
+          "kind": "proposition",
+          "label": "prop:atomless-kernels",
+          "title_tex": null,
+          "label_aliases": [],
+          "start": 9444,
+          "statement_start": 9492,
+          "statement_end": 10045
+        }
+      ]
+    }
+  ],
+  "actual_full_tex_files_read": 15,
+  "actual_source_lines_read": 4745,
+  "new_source_manuscripts_fully_read": 1,
+  "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts.",
+  "source_claim_notes_not_canonical_or_reviewed": [
+    "Firstmain claims expectation-free approximation withR<=C_ap epsilon^-6,ystrong-nearx onfiniteF,||y||<=3||x||,normpaving error relative to actual||y||. DoesnotclaimquadraticapproximationforarbitraryMASAs. Proof notyetread.",
+    "Firstcorollaries:strongoperatorpaving conversion retainsnormalconditionalexpectation;quadraticapproximationcorollary likewiseexpectedMASA,using separatequadraticcompanion. Twomainproofsclaimindependent;do notpromoteunreadproofs.",
+    "Preliminaries151lines read:faithfulnormalstate phi andMASA initscentralizer;pinchingnet converge in boundedstate strong*/E_A;sequencequotient uses two-sided multiplier algebra C_phi,not allboundedsequences in nontracialcase. ConstantM andboundedAsequences aremultipliers;clipping convertsquotient normestimate intostate-small correction.",
+    "Quadraticintro definesr_epsilon beforeinclusion/operator/F/delta;requires q inM with(1-q)smallonlyonfiniteF and normofq(S_P(x)-a)q<=epsilon||x||. Explicitceil400000000epsilon^-2+ceil4/epsilon+1<=500000000epsilon^-2. Not globalnormoforiginalpinching withoutcompression.",
+    "Quadraticultrapowercorollary additionallycountablydecomposableMASA,normalexpectation,freeultrafilter;neither arbitraryunseparableuniformnormpavingnorfinitealgorithm suppliedbyintro alone. OldMSS/PV/RS claimsremainuncrosscheckedhere.",
+    "Entire690line finite mixed polynomial section read. Zero-diagonal HermitianW,independent possiblynonuniform color probabilities and realpenalties;complex identity extends algebraically,butreal-rootedness uses Hermitian/realdata. Derivatives deletevertices;coefficientnormalizationsr! andr scaling retained.",
+    "Rootedarrowquotient h=z+a-sum nu/(z-s),nonnegative residues andG=1/h spectral probability;m_v distributespositive root cost whereasell_v is insertionresponse. Expected polynomial rootcost is generally NOT expectationofpositive-parttraceofrandompavedmatrix.",
+    "Initial largestroot2sqrt(2/r)+2/r followsMSS covariance theorem withpositive-defect completion,splittingdeterministiccolumns,Gram-stabilityanddeletioninterlacing;oldRS21/MSS2015 exactscope notyetchecked.",
+    "Boole one-sidedlength identity overR hasmass/c,nottwice;zero/repeatedpolesmerged/omitted. Bufferedpin holds min overpositive-probabilitychoices with penaltyKa,fixedpolesandaverageresidues;coefficient1 onoldell plusCm dimensionfree. m=0/L=0 andrightlimitsincluded;K,C globallyfixed largeconstants,not efficientpracticalimplementation claim.",
+    "Slabs700lines andfigure67fullyread:principal Hermitianzero-diagonalcontractions oncountablenonsingularBorelrelation;boundeddegreeD/edgecocycleJ firstfixed. Lift(v,s)->(w,s+logomega) invariantmu*exp(-s)ds;weights exp(s)cancel. Absoluteheightsnotresetonreroot,gaugesdiagonalunitaryonly;fibersinfigurearenotliftedorbits.",
+    "Far high deletions controlledbyinvariantmeasureexp(-R),lowbycutmatrixnormexp(-R). Fixed-slab spectral/normal-familybounds differfromslab-independentupperhalf-plane/localmomentbounds. One coherentbasecoloratallheights usesuniformL1comparisonoverpartialassignments,but no practicaleffectivecutoff/runtime extracted.",
+    "Sparsepinning405linesread:auxiliarydistance2k Borelclasses useindependentBernoulliindicators onlyacrossclasses/localcandidatepins,notallbaseverticesIID. FinitehistoryMarkovselection;parametersS,tau0/tau,L,B/P,C_P,alphachoseninthatorder. e^(C(S+1))growth andC_Pcost retained,notuniformefficientalgorithm.",
+    "Deletionmonotonicityis integratedrootcost viaresponseandmasstransport,not pointwisepositivepartmonotonicity. Deletionerrorchargedoncetoeachvertex,notnumberofbatches. DescenteigenvalueboundusesA<=A_plus thencompression/congruence,doesnotcommutepositivepartwiththem.",
+    "Measuredpavingcompletion:chosenr by2sqrt(2/r)+2/r<b,finalr+1colors;extraslab/auxiliarygraphcolors/degree/updatecount do notincreasefinalpalette. Those resourcecostsmaydependonD,J/system andtolerance. Positive-part squarederror integral small,not globalnormpavingoforiginaloperator.",
+    "Expected594+includedatomless231linesfullyread. Separablepredual,faithfulnormalstatephi,MASA inphicentralizer;normalizeralgebraN modularinvariant permitsphi-preservingE_N. Decompositionx-E_Ax=(E_Nx-E_Ax)+(x-E_Nx) handledseparately;one-sidedmeasuredboundsfor±Y refinedto(r+1)^2palette,thenoffnormalizer n partition givesR_st=(r+1)^2*n,notquadraticclaim.",
+    "Atomlessproof:jointleft/rightstandardL2spectralmeasure firstcoordinateRIGHT;E_NX=0 forcesa.e.diffusekernel. An atomicgraphselectionF neednotinjective;polarintertwiner initiallyneednotnormalizeA. ExpectedtypeI intermediateD andAS12abelianprojectionpartition splitrightsupportintoequalcorneralgebras beforegroupoidnormalizers. OldAS/Hiai/FeldmanMooreoriginalscopesnotyetchecked.",
+    "AtomicMASAsummands inexpectedsettinglieinN soZvanishes;extenddiffusepartpartitionwithoutaddingcolors. Randomfreeness usesrefiningdiffusecells,finite-orderuniformrootlabels,shortestrepeated-cellcompressionwithindependentINTERIORHaarphases;independenceofouterPRE/POSTnotasserted. Kerneliteratesnonsingular/diffusea.e.,limitsQthenE;nontracialrightmultiplicationrequiresmodularanalyticapproximantschosenrighttoleft.",
+    "ConcentrationboundswordinfluencebyC_word*phi(q),sumphi(q)^2->0,selectdeterministiclabelsforcountablymanywordsbydiagonalargument. No effectivefinitecutofformomentcost extracted.",
+    "Naive2x2dilationcanhaveatomiccrosskernel evenz=0;free-diffuseB0 replacessecondMASA. Freecompressionnorm2/sqrt(n) appliedafterjointmoments;momentconvergencegivesstate-smallcontinuousspectralexcess,NOToperatornormconvergence. Multiplierquotientthenfirstcornerrecoversoffnormalizer4/sqrt(n). Finalblockdiagonalclipgamma yieldsselfadjointw_j norm<=2,state-null andnormpavingresidual<=gamma.",
+    "Firstgeneral444+references144read,completingfirstall11TeX3650lines. Separable-reductionconstructscountablealgebra includingE_Avaluesandnearcompressionpartitions soA∩M1remainsMASA;notarbitraryseparable subalgebra. Samepaletteboundpreserved.",
+    "No-central-normal-functionalcorner usesstandardformnaturalcone/PowersStormer andrandomfinite-orderdiagonalconjugation toseparatefinitecollectionofstates. Pairwiseseparatingprojectionsneednotorthogonal;sequentialpositiveeffects V_j* b_j V_j telescope sum<=I,areeffectsnotprojections. Theircyclicaveragepositivecontractions>=1-alpha state mass givep_i s p_i<=p_i/m. sxsstrong-nearxrequiresfinitevectortestsANDx-images,notglobalnormcloseness.",
+    "SupporteofcentralizingnormalpositivefunctionalsliesinA,expectedcorner eMe;h=1-e hasnone. e,hnotnecessarilycentralinM. AfterFselectedsplit e=f+g,faithfulstateonfcorner,gannihilatestests. Preserveoriginaloffdiagonalxblocks untilfinaldisjointpalettekills them;norm(y-x)<=2 andnormy<=3afterunitnormalization.",
+    "Mainexplicitcolors R=(r+1)^2*n+m+1 withb=epsilon/[96(K+1)],r=ceil32/b²,n=ceil1024/epsilon²,m=ceil4/epsilon,soO(epsilon^-6)onlyuniversalKenterspalette. Constructionresources stilldependongraph/slab/moments. Addnormingvector||xξ0||>3/4,approxerror<1/4 ensures||y||>1/2;clipdiagonaltoactual||y|| toobtainrelativeepsilon||y||,notreplacebyoriginalnorm.",
+    "Conversioncorollariesretainnormalexpectation:PV15Prop2.4(1)parameters epsilon/12,3,epsilon/6 produceerror epsilon;quadraticexpectedapproximation additionallyuses companionmain thenPV15Prop2.4(2). Mainproofindependentofquadraticcompanion;don'tcreateproofcycle via corollaries. Bibliography22external? keycountsnotyetqualified;exactRS21 arxiv1706.03737v2 versuspublication2021/secondRS17identitymustcheck,notassumeseparateworks.",
+    "Secondreductions360+kernels350fullyread. No-centralbranchusesHaagerupsymmetricseminormT(y)=h_phi^(1/4)y h_phi^(1/4),whichdoesNOTcontrolusualstate-norm;positivecone/Jordanseparatingprojectionq0 givesphi(1-q0)+psi(q0)<=t thenstatebound3sqrt(t) andspectralcutlostmass<=(1+36/epsilon²)t. Two randomizations withfixedceil4/epsilon colors andstate-selected finepartition;notautomaticCPUbound.",
+    "Cornerassemblyp/e neednotcentral;disjointpalettes killcross-corner terms soR+ceil4/epsilon+1 ratherthanmultiplying. echosenfromdirectedsupportsafterfiniteF;smallfaithfulstatemasscontrols eachfixednormalfunctional. Separable-reductionincludesstoredE_A/partitionwitnesses,keepsMASA/expectation scope.",
+    "KernelsinmeasuredCartanrepresentationgaugeconsistentunderrootchange;normalizers'log h cutsareentiremodularanalytic. TypeIlemma requiresfaithfulcentralnormalstate (orrelatedexpectedscope);cannotapplytoarbitrarydiffuseMASAintypeIwithoutnormalexpectation.",
+    "Positivekernel fixed-null-set property means for eachfixedmu-nullS,almosteveryrow gives0,NOT allrowmeasures absolutelycontinuouswithmu orjointmeasureproduct-AC. Atomlessnessalmosteveryrow viaatomgraphselectionnotnecessarilyinjective,normalhomomorphism/intertwiner,typeIcorner andnormalizercontradiction. CompositionsavoidONEfixedexceptionalsetthenareatomlesssimultaneouslyonsingletons. AtomicA part kills y∈kerE_N onbothsides."
+  ],
+  "scientific_experiments": [],
+  "reading_batches": [
+    {
+      "at": "2026-10-26T05:09:59.807614+00:00",
+      "files": [
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex"
+      ],
+      "notes": [
+        "Entire690line finite mixed polynomial section read. Zero-diagonal HermitianW,independent possiblynonuniform color probabilities and realpenalties;complex identity extends algebraically,butreal-rootedness uses Hermitian/realdata. Derivatives deletevertices;coefficientnormalizationsr! andr scaling retained.",
+        "Rootedarrowquotient h=z+a-sum nu/(z-s),nonnegative residues andG=1/h spectral probability;m_v distributespositive root cost whereasell_v is insertionresponse. Expected polynomial rootcost is generally NOT expectationofpositive-parttraceofrandompavedmatrix.",
+        "Initial largestroot2sqrt(2/r)+2/r followsMSS covariance theorem withpositive-defect completion,splittingdeterministiccolumns,Gram-stabilityanddeletioninterlacing;oldRS21/MSS2015 exactscope notyetchecked.",
+        "Boole one-sidedlength identity overR hasmass/c,nottwice;zero/repeatedpolesmerged/omitted. Bufferedpin holds min overpositive-probabilitychoices with penaltyKa,fixedpolesandaverageresidues;coefficient1 onoldell plusCm dimensionfree. m=0/L=0 andrightlimitsincluded;K,C globallyfixed largeconstants,not efficientpracticalimplementation claim."
+      ],
+      "state": "actuallyread_notcanonicaldecomposition_orproofreview"
+    },
+    {
+      "at": "2026-10-26T05:11:12.104201+00:00",
+      "files": [
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/slabs.tex",
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/figures/maharam.tex",
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/pinning.tex"
+      ],
+      "notes": [
+        "Slabs700lines andfigure67fullyread:principal Hermitianzero-diagonalcontractions oncountablenonsingularBorelrelation;boundeddegreeD/edgecocycleJ firstfixed. Lift(v,s)->(w,s+logomega) invariantmu*exp(-s)ds;weights exp(s)cancel. Absoluteheightsnotresetonreroot,gaugesdiagonalunitaryonly;fibersinfigurearenotliftedorbits.",
+        "Far high deletions controlledbyinvariantmeasureexp(-R),lowbycutmatrixnormexp(-R). Fixed-slab spectral/normal-familybounds differfromslab-independentupperhalf-plane/localmomentbounds. One coherentbasecoloratallheights usesuniformL1comparisonoverpartialassignments,but no practicaleffectivecutoff/runtime extracted.",
+        "Sparsepinning405linesread:auxiliarydistance2k Borelclasses useindependentBernoulliindicators onlyacrossclasses/localcandidatepins,notallbaseverticesIID. FinitehistoryMarkovselection;parametersS,tau0/tau,L,B/P,C_P,alphachoseninthatorder. e^(C(S+1))growth andC_Pcost retained,notuniformefficientalgorithm.",
+        "Deletionmonotonicityis integratedrootcost viaresponseandmasstransport,not pointwisepositivepartmonotonicity. Deletionerrorchargedoncetoeachvertex,notnumberofbatches. DescenteigenvalueboundusesA<=A_plus thencompression/congruence,doesnotcommutepositivepartwiththem.",
+        "Measuredpavingcompletion:chosenr by2sqrt(2/r)+2/r<b,finalr+1colors;extraslab/auxiliarygraphcolors/degree/updatecount do notincreasefinalpalette. Those resourcecostsmaydependonD,J/system andtolerance. Positive-part squarederror integral small,not globalnormpavingoforiginaloperator."
+      ],
+      "state": "actuallyread_notcanonicaldecomposition_orproofreview"
+    },
+    {
+      "at": "2026-10-26T05:12:19.791138+00:00",
+      "files": [
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected.tex",
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/expected-atomless.tex"
+      ],
+      "notes": [
+        "Expected594+includedatomless231linesfullyread. Separablepredual,faithfulnormalstatephi,MASA inphicentralizer;normalizeralgebraN modularinvariant permitsphi-preservingE_N. Decompositionx-E_Ax=(E_Nx-E_Ax)+(x-E_Nx) handledseparately;one-sidedmeasuredboundsfor±Y refinedto(r+1)^2palette,thenoffnormalizer n partition givesR_st=(r+1)^2*n,notquadraticclaim.",
+        "Atomlessproof:jointleft/rightstandardL2spectralmeasure firstcoordinateRIGHT;E_NX=0 forcesa.e.diffusekernel. An atomicgraphselectionF neednotinjective;polarintertwiner initiallyneednotnormalizeA. ExpectedtypeI intermediateD andAS12abelianprojectionpartition splitrightsupportintoequalcorneralgebras beforegroupoidnormalizers. OldAS/Hiai/FeldmanMooreoriginalscopesnotyetchecked.",
+        "AtomicMASAsummands inexpectedsettinglieinN soZvanishes;extenddiffusepartpartitionwithoutaddingcolors. Randomfreeness usesrefiningdiffusecells,finite-orderuniformrootlabels,shortestrepeated-cellcompressionwithindependentINTERIORHaarphases;independenceofouterPRE/POSTnotasserted. Kerneliteratesnonsingular/diffusea.e.,limitsQthenE;nontracialrightmultiplicationrequiresmodularanalyticapproximantschosenrighttoleft.",
+        "ConcentrationboundswordinfluencebyC_word*phi(q),sumphi(q)^2->0,selectdeterministiclabelsforcountablymanywordsbydiagonalargument. No effectivefinitecutofformomentcost extracted.",
+        "Naive2x2dilationcanhaveatomiccrosskernel evenz=0;free-diffuseB0 replacessecondMASA. Freecompressionnorm2/sqrt(n) appliedafterjointmoments;momentconvergencegivesstate-smallcontinuousspectralexcess,NOToperatornormconvergence. Multiplierquotientthenfirstcornerrecoversoffnormalizer4/sqrt(n). Finalblockdiagonalclipgamma yieldsselfadjointw_j norm<=2,state-null andnormpavingresidual<=gamma."
+      ],
+      "state": "actuallyread_notcanonicaldecomposition_orproofreview"
+    },
+    {
+      "at": "2026-10-26T05:13:21.779459+00:00",
+      "files": [
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/general.tex",
+        "math/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sources/references.tex"
+      ],
+      "notes": [
+        "Firstgeneral444+references144read,completingfirstall11TeX3650lines. Separable-reductionconstructscountablealgebra includingE_Avaluesandnearcompressionpartitions soA∩M1remainsMASA;notarbitraryseparable subalgebra. Samepaletteboundpreserved.",
+        "No-central-normal-functionalcorner usesstandardformnaturalcone/PowersStormer andrandomfinite-orderdiagonalconjugation toseparatefinitecollectionofstates. Pairwiseseparatingprojectionsneednotorthogonal;sequentialpositiveeffects V_j* b_j V_j telescope sum<=I,areeffectsnotprojections. Theircyclicaveragepositivecontractions>=1-alpha state mass givep_i s p_i<=p_i/m. sxsstrong-nearxrequiresfinitevectortestsANDx-images,notglobalnormcloseness.",
+        "SupporteofcentralizingnormalpositivefunctionalsliesinA,expectedcorner eMe;h=1-e hasnone. e,hnotnecessarilycentralinM. AfterFselectedsplit e=f+g,faithfulstateonfcorner,gannihilatestests. Preserveoriginaloffdiagonalxblocks untilfinaldisjointpalettekills them;norm(y-x)<=2 andnormy<=3afterunitnormalization.",
+        "Mainexplicitcolors R=(r+1)^2*n+m+1 withb=epsilon/[96(K+1)],r=ceil32/b²,n=ceil1024/epsilon²,m=ceil4/epsilon,soO(epsilon^-6)onlyuniversalKenterspalette. Constructionresources stilldependongraph/slab/moments. Addnormingvector||xξ0||>3/4,approxerror<1/4 ensures||y||>1/2;clipdiagonaltoactual||y|| toobtainrelativeepsilon||y||,notreplacebyoriginalnorm.",
+        "Conversioncorollariesretainnormalexpectation:PV15Prop2.4(1)parameters epsilon/12,3,epsilon/6 produceerror epsilon;quadraticexpectedapproximation additionallyuses companionmain thenPV15Prop2.4(2). Mainproofindependentofquadraticcompanion;don'tcreateproofcycle via corollaries. Bibliography22external? keycountsnotyetqualified;exactRS21 arxiv1706.03737v2 versuspublication2021/secondRS17identitymustcheck,notassumeseparateworks."
+      ],
+      "state": "actuallyread_notcanonicaldecomposition_orproofreview"
+    },
+    {
+      "at": "2026-10-26T05:14:30.986969+00:00",
+      "files": [
+        "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/reductions.tex",
+        "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/kernels.tex"
+      ],
+      "notes": [
+        "Secondreductions360+kernels350fullyread. No-centralbranchusesHaagerupsymmetricseminormT(y)=h_phi^(1/4)y h_phi^(1/4),whichdoesNOTcontrolusualstate-norm;positivecone/Jordanseparatingprojectionq0 givesphi(1-q0)+psi(q0)<=t thenstatebound3sqrt(t) andspectralcutlostmass<=(1+36/epsilon²)t. Two randomizations withfixedceil4/epsilon colors andstate-selected finepartition;notautomaticCPUbound.",
+        "Cornerassemblyp/e neednotcentral;disjointpalettes killcross-corner terms soR+ceil4/epsilon+1 ratherthanmultiplying. echosenfromdirectedsupportsafterfiniteF;smallfaithfulstatemasscontrols eachfixednormalfunctional. Separable-reductionincludesstoredE_A/partitionwitnesses,keepsMASA/expectation scope.",
+        "KernelsinmeasuredCartanrepresentationgaugeconsistentunderrootchange;normalizers'log h cutsareentiremodularanalytic. TypeIlemma requiresfaithfulcentralnormalstate (orrelatedexpectedscope);cannotapplytoarbitrarydiffuseMASAintypeIwithoutnormalexpectation.",
+        "Positivekernel fixed-null-set property means for eachfixedmu-nullS,almosteveryrow gives0,NOT allrowmeasures absolutelycontinuouswithmu orjointmeasureproduct-AC. Atomlessnessalmosteveryrow viaatomgraphselectionnotnecessarilyinjective,normalhomomorphism/intertwiner,typeIcorner andnormalizercontradiction. CompositionsavoidONEfixedexceptionalsetthenareatomlesssimultaneouslyonsingletons. AtomicA part kills y∈kerE_N onbothsides."
+      ],
+      "state": "actuallyread_notcanonicaldecomposition_orproofreview"
+    }
+  ],
+  "partially_read_tex_files": [
+    {
+      "path": "math/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/build/source/sections/polynomials.tex",
+      "sha256": "6f1de8edd0d48004563b00b87168b2f31db3c08117c0b5ca0e316222cb28463f",
+      "actually_read_ranges": [
+        [
+          1,
+          245
+        ]
+      ],
+      "lines_read": 245,
+      "fully_read": false
+    }
+  ],
+  "full_file_lines_read": 4500,
+  "publication_recovery_note": "Recovered the additional actual read range1-245 from the immediately preceding source-reading turn;not a new reading or qualification.15 fully read files/4500lines plus245partial=4745/7647. No canonical family,claim,application or review credit."
+}

@@ -1,0 +1,91 @@
+{
+  "at": "2026-10-26T04:49:59.783229+00:00",
+  "work_package": "WP-110",
+  "primary_retrievals": [
+    {
+      "key": "etingof2011",
+      "url": "https://math.mit.edu/~etingof/replect.pdf",
+      "at": "2026-10-26T04:45:43.364660+00:00",
+      "max_bytes": 2500000,
+      "status": "selected_original_scope_checked",
+      "final_url": "https://math.mit.edu/~etingof/replect.pdf",
+      "bytes": 815105,
+      "sha256": "2de50b9f1522d2ab80e2160955e5bd2b81c219214bb94ed0e9c45cfaf9bde22c",
+      "state": "acquired_not_yet_read",
+      "locators": "Author lecture notes January10,2011:Proposition1.16/Corollary1.17 pp8-9;Theorem3.8 p37;Proposition3.14 statement and selected proof pp39-40;Theorem4.33 full displayed proof p56;hook formula derivation andTheorem4.53 pp63-64",
+      "scope": "Finite complex representations:scalar intertwining,orthogonality,induction/restriction reciprocity and hook degree formula support selected interfaces. This is not a check of Pieri,Littlewood-Richardson,all Specht construction or the full textbook. Exact note numbering is distinguished from other editions.",
+      "viewed_pdf_pages": [
+        56,
+        63,
+        64
+      ]
+    },
+    {
+      "key": "alonlovett2013",
+      "url": "https://theoryofcomputing.org/articles/v009a015/v009a015.pdf",
+      "at": "2026-10-26T04:45:43.365261+00:00",
+      "max_bytes": 2500000,
+      "status": "selected_original_scope_checked",
+      "final_url": "https://theoryofcomputing.org/articles/v009a015/v009a015.pdf",
+      "bytes": 279249,
+      "sha256": "b189314524623df6b261fa5090d5dcbe9e4cde44dced92b972cdf18b0918ed79",
+      "state": "acquired_not_yet_read",
+      "locators": "Published Theory ofComputing9(15),2013:Definition/error convention pp560,565;Theorem1.1 p561;Theorem1.4 andSection3 Propositions3.1-3.4,Corollary3.5 and final proof pp567-569",
+      "scope": "Entrywise almost-X-uniform error epsilon is repaired to exact X-uniform law within3epsilon|X|^4 in their L1 convention; project TV is half L1. k-wise independence controls all ordered k-tuples;it is not uniformity of the complete permutation. The global correction and positivity step do not provide the current two fixed-half coupling cost or an efficient large-k sampler.",
+      "viewed_pdf_pages": [
+        3,
+        11
+      ]
+    },
+    {
+      "key": "larsenshalev2008",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=aee51075af196ee1fa6014c8c03230e5ae98652f&repid=rep1&type=pdf",
+      "at": "2026-10-26T04:45:43.365365+00:00",
+      "max_bytes": 2500000,
+      "state": "failed",
+      "error": "AssertionError:",
+      "scope": "Original body unavailable from attempted institutional mirror;not verified. Prior2024 selected restatement remains distinct from2008 original."
+    }
+  ],
+  "new_primary_pdf_bytes": 1094354,
+  "selected_original_works_newly_checked": 2,
+  "actual_pdf_page_images_viewed": [
+    {
+      "name": "alon-p11.png",
+      "bytes": 240888,
+      "sha256": "3de7a1510b348ac738582fd2dfdf2832ca7d7717d253f125cc1e04c4568322ee",
+      "actually_viewed": true
+    },
+    {
+      "name": "etingof-p64.png",
+      "bytes": 267388,
+      "sha256": "a25397a97b63db0c195edab3d929b48117c1da6b96ec58e48d59542b23d69dd2",
+      "actually_viewed": true
+    },
+    {
+      "name": "etingof-p63.png",
+      "bytes": 244109,
+      "sha256": "2809627f75f51ebcd430bdc54db2c4265b3fd824e588cdcd3f71169f1ac910ee",
+      "actually_viewed": true
+    },
+    {
+      "name": "etingof-p56.png",
+      "bytes": 237852,
+      "sha256": "41281f399b38b895e7ac7c12194465b4744fc2e9de45b9a6c1387d69972cd1e5",
+      "actually_viewed": true
+    },
+    {
+      "name": "alon-p3.png",
+      "bytes": 353490,
+      "sha256": "d524bc3d639e0ddfd9da7a5bf3654e7eb8837fa5e625c54434015d3f5a555153",
+      "actually_viewed": true
+    }
+  ],
+  "reused_selected_scopes": [
+    "LIT-238-D1FFAB98FE:author institutional2004PDFsha e26b2bcb45efa95bf881ca7c17d839f17020886b7439c28e026fbf74b8bf775a;Prop2.5/Thm2.6 exactfixedpositivepower only",
+    "LIT-238-REVEALED-35C7E9E543:2024publishedPDFsha34c73a0f10a51c24df4b760bafd5a36e238bf2fd6946b0e1b7ecbd353fc4bdae;Def2.1/Thm2.2 uniformfixedslack only;not2008proof",
+    "Previously qualified DS1981/Morris selected scopes reused only for same stated interface,not full original proofs"
+  ],
+  "complete_original_lineage": false,
+  "raw_bodies_republished": false
+}

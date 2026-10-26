@@ -2,7 +2,7 @@
   "work_package": "WP-110",
   "family_id": "F-238",
   "at": "2026-10-26T04:08:53.951075+00:00",
-  "status": "in_progress_partial_source_reading",
+  "status": "completed_selected_source_decompositions_not_fullfamily",
   "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
   "manuscripts": [
     {
@@ -285,7 +285,13 @@
           "bytes": 4239,
           "lines": 93,
           "sha256": "2a2e882e948e7240503c08a30acd14a41e3d57acef510d6e76bb02744081735c",
-          "body_actually_read": false
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              93
+            ]
+          ]
         },
         {
           "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/characters.tex",
@@ -500,7 +506,13 @@
           "bytes": 11655,
           "lines": 229,
           "sha256": "5f92f93eb1feef48204ab5086b630caf385b976f503ac23890454353208bd212",
-          "body_actually_read": false
+          "body_actually_read": true,
+          "actually_read_ranges": [
+            [
+              1,
+              229
+            ]
+          ]
         },
         {
           "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/two-sided.tex",
@@ -524,10 +536,10 @@
   ],
   "full_family_manuscripts": 12,
   "previously_read_manuscripts": 4,
-  "new_source_body_read_manuscripts": 1,
+  "new_source_body_read_manuscripts": 2,
   "selection": "Read this pair next;other6unreadbodies remain explicit afterfuturepaircompletion",
   "scientific_experiment": false,
-  "updated_at": "2026-10-26T04:33:28.776223+00:00",
+  "updated_at": "2026-10-26T05:06:01.708590+00:00",
   "started_at": "2026-10-26T04:17:34.845201+00:00",
   "base_commit": "5ecdfdd",
   "actual_source_files_read": [
@@ -2142,9 +2154,88 @@
         }
       ],
       "reading_evidence": "Read in immediately preceding continuation; this checkpoint closes its 1026-line bookkeeping lag, without rereading or canonical promotion."
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/references.tex",
+      "sha256": "2a2e882e948e7240503c08a30acd14a41e3d57acef510d6e76bb02744081735c",
+      "lines": 93,
+      "actually_read_ranges": [
+        [
+          1,
+          93
+        ]
+      ],
+      "source_result_inventory_only": []
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/transfer-supplement.tex",
+      "sha256": "5f92f93eb1feef48204ab5086b630caf385b976f503ac23890454353208bd212",
+      "lines": 229,
+      "actually_read_ranges": [
+        [
+          1,
+          229
+        ]
+      ],
+      "source_result_inventory_only": [
+        {
+          "kind": "proposition",
+          "label": "l:coefficient-average",
+          "title_tex": "Coefficient-space average",
+          "label_aliases": [],
+          "start": 1320,
+          "statement_start": 1395,
+          "statement_end": 1488
+        },
+        {
+          "kind": "proposition",
+          "label": "l:orbit-average",
+          "title_tex": "Orbit-space average",
+          "label_aliases": [],
+          "start": 2079,
+          "statement_start": 2142,
+          "statement_end": 2230
+        },
+        {
+          "kind": "proposition",
+          "label": "l:four-coefficient",
+          "title_tex": "Four-factor coefficient decomposition",
+          "label_aliases": [],
+          "start": 2879,
+          "statement_start": 2963,
+          "statement_end": 3087
+        },
+        {
+          "kind": "lemma",
+          "label": "l:peeling-character",
+          "title_tex": "A subcharacter obtained by peeling",
+          "label_aliases": [],
+          "start": 5781,
+          "statement_start": 5858,
+          "statement_end": 6305
+        },
+        {
+          "kind": "lemma",
+          "label": "l:peeling-inverse-one",
+          "title_tex": "Inverse-first-degree summability from peeling",
+          "label_aliases": [],
+          "start": 8600,
+          "statement_start": 8690,
+          "statement_end": 8948
+        },
+        {
+          "kind": "corollary",
+          "label": "l:peeling-lift",
+          "title_tex": "The peeling character transfer",
+          "label_aliases": [],
+          "start": 10319,
+          "statement_start": 10391,
+          "statement_end": 10770
+        }
+      ]
     }
   ],
-  "actual_source_lines_read": 10014,
+  "actual_source_lines_read": 10336,
   "full_family_read_count_unchanged": null,
   "source_claim_notes_not_canonical_or_reviewed": [
     {
@@ -2160,7 +2251,7 @@
       "note": "Physical step costs n/2 fairbits;one sweep d steps. Exact support lower bound and single-card uniformity afterd do not identify full-deck mixing. No numeric experiment or new mathematical claim."
     }
   ],
-  "next_actual_read": "Second manuscript sections/transfer-supplement.tex (229 lines), then references.tex (93 lines);322 lines remain. Historical/formal qualification, canonical bindings, graph QA and retrospective039 remain pending.",
+  "next_actual_read": "WP111 F300twoREADMEs/inventoryread;start actual main/include closure after recovery.",
   "reading_batches": [
     {
       "at": "2026-10-26T04:20:14.310051+00:00",
@@ -2325,8 +2416,25 @@
         "Conditional-product transfer requires actual conditional independence after fixing the environment; uniform half marginals alone do not suffice. Buffer count L>=4000000 and coarse polynomial embedding constants are not practical costs.",
         "Degree-sum supplements give distinct proof routes rather than distinct applications. Signed-tabloid existence and all-positive inverse degree powers remain source claims, not local proof or engineering validation."
       ]
+    },
+    {
+      "at": "2026-10-26T04:43:58.445025+00:00",
+      "files": [
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/references.tex",
+        "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/transfer-supplement.tex"
+      ],
+      "lines": 322,
+      "status": "last_source_closure_read_not_yet_canonical",
+      "notes": [
+        "Fixed-coset coefficient-space average32blocks cap4,orbit average256blocks and fourfactor coefficient decomposition are separate operator routes,not new applications. Fulljointtypes counted without multiplicity inflation; projection averages invertible on selected lowerbound.",
+        "Peeling subcharacter subgroup index<=D^(512^2),asymptotic inverse-first-degree sum and b=2^22 equalblock transfer require sufficient blocksize,retainedmass1-o1 and originalsignmean o1. Existence/largeconstant proofs do not give practical implementation.",
+        "References93lines read;only bibliographic identity,not originalbodyverification. Distinguish three internal companions from externalroots andauthor2011Etingof notes numbering."
+      ]
     }
   ],
-  "canonical_family_qualified_manuscripts_still": 4,
-  "actual_current_bodies_read_including_uncurated": 5
+  "canonical_family_qualified_manuscripts_still": 6,
+  "actual_current_bodies_read_including_uncurated": 6,
+  "canonical_update": "GEN-20261026-107;6/12manuscripts/227bindings;132newnamedresults30contracts;no newcandidate/check",
+  "quality_evidence": "reports/reproducibility/20261026-F238-companions",
+  "global_retrospective": "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
 }

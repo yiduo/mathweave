@@ -294,7 +294,7 @@
 | [F-235 · Limiting random SAT thresholds, sharp variance and computability.](index.html#F-235) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-236 · The exact factor-of-IID threshold for free Ising spins on trees.](index.html#F-236) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-237 · The three-quarter exponent for honeycomb self-avoiding walk.](index.html#F-237) | Probability and statistical mechanics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-238 · Optimal logarithmic mixing of the Thorp shuffle.](index.html#F-238) | Probability and statistical mechanics | 有选读记录 | [局部分析](../families/F-238.md) | 96／39 | 2 |
+| [F-238 · Optimal logarithmic mixing of the Thorp shuffle.](index.html#F-238) | Probability and statistical mechanics | 有选读记录 | [局部分析](../families/F-238.md) | 228／69 | 2 |
 | [F-239 · Sharp singularity rates for symmetric random sign matrices.](index.html#F-239) | Probability and statistical mechanics | 有选读记录 | [全文草稿](../families/F-239.md) | 68／20 | 1 |
 | [F-240 · Shelah's eventual categoricity and the prescribed-threshold obstruction.](index.html#F-240) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-241 · Rigidity of the Turing degrees.](index.html#F-241) | Mathematical logic | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

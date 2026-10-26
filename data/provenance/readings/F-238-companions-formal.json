@@ -1,0 +1,127 @@
+{
+  "at": "2026-10-26T04:49:59.783229+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "selected_actual_files_fully_read": [
+    {
+      "path": "math/lean/docs/238.md",
+      "sha256": "90935144b3f4346476ff852911ad709fe354446bc383e291db4afb90a98aaa49",
+      "lines": 64
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PartialPermutation.json",
+      "sha256": "88aeffda616ec9563b3d472ad7863868f382317c8a9efb317bf78efc85277bb3",
+      "lines": 14
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PartialPermutation.lean",
+      "sha256": "b4a79c0885d12cac3b96953267880e30366e7a0d99b29aadd05e45b00805431f",
+      "lines": 116
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpRemaining.json",
+      "sha256": "9b563a2ad0f2e7d75d5cf92c1a4a5ff52704f58e882d23434ad03ab88f0c57fe",
+      "lines": 14
+    },
+    {
+      "path": "math/lean/OAI/Probability/ThorpResults/Mixing.lean",
+      "sha256": "3fdfec0556d6986acff76351a3b355eb823960e66cb70229077bc70645a96746",
+      "lines": 43
+    },
+    {
+      "path": "math/lean/OAI/Probability/ThorpResults/Main.lean",
+      "sha256": "901cb699fc564145ee945b5e5f2f5f5d36497997b0bf506d6939e13cc8c20234",
+      "lines": 18
+    },
+    {
+      "path": "math/lean/OAI/RepresentationTheory/PartialPermutation/Main.lean",
+      "sha256": "b5451192d9690b7667a3c92c26bc12476b11d3a481f6fe35eaa5e6408fa3c108",
+      "lines": 56
+    },
+    {
+      "path": "math/lean/OAI/RepresentationTheory/PartialPermutation/Model.lean",
+      "sha256": "83cbd513283c556851e307a14dfc7e64b6e1b4d78baf3ccc26b15e79e913a7b0",
+      "lines": 113
+    },
+    {
+      "path": "math/lean/OAI/RepresentationTheory/PartialPermutation/NormBounds.lean",
+      "sha256": "75c3256c471ae3f60f3848ef0fb466a35432ccb265b39d8772644cba37eda3a9",
+      "lines": 52
+    },
+    {
+      "path": "math/lean/OAI/RepresentationTheory/PartialPermutation/ReciprocalBounds.lean",
+      "sha256": "e6ab917d0a637965276e3c95c5ae689fb3aa7ea05653737e9c8390e78feb3959",
+      "lines": 43
+    },
+    {
+      "path": "math/lean/OAI/RepresentationTheory/PartialPermutation/DegreeTransfer.lean",
+      "sha256": "e78c0ee00bd385c9f5e64e21d33729bffa15a62d37ce5133fdeda962586bd129",
+      "lines": 81
+    }
+  ],
+  "selected_partial_read": [
+    {
+      "path": "math/lean/OAI/Probability/ThorpResults/Statements.lean",
+      "lines_read": [
+        1,
+        55
+      ]
+    }
+  ],
+  "indices": [
+    {
+      "path": "data/graph/lean_indices/F-238-frames.json.gz",
+      "sha256": "bd14430826dcaf258996a6127733f8b02a557d3dd1a1a79eed961df53a4a7d11",
+      "local_files": 58,
+      "declarations": 727,
+      "lexical_placeholders": 0,
+      "lexical_axioms": 0,
+      "external_modules": [
+        "Mathlib"
+      ],
+      "scope": "Static indexing only;not all proof bodies read or built"
+    },
+    {
+      "path": "data/graph/lean_indices/F-238-partial-fourier.json.gz",
+      "sha256": "2ad792978dacfecdfa687cab0098c90c8bdde77652351dedc48242a7dae0c992",
+      "local_files": 62,
+      "declarations": 430,
+      "lexical_placeholders": 0,
+      "lexical_axioms": 0,
+      "external_modules": [
+        "Mathlib"
+      ],
+      "scope": "Static indexing only;not all proof bodies read or built"
+    }
+  ],
+  "formalization_yaml_matching_source_entry": false,
+  "selected_source_B_bindings": [
+    "frames:thm:main",
+    "fourier:l:main"
+  ],
+  "all_other_new_named_results": "130 local sourceC;fullchainunknown",
+  "comparisons": [
+    {
+      "item": "Frames main32800d",
+      "natural": "Every deterministic initial deck;TV at32800d tends0 asd->infinity",
+      "Lean": "ThorpResults.FrameMain and Thorp.random_coordinate_frames_main in Mixing.lean",
+      "assessment": "Conclusion matches at static level. Actual proof calls full_mixing_later from existing1600d and distance monotonicity;does not verify the natural independent frame construction or512d corollary."
+    },
+    {
+      "item": "Finite complementary cosets",
+      "natural": "FiniteX partition into b>0 nonempty disjoint blocks;nonnegative f mass<=1;leftcosetcapB/index;unitary irrep degreeD;allfixedu>0;HS² andop²<=bBCuD^(-1+(u+2)/b)",
+      "Lean": "PartialPermutation.Model ComplementaryCosetsFiniteStatement;actual Main.complementaryCosets_finite",
+      "assessment": "Selected finite conclusion and unnormalized mass transform/norms statically agree. Main retains B*mass f before discarding mass<=1;arbitrary multiplicities and unequal block sizes. Actual NormBounds givesop²<=HS²;does not establish that the formal proof independently follows the natural orbit route."
+    },
+    {
+      "item": "Asymptotic products and stronger routes",
+      "natural": "Two independent compositions from eight averaged coset systems;512d consequence;alltilt/palette/kernel/product supplementary routes",
+      "Lean": "Selected PartialPermutation comparator finite estimate only;actual frames32800d doesnotimply512d",
+      "assessment": "Outside selected finite/main scope;no blanket B promotion. Kernel sign matrices,conditional product versus dependent repaired halves,positive reservoir and alltilt event hypotheses remain separately required."
+    }
+  ],
+  "local_build": "not_run",
+  "comparator": "not_run",
+  "human_spec_review": "missing",
+  "full_dependency_review": false,
+  "challenge_placeholder_note": "Comparator challenge has intended sorry;actual selected Main has proof. Static lexical counts are neither build nor proof audit."
+}

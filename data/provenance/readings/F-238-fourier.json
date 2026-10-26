@@ -1,0 +1,436 @@
+{
+  "work_package": "WP-110",
+  "generation_id": "GEN-20261026-107",
+  "at": "2026-10-26T04:55:38.485166+00:00",
+  "family_id": "F-238",
+  "manuscript_id": "P-d7bc9b13ce9fc85f",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "full_current_source_decomposition_draft",
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/main.tex",
+      "bytes": 2419,
+      "lines": 62,
+      "sha256": "968a7dcaf7417a156376a5f4b0e3872980a8805e871c9f619dbdd3cf30edb0d0",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          62
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/references.tex",
+      "bytes": 4239,
+      "lines": 93,
+      "sha256": "2a2e882e948e7240503c08a30acd14a41e3d57acef510d6e76bb02744081735c",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          93
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/characters.tex",
+      "bytes": 9110,
+      "lines": 208,
+      "sha256": "c0e1d0d06aae412f8a6fb6d8db56ddf1c3323113db2fd7cdf16e94f01b93c9c3",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          208
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/comparisons.tex",
+      "bytes": 10876,
+      "lines": 144,
+      "sha256": "7ed7210582e0e1c432aa504ab8b076ea1b3624613371f9cdef28fb1c50373b2c",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          144
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/core.tex",
+      "bytes": 10240,
+      "lines": 154,
+      "sha256": "f5c289a3212845780f25852e893b795ecab41a2d8722ee39b357b7c7c9906b9d",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          154
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degree-supplement.tex",
+      "bytes": 19777,
+      "lines": 458,
+      "sha256": "42d565c886b7eedaf7d2d95311595f683b9aff9372c4e254a3bba56e4d8d94c3",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          458
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/degrees.tex",
+      "bytes": 12111,
+      "lines": 275,
+      "sha256": "f810016a13036755d9d1aee11ba5f2a26ffd948909bfdecaab95f532ed672b09",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          275
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/domains.tex",
+      "bytes": 16293,
+      "lines": 411,
+      "sha256": "a813d2fd028476ca9c6bd9eecc61d54e6c574d25948f09a3c301cc5c421787fc",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          411
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/equivariant.tex",
+      "bytes": 18543,
+      "lines": 461,
+      "sha256": "b4571760a61fdce47898cc181cc129238bafb065a171617a716be44a966f34c8",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          461
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/forests.tex",
+      "bytes": 10649,
+      "lines": 261,
+      "sha256": "ae531297aad8624c16a9d629968453a586b94764266439311623657849f11a1d",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          261
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/foundations.tex",
+      "bytes": 7923,
+      "lines": 97,
+      "sha256": "aab20b666f281fbdf64bfcde025651e9044d7e90cf6fb11366377929124f7f9d",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          97
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/introduction.tex",
+      "bytes": 11757,
+      "lines": 97,
+      "sha256": "4703eb6243c947eb4468a6f5174a699658624a3ead4059a508e5d1fa14602d21",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          97
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/palettes.tex",
+      "bytes": 17301,
+      "lines": 403,
+      "sha256": "67458a92b22509b1416979733eea60a9dae022ed7b3e41b2eafc092b13cd340c",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          403
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/random-partition.tex",
+      "bytes": 4378,
+      "lines": 106,
+      "sha256": "deebc911102bbbe3ae893fd7cd25dfe7d19fd622756bf9c283502b7f36f58dee",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          106
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/replica.tex",
+      "bytes": 6705,
+      "lines": 157,
+      "sha256": "bb3fd99e9d63170824c43a4ef4f810f884265b85a68251118bc246bf75a6c64a",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          157
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid-supplement.tex",
+      "bytes": 7679,
+      "lines": 193,
+      "sha256": "73e582b5ba1ff40156605d7f2c51bd707090c91705fd36241f896a9bbd7d8c12",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          193
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tabloid.tex",
+      "bytes": 14838,
+      "lines": 375,
+      "sha256": "a81da10114054942531a34dd12e1489776c1dc73a96bec9b23d179155d88d978",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          375
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/tilts.tex",
+      "bytes": 6770,
+      "lines": 172,
+      "sha256": "a378218580541a864a9860c3461705579095331522a3b314c6782a6e87ca8428",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          172
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/transfer-supplement.tex",
+      "bytes": 11655,
+      "lines": 229,
+      "sha256": "5f92f93eb1feef48204ab5086b630caf385b976f503ac23890454353208bd212",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          229
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/From-partial-permutation-information-to-Fourier-bounds-September-26-2026/build/sections/two-sided.tex",
+      "bytes": 14088,
+      "lines": 335,
+      "sha256": "03327ca5946e16dfb2e951d511953b88fd87a28ba63637c5db82cca7d5297cb0",
+      "body_actually_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          335
+        ]
+      ]
+    }
+  ],
+  "tex_files_total": 20,
+  "tex_lines_total": 4691,
+  "named_results": 69,
+  "aliases_not_extra_results": 4,
+  "canonical_result_ids": {
+    "l:small-index-character": "CLM-238-FOURIER-L-SMALL-INDEX-CHARACTER",
+    "l:subcharacter-isotypic": "CLM-238-FOURIER-L-SUBCHARACTER-ISOTYPIC",
+    "l:character-lift": "CLM-238-FOURIER-L-CHARACTER-LIFT",
+    "l:coefficient-evaluation": "CLM-238-FOURIER-L-COEFFICIENT-EVALUATION",
+    "l:coefficient-operator": "CLM-238-FOURIER-L-COEFFICIENT-OPERATOR",
+    "l:isotypic-alternatives": "CLM-238-FOURIER-L-ISOTYPIC-ALTERNATIVES",
+    "l:coefficient-lift": "CLM-238-FOURIER-L-COEFFICIENT-LIFT",
+    "l:central-projector-operator": "CLM-238-FOURIER-L-CENTRAL-PROJECTOR-OPERATOR",
+    "l:branching-hs": "CLM-238-FOURIER-L-BRANCHING-HS",
+    "l:single-orbit": "CLM-238-FOURIER-L-SINGLE-ORBIT",
+    "l:orbit-span": "CLM-238-FOURIER-L-ORBIT-SPAN",
+    "l:orbit-completion": "CLM-238-FOURIER-L-ORBIT-COMPLETION",
+    "l:central-isotypic": "CLM-238-FOURIER-L-CENTRAL-ISOTYPIC",
+    "l:isotypic": "CLM-238-FOURIER-L-ISOTYPIC",
+    "l:isotypic-completion": "CLM-238-FOURIER-L-ISOTYPIC-COMPLETION",
+    "l:degree-reciprocal-twenty": "CLM-238-FOURIER-L-DEGREE-RECIPROCAL-TWENTY",
+    "l:degree-inverse-square": "CLM-238-FOURIER-L-DEGREE-INVERSE-SQUARE",
+    "l:degree-elementary-sixteen": "CLM-238-FOURIER-L-DEGREE-ELEMENTARY-SIXTEEN",
+    "l:degree-diagonal-four": "CLM-238-FOURIER-L-DEGREE-DIAGONAL-FOUR",
+    "l:degree-inverse-ten": "CLM-238-FOURIER-L-DEGREE-INVERSE-TEN",
+    "l:degree-sqrt-deficit": "CLM-238-FOURIER-L-DEGREE-SQRT-DEFICIT",
+    "l:tableau-constructions": "CLM-238-FOURIER-L-TABLEAU-CONSTRUCTIONS",
+    "l:degree-hook-ratio": "CLM-238-FOURIER-L-DEGREE-HOOK-RATIO",
+    "l:degree-all-powers": "CLM-238-FOURIER-L-DEGREE-ALL-POWERS",
+    "l:degree-inverse-first": "CLM-238-FOURIER-L-DEGREE-INVERSE-FIRST",
+    "l:degree-type-absorption": "CLM-238-FOURIER-L-DEGREE-TYPE-ABSORPTION",
+    "l:spectral-pruning": "CLM-238-FOURIER-L-SPECTRAL-PRUNING",
+    "l:adaptive-domain-preparation": "CLM-238-FOURIER-L-ADAPTIVE-DOMAIN-PREPARATION",
+    "l:omitted-set-transfer": "CLM-238-FOURIER-L-OMITTED-SET-TRANSFER",
+    "l:domain-transfer": "CLM-238-FOURIER-L-DOMAIN-TRANSFER",
+    "l:equivariant-sixteen": "CLM-238-FOURIER-L-EQUIVARIANT-SIXTEEN",
+    "l:three-group": "CLM-238-FOURIER-L-THREE-GROUP",
+    "l:forest-clipping": "CLM-238-FOURIER-L-FOREST-CLIPPING",
+    "l:forest-degree": "CLM-238-FOURIER-L-FOREST-DEGREE",
+    "l:forest-bulk": "CLM-238-FOURIER-L-FOREST-BULK",
+    "l:forest-hybrid": "CLM-238-FOURIER-L-FOREST-HYBRID",
+    "l:degree-basic": "CLM-238-FOURIER-L-DEGREE-BASIC",
+    "l:partition-selection": "CLM-238-FOURIER-L-PARTITION-SELECTION",
+    "l:trim": "CLM-238-FOURIER-L-TRIM",
+    "l:plancherel": "CLM-238-FOURIER-L-PLANCHEREL",
+    "l:amplification": "CLM-238-FOURIER-L-AMPLIFICATION",
+    "l:main": "CLM-238-FOURIER-L-MAIN",
+    "l:palette-information": "CLM-238-FOURIER-L-PALETTE-INFORMATION",
+    "l:palette-degree": "CLM-238-FOURIER-L-PALETTE-DEGREE",
+    "l:signed-palette": "CLM-238-FOURIER-L-SIGNED-PALETTE",
+    "l:palette-transfer": "CLM-238-FOURIER-L-PALETTE-TRANSFER",
+    "l:random-partition": "CLM-238-FOURIER-L-RANDOM-PARTITION",
+    "l:replica-clipping": "CLM-238-FOURIER-L-REPLICA-CLIPPING",
+    "l:replica-partition-selection": "CLM-238-FOURIER-L-REPLICA-PARTITION-SELECTION",
+    "l:replica-large-dimension": "CLM-238-FOURIER-L-REPLICA-LARGE-DIMENSION",
+    "l:tabloid-degree-sums": "CLM-238-FOURIER-L-TABLOID-DEGREE-SUMS",
+    "l:tabloid-product": "CLM-238-FOURIER-L-TABLOID-PRODUCT",
+    "l:tabloid-embedding": "CLM-238-FOURIER-L-TABLOID-EMBEDDING",
+    "l:tabloid-hs": "CLM-238-FOURIER-L-TABLOID-HS",
+    "l:tabloid-lr": "CLM-238-FOURIER-L-TABLOID-LR",
+    "l:tabloid-completion": "CLM-238-FOURIER-L-TABLOID-COMPLETION",
+    "l:tilted-entropy": "CLM-238-FOURIER-L-TILTED-ENTROPY",
+    "l:coefficient-average": "CLM-238-FOURIER-L-COEFFICIENT-AVERAGE",
+    "l:orbit-average": "CLM-238-FOURIER-L-ORBIT-AVERAGE",
+    "l:four-coefficient": "CLM-238-FOURIER-L-FOUR-COEFFICIENT",
+    "l:peeling-character": "CLM-238-FOURIER-L-PEELING-CHARACTER",
+    "l:peeling-inverse-one": "CLM-238-FOURIER-L-PEELING-INVERSE-ONE",
+    "l:peeling-lift": "CLM-238-FOURIER-L-PEELING-LIFT",
+    "l:joint-types": "CLM-238-FOURIER-L-JOINT-TYPES",
+    "l:joint-type-operator": "CLM-238-FOURIER-L-JOINT-TYPE-OPERATOR",
+    "l:four-block-reservoir": "CLM-238-FOURIER-L-FOUR-BLOCK-RESERVOIR",
+    "l:eight-block-probe": "CLM-238-FOURIER-L-EIGHT-BLOCK-PROBE",
+    "l:two-sided": "CLM-238-FOURIER-L-TWO-SIDED",
+    "l:two-sided-completion": "CLM-238-FOURIER-L-TWO-SIDED-COMPLETION"
+  },
+  "all132_result_statements_reviewed": true,
+  "section_scope_notes": {
+    "00-introduction.tex": "32800d独立自然证明与旧1600d、伴随512d路线分别保留；渐近结论没有有效有限d0。",
+    "01-preliminaries.tex": "n=2^d；物理一步使用n/2公平独立位；单牌边际不决定全排列。",
+    "02-frames.tex": "完整固定方向表之后的框架可用未来；一般L0同时重标记输入；仅L0=I保持同一指定列表。",
+    "03-marginals.tex": "在线观察场只含方向及前驱路径前缀和独立Xi；额外终端数据要核对隐藏律识别。无条件坏平衡概率在去除路径条件后使用。",
+    "04-degrees.tex": "自证逆16次幂弱于已核LS2004全固定正幂旧界；轨道计数是不同类型平方和，保留完整重数。",
+    "05-lift.tex": "所有余类共同裁剪一个事件；归一化上界2/(1-epsilon)，不能分别裁剪后当成同一概率律。",
+    "06-completion.tex": "普通未归一化Fourier质量变换；平凡、符号和非线性表示分开恢复。",
+    "07-shear.tex": "固定列表和随机独立输入列表平均分别处理；剪切键与完整方向表的条件分解不能替换为任意未来附加披露。",
+    "07b-delayed-symmetry.tex": "原有观察场下的B0和p0保持函数定义；额外历史只固定它们，不将p0偷换为全牌位置后验。",
+    "07c-transfer-applications.tex": "不覆盖全体也可取互不交支持；算子/HS、K与K²、两次/八次/三十二次放大是不同路线。512d依赖伴随HS而非所选Lean32800d。",
+    "08-frame-variants.tex": "完整路径须是固定公平开关阵列的可行圆柱。参考历史只是索引；共同G选在任意倾斜律之前。停止坏事件代价只计一次；平均TV不是混合平均律TV。",
+    "09-equivariant.tex": "等变双随机核保留所有重数，符号纤维矩阵条件不能用整体标量符号均值代替；最坏起点须传递等变。",
+    "10-character-explicit.tex": "BP用输出半牌前像上界；PB用输入半牌像修复，不能混换左右余类。uniform固定slack字符界只有所读2024重述范围，2008原作未得。",
+    "11-character-repair.tex": "两半条件边际均匀仍可依赖；正算子估计取min(qalpha,qbeta)而非乘积。存在性修复未给高效采样器。",
+    "two-sided.tex": "左右余类方向与beta*alpha次序固定；联合类型数保留完整重数，恢复两侧质量与符号乘积。",
+    "characters.tex": "子角色存在性与巨大次数不等于实际高效构造；等型投影必须包含所有重数。",
+    "comparisons.tex": "Bz、B²和角色a4是不同估计；分枝缺口是n-max(firstrow,firstcolumn)，固定参数后才取n充分大。",
+    "core.tex": "八系统共同子概率的算子路线四卷积、HS路线两卷积。l:eight-convolutions/l:four-convolutions是旧标签别名，不按名字读次数。",
+    "degrees.tex": "固定u>0先给定再取n极限；包含平凡与符号两项，局部证明不优化旧LS2004速率。",
+    "degree-supplement.tex": "多条逆幂/填充证明是同一接口的替代路线，不计新应用或独立验证。",
+    "domains.tex": "同一完整商测试并集的坏集合预算只计一次；遗漏投影可以不交换，展开须保留乘积次序。",
+    "equivariant.tex": "16核需要保留核每个符号重数HS；3组需要每行每列TV及未裁剪全符号矩阵绝对行列和，不是标量奇偶均值。",
+    "forests.tex": "k=n-firstrow，不可转置抹去首列限制；独立K还须小缺口n^(-k/10)及首列>n/2精确零，不假定与mu卷积根有关。",
+    "foundations.tex": "同一未归一化f必须满足全部上界；质量缺损、符号和高维表示分开。",
+    "introduction.tex": "有限非空不等块、非负子概率、全部左余类上界、任意固定正u和未归一化范数；不由有限估计自动完成渐近两卷积。",
+    "palettes.tex": "同一好事件逐点控制两种半优先揭露顺序，所有调色板/放置/两半上界先成立；普通P平均不能在稀有Q下沿用。",
+    "random-partition.tex": "选共同好事件后才分拆向量；保留质量M和2/M归一化因子，另恢复符号。",
+    "replica.tex": "单律相对熵裁剪出同一未归一化v；logD>d^8的大维数范围不能外推到小维数。",
+    "tabloid-supplement.tex": "钩长、Pieri与带符号嵌入为数学存在性输入，未建立全原作谱系。",
+    "tabloid.tex": "给定环境z后nuA⊗nuC实际乘积是必要接口；仅条件边际均匀不够。L>=4000000与独立xi的逆像上界及保留总质量/符号分别要求。",
+    "tilts.tex": "一个先选的G上EVERY sigma；相对熵参照原P，不是P|G。尾事件再倾斜，条件化代价1/a。",
+    "transfer-supplement.tex": "平均低类型投影与完整联合类型分拆是不同证明；剥离C=512²和b=2^22为粗大存在常数。"
+  },
+  "formal_evidence": "data/provenance/readings/F-238-companions-formal.json",
+  "historical_evidence": "data/provenance/readings/F-238-companions-history.json",
+  "bibliography_keys": {
+    "Czumaj2015": "LIT-238-COMPANIONS-66ADB6D3EE",
+    "CzumajVocking2014": "LIT-238-ACA7026C59",
+    "diaconis-shahshahani": "LIT-238-A3BAC570AC",
+    "etingof": "LIT-238-EA937F2E0E",
+    "frame-robinson-thrall": "LIT-238-COMPANIONS-07819608EF",
+    "James1978": "LIT-238-COMPANIONS-25FD4AAEC8",
+    "liebeck-shalev2004": "LIT-238-D1FFAB98FE",
+    "Morris2009": "LIT-238-9DB965FBBC",
+    "Morris2013": "LIT-238-9CD198B10C",
+    "companion-information": "P-494bf6af76754487",
+    "companion-kernels": "P-ce6a8a7cfdd51cf0",
+    "companion-frames": "P-33d1bc7e07c70610",
+    "sagan": "LIT-238-E975AAB7D6",
+    "Thorp1973": "LIT-238-E4A8F13028"
+  },
+  "method_contract_ids": [
+    "PART-238-COMP-FIXED-FRAME",
+    "PART-238-COMP-HIDDEN-ENERGY",
+    "PART-238-COMP-TERMINAL-IDENTIFICATION",
+    "PART-238-COMP-COMMON-TRIM",
+    "PART-238-COMP-DISTINCT-ORBIT",
+    "PART-238-COMP-ISOTYPIC-CAP",
+    "PART-238-COMP-HS-COMPOSITION",
+    "PART-238-COMP-FIXED-LIST",
+    "PART-238-COMP-SHEAR-DISCLOSURE",
+    "PART-238-COMP-DELAYED-SYMMETRY",
+    "PART-238-COMP-FULL-PATH-CYLINDER",
+    "PART-238-COMP-BACKWARD-REMOVAL",
+    "PART-238-COMP-STOPPED-LIST",
+    "PART-238-COMP-REFERENCE-ROWS",
+    "PART-238-COMP-ALL-TILTS",
+    "PART-238-COMP-KERNEL-SIGN-FIBER",
+    "PART-238-COMP-KERNEL-ROW-COLUMN",
+    "PART-238-COMP-ORDERED-CAPS",
+    "PART-238-COMP-SPECTRAL-PRUNING",
+    "PART-238-COMP-OMITTED-PROJECTIONS",
+    "PART-238-COMP-PALETTE-CAP",
+    "PART-238-COMP-SIGNED-PALETTE",
+    "PART-238-COMP-ENTROPY-CLIP",
+    "PART-238-COMP-SPARSE-HYBRID",
+    "PART-238-COMP-CONDITIONAL-PRODUCT",
+    "PART-238-COMP-DEPENDENT-HALF-REPAIR",
+    "PART-238-COMP-CHARACTER-ORDER",
+    "PART-238-COMP-INVERSE-DEGREES",
+    "PART-238-COMP-SUBCHARACTER",
+    "PART-238-COMP-PEELING"
+  ],
+  "full_family_complete": false,
+  "application_checks_added": 0,
+  "scientific_experiments": []
+}

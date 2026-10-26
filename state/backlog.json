@@ -3447,7 +3447,7 @@
     {
       "id": "WP-110",
       "priority": 1,
-      "status": "in_progress",
+      "status": "completed",
       "parent_task": "WP-006",
       "objective": "Actually read and qualify two still-unread F238 companion manuscripts:random coordinate frames/partial permutation laws and partial information-to-Fourier interfaces;preserve complete12-manuscript family scope and remaining gaps",
       "selection_reason": "Three F239 consumer projects identify a qualified producer but no actual rank decision,so stop same-law search. F238 remains4/12read despite existing small-deck checks;the coordinate-frame and Fourier transfer seam can expose omitted conditions and reusable parts. Alternative is unread operator-algebra/dynamical-family coverage;choose this bounded closure gap now,then compare again in mandatory039,without calling6/12 a completedfamily.",
@@ -3473,16 +3473,59 @@
       "execution_journal": "state/reading-progress/WP-110.json",
       "started_at": "2026-10-26T04:17:34.845201+00:00",
       "execution_progress": {
-        "source_files_fully_read": 36,
-        "source_lines_read": 10014,
-        "selected_total_tex_lines": 10336,
-        "new_manuscripts_fully_read": 1,
-        "family_canonical_qualified_manuscripts": "4/12",
-        "actual_bodies_read_including_uncurated": "5/12",
-        "remaining_selected_lines": 322,
-        "qualification_status": "incomplete; no new canonical bindings or application checks"
-      }
+        "source_files_fully_read": 38,
+        "source_lines_read": 10336,
+        "new_source_decompositions": 2,
+        "family_source_drafts": "6/12",
+        "new_named_bindings": 132,
+        "new_method_contracts": 30,
+        "new_candidates": 0,
+        "new_application_checks": 0
+      },
+      "completed_at": "2026-10-26T05:06:01.708590+00:00",
+      "evidence": [
+        "reports/F238-frames-fourier-reading.md",
+        "reports/families/F-238.md",
+        "data/provenance/readings/F-238-frames.json",
+        "data/provenance/readings/F-238-fourier.json",
+        "reports/reproducibility/20261026-F238-companions",
+        "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
+      ]
+    },
+    {
+      "id": "WP-111",
+      "priority": 1,
+      "status": "in_progress",
+      "parent_task": "WP-006",
+      "objective": "Read and decompose both current F300 approximation/quadratic strong-operator paving manuscripts,compare natural/formal/historical scope and transferable finite input/output contracts",
+      "selection_reason": "Global039 rotates from three probability/consumer packages toward operator algebras2/19. Test whether strong-operator nearidentity compression and approximation claims supply a finite error/cost interface,comparing existing paving/null routes;do not assume practical algorithm from quadratic block-count title.",
+      "inputs": [
+        "F-300",
+        "P-095dcf7bab0be0ae",
+        "P-8a687a97b053c803",
+        "state/reading-progress/WP-111.json",
+        "reports/retrospectives/039-conditional-transfer-and-coverage-rotation.md"
+      ],
+      "resource_limit": "Read-only fixedmath;complete2current source/include/reference/figure closures22TeX7647lines. Atmost4necessarypublicoriginals/8MiBnewbodydownloads,normalTLS;no clone/install/caches. No numerical/symbolicoutput before preregistered executable specification. Compress ownoutputs andverifyroundtrip beforecleanup.",
+      "acceptance": "Bind actual main/supporting results by manuscript/file,compare approximation versus exact/strong versus norm topology,compression projection quantifiers,epsilon/block counts,constants,subalgebra and conditional-expectation scope. Read actual selected formal statements and old paving bounds. Extract transferable contracts andten-domain/threecrossfamily attempts without forcedcards;preserveunknowns/human gates. Fullgraph/source/FK/gates/impact/export/core/archive/no-mathQA.",
+      "stop_or_redirect": "No new theorem proof or smallmatrixdemo presented as strongoperator theorem validation. If effective witness or real identical-output need absent,retainpreciseconditionalmapping androtate;do not silently replace uniformoperatornorm target by compressedstrongtopology.",
+      "created_at": "2026-10-26T05:06:01.708590+00:00",
+      "github_push": false,
+      "retrospective_due": "After next3substantivepackages WP111-113,or earliermajorcounterevidence/dataissue",
+      "execution_journal": "state/reading-progress/WP-111.json",
+      "selection_read_scope": "Two READMEs plus22TeX7647line hashinventory only;zeroTeXbodyread orcoveragecredit",
+      "started_at": "2026-10-26T05:08:27.322428+00:00",
+      "execution_progress": {
+        "files_fully_read": 15,
+        "full_file_tex_lines_read": 4500,
+        "partial_file_tex_lines_read": 245,
+        "tex_lines_read": 4745,
+        "selected_total_tex_lines": 7647,
+        "new_full_manuscripts": 1,
+        "canonical_credit_added": false
+      },
+      "next_actual_read": "Quadratic manuscript sections/polynomials.tex lines246-681;then invariant493,coloring850,transfer769,completion193,references122,figure39. Total2902lines unread. Formal/history/canonical qualification remains pending for both manuscripts."
     }
   ],
-  "updated_at": "2026-10-26T04:17:34.845201+00:00"
+  "updated_at": "2026-10-26T05:20:52.745612+00:00"
 }

@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-26T05:24:41.822054+00:00",
+  "core_tests": 69,
+  "core_exit_code": 0,
+  "no_math_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 1983,
+  "clean_bytes": 74866959,
+  "copy_hashes_verified": true,
+  "source_inventory_hashes_verified": 24,
+  "reading_lines": 4745,
+  "full_file_lines": 4500,
+  "partial_lines": 245,
+  "canonical_science_and_experiment_code_unchanged_from": "f29d140",
+  "new_scientific_experiments": 0,
+  "helper_members_verified": 4,
+  "archive_bytes": 9889,
+  "archive_sha256": "4d9c7921a007345a33a046055eb54c6ba9c93dd308bcdbe25ecb0a819071bb3d",
+  "decompressed_sha256": "4ffb21f9f0bee510e141f4f604116cde55a166f25a9804020d7f5f681f2455b6",
+  "scope": "Publication documentation and incomplete-reading recovery. WP110 graph/impact/export and15archive/267member QA plus actual238/325 replays retain their original receipts; no fresh application or Lean/human/provider acceptance."
+}
