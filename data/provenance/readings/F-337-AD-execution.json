@@ -1,0 +1,207 @@
+{
+  "at": "2026-10-27T07:13:25.162621+00:00",
+  "work_package": "WP-121",
+  "generation_id": "GEN-20261027-118",
+  "run_id": "EXP-337-001-b13e1932a05a4c6a",
+  "implementation_commit": "db5871683b31fdb66225e32e28480e27b015b747",
+  "source_inputs_equal_frozen39": true,
+  "first_attempt_id": "EXP-337-001-20261027T065645595353Z-9817f82d",
+  "actual_backend_imported": true,
+  "actual_target_outputs": true,
+  "fixture_count": 192,
+  "reference_valid_fixtures": 192,
+  "backend_exceptions": [
+    {
+      "index": 66,
+      "n": 5,
+      "r": "0",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 74,
+      "n": 5,
+      "r": "1/4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 82,
+      "n": 5,
+      "r": "1",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 90,
+      "n": 5,
+      "r": "4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 98,
+      "n": 6,
+      "r": "0",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 106,
+      "n": 6,
+      "r": "1/4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 114,
+      "n": 6,
+      "r": "1",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 122,
+      "n": 6,
+      "r": "4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 130,
+      "n": 8,
+      "r": "0",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 138,
+      "n": 8,
+      "r": "1/4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 146,
+      "n": 8,
+      "r": "1",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 154,
+      "n": 8,
+      "r": "4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 162,
+      "n": 12,
+      "r": "0",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 170,
+      "n": 12,
+      "r": "1/4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 178,
+      "n": 12,
+      "r": "1",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    },
+    {
+      "index": 186,
+      "n": 12,
+      "r": "4",
+      "z": "0",
+      "method": "naive_factored",
+      "component": "dz",
+      "exception_type": "ZeroDivisionError",
+      "message": "0.0 cannot be raised to a negative power"
+    }
+  ],
+  "frozen_primary_outcome": "inconclusive_backend_exception",
+  "meets_prediction": false,
+  "primary_conjuncts": {
+    "forward_values": null,
+    "old_baseline_all_components": null,
+    "naive_nonzero_and_smooth_controls": null,
+    "naive_radial_zero_checked_separately": null,
+    "predicted_zero_event_exists": null
+  },
+  "unvalidated_numeric_aggregates": {
+    "forward_values": true,
+    "old_baseline_all_components": true,
+    "naive_nonzero_and_smooth_controls": true,
+    "naive_radial_zero_checked_separately": true,
+    "predicted_zero_event_exists": false
+  },
+  "validated_baseline_sufficiency": null,
+  "resource_envelope_met": true,
+  "calculation_seconds": 0.904506416991353,
+  "peak_traced_python_bytes": 10782282,
+  "whole_CLI_exit_RSS_bytes": 56246272,
+  "replay_receipt": "reports/reproducibility/20261027-F337-AD-execution/first-target-replay.json.gz",
+  "replay_full_payload_exact": true,
+  "replay_runtime_binding_exact": true,
+  "replay_resource_envelope_met": true,
+  "initial_check_credit": 0,
+  "distinct_qualified_validation_credit": 0,
+  "diagnostic_execution_credit": 1,
+  "criteria_unchanged": true,
+  "interpretation": "Python-floatnaivedzraisesZeroDivisionErrorat16fractionalzerojoins. Frozenprimaryexplicitlyexcludesexceptions,soinconclusive,notsupported. All192referencegatesvalidandrawoldbranchcomparisonswithin tolerance;do notoverridethevalidated-baselinesufficiency=nullgate. NoNumPyscalar/tolerance/parameterchangeorrelabelingtoforcepass. Noactuallibrarycontractdefect/2026gain/training/theorem/human/provideracceptance.",
+  "numpy_provenance_limit": "Observedlocalfilepin,19nativeRECORDdifferencesretained;notupstreamwheelattestationorfullyhermeticruntime.",
+  "next": "Stopthisknowncalibrationgrid;preserveallresultsandrotatecoverage/history. Newapplicationevidencerequiresaseparateexternallymotivatedtask,notposthocexception-as-success."
+}

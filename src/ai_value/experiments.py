@@ -207,12 +207,24 @@ RUNNERS['EXP-273-001'] = bosonic_experiment
 from .graph_smoothing import run as graph_smoothing_experiment
 RUNNERS['EXP-332-001'] = graph_smoothing_experiment
 
+from .receiver_audit import experiment as receiver_audit_experiment
+RUNNERS['EXP-276-001'] = receiver_audit_experiment
+
+from .ad_composite import experiment as ad_composite_experiment
+RUNNERS['EXP-337-001'] = ad_composite_experiment
+
+from .mass_action_guard import experiment as mass_action_guard_experiment
+RUNNERS['EXP-149-001'] = mass_action_guard_experiment
+
 
 def run(root: Path, experiment_id: str) -> dict:
     spec_path = root / "experiments/specs" / (experiment_id + ".json")
     spec = json.loads(spec_path.read_text())
     code_paths = sorted((root / "src/ai_value").glob("*.py"))
-    inputs = {str(p.relative_to(root)): digest(p) for p in [spec_path, *code_paths, root / "configs/research.json"]}
+    extra_paths = [root / p for p in spec.get("additional_source_paths", [])]
+    if any(not p.resolve().is_relative_to(root.resolve()) or not p.is_file() for p in extra_paths):
+        raise ValueError("Invalid additional source path")
+    inputs = {str(p.relative_to(root)): digest(p) for p in [spec_path, *code_paths, *extra_paths, root / "configs/research.json"]}
     if (root / "data/corpus/baseline.json").exists():
         inputs["data/corpus/baseline.json"] = digest(root / "data/corpus/baseline.json")
     optional_versions = {}
@@ -248,12 +260,18 @@ def run(root: Path, experiment_id: str) -> dict:
     finally:
         tracemalloc.stop()
     runtime_metrics = summary.pop("_runtime_metrics", None)
+    setup_and_calculation_seconds = elapsed
+    if spec.get("elapsed_budget_metric") == "calculation_seconds":
+        elapsed = runtime_metrics["calculation_seconds"]
+        if not isinstance(elapsed, (int, float)) or not math.isfinite(elapsed) or elapsed < 0:
+            raise ValueError("Missing or invalid calculation clock")
     envelope_met = elapsed <= spec["resource_limit_seconds"] and peak <= spec["resource_limit_mb"]*1024**2
     process_peak_rss_bytes = None
+    process_rss = None
     if spec.get("resource_limit_rss_mb"):
-        import resource
-        observed_rss = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
-        process_peak_rss_bytes = int(observed_rss if sys.platform == "darwin" else observed_rss*1024)
+        from .attempts import peak_process_rss
+        process_rss = peak_process_rss()
+        process_peak_rss_bytes = process_rss["bytes"]
         envelope_met = envelope_met and process_peak_rss_bytes <= spec["resource_limit_rss_mb"]*1024**2
     compression_started = time.perf_counter()
     target.mkdir(parents=True)
@@ -267,7 +285,12 @@ def run(root: Path, experiment_id: str) -> dict:
         (target / (name + ".gz")).write_bytes(packed)
         compressed_payloads[name + ".gz"] = {"uncompressed_name": name, "uncompressed_sha256": __import__("hashlib").sha256(payload).hexdigest()}
     snapshot = {name: (root / name).read_text() for name in inputs}
-    (target / "inputs.json.gz").write_bytes(gzip.compress(json.dumps(snapshot, ensure_ascii=False, sort_keys=True).encode(), mtime=0))
+    source_payload = json.dumps(snapshot, ensure_ascii=False, sort_keys=True).encode()
+    source_packed = gzip.compress(source_payload, mtime=0)
+    assert gzip.decompress(source_packed) == source_payload
+    assert all(__import__("hashlib").sha256(body.encode()).hexdigest() == inputs[name]
+               for name, body in snapshot.items())
+    (target / "inputs.json.gz").write_bytes(source_packed)
     manifest = {"run_id": run_id, "experiment_id": experiment_id, "started_utc": started,
                 "specification_written_utc": datetime.fromtimestamp(spec_path.stat().st_mtime, timezone.utc).isoformat(),
                 "finished_utc": datetime.now(timezone.utc).isoformat(),
@@ -282,6 +305,16 @@ def run(root: Path, experiment_id: str) -> dict:
                 "result": ("resource_envelope_exceeded" if not envelope_met else
                            "passes_preregistered_prediction" if summary["meets_prediction"] else "prediction_not_supported"),
                 "formal_rejection": False}
+    if spec.get('retain_runtime_metrics'):
+        if not isinstance(runtime_metrics, dict):
+            raise ValueError('Requested runtime metrics are missing')
+        manifest['stage_runtime_metrics'] = runtime_metrics
+    if process_rss is not None:
+        manifest["process_peak_rss_bytes"] = process_peak_rss_bytes
+        manifest["process_rss_measurement"] = process_rss
+        manifest["resource_limit_rss_mb"] = spec["resource_limit_rss_mb"]
+        manifest["memory_scope"] = "Python traced allocations AND whole-process lifecycle peak RSS; excludes child processes"
+        manifest["archive_compression_seconds"] = time.perf_counter()-compression_started
     if optional_versions:
         manifest["environment"]["dependencies"] = {"standard_library": True, **optional_versions}
         manifest["optional_dependencies_pinned"] = True
@@ -290,5 +323,28 @@ def run(root: Path, experiment_id: str) -> dict:
         manifest["stage_runtime_metrics"] = runtime_metrics
         manifest["archive_compression_seconds"] = time.perf_counter()-compression_started
         manifest["requires_optional_runtime"] = True
+    if spec.get("elapsed_budget_metric") == "calculation_seconds":
+        manifest["setup_and_calculation_seconds"] = setup_and_calculation_seconds
+        manifest["elapsed_budget_metric"] = "calculation_seconds"
+        manifest["phase_watchdog"] = spec["phase_watchdog"]
+        manifest["external_runtime_artifact"] = spec["external_runtime"]
+    if process_rss is not None:
+        from .attempts import peak_process_rss
+        after_archive = peak_process_rss()
+        manifest["process_peak_rss_bytes"] = after_archive["bytes"]
+        manifest["process_rss_measurement"] = after_archive
+        manifest["rss_measurement_timing"] = "after payload/source compression, before final manifest serialization"
+        manifest["resource_envelope_met"] = envelope_met and after_archive["bytes"] <= spec["resource_limit_rss_mb"]*1024**2
+        if not manifest["resource_envelope_met"]:
+            manifest["result"] = "resource_envelope_exceeded"
+    if spec.get("phase_watchdog"):
+        import os
+        manifest["worker_pid"] = os.getpid()
+        manifest["measurement_state"] = "awaiting_parent_child_lifecycle"
+        manifest["provisional_resource_envelope_met"] = manifest["resource_envelope_met"]
+        manifest["prediction_result_without_resource_gate"] = ("passes_preregistered_prediction"
+            if summary["meets_prediction"] else "prediction_not_supported")
+        manifest["resource_envelope_met"] = False
+        manifest["result"] = "awaiting_parent_child_lifecycle"
     write_json(target / "manifest.json", manifest)
     return manifest

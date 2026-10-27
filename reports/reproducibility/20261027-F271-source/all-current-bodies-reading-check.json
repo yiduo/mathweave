@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-27T10:58:58.984018+00:00",
+  "files_verified": 46,
+  "source_lines_read": 14199,
+  "current_manuscripts_full_body_read": 4,
+  "canonical_credit_added": false,
+  "canonical_and_science_changes": [],
+  "proof_acceptance": false,
+  "numerical_target_runs": 0,
+  "process_observation": "Actual ps query matched only query processes; no project research, replay, quality or preview process observed.",
+  "compressed_previous_receipt": "reports/reproducibility/20261027-F271-source/reading-progress-10671-before-spherical.json.gz",
+  "compressed_previous_receipt_sha256": "21c49a2c93478940b9bd68c398ee7c5a34b773004dd23dde44a194ed6eb5b8f6",
+  "goal": "active_incomplete"
+}

@@ -1,0 +1,266 @@
+{
+  "at": "2026-10-27T09:25:28.009839+00:00",
+  "archive": "reports/reproducibility/20261027-F059-source-scope/helpers-and-logs.tar.gz",
+  "sha256": "4659a1b4f609e9aacb8d460174b94d990b58ead5ca955c41416d48ee84a9a569",
+  "decompressed_sha256": "7bd4f103942357dda0f04dcbef41cc9a70408572050e0c085325dade69ebf969",
+  "compressed_bytes": 235075,
+  "decompressed_bytes": 460800,
+  "members_byte_verified": 39,
+  "member_manifest": [
+    {
+      "name": "EXP-076-002-1f8537b7fd40d564-replay.log",
+      "bytes": 423,
+      "sha256": "4035c4879a8c3ace77641692fd03219e772cb1ff31ce53060ee222a9fe1e53d4"
+    },
+    {
+      "name": "EXP-076-python314-replay.json",
+      "bytes": 586,
+      "sha256": "c63fe7922fea89f5e6df61ef26ff4692ad7550099784c1f08913f2b0631ca2e0"
+    },
+    {
+      "name": "EXP-076-python314-replay.log",
+      "bytes": 586,
+      "sha256": "c63fe7922fea89f5e6df61ef26ff4692ad7550099784c1f08913f2b0631ca2e0"
+    },
+    {
+      "name": "EXP-076-replay-environment-difference.json",
+      "bytes": 2818,
+      "sha256": "23766aaa5a1c9e148170add44cb9d82e46a879b25f2275297ad448f02e91c618"
+    },
+    {
+      "name": "EXP-238-001-a1d52c04aeb9b1ba-replay.json",
+      "bytes": 568,
+      "sha256": "ea5855aa777987e0ce0a5f2534ebc704e6291c5c4d6899d6e468bd3a1f3acf6a"
+    },
+    {
+      "name": "EXP-238-001-a1d52c04aeb9b1ba-replay.log",
+      "bytes": 568,
+      "sha256": "ea5855aa777987e0ce0a5f2534ebc704e6291c5c4d6899d6e468bd3a1f3acf6a"
+    },
+    {
+      "name": "build_report.py",
+      "bytes": 5139,
+      "sha256": "2178130dddacf9896390047e60712d69f6f68cc859d0fbc52435bb6d5c059a53"
+    },
+    {
+      "name": "clean-check.json.gz",
+      "bytes": 131775,
+      "sha256": "45e563948e47d1fa078f2b2b16246a899bbbc42a5d964668f4812375128b7635"
+    },
+    {
+      "name": "clean-core.log",
+      "bytes": 14756,
+      "sha256": "2c88e19b559b5fa5572b1fb668cde61cd4ee4588f1f1f9d420b65d9372e5a097"
+    },
+    {
+      "name": "clean.log",
+      "bytes": 405,
+      "sha256": "2acf762d681579c424ac06b8b520e943a6fee786315c75ba84539666993b9176"
+    },
+    {
+      "name": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "close.py",
+      "bytes": 16398,
+      "sha256": "6aef502a4d13484715cd48830932e49ca698dba140677723e98d0be4065ae103"
+    },
+    {
+      "name": "closure-failure-notes.json",
+      "bytes": 1022,
+      "sha256": "ca0b29ee5b6e7c40fea3f1f2ead6087ae3b9f8ac7e200e8897a62a783de775bf"
+    },
+    {
+      "name": "closure.json",
+      "bytes": 4717,
+      "sha256": "a0521167b2878f136891f985bd889103ecba157f33daea9ba03acc6824378e56"
+    },
+    {
+      "name": "core.log",
+      "bytes": 14756,
+      "sha256": "47c42e68d217284e4e0f22d4641559cd6c35f911ad9fad5f551c114ac917cba1"
+    },
+    {
+      "name": "curate-attempt1.py",
+      "bytes": 22438,
+      "sha256": "7c38603f435f819dcd51e24d78da7a1673ea01c231990349d53a1258a18c989e"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 22521,
+      "sha256": "32c47390713dc601b90a1e64540077dc303b7d12c99e157e7042e4b518b3d407"
+    },
+    {
+      "name": "curation-repaired.log",
+      "bytes": 704,
+      "sha256": "8378d895fa460f0ec2d5830e430a6c6f732393a8ce9d31185d0c6804c66e3d5a"
+    },
+    {
+      "name": "curation-summary.json",
+      "bytes": 5251,
+      "sha256": "6ecfdef98e7185d8e86ef9b91a53da5677bff035d8611d790e50e9e2b9c0606d"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 749,
+      "sha256": "bff17ddd6e68701f188a42bf60077e34d2a8ae41b60fd09294ff20d3b8144a5a"
+    },
+    {
+      "name": "fetch_history.py",
+      "bytes": 1807,
+      "sha256": "a266342c594f856be714ba5140a73691aba748f7baa99333149160ef07aa52e6"
+    },
+    {
+      "name": "finish_close.py",
+      "bytes": 6252,
+      "sha256": "2356ba08288068323d61d5b576aee52a4e9b3b35bae54787dc2469a390bf2180"
+    },
+    {
+      "name": "history-fetch.json",
+      "bytes": 3096,
+      "sha256": "5a0812f27fe799b4f05ec8c83ce301bde123ef4dac15ab1449e78dc094ea37f9"
+    },
+    {
+      "name": "next-selection.json",
+      "bytes": 2969,
+      "sha256": "4027ae3b5b0f1b0fae4be51f8937c5d51830310f96e166f71c960fdd342c7a8f"
+    },
+    {
+      "name": "post-clean-metadata-check.json",
+      "bytes": 1783,
+      "sha256": "a0a62048fb8d3ceab6ca9910c98a4423765681d918d1e289e5fb6f5e0c5c1f10"
+    },
+    {
+      "name": "prepare_retrospective.py",
+      "bytes": 12276,
+      "sha256": "35aa4fa167e447c9af94b93aac8f1dfa5b3451adb5965e34cf89d8be7b68cd55"
+    },
+    {
+      "name": "qualification.json",
+      "bytes": 30676,
+      "sha256": "a07c6dae73a4e86fff400f8b2b30bd4fdf0ebba23dfa8de8ef7ab8ec24be1932"
+    },
+    {
+      "name": "qualify.py",
+      "bytes": 34490,
+      "sha256": "635e5d3ad4c11f8b7d85b1dd51d26965a0edf3cd770ef77efeaaeda934a13f0b"
+    },
+    {
+      "name": "quality.json.gz",
+      "bytes": 5007,
+      "sha256": "2daa579f6a0f47e5a7038b0067f0b3e78eb772552e5782e8f7f50577dcebf0c4"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 1311,
+      "sha256": "f223a3676ec97d67771b16eb563277d16a27d6dea6479fece77767c0eec7987a"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 8784,
+      "sha256": "dd6160249680924ea77763308c62027e39473f71eef2a2bdc82119cb4ca88bd8"
+    },
+    {
+      "name": "replay_representatives.py",
+      "bytes": 462,
+      "sha256": "88ead5d7fad36b7029be7b2c06d193332d0bfc70d37161cfc9caa33dc0f52ac4"
+    },
+    {
+      "name": "representative-replays.log",
+      "bytes": 58,
+      "sha256": "b6d1ba0b8d0c2fbe4ef1d2e6e2819dfc1509967e8122256f377bc9f385de1c69"
+    },
+    {
+      "name": "save_status_checkpoint.py",
+      "bytes": 7866,
+      "sha256": "49aede357f647ffb8ce11b079cbd7662043693e0120d06b1ec7d5c182103647d"
+    },
+    {
+      "name": "template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "template-close.py",
+      "bytes": 14430,
+      "sha256": "0102473b81358cab5a2522893f95b2f8dcb7d35835030186058d723346c51a2f"
+    },
+    {
+      "name": "template-quality.py",
+      "bytes": 9337,
+      "sha256": "7a258212bb13c84089caf4052817d817154480d5ba27af3ebe11875e2bb28c1c"
+    },
+    {
+      "name": "template-source-curate.py",
+      "bytes": 16454,
+      "sha256": "daa73bcbe37dda13ca32713bfc8d36531c49cbd0af626d5429e10b0186705309"
+    },
+    {
+      "name": "template-source-qualify.py",
+      "bytes": 16400,
+      "sha256": "24891dbc55729f19af194c50cc4cd0cc1bb3690ee5656ee3cf563d608f40f5a2"
+    }
+  ],
+  "temporary_originals_not_republished": [
+    {
+      "name": "Kato1974.pdf",
+      "bytes": 748904,
+      "sha256": "3293aa8488acea3df5694feed2dcb2d52f32acfcbd1d2091293f579a9f2b2d7c"
+    },
+    {
+      "name": "Kato1974.txt",
+      "bytes": 25293,
+      "sha256": "bb892e985de315bbae52f24946df3a3e18930c080bc5e4f2489f34465c37af3b"
+    },
+    {
+      "name": "Levine1970.pdf",
+      "bytes": 1080158,
+      "sha256": "9f33acf3064245e93886ad652a8620a26a03f2d22dcca8c4fc445407aee35892"
+    },
+    {
+      "name": "Levine1970.txt",
+      "bytes": 33129,
+      "sha256": "0ba40cefabd80893cdffe34362a2159f382f4e0ea1baaa463541a8ac6cfa146a"
+    },
+    {
+      "name": "Rapinchuk2014.pdf",
+      "bytes": 280765,
+      "sha256": "b8186fce2bca31798ab7816f5607a014d5099a526cf90f8df63be44cbf5148ec"
+    },
+    {
+      "name": "Rapinchuk2014.txt",
+      "bytes": 84578,
+      "sha256": "66c127b4a6eea5d82947e5c342ed9c9a724db2cc46df3589bd877f12ebc704e4"
+    },
+    {
+      "name": "Massey2015LeCycles.pdf",
+      "bytes": 540052,
+      "sha256": "717bb3de7b912800ea78504c8335a1d61f8af93ed77e192c36685857196ed458"
+    },
+    {
+      "name": "Massey2015LeCycles.txt",
+      "bytes": 101425,
+      "sha256": "af7cd31b0b2f9334c68ee1d86ce6f48b54bfe6506ce3c33723b235d43a3ba16f"
+    },
+    {
+      "name": "BobadillaPelka2024.pdf",
+      "bytes": 1722392,
+      "sha256": "2ae607f33bbd05bf1a33c8c8d1c719bb539806fb84097b64804efccc1f51f82e"
+    },
+    {
+      "name": "BobadillaPelka2024.txt",
+      "bytes": 492860,
+      "sha256": "a2f80c662835ff641d25539fb63fc3e66d3a7011c0cbe761e24bcaa496b6012a"
+    }
+  ],
+  "temporary_original_bytes_removed": 5109556,
+  "original_cleanup_receipt": "reports/reproducibility/20261027-F059-source-scope/partial-checkpoint.json",
+  "clean_directory_removed": true,
+  "no_upstream_writes_installs_or_large_dependencies": true,
+  "new_scientific_experiments": 0,
+  "preserved_failed_replay": "experiments/replay-failures/EXP-076-002-1f8537b7fd40d564-1d900635e2ec",
+  "scope": "Ownhelpers/failures/logs losslesslycompressed;thirdpartyPDF/text bodies excluded and previouslyhashverifiedremoved. Allscience/code/canonicalfiles remainedequal;generatedauditindependentlyverifiedandpostcleanmetadataidentified.",
+  "temporary_work_root_removed": true
+}

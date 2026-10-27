@@ -1,0 +1,116 @@
+{
+  "at": "2026-10-27T11:13:35.597361+00:00",
+  "files": 3330,
+  "bytes": 93669024,
+  "official_math_paths": 0,
+  "copy_hashes_verified": true,
+  "core_exit_code": 0,
+  "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "core_tests": 95,
+  "clean_core_tests": 95,
+  "skips": 0,
+  "clean_directory_removed": true,
+  "science_and_graph_unchanged_from": "7f4ddd0",
+  "full_JSON_GraphML_objects_equal": true,
+  "scientific_archives": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "source_members": 18,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "source_members": 15,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "source_members": 22,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "source_members": 9,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-119-001-e9d098be0b1dda8f",
+      "source_members": 24,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "source_members": 9,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "source_members": 9,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-149-001-e334ac2404104e6a",
+      "source_members": 41,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "source_members": 18,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "source_members": 19,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "source_members": 16,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-273-001-28f6d541ddfebd6e",
+      "source_members": 26,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-276-001-b27918614d6d2c9d",
+      "source_members": 31,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "source_members": 20,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "source_members": 21,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-332-001-b2607a9926c44586",
+      "source_members": 28,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-337-001-b13e1932a05a4c6a",
+      "source_members": 39,
+      "outputs_and_decompressed_hashes_verified": true
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "source_members": 13,
+      "outputs_and_decompressed_hashes_verified": true
+    }
+  ],
+  "source_archive_members": 378,
+  "prior_complete_dependency_impact_receipt": "reports/reproducibility/20261027-F181-history/quality.json.gz",
+  "prior_strict_supported_adverse_replays": "reports/reproducibility/20261027-F181-history/closure.json",
+  "new_scientific_runs": 0,
+  "WP129_canonical_credit_added": false,
+  "scope": "Publication and reproducibility QA. No new mathematics,application,human/provider or complete-family acceptance.",
+  "helper_members_verified": 4,
+  "helper_compressed_sha256": "1f0834f4b92eaf1e5e8a12ef0709753607951f3fd011b4cbb555aa18feae86c5",
+  "helper_decompressed_sha256": "5f41dafc4ad80e0293a9b3a1c0f78b38fca76fabda55e25e3f36e6141176c2fa"
+}

@@ -1,0 +1,124 @@
+{
+  "work_package": "WP-124",
+  "selected_manuscript_id": "P-2a0250a8d5ca112d",
+  "selected_family": "F-238",
+  "scope": "Six remaining current companion inventories;four actual READMEs only,no selected body read credit.",
+  "selected": {
+    "manuscript_id": "P-2a0250a8d5ca112d",
+    "title": "Conditional coordinate sweeps and analytic transfer",
+    "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026",
+    "files": 10,
+    "lines": 1791,
+    "inventory": [
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/figures/trajectory.tex",
+        "lines": 37,
+        "sha256": "1b5a568f0c705b10fd0db8640ea03441915394b407989ded6a7f97fc6dffdb19"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+        "lines": 56,
+        "sha256": "1654f49ccc867888e4e1e145e8dce6d1e20ae1b25faa8f440c8dabc844aa4453"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+        "lines": 106,
+        "sha256": "b5dd211b0f256e76ed44e47dcb48b8c030ef422ae4f977883e826cf96cb89392"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex",
+        "lines": 234,
+        "sha256": "5c70eb70e6a0858e0c8d1012c82d545385156969f67b37026e1fcb3cc52bd1bf"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/02-preliminaries.tex",
+        "lines": 102,
+        "sha256": "8a761fc1d42c53e6ae554123954adc3a4f3a39f07a4fa479de9fee0a2a9f8b61"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex",
+        "lines": 165,
+        "sha256": "36c2a5898812bf18293c31c8240c15c37a26c5bd2f26d703ddddbdd06a73d65d"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/04-sparse.tex",
+        "lines": 388,
+        "sha256": "1835687020707de34a75cb10aafa83004b5d1bc33a28c0f2f6e5c3d68f0b31d7"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/05-density.tex",
+        "lines": 182,
+        "sha256": "eb91bac1d28aa5dd6dece81bb185a946727bc02d36e6519e7b1ab29021554875"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/06-induction.tex",
+        "lines": 448,
+        "sha256": "431917fdfc611d5fcceeb9ad61a8010d72403a3fe37739f8bb2704255bd51e72"
+      },
+      {
+        "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/07-analytic.tex",
+        "lines": 73,
+        "sha256": "15cc5678f8761e34ded3e012ac1881c6412c6bc6d78b0ec5fa6de68701e3ba70"
+      }
+    ],
+    "body_read_credit": 0
+  },
+  "alternatives": [
+    {
+      "id": "P-d4649633f45577f3",
+      "title": "Routing densities and representation contraction for Thorp sweeps",
+      "files": 15,
+      "lines": 5645
+    },
+    {
+      "id": "P-4cd1b43908669d25",
+      "title": "Row&#8211;column symmetry and contraction of coordinate sweeps",
+      "files": 6,
+      "lines": 1780
+    },
+    {
+      "id": "P-066bd17e20c91725",
+      "title": "Compatibility entropy and the spectrum of a Thorp sweep",
+      "files": 20,
+      "lines": 7199
+    },
+    {
+      "id": "P-5677e8662d3a064d",
+      "title": "Signed tensor densities and diagram budgets for the Thorp shuffle",
+      "files": 16,
+      "lines": 6906
+    },
+    {
+      "id": "P-cfd3197691c1cfa4",
+      "title": "A strict four-row permanent inequality and permutation moments",
+      "files": 9,
+      "lines": 1120
+    }
+  ],
+  "readme_scopes": [
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/README.md",
+      "sha256": "ae43ee1e8d79d064917d7c7017c0be7f1e197b2e06fb7752b833a87012bd7d24",
+      "lines": 16
+    },
+    {
+      "path": "math/preprints/Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026/README.md",
+      "sha256": "f79267c46ee749a022c350cd4894e48038c0cfec35f6cb628b88b4c266bac640",
+      "lines": 16
+    },
+    {
+      "path": "math/preprints/A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026/README.md",
+      "sha256": "f554a33b5d0b24325489d87156b9c94cd2129f45754559ad25cf6e93808cba46",
+      "lines": 16
+    },
+    {
+      "path": "math/preprints/Routing-densities-and-representation-contraction-for-Thorp-sweeps-September-26-2026/README.md",
+      "sha256": "2911fbe36ca956446107d0d15173258f4a9e2e1180f9b97d0592f4bb5ada6cc9",
+      "lines": 15
+    }
+  ],
+  "reason": "After one bounded scheduling admission package,return to incomplete largefamily. Conditional-to-analytic transfer is the direct unresolved bridge between actual conditional law/trace semantics and global spectral or mixing claims already used inAPP23802. Compare row-column symmetry1780lines,localfour-row inequality1120lines androutingdensity5645lines;chosen1791linecompanion isnottheshortest. Readbody before asserting its theorem orengineering relevance.",
+  "acceptance": "All10currentTeX/Bib1791lines andincludedeps,source-scoped resultbindings/contracts andactualselectedformal/historycomparison;advanceF2386/12to7/12onlyafteractualfullread,neverfullfamily. No new experiment before separatefrozenhypothesis.",
+  "body_read_credit": 0,
+  "at": "2026-10-27T08:12:09.149663+00:00"
+}

@@ -1,0 +1,102 @@
+{
+  "family_id": "F-047",
+  "recorded_at": "2026-10-27T03:39:32.791389+00:00",
+  "selected_work_budget": 4,
+  "body_budget_bytes": 8388608,
+  "selected_bodies": [
+    {
+      "work": "DuttaLahiri2019v1",
+      "url": "https://arxiv.org/html/1908.03549v1",
+      "retrieved_at": "2026-10-27T03:33:25.902264+00:00",
+      "content_type": "text/html; charset=utf-8",
+      "final_url": "https://arxiv.org/html/1908.03549v1",
+      "status": "retrieved_not_yet_locally_read",
+      "bytes": 278803,
+      "sha256": "eb978d33e636f3414cfe4f7e5481970b1ea0db2b63550561f9ea850590a45233",
+      "temporary_path": "/private/tmp/ai-paper-WP115/history/DuttaLahiri2019v1.html"
+    },
+    {
+      "work": "Brion2015",
+      "url": "https://www.ms.u-tokyo.ac.jp/journal/pdf/jms220104.pdf",
+      "retrieved_at": "2026-10-27T03:33:25.902967+00:00",
+      "content_type": "application/pdf",
+      "final_url": "https://www.ms.u-tokyo.ac.jp/journal/pdf/jms220104.pdf",
+      "status": "retrieved_not_yet_locally_read",
+      "bytes": 249638,
+      "sha256": "eaa3921c3093ca6653cd23aafe4b484552b903b458f0fe0ec10a0e59b8e526da",
+      "temporary_path": "/private/tmp/ai-paper-WP115/history/Brion2015.pdf"
+    },
+    {
+      "work": "Suslin1976",
+      "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=dan&option_lang=eng&paperid=40545&what=fullt",
+      "retrieved_at": "2026-10-27T03:33:25.903271+00:00",
+      "status": "failed_preserved_no_content_credit",
+      "error": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+      "bounded_recovery_error": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>",
+      "prior_failure": {
+        "work": "Suslin1976",
+        "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=dan&option_lang=eng&paperid=40545&what=fullt",
+        "retrieved_at": "2026-10-27T03:33:25.903271+00:00",
+        "status": "failed_preserved_no_content_credit",
+        "error": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+      }
+    },
+    {
+      "work": "BassConnellWright1976",
+      "url": "https://www.ams.org/journals/bull/1976-82-05/S0002-9904-1976-14128-6/S0002-9904-1976-14128-6.pdf",
+      "retrieved_at": "2026-10-27T03:33:25.903561+00:00",
+      "status": "failed_preserved_no_content_credit",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
+  "acquired_body_bytes": 528441,
+  "verified_hashed_original_scopes": {
+    "DuttaLahiri": {
+      "work": "DuttaLahiri2019v1",
+      "version": "arXiv1908.03549v1,not assumed journal text identical",
+      "scope": "Lemma3.3/Theorem3.4 statements and proofs;Theorem2.17 statement only",
+      "summary": "For an affine one-dimensional algebra over an algebraically closed field, characteristic zero or seminormal reduced ring, residual coordinates with at least three variables are one-stable. Denominator clearing supplies an exponential map after localization. Applied here to C[p] and four variables; it does not establish unstabilized coordinate status. Theorem2.17 states the locally symmetric finitely presented algebra result and attributes it to BCW/Suslin; that quotation is secondary evidence for BCW, not inspection of its original."
+    },
+    "Brion": {
+      "work": "Brion2015",
+      "version": "Journal original PDF,2015,35pages",
+      "scope": "converted-text journal pp120-123, Lemmas2.8/2.9,Proposition2.10,Lemmas2.12/2.13,Theorem2.14;surroundingpartial examples",
+      "summary": "On reduced group schemes, isomorphism of action and projection pullbacks is the linearization criterion. The equivariant Picard exact sequence describes ambiguity and obstruction. For normal schemes, a power governed by the stable exponent of the group Picard group linearizes. For the additive group the character ambiguity disappears; the paper also shows normality cannot simply be dropped. These are selected old-scope interfaces, not a review of every cited proof."
+    }
+  },
+  "web_only_partial_original_scope": {
+    "Suslin": {
+      "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=dan&option_lang=eng&paperid=40545&what=fullt",
+      "scope": "Web extracted Russian text p1065 Theorem2(a,b),p1066 Theorem3;statement fragments actually read",
+      "observation": "Theorem2(b) states extendedness for finite projective rank>dimC over C[variables] with C regular Noetherian. The selected use C=complex numbers and rank3 satisfies the inequality. Russian text has extraction errors;local original TLS acquisition twice timed out. No original body SHA or canonical hashed-original qualification credited.",
+      "original_body_sha256": null,
+      "full_original_review": false
+    }
+  },
+  "unresolved_primary_sources": {
+    "BassConnellWright": "Publisher403 via web and bounded urllib. DuttaLahiri2.17 reproduces compatible statement as secondary evidence;original Theorem3(a) remains unqualified.",
+    "Suslin": "Web extracted statement read,local TLS handshake failed twice;do not repeat this route without changed source/access."
+  },
+  "conversion": {
+    "html": "stdlib HTMLParser,MathML alttext preserving original TeX;no bs4 dependency installed",
+    "pdf": "pdftotext -layout;converted text only,not visual page inspection",
+    "text_files": [
+      {
+        "path": "/private/tmp/ai-paper-WP115/history/Brion2015.txt",
+        "sha256": "edc109b821fc8a6603b4f64334385e4ffe8ee18ad3f009c58cdbe26263eef960",
+        "bytes": 88647
+      },
+      {
+        "path": "/private/tmp/ai-paper-WP115/history/DuttaLahiri2019v1.txt",
+        "sha256": "7f6f68a0eb950f0601f5bb1b85b187414e6d06c4818b2584b72594b53b530948",
+        "bytes": 25441
+      }
+    ],
+    "failed_attempt": "Bundled Python has no bs4; original ModuleNotFoundError retained in work log and replaced by stdlib parser"
+  },
+  "full_historical_lineage_complete": false,
+  "full_original_proofs_reviewed": false,
+  "unread_root_count": 24,
+  "checked_hashed_root_count": 2,
+  "policy": "Temporary full bodies and text conversions excluded from published tree;hashes/qualified paraphrase/failures retained. No insecure TLS workaround."
+}

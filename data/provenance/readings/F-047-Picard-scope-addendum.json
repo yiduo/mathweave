@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-27T04:54:07.905147+00:00",
+  "reason": "Make the converse variable quantifier explicit before package closure; original source and initial qualified record retained. No effect on actual one-variable application.",
+  "original_printed_statement": "Finite set of indeterminates; selected source proof of converse chooses t in T, converted line568. Empty T would make Pic(A) -> Pic(A) the identity for any A.",
+  "qualified_statement": "Use a nonempty finite variable set for the seminormality characterization. The F047 application uses T={t}, so this causes no mismatch at the intended use.",
+  "source_pdf_sha256": "afe930a6d659184ad9120700d29ca074bb8371444861ecd7e577fea73881265b",
+  "source_text_sha256": "36544093b0b3ba9f4aa09ad4a09819d29174ae745bb0000696de3f5dac847dbc",
+  "full_proof_review": false
+}

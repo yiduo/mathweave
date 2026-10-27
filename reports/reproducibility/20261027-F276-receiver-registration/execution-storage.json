@@ -1,0 +1,148 @@
+{
+  "at": "2026-10-27T04:45:30.796055+00:00",
+  "work_package": "WP-117",
+  "numerical_run": "EXP-276-001-b27918614d6d2c9d",
+  "experiment_archives_verified": 16,
+  "source_members_verified": 298,
+  "numerical_raw_summary_source_snapshots_compressed": true,
+  "attempt_progress_compressed_members": 151,
+  "attempt_sources_stdout_stderr_retained_compressed": true,
+  "own_helper_members_verified": [
+    {
+      "path": "clean-check.json.gz",
+      "bytes": 112545,
+      "sha256": "04ef1c55a03bea5d9c9ef2fd29750578a5d168288d743019f2529effabc8c0d7"
+    },
+    {
+      "path": "clean-core.log",
+      "bytes": 12480,
+      "sha256": "df6a307f56d9e946e69879b1f4e024a5bba3518b12c67ec07683869b6b96db78"
+    },
+    {
+      "path": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "c5bd62c41e2b664276bf91e4fec9e6f5223aa70238c7d55c43718921da79b7dc"
+    },
+    {
+      "path": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "path": "core-before-run-legacy-resource-failure.log",
+      "bytes": 12375,
+      "sha256": "eca201f64229f67737fc744ab61ab9591218b8f0614968f15144d1fcd105a725"
+    },
+    {
+      "path": "core-before-run.log",
+      "bytes": 12480,
+      "sha256": "4e1625f14b84df8531701d8d24eee5adce23f118f626bfbce9aba37b8dc2c073"
+    },
+    {
+      "path": "core.log",
+      "bytes": 12560,
+      "sha256": "24ce7fce7d2279c3a5664f67a0d5e3242d35cc9dd1a011ba4f9dea8d5c171795"
+    },
+    {
+      "path": "curate.py",
+      "bytes": 15649,
+      "sha256": "e35576377f6cc413bf2fc83f9674e71c602a301a48a85149d544571372a0527a"
+    },
+    {
+      "path": "curation-summary.json",
+      "bytes": 818,
+      "sha256": "92b9a766039bc481f16cc7487a47b2300267aaa232f31205c63129ac47f9300d"
+    },
+    {
+      "path": "finalize-first-failed.py",
+      "bytes": 13369,
+      "sha256": "99af7b4894c40628e10ee2891ea618bcc58c9ec654a712766f84ee59032adf87"
+    },
+    {
+      "path": "finalize.py",
+      "bytes": 14129,
+      "sha256": "ce5613678f6e9a8dc79dca0aaef85dfeeb6d3b9a7fbeaadd4802fa6e9370c885"
+    },
+    {
+      "path": "local-browser-parity-missing-pythonpath.log",
+      "bytes": 11142,
+      "sha256": "fde4bbfc5c9ad76ed7c8015e3f733eb50cd907b1638d7b61450d49458ab97579"
+    },
+    {
+      "path": "local-browser-parity.log",
+      "bytes": 254,
+      "sha256": "1f074d9669aadea382eb12298beaf2302c4e8eef627ca77adfa15503c67b753c"
+    },
+    {
+      "path": "quality.json.gz",
+      "bytes": 3667,
+      "sha256": "68846b6c23a0df2f90729e86e0ebce0db9135b717c3d7e847cc2b93706bc3434"
+    },
+    {
+      "path": "quality.log",
+      "bytes": 1207,
+      "sha256": "ab86f09d23e2663aa49daff2f5a52be0bb77cda54f2b580fd4c58f874b3f8f86"
+    },
+    {
+      "path": "quality.py",
+      "bytes": 8010,
+      "sha256": "688e7a886e570058544fe0ddb5c0000155bb2e45668112b2f367a895e8449bff"
+    },
+    {
+      "path": "replay-276.json",
+      "bytes": 459,
+      "sha256": "f3dcf2df59e881794dcb477c7e7b5d3b332d135f6c49fd8f16709684065c3427"
+    },
+    {
+      "path": "replay-276.log",
+      "bytes": 459,
+      "sha256": "f3dcf2df59e881794dcb477c7e7b5d3b332d135f6c49fd8f16709684065c3427"
+    },
+    {
+      "path": "software-controls.log",
+      "bytes": 884,
+      "sha256": "07ad53e708216d0fbb46cdfaf3743f62569614acd97fac11a959820c5310e6f6"
+    },
+    {
+      "path": "target-attempt.log",
+      "bytes": 45624,
+      "sha256": "800949052be4cb54dfd7962041cc4b0d1d8308a0e16929444c23cd472bba1e53"
+    },
+    {
+      "path": "template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "path": "template-finalize.py",
+      "bytes": 13775,
+      "sha256": "aa142a7d0f6d9dd24013bd0db211f9a81c3ba19ed8cb4453deb5a6980604f329"
+    },
+    {
+      "path": "template-quality.py",
+      "bytes": 6296,
+      "sha256": "ed718af8e5effbda3fe4076b689204d5bbff37471e2832ca7d394345c1a1fcee"
+    },
+    {
+      "path": "write-report.log",
+      "bytes": 107,
+      "sha256": "e5a78f2a63315410c6725b64ea3ae1fde076e83cd48c02af0e5f4814208a0297"
+    },
+    {
+      "path": "write_report.py",
+      "bytes": 7459,
+      "sha256": "9e2b1aff7c9ed50df05b52be04824e85b004e7864e2658b9133914beb179654c"
+    }
+  ],
+  "helper_compressed_sha256": "116fd4988698c56389f263c5c38444c2ba1850ef5c6577b6baac2689a7f59e60",
+  "helper_decompressed_sha256": "7642f7dfecc54659b942e7d4ae8d23ec4ddae1d25816ba312c73a6a721cc0fb4",
+  "helper_archive_bytes": 169170,
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_copy_hashes_verified": true,
+  "clean_files": 2291,
+  "clean_bytes": 81742195,
+  "work_root_removed": true,
+  "scope": "Actual numerical run/source/progress payloads remain compressed with hashes verified. Own helper/log tar members verified before temporary deletion. No math writes, corpus copies, third-party downloads or dependency installations. Final closure metadata and two English current-progress prose corrections occur after the clean-copy snapshot; scientific code, canonical graph and experiment evidence did not change.",
+  "removed_at": "2026-10-27T04:45:32.420979+00:00"
+}

@@ -1,0 +1,264 @@
+{
+  "at": "2026-10-27T08:43:23.090114+00:00",
+  "archive": "reports/reproducibility/20261027-F238-analytic/helpers-and-logs.tar.gz",
+  "sha256": "36ec354e6eaaba9ff8d2a1aa2c265098e8c3dec2f96c36963492f84c9833a6ef",
+  "decompressed_sha256": "76c1130fda1a6d376e48e14b3bffe2b680657d4f661714600cb515b1c7912fc7",
+  "compressed_bytes": 226745,
+  "decompressed_bytes": 481280,
+  "members_byte_verified": 39,
+  "member_manifest": [
+    {
+      "name": "clean-check.json.gz",
+      "bytes": 130970,
+      "sha256": "a088e50397b84fbe667383cb568b1bd6bfb274c9207d6d81302fdd8cfc2dfa25"
+    },
+    {
+      "name": "clean-core.log",
+      "bytes": 14756,
+      "sha256": "2da9bbb9bb488e383ff4f472de03eee158475a81a39d84401d03347a73c9f54d"
+    },
+    {
+      "name": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "9d7af7c77302705acbaf7484650b9e2c927f3853405e38ea213c8bf771e7bdf5"
+    },
+    {
+      "name": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "close.py",
+      "bytes": 14430,
+      "sha256": "0102473b81358cab5a2522893f95b2f8dcb7d35835030186058d723346c51a2f"
+    },
+    {
+      "name": "closure.json",
+      "bytes": 1765,
+      "sha256": "5fd7c4adb65a9306e96827a27a80c2021fc449ebbc99a1fed8a3d6dfd4ea11fd"
+    },
+    {
+      "name": "companions-close.py",
+      "bytes": 11767,
+      "sha256": "27cf3e375785594219c2dd37e2e0de300760ab4fd62f4d08e8b99567f8ca62fb"
+    },
+    {
+      "name": "companions-curate.py",
+      "bytes": 40417,
+      "sha256": "b87bff865bbbf18329921a2e94b598874159fe08121a4da4b74ba3099727609e"
+    },
+    {
+      "name": "core-attempt1-node-not-on-PATH.log",
+      "bytes": 14836,
+      "sha256": "e0cd879e8228063f8b114319569ce82f387a5e198d6544dd2be8d8201150ef15"
+    },
+    {
+      "name": "core.log",
+      "bytes": 14756,
+      "sha256": "02ba4517ad3e281a2ef6272688b84458122eb96c6a1781f7db79cbf6e2bf32e0"
+    },
+    {
+      "name": "correct_draft.py",
+      "bytes": 3650,
+      "sha256": "bf6261be6b393346fc7b05b96a16587863478f92581fbf054a921e404f66c586"
+    },
+    {
+      "name": "curate-attempt1.py",
+      "bytes": 17643,
+      "sha256": "c8fccefcb4fe5624e2146a985cc55249068273ce5c1210aaf76998fa1a23e547"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 17717,
+      "sha256": "df2c262a412f979a39b59af57484308450d6231644a06e10682cd2c71d72c646"
+    },
+    {
+      "name": "curation-attempt1.log",
+      "bytes": 1727,
+      "sha256": "7cebd4b1b1a72e51cec503718064305e3d1b7658f08c2e11a90cb2d56d3c70d6"
+    },
+    {
+      "name": "curation-summary.json",
+      "bytes": 2039,
+      "sha256": "03a99840a092fb278b87893557cca79848eaa7f40a0cfa860ebd68fcc7d9ed69"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 831,
+      "sha256": "5c12106279b3fd128fd914f85336d52a9ad864d36e39014d354ca07b79a88761"
+    },
+    {
+      "name": "draft-correction.json",
+      "bytes": 1383,
+      "sha256": "799b6785ea45ac911fb5c4b3276ceec57eeb70400c01000e8a7ba654533808d1"
+    },
+    {
+      "name": "failure-notes.json",
+      "bytes": 923,
+      "sha256": "7eb239a50d7423a9c583e2e5e623edb06335e56e8bb5a1722b035e0f55794ee3"
+    },
+    {
+      "name": "fetch_history.py",
+      "bytes": 1895,
+      "sha256": "91acd61cb7c30dbc659b6cd4c5ab5815a9db9fd7e6aa1107884d7c652330798b"
+    },
+    {
+      "name": "history-fetch.json",
+      "bytes": 2909,
+      "sha256": "1acd11324defb3fac8cb59ada74117df8e27adc154084bffa82886c8880f54c8"
+    },
+    {
+      "name": "next-selection.json",
+      "bytes": 2383,
+      "sha256": "26da181e0cc0f2f7d81ec653d6151b9093e86b605790e2d31a2d5e6857b22a9f"
+    },
+    {
+      "name": "qualification.json",
+      "bytes": 9269,
+      "sha256": "8b5465bbd90a6bd0e005979edda80475a48def85d0ca6664bb5971ee361248f1"
+    },
+    {
+      "name": "qualify-attempt1.py",
+      "bytes": 16509,
+      "sha256": "22fdde8dc4588eae6df2a655c603976319de704515d51345a67cf5fd5de1804b"
+    },
+    {
+      "name": "qualify.py",
+      "bytes": 16617,
+      "sha256": "900d47775d286c53b0eb06dbbcd5cf9bafa45a8d8c625ae791c53eb48c50858b"
+    },
+    {
+      "name": "quality-attempt1.gz",
+      "bytes": 4800,
+      "sha256": "9ae53aafede74a2d3733a974968f7f66e1bbdfe89f2b0448d5b3447c44d433d7"
+    },
+    {
+      "name": "quality-attempt1.log",
+      "bytes": 1341,
+      "sha256": "269ca8c3e4eff18f19d1c8105f15934971c913c2edf0f857c363249a800c0926"
+    },
+    {
+      "name": "quality-attempt1.py",
+      "bytes": 9096,
+      "sha256": "106e0fb7bb4bebb7ebe1107fc2a079c1c9e6f50b4efeb5aaef4c72a2781a460f"
+    },
+    {
+      "name": "quality.json.gz",
+      "bytes": 4875,
+      "sha256": "d115f43ead029b3b3866986b555619eab98ed95f712102470597ea2e879fda3e"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 1471,
+      "sha256": "c7c4cd2e1ef3e3e8e73768a2637c9345ffa66bba50746551457bede953b87240"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 9337,
+      "sha256": "7a258212bb13c84089caf4052817d817154480d5ba27af3ebe11875e2bb28c1c"
+    },
+    {
+      "name": "recent-close.py",
+      "bytes": 12803,
+      "sha256": "cf266cdfcebd7bbb9e07a7373f460cf6d9faaaa957ea513fb24bafd77a930324"
+    },
+    {
+      "name": "recent-quality.py",
+      "bytes": 7869,
+      "sha256": "a9e28a5f08a6ef46a8ebd86b87b86e7c49be754d11fdced1fa305ec120329e91"
+    },
+    {
+      "name": "recent-template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "select_next.py",
+      "bytes": 5423,
+      "sha256": "87a74baf1c1f8962afc0190ab5f0c4e3bf2870d47dbd83830fc9bd8606bba289"
+    },
+    {
+      "name": "source-curate.py",
+      "bytes": 16454,
+      "sha256": "daa73bcbe37dda13ca32713bfc8d36531c49cbd0af626d5429e10b0186705309"
+    },
+    {
+      "name": "source-fetch_history.py",
+      "bytes": 2366,
+      "sha256": "72b666a3498d2e95eb7822e4f6cfbb537753831569340c261b43e1edb1886ab4"
+    },
+    {
+      "name": "source-qualify.py",
+      "bytes": 16400,
+      "sha256": "24891dbc55729f19af194c50cc4cd0cc1bb3690ee5656ee3cf563d608f40f5a2"
+    },
+    {
+      "name": "temporary-original-manifest.json",
+      "bytes": 1727,
+      "sha256": "d6e5c128e8d1c631974da92f4a01beddb911aedd49456552f33fed93651668d3"
+    },
+    {
+      "name": "write_report.py",
+      "bytes": 5067,
+      "sha256": "26964e9c725a48146c340abc7d43d8709529100779a438004669a26b4d1dd6bf"
+    }
+  ],
+  "temporary_originals_not_republished": [
+    {
+      "name": "Demailly2012.pdf",
+      "bytes": 3557990,
+      "sha256": "d7c7654a7417e8322e5dcf8fe8ec818b4c1a18cf280b41f2df5a871b776d89a1",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "Demailly2012.txt",
+      "bytes": 1462626,
+      "sha256": "2848bcb5cf127a07b9b633cd55f86101f04f3aa0d1d60b4fd27efa10005bde27",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "BereleRegev1983.pdf",
+      "bytes": 272083,
+      "sha256": "9d54f4aab48dcf43e5341b0d228323f2e882a7f203a238d1dc029be1ce1e4491",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "BereleRegev1983.txt",
+      "bytes": 7333,
+      "sha256": "ef6b29bfc89910395ab134297643e95cc3463c5011281aca2874b8b798528702",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "ChristandlKonigRenner2009.pdf",
+      "bytes": 140286,
+      "sha256": "3dfb069d67a67cf96bee06bc2125870796055ded7420acac5d73c4578b8a9fcd",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "ChristandlKonigRenner2009.txt",
+      "bytes": 27054,
+      "sha256": "fa3bd2f134d91724a059eab7cf7037df26afa49f971ec0e32f0dea04ccc634a4",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "DiaconisShahshahani1981.pdf",
+      "bytes": 925947,
+      "sha256": "3b8bbd8293e3de24889ae65defde46e4c7cecbff9e472387984068ff3401a3a4",
+      "action": "hash_verified_before_remove;body_not_republished"
+    },
+    {
+      "name": "DiaconisShahshahani1981.txt",
+      "bytes": 49613,
+      "sha256": "b273f78e6dc78e135c2be281bcdce56aadc3683e103d0eeed66d0a21bac9d958",
+      "action": "hash_verified_before_remove;body_not_republished"
+    }
+  ],
+  "temporary_original_bytes_removed": 6442932,
+  "primary_pdf_bytes": 4896306,
+  "converted_text_bytes": 1546626,
+  "clean_directory_removed": true,
+  "no_upstream_writes_installs_or_new_large_dependencies": true,
+  "new_scientific_experiments": 0,
+  "scope": "Allownhelpers/failurelogs andsourceaudits losslesslycompressed;rawthirdpartyPDF/text excluded,hashverifiedandremoved. Cleanresults predateseparatelylistedclosuremetadata.",
+  "temporary_work_root_removed": true
+}

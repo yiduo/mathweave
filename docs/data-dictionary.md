@@ -23,3 +23,5 @@
 静态 Lean 导入索引压缩保存，词法未见 sorry/axiom 不等于构建或 Comparator 检查通过；编号命名空间也不能作为成果族归属依据。零件检查用 `component_run_ids` 单列；不增加连接、完整初检卡片或不同应用假设数。运行超出资源预算时仍压缩保存已有数据和快照，结果标记 `resource_envelope_exceeded`；资源检查是事后记录，不是操作系统强制限额。
 
 多手稿成果族可以记录 `manuscript_source_drafts_complete_ids`，只计入实际读完的手稿。部分手稿不会使 `source_decomposition_draft_complete` 为真；校验器检查源模块归属、手稿覆盖和每个文件的具名结果，导出标题明确标为局部拆解。
+
+`diagnostic_run_ids` 保存实际执行但未满足事前合格初检规则的运行，投影关系为 `diagnostic_execution`。它与合格 `run_ids`、零件 `component_run_ids` 必须互斥，单列统计 `diagnostic_executions_not_initial_checks`。后端异常、裁判或资源闸门未通过不能自动计入初检，也不能删除已有输出；这不把待定诊断当作数学反证。F337 首跑保留 192 项输出和 16 个异常，原判据不变，合格初检仍为 14。

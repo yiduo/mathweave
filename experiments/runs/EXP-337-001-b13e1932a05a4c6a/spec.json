@@ -1,0 +1,164 @@
+{
+  "id": "EXP-337-001",
+  "version": 2,
+  "registered_at": "2026-10-27T05:53:54.572818+00:00",
+  "connection_id": "APP-337-01",
+  "family_id": "F-337",
+  "status": "preregistered_before_target_outputs",
+  "scope": "One actual pinned reverse-mode AD collapsed scalar graph on192syntheticfixtures;nottraining/newcalculus/librarycontractdefect/new2026gain.",
+  "review_packet": {
+    "path": "experiments/plans/APP-337-01-review-packet-v2.md",
+    "sha256": "91083506a038f02c71fcd43dfcbe6649ae772f8a30a572c2594ed15ca15a3f4a"
+  },
+  "auxiliary_review": {
+    "path": "data/provenance/reviews/APP-337-01-pre-target-v1.json.gz",
+    "sha256": "850954b2ea78cd0a9039d8c16c1a3cc0305c272ccc90f9d33077960099f8cff8",
+    "scope": "Two actual isolated v1 staticopinions,sameOpenAIprovider,backendunknown;v2clarificationssynthesis,nothuman/provider/implementationacceptance."
+  },
+  "exposure": "Nonblind:sourceC1proof andactualpowerVJPread beforehypothesis;no target outputs observed.",
+  "input": {
+    "n": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      12
+    ],
+    "r": [
+      "0",
+      "1/4",
+      "1",
+      "4"
+    ],
+    "z": [
+      "-1",
+      "-1/8",
+      "0",
+      "1/1208925819614629174706176",
+      "1/1099511627776",
+      "1/8",
+      "1",
+      "2"
+    ],
+    "order": "Nested n,r,z in listedorder,no randomdraws oroptimization",
+    "a": "1",
+    "kappa": "1"
+  },
+  "float_graph": {
+    "q": "2.0/(n-2)",
+    "c": "-(n-2)/2.0",
+    "positive_expression": "z * (1.0 + r * r * (z ** q)) ** c",
+    "naive_branch": "z<0 -> returnz;otherwiseevaluatepositiveexpressionincludingzero",
+    "old_baseline_branch": "z<=0 -> returnz BEFORE fractionalpower;otherwiseidenticalexpression",
+    "input_type": "Fraction(rationalstring) -> Pythonfloat,independentfreshgradclosuresforr/z",
+    "warnings": "NumPydivide/invalid/over/under warn;catchallclass/messages/normalizedorigin/line percomponent;warningaloneisnotgradienterror",
+    "finite_difference_r_domain": "Natural even extension to allrealr;targetgridr>=0",
+    "higher_derivatives": false
+  },
+  "reference": {
+    "analytic_precision_low": 80,
+    "analytic_precision_high": 120,
+    "difference_precision": 180,
+    "steps": [
+      "1e-100",
+      "1e-90"
+    ],
+    "rounding": "ROUND_HALF_EVEN",
+    "analytic": "Collapsed exact-rational scalarvalue/derivativeformula;precisionchecknotindependent",
+    "difference": "Separatelyparsedinputs/literal sourcevalueF=z*w(r*z^beta),centeredbothpartials;noAD/analyticderivative/intermediatereuse",
+    "shared_failure_modes": "Decimalengine andfunctioninterpretationshared;notrigorousintervalproof",
+    "join_bias_bound": "r²*h^q/(2q)<=40*h^(1/5)forgrid;C1joinnotgenericO(h²)"
+  },
+  "tolerances": {
+    "float": "1e-10",
+    "precision": "1e-60",
+    "difference": "1e-12",
+    "step_sensitivity": "2e-12",
+    "scale": "tolerance*(1+abs(reference));retainabsolute/relative/signedrawvalues"
+  },
+  "success": {
+    "fixtures": 192,
+    "judge_valid_all": true,
+    "all_forward_values": true,
+    "all_old_branch_values_and_both_gradients": true,
+    "naive_controls": "Allz!=0,plusn3/4atzero,bothgradientsfiniteandwithinfloat tolerance",
+    "primary_event": "Atleastonen>=5,z0naivedznonfiniteoroutsidefloat tolerance,judgevalid;exceptiondoesnotcount",
+    "naive_radial_zero": "Recordandcheckseparately;notpartofexistentialdzpathologyclaim",
+    "conjunction": "Judgevalidity,forwards,baseline,controls,existentialdzfailure;resource/replaygatesseparate"
+  },
+  "failure_policy": {
+    "judge_conflict_or_missing": "inconclusive",
+    "backend_exception": "inconclusive;preserveallothercomponents",
+    "valid_control_or_baseline_failure_or_no_predicted_event": "adverseprimary",
+    "resource_setup_archive_replay_failure": "retainfailedattemptandpartialoutputs,nocheckpromotion;noautomaticcapincrease"
+  },
+  "null_hypothesis": "Ordinaryoldcorrectpre-operationbranch/calculusalreadyresolvestask;thiscalibrationcannotestablishincremental2026applicationvalue.",
+  "required_python": "3.12.14",
+  "optional_dependencies": {
+    "numpy": "2.3.5"
+  },
+  "external_runtime": {
+    "package": "autograd",
+    "version": "1.9.1",
+    "wheel_filename": "autograd-1.9.1-py3-none-any.whl",
+    "wheel_sha256": "b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a",
+    "wheel_bytes": 54387,
+    "environment_variable": "MATHWEAVE_AUTOGRAD_WHEEL",
+    "use": "VerifiedpurePythonwheelviazipimport,noinstall;verifyimportedsourcemembersandmetadataagainstwheel",
+    "license": "MIT,completeoriginallicensein sourcearchive",
+    "network_policy": "No implicitdownload. Reuseverifiedcache or acquireexactofficialpinnedwheel separately;totalnewartifactcap1MiB.",
+    "numpy_observed_pin": {
+      "path": "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json",
+      "sha256": "cd4cdb108035734cf04d4ea4d4a529b8fb3f489e193bc4907e2ce01a13d52d14",
+      "scope": "Frozenactualinstalledsource/nativebytes,428files;19nativeRECORDmismatchesand0Pythonsource mismatchesexplicit. Notpublisherattestationorhermeticallsharedlibraries. Compareactualbefore/aftertarget."
+    },
+    "full_license": {
+      "path": "data/provenance/licenses/autograd-1.9.1-MIT.txt",
+      "sha256": "026a4de32aeee573f5049220bb9f8cd1ad6a3e1bab3cecb7a28b652c2c6d5099",
+      "membership": "FullverbatimoriginalMITtextincludedinhashedtextinputs.json.gz"
+    }
+  },
+  "additional_source_paths": [
+    "experiments/plans/APP-337-01-review-packet-v2.md",
+    "scripts/run_experiment_attempt.py",
+    "scripts/replay_run.py",
+    "scripts/measure_experiment_worker.py",
+    "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json",
+    "data/provenance/licenses/autograd-1.9.1-MIT.txt"
+  ],
+  "resource_limit_seconds": 60,
+  "resource_limit_mb": 64,
+  "resource_limit_rss_mb": 128,
+  "elapsed_budget_metric": "calculation_seconds",
+  "phase_watchdog": {
+    "setup_seconds": 60,
+    "archive_seconds": 60,
+    "poll_seconds": 0.1,
+    "calculation_seconds_source": "childsystemmonotonicstartsignal,parentwatchdogenforcesoriginal60s cap",
+    "meaning": "Setup/importandarchivecapsoperationalonly;target60sincludesallAD/judges/controls/compressedprogresspersistencenocaptuning"
+  },
+  "memory_scope": "tracemallocbeforetargetbackendimportthroughcalculation/progress;fullprocesslifecycleRSSincludesnative/import/tracingandarchive,Darwinbytes/LinuxKiBconverted",
+  "serialization": "StrictJSON,no numericNaN/Inf;taggednonfinite/exception;all192fixtures retained. Runtimecostandimportpathsseparatefromdeterministicraw/summary.",
+  "storage": "gzipraw/summary/source/progress/logswithSHAanddecompressionchecks;preserveallattempts/failures beforeplaintextdelete. No readonlymathcopy.",
+  "replay": "Actualarchivedsource inisolateddirectorywithphasewatchdog;complete deterministicraw/summaryexactcomparison,nofieldexclusions;resourcegatesindependentlypass.",
+  "implementation_freeze": "Spec andactualimplementation mustbecommittedbeforefirsttargetoutputs;firstattemptsourcehashesrecorded.",
+  "formal_rejection": false,
+  "updated_at": "2026-10-27T06:27:54.296277+00:00",
+  "prior_version_archive": "experiments/specs/history/EXP-337-001-v1.json.gz",
+  "prior_version_sha256": "656da292dfda3c8125a2ab3c4cf1eaed4d71508d505e671b383661079b661b81",
+  "revision_reason": "Beforetargetoutputs,actualimplementationreviewsidentifiedsub-conclusion/resource-replay/terminalphase/RSS/license/runtimebindinggaps. Fixoriginalcontractwithoutchanging192inputs,allnumericaltolerances/steps/predictionor60s/64MiB/128MiBcaps. No target observations.",
+  "auxiliary_implementation_review": {
+    "path": "data/provenance/reviews/APP-337-01-implementation-followup.json.gz",
+    "sha256": "b71577dcb6240a7110d3038306794d43aa1d05caeed74cf785b9239bf9b4d8e1",
+    "scope": "Twoactualisolatedstaticopinionsoninitialimplementation,beforefixes/targets;sameprovideronly,notimplementation/human/provideracceptance."
+  },
+  "execution_protocol": {
+    "phase_history": "Preserveallmonotonicstagesandterminaltime;validatecompletedsetup/calculation/archiveaswellasactivephase. Pollgranularity0.1s;completedstageoverrunstillfails.",
+    "lifecycle_RSS": "Freshsupervisorfork/execsCLIworkerandwait4reapsthisexactPIDafterfinalserialization/stdout. ParentchecksPID,recordswholeCLIworkerRSSandonlythenfinalizesprovisionalrunmanifest. Supervisor/parentandtransitivesharedlibraryhermeticitynotclaimed.",
+    "provisional_run": "Workerresource/resultstatecannotpassuntilparentlifecyclefinalization;cachedfinalizedrundataremainimmutable,cachehitnotnewtargetexecution.",
+    "replay": "Preflightcorruption,resourcefailureordeterministic/runtimebindingmismatchraiseinsidepersistentfailurecontext;source/raw/logsretainedcompressedbeforetempdelete.",
+    "exceptions": "Killandreapdirectworkerorsupervisorprocessgrouponcommunicationfailure/timeout;preserveavailablelogs/partialprogress.",
+    "subconclusions": "Incomplete/invalidjudgesorbackendexceptionsyieldnullvalidatedconjunctsandsufficiency,neveraffirmativetruefromrawallcomparisons. Rawaggregatesareexplicitlyunvalidated."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "at": "2026-10-27T05:07:40.988095+00:00",
+  "actual_selected_formal_files_read": [
+    {
+      "path": "math/lean/docs/337.md",
+      "sha256": "38ba901fdf4d833c1937d2ca8260764efce5991ed07024e1619adc2a61ba643f",
+      "lines": 18
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SharpCAT0Filling.json",
+      "sha256": "a864065c361144455c1f54e21d938efa6fab75932fdaf99eca3facb6b514ee77",
+      "lines": 14
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SharpCAT0Filling.lean",
+      "sha256": "e08a884c0c24078e6b83fc1fa758e206d3603cfe348eda0b689ec322da2a0a74",
+      "lines": 146
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FillingCoefficient.json",
+      "sha256": "22cf28a9f081d5583ecde3ead05c5fbb79e1d125b7a7021067d9462129f81f1f",
+      "lines": 14
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FillingCoefficient.lean",
+      "sha256": "e03852c06bde2dc6faa13d797350003553f0b048d2329854a99a98fd781125fc",
+      "lines": 130
+    },
+    {
+      "path": "math/lean/OAI/Geometry/CAT0Fillings/Model.lean",
+      "sha256": "06cb2407a26c2bdbb100841f9357d8b4047fa53f3835af1960b386d386bafba8",
+      "lines": 137
+    },
+    {
+      "path": "math/lean/OAI/Geometry/CAT0Fillings/Main.lean",
+      "sha256": "23defd22f6d654759e60483db19249adc2366bf15fcb134f1b93154bf3eadfa0",
+      "lines": 141
+    },
+    {
+      "path": "math/lean/OAI/Geometry/IntegralFillings/Model.lean",
+      "sha256": "7bd3c01e638439275a85f79b1d2cd1c4e02e2fdb372eac55d7bcfcce7d1b1ac8",
+      "lines": 122
+    },
+    {
+      "path": "math/lean/OAI/Geometry/IntegralFillings/Main.lean",
+      "sha256": "82277e33ea9c613fcde4f67d5b94fe62e3201bc1c22f4c26360fc0b390795f4e",
+      "lines": 85
+    }
+  ],
+  "indices": {
+    "F-337-CAT0": {
+      "path": "data/graph/lean_indices/F-337-CAT0.json.gz",
+      "sha256": "828ea2e91d6df64200f43652139450cf051f6eb84036a9c8815b159b4307fe8e",
+      "local_files": 330,
+      "declarations": 2262,
+      "placeholders": 0,
+      "axioms": 0,
+      "local_build": "not_run"
+    },
+    "F-337-coefficient": {
+      "path": "data/graph/lean_indices/F-337-coefficient.json.gz",
+      "sha256": "4e0e26e55068408f5f70c6adf40bb27bfda70eed38716733bf300ebcf97aeb2c",
+      "local_files": 112,
+      "declarations": 708,
+      "placeholders": 0,
+      "axioms": 0,
+      "local_build": "not_run"
+    }
+  },
+  "selected_comparison": [
+    {
+      "item": "CAT0 filling existence",
+      "natural": "Second manuscript thm:main,compact supported integerncycle n>=2/properCAT0,compact integral(n+1)filling andEuclideanC_n power",
+      "Lean": "OAI.CAT0Fillings.sharp_integral_filling actualMain111-139 andModel predicates actuallyread",
+      "assessment": "Selected statement and custom definition wrappers statically aligned in stated input/output scope;no localLean/Comparator/human specification check;fulldependencychain unknown"
+    },
+    {
+      "item": "Coefficient optimality",
+      "natural": "Second08classical finalball sharpness paragraph,allcompactintegralfillings ofEuclideanspherecycle",
+      "Lean": "OAI.SharpIntegralFillings.coefficient_optimal actualMain60-81;actualModel andComparator wrappers read",
+      "assessment": "Selected ball-basedoptimality scope present,not firstsmoothmanuscript rigidity orwhole currenttheory equivalence audit"
+    },
+    {
+      "item": "Smoothgeneralizednegativecurvature comparison,Euclidean equality andspectral/torsioncorollary",
+      "natural": "First thm:main,thm:equality,cor:model-ball-spectral",
+      "Lean": "docs337onlysecondintegral-filling/optimalityresults;neithersmoothrigiditynornegativekappacomparatorgiven",
+      "assessment": "Not covered by the selected formalization;sourceC,do notinheritBfromfamilylabel"
+    }
+  ],
+  "definition_boundaries": [
+    "Custommass is inf overfinitecontrollingmeasures;admissibleboundedLipfirstslot,Lipcoordinates andoffdomainzero predicates actuallyinspected.",
+    "IsIntegral includes integer-rectifiablecurrent andinteger-rectifiableboundary,withchartactionsmetriccurrentnotassumednormal.",
+    "IsCAT0 builtfromconstant-speedsegments andunequal-fractiontrianglecomparison;properness typeclassseparate.",
+    "Model wrappersmatch selectedComparator structure names;not equivalence proof toallclassicalAKdefinitions orpermittedaxiomcheck."
+  ],
+  "missing_guessed_path": "ComparatorChallenges/CartanHadamard.json doesnotexist;actualdocs337give two differententries,which werefollowed. No needretryguess.",
+  "local_build": "not_run",
+  "Comparator": "not_run",
+  "human_specification_review": "missing",
+  "provider": "OpenAI",
+  "exact_backend_model": "unknown"
+}

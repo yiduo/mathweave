@@ -1,0 +1,387 @@
+{
+  "at": "2026-10-27T08:38:42.112153+00:00",
+  "work_package": "WP-125",
+  "chosen_family": "F-059",
+  "basis": "Restorebreadth afterboundedAPP124admissionandF238depth;algebraic/complexgeometry4/36currentlyread,lowestfraction. F059twoexplicitcounterexampleconstructions allowcheckingarithmeticversustopologicalbridges andcomparingmultiplicitywithfixed-jet/defining-equationsemantics alreadyencounteredinF058. Thisis a questiontoinvestigate,notanacceptedjointapplication.",
+  "alternatives": {
+    "F-059": "24TeX/Bib5601lines across2manuscripts,explicitfiniteverificationcodeadvertisedbyREADME;compareconstructions andexactscope,notjustonecataloguetitle.",
+    "F-064": "19TeX/Bib3075lines,constant-Milnor topologicalright-triviality;directlyrelatedbutdoesnotbytitlealone settleconstructivecost/invariantbridge.",
+    "F-357": "6TeX/Bib3877lines,regularnoncollapsedRCDcharts;differentusefulroutebutpointdependentconstants/algorithmbridgeunknown."
+  },
+  "not_shortest_choice": true,
+  "original_predicates_preserved": "Do notrunAPP13102syntheticprobabilityfixturesasapplicationcheck:itsoriginalplanrequiresactualpaired-countworkload/calibratedassumptions. No newconsumerconstraintaddedtoothercards.",
+  "inventory": {
+    "F-059": {
+      "title": "Counterexamples to Zariski’s multiplicity conjecture.",
+      "subject": "Algebraic and complex geometry",
+      "catalogue_claim_unverified": "Disproves Zariski's multiplicity conjecture by constructing reduced holomorphic hypersurface germs that are ambiently homeomorphic but have different multiplicities. The examples include hypersurfaces in ℂ<sup>4</sup> with isolated critical points and multiplicities four and five.",
+      "manuscripts": [
+        {
+          "manuscript_id": "P-b37600a212e7ade9",
+          "directory": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026",
+          "README_read": true,
+          "README_sha256": "11df2731db716f1f7182cb36d880171e24b78004ef9ea2485f1ff7c411e59c5f",
+          "source_files": [
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/figures/proof-route.tex",
+              "sha256": "a58fcd298da60f7a244376178a6f316baa11b6fefcc3f75a0ead1d4cd4fec660",
+              "lines": 33,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+              "sha256": "53cfcad5e63f89327631dfa81b900a19df8f970aeac5bea3d16e5018d2ee9cb1",
+              "lines": 27,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/preamble.tex",
+              "sha256": "501a3724b9d66efa5d438f620b22ab73a1dd0c76269f760e58cc39c4431cca06",
+              "lines": 53,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+              "sha256": "866e38755f154d2ca3bb72cf96a22da67a87eb186d48fba827c700140fe5fa14",
+              "lines": 299,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+              "sha256": "b2224a1aec81cc0dfdf6b5be07107d79a4959047dd7538d6e626fdf6f4bba6e5",
+              "lines": 226,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+              "sha256": "022082f8ba3a6807c5448358f17b23fce3f3222ec0c9d217e04887c2798231bd",
+              "lines": 20,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+              "sha256": "6ffd35e3a0d9fd8e1782315713f867129520737774a7f531e8b1b9da9bf92c37",
+              "lines": 420,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+              "sha256": "66c89a645ea35d38885ac0bd6d802998b1972a51216b4d98928f746162af1bca",
+              "lines": 406,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+              "sha256": "bc4e0fccbd95ac9c6b574707fe2e46c04513737fe55c10ef5df46560b263990e",
+              "lines": 246,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+              "sha256": "88d87393ab39706e948f826245c2d05f855f2bfda566cb7ad224fd8b087128ff",
+              "lines": 438,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+              "sha256": "f83599a45fbe0a60e6ee4dcbcb76dc94fed3b4efe30dd1469349231733da4e2e",
+              "lines": 307,
+              "body_read": false
+            }
+          ],
+          "source_file_count": 11,
+          "source_lines": 2475,
+          "withdrawn": null
+        },
+        {
+          "manuscript_id": "P-023c99253d0c28f5",
+          "directory": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026",
+          "README_read": true,
+          "README_sha256": "ad71e783ef9049eab59c7fb9d20ef06c25730cc4d707ac4bf963aaf609513109",
+          "source_files": [
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/figures/exterior-cut.tex",
+              "sha256": "8a578c83578b7186f43e4962727ea1879aefd3895da79efb6c44248d72816668",
+              "lines": 18,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+              "sha256": "b1415310ea0cb72431fcc342d789721f6ec8364e93f8b5145b38c194a6b106af",
+              "lines": 25,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/preamble.tex",
+              "sha256": "abfd47892039d220f900f36d7d400aafed39486c14a005872770fb950e80698c",
+              "lines": 19,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+              "sha256": "027c94e0b3d6ce6d6ef94068b082dc75a444f7f946c84af457ca58d8245c9a60",
+              "lines": 259,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+              "sha256": "c5a7a3649e46392fdfaf1161b88c07c3468b577b69f020ca77a1f99d3b252e7a",
+              "lines": 170,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+              "sha256": "d55b4572921a45f6044c22490d734f1a813e3385900a51f1a4f348fcd4a413e7",
+              "lines": 284,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+              "sha256": "0cb0d2ee65f3fe6f3325576700d6686b2b0b3ed9a57470c71d4544855f517b55",
+              "lines": 170,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+              "sha256": "7ef991665af5332453c6328b0c13a72039b3fe32da29ae35c3e8d938e19d364d",
+              "lines": 100,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+              "sha256": "5161237ccdcefa162cba3c93bd04265c544613ea34503145f3979e1f8c098a3d",
+              "lines": 414,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+              "sha256": "8ce1f592a10af783f536773a78b4f317f362f2c31bb13b4cb7e86ea7eb88c2f9",
+              "lines": 333,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+              "sha256": "03f9ecce9ed077cb328eca606e4230d2eb0670de4f4cedd32b44ea2833ad2aac",
+              "lines": 348,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+              "sha256": "6f0415dcc318ffa7e721695d1de6319ce0f3a8963607b4a9e8f72e9008a2571c",
+              "lines": 259,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+              "sha256": "0bf81c331394823f49201e293299e0023ef69724b1bea2fd4f947adb35203637",
+              "lines": 727,
+              "body_read": false
+            }
+          ],
+          "source_file_count": 13,
+          "source_lines": 3126,
+          "withdrawn": null
+        }
+      ],
+      "source_files": 24,
+      "source_lines": 5601,
+      "source_body_read_credit": 0
+    },
+    "F-064": {
+      "title": "Topological triviality of <i>μ</i>-constant surface singularities.",
+      "subject": "Algebraic and complex geometry",
+      "catalogue_claim_unverified": "Proves topological right-triviality for every holomorphic one-parameter family of isolated hypersurface singularities in ℂ<sup>3</sup> with constant Milnor number, resolving the surface case of the <i>μ</i>-constant problem. After shrinking the parameter disk and representatives, ambient homeomorphisms vary jointly continuously, fix the origin section and preserve the defining functions.",
+      "manuscripts": [
+        {
+          "manuscript_id": "P-fbba4579fd09c2ed",
+          "directory": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026",
+          "README_read": true,
+          "README_sha256": "ca8a4d83da61751e5d6713c65061458cdc86968e0ec9ea42e7698a39b7789df7",
+          "source_files": [
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/figures/transport-seam.tex",
+              "sha256": "b168b1d811438d7ef581be0c0be43c44ee875a30a9fcd03f8cb43ca34dab114a",
+              "lines": 45,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/main.tex",
+              "sha256": "75eb412224e49069eea1b59aca06897c237cf0d341abea40d666572dc20b1dda",
+              "lines": 57,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/references.bib",
+              "sha256": "8ec7222b2e4c43fb249e5c89ea9dfa29889859c16adefe7934932d7091feebd4",
+              "lines": 398,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/01-introduction.tex",
+              "sha256": "7d76ec1c417d7dfffa1a01b212d685ee71034ddf74f98c4c4e91c29a3a4ca509",
+              "lines": 260,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/02-local-families.tex",
+              "sha256": "d3eb8273faed21becafc7986cf01633b4f13f4c26e6f32aa7871a7c71b92d312",
+              "lines": 167,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/03-invariant.tex",
+              "sha256": "b5e1d1dd27545ba8e77dc381a113184fe2e6c7e7be488c0a8dc1c08845978cdc",
+              "lines": 106,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/04-reduction.tex",
+              "sha256": "7b1973bc90100296fb57530166331d81525f943059087bdf1cc7bc7f84f4e701",
+              "lines": 152,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/05-compactification.tex",
+              "sha256": "ea4a864f7c24c3521e7de490d4cf131dd3ee21f261b375949b4c2cef98d82432",
+              "lines": 103,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/06-model.tex",
+              "sha256": "54869b21448459570d88d61671274e5c8ebfc9c3d9f1210bdf3e3b9718cfdf41",
+              "lines": 133,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/07-boundary.tex",
+              "sha256": "26ac37d5c2bc472fc95387b4d1a0d167211ae9104b0eef420ad9dc10ea681a32",
+              "lines": 155,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/08-nearby.tex",
+              "sha256": "421ab3593ddfced00dc0c717c97045240a55074bb51133be3066d444190050bd",
+              "lines": 245,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/09-surface-estimates.tex",
+              "sha256": "910ccf47fa96edf9c7dbd7cf0a47d267b784f8058f53ddbbff0931dd27deb0bc",
+              "lines": 119,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/10-square.tex",
+              "sha256": "ac7d441fa7dbd69365c689b48053b383c7766a3e6cd44aea5520a9a824afd56b",
+              "lines": 89,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/11-numerical-assembly.tex",
+              "sha256": "c91f68cf008828ad3a93963a2c90b8088b599974220a6b96a3a0b765a01369aa",
+              "lines": 66,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/12-resolution.tex",
+              "sha256": "563170b723dbd0e4c11dc376841381a0f3661f43cab05e0e531afc8f20ae749a",
+              "lines": 121,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/13-lifting.tex",
+              "sha256": "2270ad75553e2b8c631b6ed532df56d2ae280b74510718c58f90d28a88b17ee0",
+              "lines": 226,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/14-low-cases.tex",
+              "sha256": "08dbd79d16e37cb26da233201b3c3c827a0f1e4f1d7dba766414feff7d1187f1",
+              "lines": 101,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/15-local-numerical.tex",
+              "sha256": "689231c5b0251fb12ffeb2aa4959a63a2cd3ebac440ab1d80390d173a698587c",
+              "lines": 294,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/build/sections/16-continuous-gradient.tex",
+              "sha256": "a7a5e2cf35b99dfc8b18e2a63476fdebfa62cb4b68bd7bad20120a75a232c9e0",
+              "lines": 238,
+              "body_read": false
+            }
+          ],
+          "source_file_count": 19,
+          "source_lines": 3075,
+          "withdrawn": null
+        }
+      ],
+      "source_files": 19,
+      "source_lines": 3075,
+      "source_body_read_credit": 0
+    },
+    "F-357": {
+      "title": "Bi-Lipschitz coordinates at every regular RCD point.",
+      "subject": "Differential geometry",
+      "catalogue_claim_unverified": "Proves that every regular point of a noncollapsed $`\\mathop{\\mathrm{RCD}}\\nolimits (K,n)`$ space, for <i>K</i> ∈ ℝ and integer <i>n</i> ≥ 2, has an open neighborhood bi-Lipschitz to an open subset of ℝ<sup><i>n</i></sup>. Regularity requires all pointed tangents to be Euclidean, the reference measure is exactly $`\\mathcal H^n`$, and the chart compares ambient distances with a point-dependent finite constant.",
+      "manuscripts": [
+        {
+          "manuscript_id": "P-eef694b570ce63c1",
+          "directory": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026",
+          "README_read": true,
+          "README_sha256": "b5cde9423c5f65c7091977166e7c5869fcd31a31d635cdca3cf57d819a060f37",
+          "source_files": [
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/coordinates.tex",
+              "sha256": "142ab34afd8f0510a0d422dbdcdd4163422bccb63e23e65bd3776137746ac4cc",
+              "lines": 1166,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/introduction.tex",
+              "sha256": "f5dacc33a82ce2f1f5faa1be19595b5e135e0b415cf96246c3395644cf44a4ef",
+              "lines": 258,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/paper.tex",
+              "sha256": "490649f19935a34d3932795b7a2de5187571cd13504c417d4dd2228f9ae48faf",
+              "lines": 57,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/pinching.tex",
+              "sha256": "86d8312cc9f6b41bc86d6966abdfa7c7ca77101e050eff785aa6d207e618af56",
+              "lines": 1149,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/references.bib",
+              "sha256": "6c034b311ac5e242cc68b54abb143d60aec857c37c4d7decdd4f80a67d2c9de4",
+              "lines": 408,
+              "body_read": false
+            },
+            {
+              "path": "math/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/build/source/renormalization.tex",
+              "sha256": "de83e4cb3d0402a68dbe3d486ff0cce113075790f09d557892af908d789e1824",
+              "lines": 839,
+              "body_read": false
+            }
+          ],
+          "source_file_count": 6,
+          "source_lines": 3877,
+          "withdrawn": null
+        }
+      ],
+      "source_files": 6,
+      "source_lines": 3877,
+      "source_body_read_credit": 0
+    }
+  },
+  "source_body_read_credit": 0,
+  "full_family_or_application_credit": 0,
+  "no_upstream_execution_or_write": true,
+  "global_retrospective_due": "Global044immediatelyafterWP125,thirdsubstantivepackageafter043."
+}

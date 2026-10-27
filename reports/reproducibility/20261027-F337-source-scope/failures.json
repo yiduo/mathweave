@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-27T05:33:19.994604+00:00",
+  "scientific_experiment_failures_added": 0,
+  "curation_prewrite_failures": [
+    {
+      "attempt": 1,
+      "log": "curation-attempt1.log",
+      "reason": "External TeX-distribution glyphtounicode treated as local proof include;no canonical write occurred."
+    },
+    {
+      "attempt": 2,
+      "log": "curation-attempt2.log",
+      "reason": "Incorrect optional-load guard assumption;actual glyph-mappings first line directly inputs external TeX glyph table. No canonical write occurred."
+    }
+  ],
+  "final_resolution": "External typesetting dependency explicitly recorded as unread,not manuscript/proof module;no TeX install/compilation or extra reading credit. Third curation accepted.",
+  "diagnostic_only_errors": [
+    "Temporary index-printing Python unmatched parenthesis,corrected;no state mutation.",
+    "Optional legacy method title key absent,corrected to get;no state mutation.",
+    "Wrong guessed scripts/replay_experiment.py path missing;actual scripts/replay_run.py used,exact replay passed."
+  ],
+  "Duda_transport": "Web-tool timeout;official directTLS acquisition succeeded,hashed.",
+  "failed_paths_to_avoid": [
+    "Do not rerun one-shot accepted GEN116 curator.",
+    "Do not download glyph support orrepeat scientific experiment to regenerate metrics."
+  ]
+}

@@ -1,0 +1,2492 @@
+{
+  "family_id": "F-337",
+  "work_package": "WP-119",
+  "generation_id": "GEN-20261027-116",
+  "at": "2026-10-27T05:28:18.292566+00:00",
+  "base_commit": "a8d51d9476fdc1e3f963a282b6f40bae274836e5",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-9808a190babfbe20",
+    "P-85565211ca1088a3"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "sha256": "492e3c156252d3e66031f27f56168b4b9ec11b967124f942d691f3c891248c55",
+      "ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "ranges": [
+        [
+          1,
+          270
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "ranges": [
+        [
+          1,
+          387
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "ranges": [
+        [
+          1,
+          329
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "sha256": "42e4c0ecc652b7d4033398088fe802650325b97e7a150b67c3b43203cd76d270",
+      "ranges": [
+        [
+          1,
+          128
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "5ed4ca5eba8871b808b5d7864c1c5a6c83f36bd2981c23705b9cd535312d64d9",
+      "ranges": [
+        [
+          1,
+          49
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+      "sha256": "9e4c0a491ec7ada78ef3f900ee8b05a3ca97d419dcc281cf0bc1c585f52ad4c5",
+      "ranges": [
+        [
+          1,
+          311
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "ranges": [
+        [
+          1,
+          498
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+      "sha256": "588ff569e8389bba6a9693b07b2493d7503453cf4e8f53b895f40192871ea681",
+      "ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "ranges": [
+        [
+          1,
+          427
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "sha256": "a34692b120898a82b84f44a8d82c30cf73e94d95e15d7555f982419e16e1090d",
+      "ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+      "sha256": "653acb45af305dfe2022374980644eb884b17dccf3768a3058cce4c5255d7d75",
+      "ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+      "sha256": "8b9076a40929bdca40337ff0e8c6f5473398fe065cad62b28acc75a291746df9",
+      "ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+      "sha256": "79ceda5a7bb5e5bc49bfa51a66f8d1582b4ab1c80f67f0c375db487881247a4d",
+      "ranges": [
+        [
+          1,
+          311
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+      "sha256": "cffae890f8594d7c68b3e2ec8c134dbaf0452b7e9a3723e4b9af758460ae06dd",
+      "ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "06e6e4af617b02b95087bc2181e9c3bbb283c263fe41dff29ad975f4dfe88cea",
+      "ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "sha256": "00dfcdd71966e4d943b9d962ef4d16237dbcc37912efb36f488081fcafaa957e",
+      "ranges": [
+        [
+          1,
+          33
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "56120889c1239e9d8e71fd49afc750e4f2091fd4adba3dd6f06b571b3404773f",
+      "ranges": [
+        [
+          1,
+          223
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "ranges": [
+        [
+          1,
+          633
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "sha256": "95249ade66b678e6e03ad67afd11d9ed2e9578b52b0c5e6081b5e03abf67dcb9",
+      "ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "ranges": [
+        [
+          1,
+          506
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "sha256": "c1ab8678e44b155eb464104f7127f8c950a0c255a1077a3dcf3e5ae55024ef48",
+      "ranges": [
+        [
+          1,
+          363
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+      "sha256": "a2525c6f081656c143a0a0d9903bcd5b2aa6c42f5674d37615e9ed2465932239",
+      "ranges": [
+        [
+          1,
+          252
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "ranges": [
+        [
+          1,
+          678
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "ranges": [
+        [
+          1,
+          677
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+      "sha256": "357d933a9e4e151bae44b28ef0742ca589ecb9490c2d153f28d83c8ce085c887",
+      "ranges": [
+        [
+          1,
+          54
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+      "sha256": "34a02268beab190af78e7b9f53834be372ed88d2643aca46425382a4899b70b1",
+      "ranges": [
+        [
+          1,
+          387
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "actual_read_ranges": "All28TeX/Bib7413lines:3432smooth and3981CAT0;bothREADMEs previouslyread;noPDFpixels",
+  "source_sections": [
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+    "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+    "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib"
+  ],
+  "source_tex_lines": 7413,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+      "target": "TeX-distribution:glyphtounicode.tex",
+      "read": false,
+      "scope": "External TeX PDF textglyph support,not local manuscript/proof module;not downloaded or credited. No typesetting compilation performed."
+    },
+    {
+      "source": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+      "target": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+      "target": "TeX-distribution:glyphtounicode.tex",
+      "read": false,
+      "scope": "External TeX PDF textglyph support,not local manuscript/proof module;not downloaded or credited. No typesetting compilation performed."
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "target": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+      "read": true
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-337-GCH-THM-MAIN",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "thm:main",
+      "kind": "theorem",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "statement_lines": [
+        48,
+        56
+      ],
+      "statement_tex": "Let $n\\ge2$, let $\\kappa\\le0$, and let $(M^n,g)$ be a complete simply\nconnected smooth Riemannian manifold with $\\Sec_g\\le\\kappa$.\nEvery measurable set $E\\subset M$ with $\\vol_g(E)<\\infty$ and\n$P_g(E)<\\infty$ satisfies\n\\[\n P_g(E)\\ge \\mathcal I_{\\sqrt{-\\kappa}}\\bigl(\\vol_g(E)\\bigr).\n\\]",
+      "summary": "完整流形上有限体积、有限环境周长集的模型等周比较",
+      "conditions": "n>=2, Sec<=kappa<=0; E may be unbounded; P(E)>=I_sqrt(-kappa)(vol E). No claim of constructive minimization or discrete curvature certification.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-THM-EQUALITY",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "thm:equality",
+      "kind": "theorem",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "statement_lines": [
+        75,
+        84
+      ],
+      "statement_tex": "Let $(M^n,g)$ be complete, simply connected and smooth, with\n$n\\ge2$ and $\\Sec_g\\le0$. Let $E\\subset M$ be bounded and measurable,\nwith $0<\\vol_g(E)<\\infty$ and $P_g(E)<\\infty$. Then\n\\[\n P_g(E)=n\\omega_n^{1/n}\\vol_g(E)^{(n-1)/n}\n\\]\nif and only if $E$ agrees up to ambient volume zero with an open region\nwhose induced Riemannian metric is isometric to a round Euclidean ball.",
+      "summary": "有界正体积等号区域的整域欧氏球刚性",
+      "conditions": "Sec<=0; E bounded, positive finite volume and finite full perimeter. Equality is modulo ambient null sets, with induced metric on the entire occupied region Euclidean. No ambient flatness outside or quantitative near-equality estimate.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-COR-MODEL-BALL-SPECTRAL",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "cor:model-ball-spectral",
+      "kind": "corollary",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "statement_lines": [
+        113,
+        123
+      ],
+      "statement_tex": "Let $n\\ge2$, $\\kappa\\le0$ and $1<p<\\infty$. Let $(M^n,g)$ be complete,\nsimply connected, smooth and without boundary, with $\\Sec_g\\le\\kappa$.\nFor a nonempty smooth domain $D\\Subset M$, let $B_\\kappa(|D|)$ be a\ngeodesic ball of volume $|D|=\\vol_g(D)$ in the simply connected\n$n$-dimensional space form of curvature $\\kappa$. Then\n\\[\n \\lambda_{1,p}(D)\\ge\\lambda_{1,p}\\bigl(B_\\kappa(|D|)\\bigr),\n \\qquad T_p(D)\\le T_p\\bigl(B_\\kappa(|D|)\\bigr).\n\\]",
+      "summary": "相同体积模型球的Dirichlet p谱下界与扭转上界",
+      "conditions": "Smooth boundaryless ambient n>=2, Sec<=kappa<=0; nonempty smooth relatively compact D; 1<p<infinity. lambda_1,p lower, source-normalized T_p upper; rearrangement and radial Dirichlet membership required. No mesh error or algorithm speed claim.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-COMPARISON-MAPS",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:comparison-maps",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "statement_lines": [
+        42,
+        56
+      ],
+      "statement_tex": "The map $\\Phi_{p,a}$ and the positive function $f_{p,a}$ are smooth on\n$M$. For every $X\\in T_xM$,\n\\begin{equation}\\label{eq:map-comparison}\n \\begin{aligned}\n |d\\Phi_{p,a}(X)|&\\le f_{p,a}|X|,\\\\\n \\Hess u_{p,a}&\\le du_{p,a}\\otimes du_{p,a}\n -\\frac12\\bigl(b^2+f_{p,a}^2+|\\nabla u_{p,a}|^2\\bigr)g.\n \\end{aligned}\n\\end{equation}\nThe second inequality is one of quadratic forms. The functions depend\nsmoothly on $(p,a,x)$. For fixed $o\\in M$, parallel transport of the\nfirst component of $\\Phi_{p,a}$ from $p$ to $o$ along the unique geodesic\nalso depends smoothly on $(p,a,x)$.",
+      "summary": "正比较权重与球面映射的微分及Hessian控制",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Explicit center p and scale a>0, smooth positive f=e^u and Phi; |dPhi X|<=f|X| and source quadratic-form Hessian upper bound, including joint smoothness after parallel transport.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-DISTANCE-COMPARISON",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:distance-comparison",
+      "kind": "corollary",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "statement_lines": [
+        157,
+        166
+      ],
+      "statement_tex": "Let $(M^n,g)$ be complete and simply connected with $\\Sec_g\\le0$.\nFor $p\\in M$, write $\\log_p=\\exp_p^{-1}$, $r_p(x)=d(p,x)$, and\n$D_p=r_p^2/2$. Then\n\\begin{equation}\\label{eq:distance-metric-comparison}\n \\Hess_gD_p\\ge g,\\qquad (\\exp_p)^*g\\ge g_p,\n \\qquad |d\\log_p(X)|_{g_p}\\le |X|_g.\n\\end{equation}\nHere $g_p$ on $T_pM$ denotes its constant Euclidean metric.",
+      "summary": "距离平方强凸、指数映射度量支配与对数映射压缩",
+      "conditions": "Sec<=0, complete simply connected smooth M. Hess(d_p²/2)>=g, exp_p pullback metric>=g_p, dlog contraction. Does not compare arbitrary learned dissimilarities.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-BALANCING",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:balancing",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "statement_lines": [
+        187,
+        194
+      ],
+      "statement_tex": "Let $\\mu$ be a compactly supported Borel probability measure on $M$\nwith $\\mu(\\{x\\})=0$ for every $x$. If $\\supp\\mu\\subset B_D(o)$,\nthere are $p\\in B_D(o)$ and finite $a>0$ such that\n\\begin{equation}\\label{eq:balanced-map}\n \\int_M\\Phi_{p,a}(x)\\,d\\mu(x)=0\\quad\\text{in }T_pM\\oplus\\R.\n\\end{equation}",
+      "summary": "无原子紧支撑概率的有限尺度配平",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Probability mu compactly supported in B_D(o), every singleton has zero mass. Exists center p in B_D(o) and finite a>0 with integral Phi=0. Atomic empirical data do not satisfy the statement; Brouwer argument is not a complexity bound.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-THM-EXTRINSIC-SOBOLEV",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "thm:extrinsic-sobolev",
+      "kind": "theorem",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "statement_lines": [
+        33,
+        42
+      ],
+      "statement_tex": "For every Lipschitz function $v$ with compact support in $\\Sigma^\\circ$,\n\\begin{equation}\n\\label{eq:extrinsic-sobolev}\n Q_\\Sigma(v)\\ge\n Y_m\\left(\\int_\\Sigma |v|^q\\,d\\sigma\\right)^{2/q}.\n\\end{equation}\nThe inequality also holds for the zero extension of every\n$v\\in H^1_0(U)$, where $U\\Subset\\Sigma^\\circ$ is open.",
+      "summary": "不必完备超曲面上的锐Sobolev形式界",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Locally C11 immersed hypersurface, compact interior Lipschitz tests or H10(U) zero extension. q=2m/(m-2), c=4/(m-2), Ym=m*s_m^(2/m); Q includes signed h through m(h²-b²).",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-SQUARE-ESTIMATE",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:square-estimate",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "statement_lines": [
+        67,
+        87
+      ],
+      "statement_tex": "Fix $p\\in M$ and $a>0$, and let $\\Phi=\\Phi_{p,a}$ and\n$f=e^u=f_{p,a}$ be the map and functions of\nLemma~\\ref{lem:comparison-maps}. For every compactly supported\nLipschitz function $v$ in $\\Sigma^\\circ$,\n\\begin{equation}\n\\label{eq:square-estimate}\n\\begin{aligned}\n Q_\\Sigma(v)\n &\\ge\\int_\\Sigma\\left(\n mf^2v^2+m(h+Nu)^2v^2\n +c|\\nabla_\\Sigma v-\\alpha v\\nabla_\\Sigma u|^2\\right)\\,d\\sigma\\\\\n &\\ge\\int_\\Sigma\\left(\n v^2|d(\\Phi|_\\Sigma)|^2\n +c|\\nabla_\\Sigma v-\\alpha v\\nabla_\\Sigma u|^2\\right)\\,d\\sigma.\n\\end{aligned}\n\\end{equation}\nThe same inequalities hold on $H^1_0(U)$ for every\n$U\\Subset\\Sigma^\\circ$. In particular, $Q_\\Sigma$ is nonnegative\non all these functions.",
+      "summary": "比较映射下的曲率势与梯度平方分解",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Same compact-interior/H10 tests, alpha=(m-2)/2; source f,Phi and outward-normal convention. Both lower bounds and nonnegativity of Q retained; no discretization equality asserted.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-LOCAL-SOBOLEV-THRESHOLD",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:local-sobolev-threshold",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "statement_lines": [
+        137,
+        148
+      ],
+      "statement_tex": "For every open $U\\Subset\\Sigma^\\circ$ and $\\epsilon>0$, there is\n$C_{\\epsilon,U}<\\infty$ such that\n\\begin{equation}\n\\label{eq:local-sobolev-threshold}\n (Y_m-\\epsilon)\\|v\\|_q^2\n \\le c\\int_\\Sigma|\\nabla_\\Sigma v|^2\\,d\\sigma\n       +C_{\\epsilon,U}\\int_\\Sigma v^2\\,d\\sigma,\n \\qquad v\\in H^1_0(U).\n\\end{equation}\nThe inclusion $H^1_0(U)\\hookrightarrow L^2(U)$ is compact.",
+      "summary": "局部次临界阈值与L2紧嵌入",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Every U relatively compact in regular interior and epsilon>0; finite C_epsilon,U, not uniform algorithmic constant. H10 uses actual closure, no smooth boundary required.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-SUBTHRESHOLD-MINIMIZER",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:subthreshold-minimizer",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "statement_lines": [
+        210,
+        216
+      ],
+      "statement_tex": "For nonempty open $U\\Subset\\Sigma^\\circ$, put\n\\[\n Y(U)=\\inf\\{Q_\\Sigma(v):v\\in H^1_0(U),\\ \\|v\\|_q=1\\}.\n\\]\nIf $Y(U)<Y_m$, the infimum is attained.",
+      "summary": "严格低于锐阈值时的极小值达到",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Nonempty relatively compact U; constrained Lq norm1 and Y(U)<Ym strictly. Used in contradiction proof, not critical attainment or a solver.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-PROP-CONFINED-REGULARITY",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "prop:confined-regularity",
+      "kind": "proposition",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "statement_lines": [
+        34,
+        55
+      ],
+      "statement_tex": "For each $v\\in(0,|B|)$ there is a minimizer $E$ in\n\\eqref{eq:confined-profile}.  It has a regular representative for which\n$\\Gamma=\\partial E$ is the support of its perimeter measure and is\ncontained in $\\overline B$.  There is a compact set $S\\subset B$ such\nthat\n\\begin{enumerate}\n \\item $\\dim_{\\mathcal H}S\\le n-8$, with $S=\\varnothing$ if $n<8$;\n \\item $\\Sigma=\\Gamma\\setminus S$ is a boundaryless\n $C^{1,1}_{\\mathrm{loc}}$ hypersurface, smooth on $\\Sigma\\cap B$;\n \\item $\\Gamma$ is $C^{1,1}$ in an ambient neighborhood of\n $\\partial B$, and $S$ is disjoint from a collar of $\\partial B$;\n \\item with $d\\sigma$ denoting area on $\\Sigma$, for every Borel set\n $A\\subset M$ one has\n \\begin{equation}\n  \\label{eq:perimeter-area}\n  |D\\chi_E|(A)=\\int_{A\\cap\\Sigma}d\\sigma,\n  \\qquad P(E)=\\int_\\Sigma d\\sigma=I(v).\n \\end{equation}\n\\end{enumerate}\nThe unit normal on $\\Sigma$ is the outward normal of $E$.",
+      "summary": "围限等周极小集的自由及接触边界正则性",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. 0<v<vol B in fixed geodesic ball. Compact singular set S inside B, Hausdorff dim<=n-8, empty if n<8; regular boundary locally C11, smooth on free part, C11 collar at wall, full perimeter represented by regular area.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-PROFILE-LIPSCHITZ",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:profile-lipschitz",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "statement_lines": [
+        110,
+        112
+      ],
+      "statement_tex": "The profile $I$ is positive and locally Lipschitz on $(0,|B|)$.",
+      "summary": "围限完整周长剖面的正性与局部Lipschitz性",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Fixed ball and 0<v<vol B; constants may depend on compact volume interval. Do not assert explicit uniform rate at endpoints.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-PROFILE-CURVATURE",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:profile-curvature",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "statement_lines": [
+        205,
+        214
+      ],
+      "statement_tex": "Let $v\\in(0,|B|)$ be a differentiability point of $I$, and let $E$ be\na minimizer as in Proposition~\\ref{prop:confined-regularity}.  With\n$mh=\\divg_\\Sigma N$ and $h_0=I'(v)/m$, one has\n\\[\n I'(v)>0,\\qquad h=h_0\\ \\text{on }\\Sigma\\cap B,\n \\qquad 0\\le h\\le h_0\\quad\\text{almost everywhere on }\\Sigma.\n\\]\nIn particular, $h^2\\le h_0^2$ almost everywhere on $\\Sigma$.",
+      "summary": "可微体积处剖面导数及有符号曲率约束",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Differentiability point of confined profile, outward H=m*h and h0=Iprime/m. Iprime>0, free h=h0, wall 0<=h<=h0 a.e.; h²<=h0² follows, not from an unsigned mean curvature substitution.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-BV-COMPACTNESS",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:bv-compactness",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "sha256": "42e4c0ecc652b7d4033398088fe802650325b97e7a150b67c3b43203cd76d270",
+      "statement_lines": [
+        37,
+        46
+      ],
+      "statement_tex": "Let $K$ be a compact subset of a smooth Riemannian manifold without\nboundary. If functions $u_j$ vanish outside $K$ almost everywhere and\n\\[\n \\sup_j\\bigl(\\|u_j\\|_{L^1}+|Du_j|(M)\\bigr)<\\infty,\n\\]\nthen a subsequence converges in $L^1(M)$. Total variation is lower\nsemicontinuous under this convergence. If the $u_j$ are characteristic\nfunctions, their limit is a characteristic function.",
+      "summary": "共同紧支撑与总变差界的L1紧性",
+      "conditions": "Smooth boundaryless ambient; all u_j vanish outside a fixed compact K, uniformly bounded L1+TV. Subsequence convergence and TV lower semicontinuity; characteristic limits remain characteristic. Not a rate.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-BV-FLOW",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:bv-flow",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "sha256": "42e4c0ecc652b7d4033398088fe802650325b97e7a150b67c3b43203cd76d270",
+      "statement_lines": [
+        77,
+        95
+      ],
+      "statement_tex": "Let $F:M\\to M$ be an orientation-preserving smooth diffeomorphism,\nand let $E$ have finite perimeter. If the right side below is finite,\nthen\n\\begin{equation}\\label{eq:bv-flow-jacobian}\n P(FE)=\\int_{\\partial^*E}\n J_{n-1}\\bigl(dF_x|_{N_E(x)^\\perp}\\bigr)\\,d\\mathcal H_g^{n-1}(x).\n\\end{equation}\nAll Jacobians and adjoints use the source and target Riemannian\nmetrics. For a smooth flow $F_t$ with velocity $Z$ and a set whose\nperimeter support is compact,\n\\begin{equation}\\label{eq:bv-flow-first-variation}\n \\left.\\frac d{dt}\\right|_{t=0}P(F_tE)\n =\\int_{\\partial^*E}\\divg_{N_E^\\perp}Z\\,d\\mathcal H_g^{n-1}.\n\\end{equation}\nFor a fixed finite family of flows and perimeter supports contained\nin a fixed compact set, there are common $C,\\tau>0$ such that\n$|P(F_tE)-P(E)|\\le C|t|P(E)$ for $|t|<\\tau$.",
+      "summary": "有限周长集在光滑流下的Jacobian与一阶变分",
+      "conditions": "Orientation-preserving smooth diffeomorphism and finite integral RHS; source and target Riemannian adjoints/Jacobians. First variation requires compact perimeter support; common local bounds only fixed finite flow family/support compact.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-PROP-EQUALITY-BOUNDARY",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "prop:equality-boundary",
+      "kind": "proposition",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "statement_lines": [
+        13,
+        49
+      ],
+      "statement_tex": "Let $M^n$ be complete, simply connected and smooth, with $n\\ge2$ and\n$\\Sec_M\\le0$. Suppose that a bounded measurable set $E\\subset M$ has\npositive volume $V$, finite ambient perimeter $A$, and\n\\[\n A=n\\omega_n^{1/n}V^{(n-1)/n}.\n\\]\nPut $m=n-1$, $R=(V/\\omega_n)^{1/n}$, and $H_0=m/R$. The support\n$\\Gamma=\\supp|D\\chi_E|$ is compact and has a decomposition\n$\\Gamma=\\Sigma\\mathbin{\\dot\\cup}Z$ with the following properties:\n\\begin{enumerate}\n \\item $\\Sigma$ is a relatively open, boundaryless, embedded\n $C^{1,1}_{\\mathrm{loc}}$ hypersurface, and $Z$ is compact, with\n $\\dim_{\\HH}Z\\le n-8$. In particular, $Z=\\varnothing$ when $n<8$.\n \\item The side occupied by $E$ defines an outward unit normal $N$\n on $\\Sigma$, and\n \\begin{equation}\n \\label{eq:equality-perimeter-area}\n |D\\chi_E|=d\\sigma\\lfloor\\Sigma,\n \\qquad \\sigma(\\Sigma)=A=s_mR^m,\n \\qquad \\overline\\Sigma=\\Gamma.\n \\end{equation}\n Here $d\\sigma$ denotes induced area on $\\Sigma$, extended by zero\n to $M$.\n \\item There are $C<\\infty$ and $r_0>0$ such that\n \\begin{equation}\n \\label{eq:equality-area-growth}\n \\sigma\\bigl(\\Sigma\\cap B_r(x)\\bigr)\\le Cr^m\n \\qquad(x\\in\\Gamma,\\ 0<r<r_0).\n \\end{equation}\n \\item The outward trace mean curvature satisfies\n $H=\\divg_{T\\Sigma}N=H_0$ almost everywhere on $\\Sigma$.\n\\end{enumerate}\nThese assertions concern the perimeter support and the measurable\nclass of $E$, not the topological boundary of an arbitrary\nrepresentative.",
+      "summary": "等号类的周长支撑、面积增长与同号CMC",
+      "conditions": "Sec<=0, bounded measurable E, positive volume V and sharp Euclidean perimeter. R=(V/omega_n)^(1/n), H0=(n-1)/R. Statements concern perimeter support and measurable class, not an arbitrary representative topological boundary.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-EQUALITY-GRAPH-REGULARITY",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:equality-graph-regularity",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "statement_lines": [
+        219,
+        239
+      ],
+      "statement_tex": "Let $\\Omega\\subset\\R^m$ be open, with $m\\ge1$, and let\n$u\\in C^{1,\\alpha}_{\\mathrm{loc}}(\\Omega)$ for $0<\\alpha<1$.\nLet $G(y,z)$ be the matrix of a smooth Riemannian metric on a\nneighborhood of the graph of $u$ in $\\R^m\\times\\R$, and put\n\\[\n W(y,z)=\\sqrt{\\det G(y,z)},\\qquad\n L_g(y,z,p)=W(y,z)\n \\left[(-p,1)^TG(y,z)^{-1}(-p,1)\\right]^{1/2}.\n\\]\nFix $H_0>0$ and write\n$\\mathcal B(y,z,p)=\\partial_zL_g(y,z,p)-H_0W(y,z)$.\nIf\n\\[\n \\int_\\Omega\\left[\n \\partial_pL_g(y,u,Du)\\cdot D\\zeta\n +\\mathcal B(y,u,Du)\\zeta\\right]dy=0\n \\qquad(\\zeta\\in C_c^\\infty(\\Omega)),\n\\]\nthen $u\\in C^{1,1}_{\\mathrm{loc}}(\\Omega)$.",
+      "summary": "弱CMC图方程把C1alpha提升到C11",
+      "conditions": "Smooth Riemannian metric near graph u∈C1alpha_loc, alpha∈(0,1), m>=1; exact weak Euler equation with fixed H0>0 and source L_g,B. Difference quotients/frozen-coefficient oscillation, not assumptions of already bounded second derivatives.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-EQUALITY-CUTOFFS",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:equality-cutoffs",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "statement_lines": [
+        426,
+        435
+      ],
+      "statement_tex": "Under the hypotheses of \\Cref{prop:equality-boundary}, there are\n$\\eta_j\\in\\Lip_c(\\Sigma)$ such that\n\\[\n 0\\le\\eta_j\\le1,\n \\qquad \\eta_j(x)\\longrightarrow1\\quad(x\\in\\Sigma),\n \\qquad\n \\int_\\Sigma|\\nabla_\\Sigma\\eta_j|^2\\,d\\sigma\\longrightarrow0.\n\\]",
+      "summary": "等号边界上趋于常数的低能量截止",
+      "conditions": "Exact hypotheses of prop:equality-boundary; eta_j∈Lip_c(Sigma),0<=eta<=1,pointwise→1,energy→0; needs singular-set area growth or no singularities.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-BV-DELETION",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:bv-deletion",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        34,
+        46
+      ],
+      "statement_tex": "Let $E$ have finite volume and perimeter in a complete smooth\nRiemannian manifold, let $x\\in M$, and let\n$0<r<\\operatorname{inj}(x)$. Then\n\\begin{equation}\\label{eq:bv-deletion}\n P(E\\setminus B_r(x))\\le\n P(E;M\\setminus\\overline B_r(x))\n       +\\mathcal H_g^{n-1}(\\partial B_r(x)).\n\\end{equation}\nFor all but countably many radii in any bounded interval,\n$P(E;\\partial B_r(x))=0$, so the perimeters on the two open sides\nsum to $P(E)$.",
+      "summary": "删除小球的BV周长界与例外半径",
+      "conditions": "Complete smooth M, finite volume/perimeter E and 0<r<inj(x). Added cost full sphere area; perimeter on sphere zero except countably many bounded-interval radii.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-AREA-GROWTH",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:area-growth",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        88,
+        97
+      ],
+      "statement_tex": "Let $0<v<\\vol(B)$, and let $E$ be a confined minimizing region of\nvolume $v$.  There are constants $C<\\infty$ and $r_0>0$, depending on\n$E$ and $B$, such that\n\\begin{equation}\n\\label{eq:singular-area-growth}\n \\sigma\\bigl(\\Sigma\\cap B_r(x)\\bigr)\\le Cr^m\n \\qquad(x\\in S,\\ 0<r<r_0).\n\\end{equation}",
+      "summary": "删除及固定自由补偿片给奇点面积增长",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Actual confined minimizing E with 0<v<vol B. Constants depend on E and B; sigma(Sigma∩B_r(x))<=C*r^m for x in singular S. Not a generic mesh density oracle.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-CAPACITY-CUTOFFS",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:capacity-cutoffs",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        201,
+        217
+      ],
+      "statement_tex": "Let $\\Gamma$ be a compact subset of a smooth Riemannian manifold, and\nlet $S\\subset\\Gamma$ be closed. Suppose that\n$\\Sigma=\\Gamma\\setminus S$ is an embedded, boundaryless, locally\n$C^{1,1}$ hypersurface of dimension $m\\ge3$ and finite area.\nAssume $\\mathcal H^{m-2}(S)=0$ and that, for some $C,r_0>0$,\n\\[\n \\sigma(\\Sigma\\cap B_r(x))\\le Cr^m\n \\qquad(x\\in S,\\ 0<r<r_0).\n\\]\nThere are $\\eta_j\\in\\Lip_c(\\Sigma)$ such that\n\\begin{equation}\\label{eq:singular-cutoff-properties}\n 0\\le\\eta_j\\le1,\\qquad \\eta_j(x)\\longrightarrow1\\quad(x\\in\\Sigma),\n \\qquad \\int_\\Sigma|\\nabla_\\Sigma\\eta_j|^2\\,d\\sigma\\longrightarrow0.\n\\end{equation}\nIf $S=\\varnothing$, the choice $\\eta_j=1$ works in every dimension.",
+      "summary": "零容量奇集附近的低能量紧支撑截止",
+      "conditions": "Compact Gamma, closed S; Sigma=Gamma∖S boundaryless embedded locally C11 dimension m>=3 and finite area; H^(m-2)(S)=0 and C*r^m area growth. eta_j→1 with vanishing Dirichlet energy; S empty allows1 in all dimensions.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-CONSTANT-TEST",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:constant-test",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        277,
+        285
+      ],
+      "statement_tex": "Let $v\\in(0,\\vol(B))$ be a differentiability point of $I$, and let\n$E$ minimize the confined perimeter at volume $v$.  Then\n\\begin{equation}\n\\label{eq:constant-sobolev}\n m\\int_\\Sigma(h^2-b^2)\\,d\\sigma\n \\ge Y_m I(v)^{(m-2)/m}.\n\\end{equation}",
+      "summary": "用容量截止合法化完整边界常数检验",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. Confined profile differentiability volume; m*int(h²-b²)>=Ym*I^((m-2)/m). Noncompact regular locus needs cutoff argument; compact support of Gamma alone does not suffice.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-PROP-PROFILE-ODE",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "prop:profile-ode",
+      "kind": "proposition",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        325,
+        331
+      ],
+      "statement_tex": "For almost every $v\\in(0,\\vol(B))$,\n\\begin{equation}\n\\label{eq:profile-differential}\n I'(v)\\ge m\\sqrt{b^2+\\left(\\frac{s_m}{I(v)}\\right)^{2/m}}.\n\\end{equation}",
+      "summary": "完整周长剖面的几乎处处微分下界",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. For a.e. 0<v<vol B, Iprime>=m*sqrt(b²+(s_m/I)^(2/m)). Integrated without presuming a profile endpoint limit.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-THM-NORMALIZED-COMPARISON",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "thm:normalized-comparison",
+      "kind": "theorem",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "statement_lines": [
+        352,
+        359
+      ],
+      "statement_tex": "Let $n\\ge4$ and $b\\in\\{0,1\\}$.  If $M^n$ is complete, simply\nconnected and smooth, with $\\Sec_M\\le-b^2$, then every bounded measurable\nset $E\\subset M$ of finite perimeter and positive volume satisfies\n\\[\n P(E)\\ge\\mathcal I_b(\\vol(E)).\n\\]",
+      "summary": "归一化曲率0或负1的有界集模型比较",
+      "conditions": "Smooth complete simply connected ambient manifold; Sec<=-b², b=0 or1 when normalized. m=n-1>=3 for hypersurface critical arguments. Full ambient perimeter includes obstacle contact. n>=4; bounded measurable positive-volume finite-perimeter E. Lower dimensions and general kappa require separate classical inputs and metric scaling.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-SMOOTH-BV-APPROXIMATION",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:smooth-bv-approximation",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "sha256": "a34692b120898a82b84f44a8d82c30cf73e94d95e15d7555f982419e16e1090d",
+      "statement_lines": [
+        63,
+        74
+      ],
+      "statement_tex": "Let $M$ be a complete connected smooth Riemannian manifold without\nboundary. Let $E$ have finite ambient perimeter, and suppose that\n$|E\\setminus K|=0$ for a compact set $K\\subset M$. For every open\nneighborhood $U\\supset K$ with compact closure, there are relatively\ncompact open sets $E_j\\Subset U$ with smooth boundary such that\n\\[\n |E_j\\mathbin{\\triangle}E|\\longrightarrow0,\n \\qquad P(E_j)\\longrightarrow P(E).\n\\]\nThe sets $E_j$ need not be connected.",
+      "summary": "紧支撑BV集合的严格光滑逼近",
+      "conditions": "Complete connected smooth boundaryless M; E a.e. supported in compact K, finite ambient perimeter; any relatively compact neighborhood U of K. Smooth E_j in U converge in symmetric volume and full perimeter; disconnected E_j allowed.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-GCH-LEM-FINITE-VOLUME-CUTOFF",
+      "manuscript": "smooth",
+      "manuscript_id": "P-9808a190babfbe20",
+      "label": "lem:finite-volume-cutoff",
+      "kind": "lemma",
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "sha256": "a34692b120898a82b84f44a8d82c30cf73e94d95e15d7555f982419e16e1090d",
+      "statement_lines": [
+        139,
+        145
+      ],
+      "statement_tex": "Let $M$ be a complete connected smooth Riemannian manifold without\nboundary. Let $J:[0,\\infty)\\to[0,\\infty)$ be continuous and increasing,\nwith $J(0)=0$. Suppose that $P(F)\\ge J(|F|)$ for every bounded\nfinite-perimeter set $F\\subset M$. Then the same inequality holds for\nevery measurable $E$ of finite volume and finite ambient perimeter.",
+      "summary": "有界集比较通过coarea截止延伸到无界有限体积集",
+      "conditions": "Complete connected smooth boundaryless M; continuous increasing J>=0,J(0)=0; assumed inequality for all bounded finite-perimeter sets. Retains both finite volume and finite full perimeter on E.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-THM-MAIN",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "thm:main",
+      "kind": "theorem",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "56120889c1239e9d8e71fd49afc750e4f2091fd4adba3dd6f06b571b3404773f",
+      "statement_lines": [
+        26,
+        38
+      ],
+      "statement_tex": "Let $X$ be a proper CAT(0) space and $n\\ge2$ an integer.\nEvery compactly supported $T\\in\\I_n(X)$ with $\\partial T=0$ admits a\ncompactly supported $S\\in\\I_{n+1}(X)$ such that\n\\begin{equation}\\label{eq:main}\n \\partial S=T,\\qquad\n \\M(S)\\le c_n\\M(T)^{(n+1)/n}\n =\\frac{\\M(T)^{(n+1)/n}}\n {(n+1)^{(n+1)/n}\\omega_{n+1}^{1/n}}.\n\\end{equation}\nThere is no restriction on the dimension of $X$ or on the integer\nmultiplicities of the currents. The coefficient is optimal.",
+      "summary": "proper CAT(0)整数循环的锐欧氏系数填充",
+      "conditions": "Proper CAT(0) X; compactly supported integral n-cycle, integer n>=2. Compact integral (n+1)-filling, mass<=c_n*M(T)^((n+1)/n), c_n=1/((n+1)*s_n^(1/n)), s_n=(n+1)*omega_(n+1). Arbitrary integer multiplicity and ambient dimension; no filling topology, algorithm or n=1 extension.",
+      "source_claim_grade": "B",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-COR-CARTAN-HADAMARD",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "cor:cartan-hadamard",
+      "kind": "corollary",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "56120889c1239e9d8e71fd49afc750e4f2091fd4adba3dd6f06b571b3404773f",
+      "statement_lines": [
+        57,
+        66
+      ],
+      "statement_tex": "Let $M$ be a Cartan--Hadamard manifold of dimension $d\\ge3$.\nFor every bounded domain $\\Omega\\subset M$ with smooth boundary,\n\\begin{equation}\\label{eq:classical}\n \\operatorname{area}(\\partial\\Omega)\n \\ge d\\omega_d^{1/d}\\vol(\\Omega)^{(d-1)/d}.\n\\end{equation}\nThe same inequality holds for relatively compact sets of finite\nperimeter, with ambient perimeter in place of boundary area.",
+      "summary": "积分填充结合顶维常性推出光滑域等周界",
+      "conditions": "Cartan-Hadamard manifold d>=3; bounded smooth domain or relatively compact finite-perimeter set. Full ambient perimeter. d=2 needs independent disk inequality; not included by setting n=1.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-COMPACT-REDUCTION",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:compact-reduction",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        15,
+        20
+      ],
+      "statement_tex": "Suppose that the asserted filling inequality in a fixed cycle dimension\nholds in every compact \\(\\operatorname{CAT}(0)\\) space. Then it holds for\nevery compactly supported integral cycle of that dimension in every proper\n\\(\\operatorname{CAT}(0)\\) space, with a compactly supported integral filling.",
+      "summary": "proper闭凸球的非扩张回缩归约",
+      "conditions": "Sharp filling inequality assumed in every compact CAT(0) at fixed cycle dimension; properness makes closed support-containing convex ball compact. Retraction preserves boundary and cannot increase mass.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-THM-CURRENT-BACKGROUND",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "thm:current-background",
+      "kind": "theorem",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        86,
+        159
+      ],
+      "statement_tex": "Let \\(Y\\) be compact and \\(\\operatorname{CAT}(0)\\), and let \\(k\\ge1\\).\nThe following statements hold.\n\\begin{enumerate}[label=\\textup{(\\roman*)}]\n\\item Lipschitz pushforward preserves integral currents, commutes with\nboundary, and satisfies the Lipschitz mass bound. Restrictions by bounded\nBorel coefficients have the usual mass-measure bound; for a Borel set\n\\(E\\subset Y\\),\n\\[\n \\|C\\restr E\\|=\\|C\\|\\restr E.\n\\]\nThe restricted current need not be normal. If \\(u:Y\\to\\R\\)\nis Lipschitz and \\(C\\in\\I_k(Y)\\), then\n\\(C\\restr\\{u>t\\}\\) is integral for almost every \\(t\\).\nIn particular its boundary is an integral \\((k-1)\\)-cycle.\n\n\\item If \\(C_j\\in\\I_k(Y)\\) and\n\\(\\sup_j(\\M(C_j)+\\M(\\partial C_j))<\\infty\\), a subsequence converges\nweakly to an integral current. Boundary commutes with weak convergence,\nand mass is lower semicontinuous.\n\n\\item Every \\(C\\in\\I_k(Y)\\) admits a representation by bi-Lipschitz\nmaps \\(\\phi_i:E_i\\to Y\\), where \\(E_i\\subset\\R^k\\) are bounded Borel\nsets and the images \\(Z_i=\\phi_i(E_i)\\) are pairwise disjoint Borel sets,\nand by signed integer multiplicities \\(\\theta_i\\in L^1(E_i)\\), such that\n\\begin{equation}\n\\label{eq:chart-action}\n C(b,\\pi_1,\\ldots,\\pi_k)\n =\\sum_i\\int_{E_i}\\theta_i(z)b(\\phi_i(z))\n       \\det D\\bigl((\\pi_1,\\ldots,\\pi_k)\\circ\\phi_i\\bigr)(z)\\dd z.\n\\end{equation}\nThe chart summands have summable masses. Zero multiplicities may be\ndiscarded. Scalar functions on a Borel chart domain are differentiated\nby Lipschitz extension to \\(\\R^k\\); their derivatives are independent\nof that extension at almost every density point of the domain.\n\n\\item For \\(h>0\\), the whole-current product \\([0,h]\\times C\\), with\nthe Euclidean product metric, is an integral \\((k+1)\\)-current and obeys\n\\begin{equation}\n\\label{eq:interval-product-boundary}\n \\partial([0,h]\\times C)\n =[h]\\times C-[0]\\times C-[0,h]\\times\\partial C.\n\\end{equation}\nWriting \\(b_t(x)=b(t,x)\\) and \\(\\pi_{a,t}(x)=\\pi_a(t,x)\\), its action is\n\\begin{equation}\n\\label{eq:interval-product-action}\n\\begin{split}\n &([0,h]\\times C)(b,\\pi_1,\\ldots,\\pi_{k+1})\\\\\n &\\quad=\\sum_{a=1}^{k+1}(-1)^{a+1}\\int_0^h\n C\\bigl(b_t\\,\\partial_t\\pi_a(t,\\cdot),\n          \\pi_{1,t},\\ldots,\\widehat{\\pi_{a,t}},\\ldots,\n          \\pi_{k+1,t}\\bigr)\\dd t.\n\\end{split}\n\\end{equation}\nThe hat indicates omission. The time derivative is interpreted almost\neverywhere and as a bounded Borel first coefficient in the current action.\n\n\\item There are finite constants \\(K_k,L_k\\), independent of the cycle,\nsuch that every integral \\(k\\)-cycle \\(B\\) in \\(Y\\) satisfies\n\\begin{equation}\n\\label{eq:coarse-fillings}\n V(B)\\le K_k\\M(B)^{(k+1)/k},\\qquad\n V(B)\\le L_k\\M(B).\n\\end{equation}\nEvery such \\(B\\) has a mass-minimizing integral filling in \\(Y\\).\nIf integral \\(k\\)-cycles \\(B_j\\) have bounded masses and converge weakly\nto an integral cycle \\(B\\), then\n\\begin{equation}\n\\label{eq:filling-continuity}\n V(B_j-B)\\longrightarrow0,\n \\qquad V(B_j)\\longrightarrow V(B).\n\\end{equation}\n\\end{enumerate}",
+      "summary": "整数流的推前、限制、紧性、图册、积及旧填充输入",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. k>=1. Borel restrictions may be nonnormal; Lipschitz superlevels integral a.e. Weak compactness requires mass+boundary mass bounds; disjoint signed-integer chart mass summable. Interval product is whole-current. Old K_k,L_k finite with minimizing fillings and weak filling continuity; Euclidean exponent already known.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-EXTREMIZER",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:extremizer",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        237,
+        250
+      ],
+      "statement_tex": "Let \\(c>0\\). If the functional\n\\[\n B\\longmapsto V(B)-c\\M(B)^{q_0}\n\\]\nis positive on some integral \\(n\\)-cycle in \\(Y\\), it attains a positive\nmaximum on such cycles. A maximizing cycle \\(A\\), with\n\\(m=\\M(A)>0\\), satisfies\n\\begin{equation}\n\\label{eq:extremizer}\n c\\bigl(m^{q_0}-\\M(B)^{q_0}\\bigr)\\le V(A-B)\n \\qquad\\text{for every integral \\(n\\)-cycle }B\\text{ in }Y.\n\\end{equation}",
+      "summary": "正填充亏量的假想最大循环",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. If V(B)-c*M(B)^q0 positive somewhere, positive maximum exists. q0=(n+1)/n. Inequality with arbitrary cycle B follows only for actual maximizing A; no universal point cloud energy principle.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-EUCLIDEAN-CHART-METRICS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:euclidean-chart-metrics",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        342,
+        357
+      ],
+      "statement_tex": "For almost every density point \\(z\\in E_i\\), the seminorm in\n\\eqref{eq:two-point-metric-differential} is a Euclidean norm. Thus there\nis a measurable positive definite matrix \\(G_i(z)\\) with\n\\begin{equation}\n\\label{eq:chart-metric}\n N_z(w)^2=w^{\\mathsf T}G_i(z)w,\n \\qquad J_i(z)=\\sqrt{\\det G_i(z)}.\n\\end{equation}\nIn particular,\n\\begin{equation}\n\\label{eq:centered-metric-differential}\n d(\\phi_i(z+w),\\phi_i(z))=|w|_{G_i(z)}+o(|w|)\n \\quad (z+w\\in E_i).\n\\end{equation}",
+      "summary": "CAT(0)二点微分产生欧氏图册度量",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Almost every density point of bi-Lipschitz chart; positive definite measurable G, N_z(w)^2=w^T G w, J=sqrt(detG). Requires two-moving-point differentiability and CAT(0) parallelogram argument.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-QUADRATIC-MASS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:quadratic-mass",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        436,
+        456
+      ],
+      "statement_tex": "Suppose that a finite-mass \\(d\\)-current \\(C\\) has a representation by\ncountably many determinant integrals with Lipschitz maps\n\\(\\psi_i:F_i\\to Y\\), Borel sets \\(F_i\\subset\\R^d\\), and real signed\nweights \\(\\vartheta_i\\). Suppose that, at almost every point carrying\nthese weights, there is a measurable nonnegative quadratic form\n\\(P_i(z)\\) such that\n\\begin{equation}\n\\label{eq:quadratic-distance-majorant}\n d(\\psi_i(z+w),\\psi_i(z))^2\n \\le P_i(z)[w,w]+o(|w|^2),\\qquad z+w\\in F_i.\n\\end{equation}\nIf the measure\n\\begin{equation}\n\\label{eq:quadratic-mass-majorant}\n \\eta=\\sum_i(\\psi_i)_\\#\n       \\bigl(|\\vartheta_i|\\sqrt{\\det P_i}\\dd z\\bigr)\n\\end{equation}\nis finite, then \\(\\|C\\|\\le\\eta\\). No normality of the separate chart\ncurrents is required.",
+      "summary": "二次距离上界控制行列式表示流的质量",
+      "conditions": "Finite-mass d-current with countably many determinant representations, Lipschitz maps, real signed weights and measurable nonnegative quadratic P majorizing squared differential distance; integrable absolute-weight sqrt(detP). This local mass majorant allows real weights; later integer density does not.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-CHART-MASS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:chart-mass",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        482,
+        491
+      ],
+      "statement_tex": "For the representation \\eqref{eq:chart-action}, let \\(G_i,J_i\\) be as\nin \\eqref{eq:chart-metric}. Then\n\\begin{equation}\n\\label{eq:chart-mass}\n \\|C\\|=\\sum_i(\\phi_i)_\\#\\bigl(|\\theta_i|J_i\\dd z\\bigr).\n\\end{equation}\nThus, with \\(\\rho_i=|\\theta_i|J_i\\), integration against the current\nmass is integration against \\(\\rho_i\\dd z\\) on the disjoint charts.",
+      "summary": "不相交整数图册的精确绝对权质量",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Exact Euclidean G from previous lemma, disjoint chart images; mass measure sum pushforward |theta|*sqrt(detG). No cancellation across disjoint images and no assertion each restricted chart is normal.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-EUCLIDEAN-DENSITY",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:euclidean-density",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "statement_lines": [
+        579,
+        588
+      ],
+      "statement_tex": "For an integral \\(k\\)-current \\(C\\) in \\(Y\\),\n\\begin{equation}\n\\label{eq:euclidean-lower-density}\n \\liminf_{\\rho\\downarrow0}\n       \\rho^{-k}\\|C\\|(B(y,\\rho))\\ge\\omega_k\n \\qquad\\text{for }\\|C\\|\\text{-almost every }y.\n\\end{equation}\nThe balls in this statement are open.",
+      "summary": "非零整数乘数给欧氏最低密度",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Integral k-current; open-ball lower liminf rho^-k mass>=omega_k mass-a.e. Uses |theta|>=1 on nonzero charts; arbitrary real weights invalidate this step.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-TOP-DIMENSIONAL-CONSTANCY",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:top-dimensional-constancy",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "sha256": "95249ade66b678e6e03ad67afd11d9ed2e9578b52b0c5e6081b5e03abf67dcb9",
+      "statement_lines": [
+        9,
+        13
+      ],
+      "statement_tex": "Let $M$ be a connected, noncompact, oriented Riemannian manifold of\ndimension $d$. If $C\\in\\I_d(M)$ has compact support and\n$\\partial C=0$, then $C=0$.",
+      "summary": "连通非紧定向流形上紧支撑顶维闭流为零",
+      "conditions": "Connected noncompact oriented Riemannian d-manifold; C integral d-current compact support, boundary0. Used to identify domain filling and round-ball sharpness; noncompactness essential.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-CHORD-TESTS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:chord-tests",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "statement_lines": [
+        74,
+        95
+      ],
+      "statement_tex": "Fix $a>0$ and put\n\\[\n w(t)=(1+at^2)^{-(n-2)/2}\\qquad(t\\in\\R).\n\\]\nThen $vw(s)$ and $vw(s)^2$ belong to $\\Hcal$, and\n\\begin{equation}\\label{chord:product-rules}\n \\begin{split}\n D(vw(s))&=w(s)Dv+w'(s)\\xi,\\\\\n D(vw(s)^2)&=w(s)^2Dv+2w(s)w'(s)\\xi.\n \\end{split}\n\\end{equation}\nIf $f:\\R\\to[0,\\infty)$ is smooth with bounded value and bounded\nfirst derivative, then\n\\begin{equation}\\label{chord:radial-tests}\n g=\\kappa^2v^{2+2\\beta}f(s),\\qquad\n \\psi=\\beta\\kappa^2r^2v^{1+2\\beta}f(s)\n\\end{equation}\nalso belong to $\\Hcal$. In particular, $g$ is an admissible\nnonnegative test in the extended radial inequality, and $\\psi$\nis an admissible test in~\\eqref{eq:euler}.",
+      "summary": "穿过零点的真实C1复合与合法弦检验",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. a>0,kappa=v(y)^beta for fixed v(y)>0,r=d(y,.),s=kappa*r*v^beta. vw(s),vw(s)² and source g,psi in H. xi explicit through zeros; no assumption s∈H. Scalar F_j extended by z on z<=0 jointlyC1, derivative limits(0,1).",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-COMPLETED-RADIAL",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:completed-radial",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "statement_lines": [
+        164,
+        171
+      ],
+      "statement_tex": "For every center $y\\in Y$, with $r=d(y,\\cdot)$, and every\nnonnegative $g\\in\\Hcal$,\n\\begin{equation}\\label{chord:completed-radial}\n \\int_Y\\bigl(ng\\abs{Dr}^2+r\\ip{Dr}{Dg}\\bigr)\\dd\\mu\n       \\le\\frac n4\\int_Y r^2g\\dd\\mu.\n\\end{equation}",
+      "summary": "完成平方后推广到非负H检验的径向界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. For every fixed center and nonnegative g∈H, integral(n*g*|Dr|²+r<Dr,Dg>)<=n/4*int r²g. Requires rescaled extremal radial inequality; not unconditional metric-measure claim.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-CHORD-TRANSFORM",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:chord-transform",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "statement_lines": [
+        193,
+        200
+      ],
+      "statement_tex": "For every center $y$ with $v(y)>0$, and every $a\\ge0$,\n\\begin{equation}\\label{eq:chord-transform}\n J_y(a)=\\int_Y(1+as^2)^{-n}\\dd\\nu\n                  \\le(1+2aL_y)^{-n/2},\n\\end{equation}\nwhere $s$ and $L_y$ are defined in~\\eqref{chord:data}.",
+      "summary": "特定极小元的加权弦变换上界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. Every center with v(y)>0,a>=0; J_y(a)<= (1+2aL_y)^(-n/2). nu=v^p mu/W and conformal chords depend on same minimizer; not arbitrary samples or learned weights.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-CHORD-DENSITY",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:chord-density",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "statement_lines": [
+        364,
+        375
+      ],
+      "statement_tex": "For $\\nu$-almost every center $y$,\n\\begin{equation}\\label{chord:transform-density}\n \\liminf_{a\\to\\infty}a^{n/2}J_y(a)\n                         \\ge\\frac{s_n}{2^nW}.\n\\end{equation}\nConsequently,\n\\begin{equation}\\label{eq:chord-upper}\n L_y\\le2\\left(\\frac{W}{s_n}\\right)^{2/n}<2\n                    \\qquad\\text{for $\\nu$-almost every }y.\n\\end{equation}",
+      "summary": "整数切密度给大参数弦变换下界及严格矩上界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. nu-a.e. center, liminf a^(n/2)J>=s_n/(2^n W), hence L_y<=2(W/s_n)^(2/n)<2. Uses integral density and selected Lebesgue/approximate continuity properties.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-RADIAL",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:radial",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "sha256": "c1ab8678e44b155eb464104f7127f8c950a0c255a1077a3dcf3e5ae55024ef48",
+      "statement_lines": [
+        14,
+        24
+      ],
+      "statement_tex": "For every center $y\\in Y$, write $r(x)=d(y,x)$.  Every nonnegative\nLipschitz function $g:Y\\to\\R$ satisfies\n\\begin{equation}\n \\int_Y \\bigl(ng+r\\,Dr\\cdot Dg\\bigr)\\dd\\mu\n \\leq n\\int_Y rg\\sqrt{1-|Dr|^2}\\dd\\mu.\n \\label{eq:radial}\n\\end{equation}\nThe square root is defined $\\mu$-almost everywhere by\n$|Dr|\\leq 1$.",
+      "summary": "假想极值循环的径向一阶变分界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. Every fixed center and nonnegative Lipschitz g; chart inverse metric, |Dr|<=1. Exact determinant is for comparison quadratic form, only an upper majorant of actual deformed mass, not equality of actual metric differential.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-BASE",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:base",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "sha256": "c1ab8678e44b155eb464104f7127f8c950a0c255a1077a3dcf3e5ae55024ef48",
+      "statement_lines": [
+        293,
+        301
+      ],
+      "statement_tex": "Let $Y$ be a compact CAT(0) space.  Every integral two-cycle\n$T\\in\\I_2(Y)$ admits $S\\in\\I_3(Y)$ with\n\\[\n \\partial S=T,\\qquad\n \\M(S)\\leq c_2\\M(T)^{3/2}\n          =\\frac{\\M(T)^{3/2}}{6\\sqrt{\\pi}}.\n\\]",
+      "summary": "紧CAT(0)二维整数循环的基例",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Integral two-cycle admits integral3-filling with mass<=M(T)^(3/2)/(6*sqrt(pi)); proof eliminates hypothetical counterexample with inverse-square cutoff. Not n=1 loop statement.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-OPPOSITE-AVERAGE",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:opposite-average",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+      "sha256": "a2525c6f081656c143a0a0d9903bcd5b2aa6c42f5674d37615e9ed2465932239",
+      "statement_lines": [
+        17,
+        41
+      ],
+      "statement_tex": "Define\n\\begin{equation}\n \\label{finish:weighted-moment}\n B_*:=\\int_Y v^{p+2\\beta}\\dd\\mu,\n \\qquad\n I(y):=\\int_Y d(y,x)^2v(x)^{p+2\\beta}\\dd\\mu(x).\n\\end{equation}\nThen \\(0<B_*<\\infty\\), the function \\(I\\) is finite and continuous on\n\\(Y\\), and\n\\begin{equation}\n \\label{finish:all-centers}\n W^2\\le B_*I(y)\\qquad\\text{for every }y\\in Y.\n\\end{equation}\nIn particular, for the chord moments\n\\[\n L_y=\\int_Y\n       \\bigl[v(y)^\\beta d(y,x)v(x)^\\beta\\bigr]^2\\dd\\nu(x),\n\\]\none has\n\\begin{equation}\n \\label{finish:opposite-average}\n \\int_Y L_y\\dd\\nu(y)\\ge2.\n\\end{equation}",
+      "summary": "CAT(0)方差及弱方程给同一弦矩平均下界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. Bstar finite positive, I(y) finite continuous, W²<=Bstar*I(y) all y and intL_y dnu>=2. Average distance/value Borel kernel, no joint choice of derivative exceptional sets; contradiction to preceding strict upper only in this setup.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-SOBOLEV-SPACE",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:sobolev-space",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "statement_lines": [
+        42,
+        75
+      ],
+      "statement_tex": "Identify real Lipschitz functions on $Y$ that agree $\\mu$-almost\neverywhere. Their completion in the norm\n\\[\n \\|u\\|_{\\Hcal}^2=\\|u\\|_2^2+E(u)\n\\]\nis a Hilbert space $\\Hcal$ of functions in $L^2(\\mu)$.  Its gradient is\na well-defined closed operator with values in the Hilbert space of\nsquare-integrable chart covectors.  The inclusion\n$\\Hcal\\longrightarrow L^p(\\mu)$ is continuous, and\n\\eqref{eq:almost-sobolev} holds for all $u\\in\\Hcal$.\n\nThe following calculus properties hold.\n\\begin{enumerate}[label=\\textup{(\\roman*)}]\n \\item If $u_1,\\ldots,u_k\\in\\Hcal$ and\n $\\Phi\\in C^1(\\R^k)$ has bounded first derivatives, then\n $\\Phi(u_1,\\ldots,u_k)\\in\\Hcal$ and\n \\[\n D\\Phi(u_1,\\ldots,u_k)\n =\\sum_{a=1}^k\\partial_a\\Phi(u_1,\\ldots,u_k)Du_a.\n \\]\n \\item For every $u\\in\\Hcal$ and every fixed $t\\in\\R$,\n $Du=0$ almost everywhere on $\\{u=t\\}$.  Consequently, the scalar\n chain rule also holds for Lipschitz, piecewise $C^1$ functions with\n finitely many corners, with any derivative values assigned at the\n corners.\n \\item The map $u\\mapsto u_+$ is continuous from $\\Hcal$ to itself.\n Every nonnegative element of $\\Hcal$ has nonnegative Lipschitz\n approximants converging in $\\Hcal$.\n \\item For each fixed center $y\\in Y$, the radial inequality\n \\eqref{eq:radial} holds for every nonnegative $g\\in\\Hcal$, with\n $r=d(y,\\cdot)$ and its chart gradient $Dr$.\n\\end{enumerate}",
+      "summary": "whole-cycle身份闭合图册梯度及Sobolev空间",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2 and preceding almost-Sobolev input. Quotient functions by mass-a.e.; closed Hilbert chart-covector gradient. Bounded-derivative C1 chain rule, fixed-level gradient0, positive-part continuity, radial nonnegative H tests. Integration by parts on whole cycle before localization, not arbitrary Borel restrictions.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-COMPACT-EMBEDDING",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:compact-embedding",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "statement_lines": [
+        217,
+        219
+      ],
+      "statement_tex": "The inclusion $\\Hcal\\longrightarrow L^2(\\mu)$ is compact.",
+      "summary": "加权whole-cycle投影TV给L2紧嵌入",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. Same n>2 Sobolev setup. H embeds compactly intoL2; chart isolation follows whole-current weighted projections and measure localization. No individual chart normality or quantitative compactness rate.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-MINIMIZER",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:minimizer",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "statement_lines": [
+        397,
+        415
+      ],
+      "statement_tex": "One has $0<\\Lambda<S_*$.  There exists a nonzero nonnegative\n$v\\in\\Hcal$ minimizing $Q(u)/\\|u\\|_p^2$ over nonzero $u\\in\\Hcal$\nand satisfying\n\\begin{equation}\n \\begin{split}\n 0<W:=\\int v^p\\,d\\mu\n       =\\left(\\frac\\Lambda n\\right)^{n/2}<s_n,\n \\qquad Q(v)=nW.\n \\end{split}\n \\label{eq:minimizer-normalization}\n\\end{equation}\nFor every $\\psi\\in\\Hcal$ it satisfies the weak equation\n\\begin{equation}\n 4\\beta\\int Dv\\cdot D\\psi\\,d\\mu+n\\int v\\psi\\,d\\mu\n   =n\\int v^{p-1}\\psi\\,d\\mu.\n \\label{eq:euler}\n\\end{equation}",
+      "summary": "临界商的归一化非负极小元与弱Euler方程",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. 0<Lambda<Sstar strictly,4beta*int DvDpsi+n*int vpsi=n*int v^(p-1)psi for all psi∈H. Counterexample argument, not arbitrary manifold PDE existence.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-POWERS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:powers",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "statement_lines": [
+        525,
+        537
+      ],
+      "statement_tex": "For every real $\\gamma\\ge1$,\n\\[\n v^\\gamma\\in\\Hcal\\cap L^p(\\mu),\\qquad\n D(v^\\gamma)=\\gamma v^{\\gamma-1}Dv.\n\\]\nMoreover, $\\int v^q\\,d\\mu<\\infty$ for every finite $q>0$, and\n\\begin{equation}\n \\int v^q|Dv|^2\\,d\\mu<\\infty\n \\qquad\\hbox{for every finite }q\\ge0.\n \\label{eq:polynomial-weighted-energy}\n\\end{equation}",
+      "summary": "截断与bootstrap给所有有限幂及加权能量",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. gamma>=1 gives v^gamma∈H∩Lp and actual chain rule; all finite q>0 moments and finite q>=0 weighted energy. Does not imply L∞ or pointwise strict positivity.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-COMPOSITES",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:composites",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "statement_lines": [
+        629,
+        645
+      ],
+      "statement_tex": "Let $r\\in\\Hcal$ satisfy $0\\le r\\le R<\\infty$ almost everywhere and\n$|Dr|\\in L^\\infty(\\mu)$.  Suppose that $F$ is $C^1$ on an open\nneighborhood of $[0,R]\\times[0,\\infty)$ and that, on this strip,\n\\[\n |F(a,t)|+|\\partial_1F(a,t)|+|\\partial_2F(a,t)|\n \\le C(1+t)^M\n\\]\nfor some finite $C$ and nonnegative integer $M$.  Then\n$F(r,v)\\in\\Hcal$ and\n\\begin{equation}\n D(F(r,v))=\\partial_1F(r,v)Dr+\\partial_2F(r,v)Dv.\n \\label{eq:polynomial-composite-chain-rule}\n\\end{equation}\nIn particular, this applies with $r=d(y,\\cdot)$ for each fixed\n$y\\in Y$.",
+      "summary": "多项式增长C1二变量复合的链法则",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp lower-dimensional filling induction, beta=1/(n-2), p=2n/(n-2), normalized nonnegative critical minimizer v with 0<W=int(v^p)<s_n, Q(v)=nW. r∈H,0<=r<=R and bounded gradient; F jointly C1 on an open neighborhood of strip [0,R]×[0,infinity), F and both derivatives polynomial growth. Fractional v^beta alone is not assumed Sobolev/C1.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-SMALL-SET",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:small-set",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        36,
+        50
+      ],
+      "statement_tex": "For every $\\eta\\in(0,1)$ there is a number $\\delta\\in(0,m/2)$, independent\nof the Lipschitz function $u\\colon Y\\to\\R$, with the following property.\nPut\n\\[\n a(t)=\\mu\\{u>t\\},\\qquad\n U_t=A\\restr\\{u>t\\},\\qquad P(t)=\\M(\\partial U_t),\n\\]\nwhere $U_t$ and its boundary are integral for almost every $t$.\nAt almost every level for which $a(t)\\le\\delta$,\n\\begin{equation}\n P(t)\\ge(1-\\eta)n\\omega_n^{1/n}a(t)^{(n-1)/n}.\n \\label{eq:small-set}\n\\end{equation}",
+      "summary": "低维锐填充归纳给小超水平边界下界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2 and sharp n-1 filling induction. Every eta∈(0,1) yields delta∈(0,m/2), independent of u but dependent on setup; integral superlevels only a.e.; P(t)>=(1-eta)*n*omega_n^(1/n)*a(t)^((n-1)/n).",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-COUNTABLE-MASS-TESTS",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:countable-mass-tests",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        112,
+        127
+      ],
+      "statement_tex": "Let $Z$ be a nonempty compact metric space and let $k\\ge1$.  There is a\ncountable collection $\\mathcal T_k(Z)$ of finite lists\n\\[\n \\bigl((b_1,\\pi^1),\\ldots,(b_N,\\pi^N)\\bigr),\n\\]\nwhere the $b_j$ are Lipschitz, $\\sum_j|b_j|\\le1$ pointwise, and each\n$\\pi^j$ is a $k$-tuple of $1$-Lipschitz functions, such that every\n$k$-current $C$ of finite mass on $Z$ satisfies\n\\begin{equation}\n \\M(C)=\\sup_{\\mathcal T\\in\\mathcal T_k(Z)}\n                  \\sum_{(b,\\pi)\\in\\mathcal T}C(b,\\pi).\n \\label{eq:countable-mass-tests}\n\\end{equation}\nThe collection is independent of $C$.",
+      "summary": "与流无关的可数标量质量测试族",
+      "conditions": "Any nonempty compact metric Z,k>=1, finite-mass k-current; finite lists of Lipschitz coefficients sum|b|<=1 and1-Lipschitz coordinates. Supremum over countable family equals mass. Does not give finite computable truncation rate.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-INTRINSIC-COAREA",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:intrinsic-coarea",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        197,
+        214
+      ],
+      "statement_tex": "For a real Lipschitz function $u$ on $Y$, put\n\\[\n a(t)=\\mu\\{u>t\\},\\qquad\n e(t)=\\int_{\\{u>t\\}}|Du|^2\\dd\\mu,\n \\qquad P(t)=\\M\\bigl(\\partial(A\\restr\\{u>t\\})\\bigr)\n\\]\nat the almost every level where the restriction is integral.  Then\n\\begin{equation}\n P(t)^2\\le(-a'(t))(-e'(t)),\\qquad\n P(t)\\le\\Lip(u)(-a'(t))\n \\quad\\text{for almost every }t.\n \\label{eq:intrinsic-coarea}\n\\end{equation}\nThe derivatives are the densities of the absolutely continuous parts\nof the corresponding distribution measures; neither distribution\nfunction is assumed absolutely continuous.",
+      "summary": "保留内禀梯度和分布奇异部分的coarea界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. Real Lipschitz u, actual integral slices a.e. P²<=(-a_acprime)(-e_acprime),P<=Lip(u)*(-a_acprime) a.e. Derivatives are AC densities; atoms and singular continuous parts are permitted.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-REARRANGED-ENERGY",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:rearranged-energy",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        289,
+        301
+      ],
+      "statement_tex": "Fix $\\eta\\in(0,1)$ and the corresponding $\\delta$ from\nProposition~\\ref{prop:small-set}.  If $u\\ge0$ is Lipschitz and\n$\\mu\\{u>0\\}\\le\\delta$, there is a nonnegative, radial nonincreasing,\ncompactly supported Lipschitz function $u^*$ on $\\R^n$ such that\n\\begin{equation}\n \\int_{\\R^n}(u^*)^q\\dd x=\\int_Yu^q\\dd\\mu\\quad(q>0),\n \\qquad\n \\int_{\\R^n}|\\nabla u^*|^2\\dd x\n       \\le(1-\\eta)^{-2}E(u).\n \\label{eq:rearranged-energy-bound}\n\\end{equation}",
+      "summary": "小支撑分布的等分布欧氏径向能量重排",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2 and lower-dimensional induction; nonnegative Lipschitz u with mu{u>0}<=delta(eta). All finite positive moments preserved; radial compact Lipschitz ustar, energy<=(1-eta)^-2 E(u). Generalized inverse accounts for atoms/flat regions, no assumption all distribution measures AC.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-LEM-RADIAL-SOBOLEV",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "lem:radial-sobolev",
+      "kind": "lemma",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        452,
+        461
+      ],
+      "statement_tex": "For every nonnegative, radial nonincreasing, compactly supported\nLipschitz function $f$ on $\\R^n$, where $n>2$,\n\\begin{equation}\n ns_n^{2/n}\n       \\left(\\int_{\\R^n}f^p\\dd x\\right)^{2/p}\n    \\le \\frac4{n-2}\\int_{\\R^n}|\\nabla f|^2\\dd x.\n \\label{eq:radial-sobolev}\n\\end{equation}",
+      "summary": "欧氏径向Lipschitz函数的锐Sobolev常数",
+      "conditions": "n>2,p=2n/(n-2); nonnegative radial nonincreasing compactly supported Lipschitz f. n*s_n^(2/n)||f||p²<=4/(n-2)*DirichletEnergy. Old sharp Sobolev mechanisms, not a new solver.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-337-CAT0-PROP-ALMOST-SOBOLEV",
+      "manuscript": "CAT0",
+      "manuscript_id": "P-85565211ca1088a3",
+      "label": "prop:almost-sobolev",
+      "kind": "proposition",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "statement_lines": [
+        624,
+        634
+      ],
+      "statement_tex": "For every $\\epsilon\\in(0,S_*)$ there is a finite constant\n$C_\\epsilon\\ge0$ such that every real Lipschitz function $u$ on $Y$\nsatisfies\n\\begin{equation}\n (S_*-\\epsilon)\\|u\\|_p^2\n     \\le4\\beta E(u)+C_\\epsilon\\|u\\|_2^2.\n \\label{eq:almost-sobolev}\n\\end{equation}\nThe constant is independent of $u$.",
+      "summary": "极值质量空间上的带L2项几乎锐Sobolev界",
+      "conditions": "Compact CAT(0) Y, AK integral currents with integer multiplicity and disjoint bi-Lipschitz Borel charts. Hypothetical positive filling-deficit maximizing n-cycle A, rescaled as in 02-currents and 03-radial; mu=mass(A). Not an arbitrary data cloud. n>2, sharp n-1 induction; Sstar=n*s_n^(2/n),beta=1/(n-2),p=2n/(n-2). Every epsilon∈(0,Sstar) finite Ceps independent of u, no computed uniform rate.",
+      "source_claim_grade": "C",
+      "aliases": []
+    }
+  ],
+  "unlabelled_results": [
+    {
+      "id": "CLM-337-CAT0-COEFFICIENT-OPTIMAL-EXISTENCE",
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "statement_lines": [
+        67,
+        76
+      ],
+      "selected_statement": "For every integer n>=2 there exists a nonzero compactly supported integral Euclidean n-cycle for which every compact integral filling has mass at least c_n*M(T)^((n+1)/n).",
+      "source_paragraph": "To see that the coefficient in Theorem~\\ref{thm:main} is optimal,\ntake $X=\\R^{n+1}$ and let $T$ be the oriented boundary of the\nEuclidean ball $B_R$. Its mass is $s_nR^n$, while\n\\[\n \\M([[B_R]])=\\omega_{n+1}R^{n+1}\n =c_n(s_nR^n)^{(n+1)/n}.\n\\]\nAny compactly supported integral filling of $T$ equals $[[B_R]]$\nby Lemma~\\ref{lem:top-dimensional-constancy}. Hence equality occurs\nand no smaller universal coefficient is possible.",
+      "qualification": "Only existential optimality substatement assigned sourceB,not claim all sphere radii formally checked."
+    }
+  ],
+  "methods": [
+    [
+      "COMPARISON-MAP",
+      "光滑比较映射与正权",
+      "Hadamard smooth metric,center andpositive scale",
+      "sphere-valued Phi plus differential/Hessian controls",
+      "smooth",
+      "lem:comparison-maps",
+      "Needs exact ambient metric/curvature;no empirical curvature oracle"
+    ],
+    [
+      "NONATOMIC-BALANCE",
+      "无原子配平",
+      "compact nonatomic probability in actual Hadamard manifold",
+      "center andfinite scale with zero sphere moment",
+      "smooth",
+      "lem:balancing",
+      "Atomic samples and finite-iteration complexity outside statement"
+    ],
+    [
+      "SQUARE-SOBOLEV",
+      "平方分解到临界Sobolev",
+      "locally C11 hypersurface compact-interior tests",
+      "sharp Q>=Ym*Lq²",
+      "smooth",
+      "thm:extrinsic-sobolev",
+      "Critical dimension and signed curvature potential retained"
+    ],
+    [
+      "BV-REPAIR",
+      "删除再固定片修复体积",
+      "confined perimeter minimizer",
+      "singular-area growth",
+      "smooth",
+      "lem:area-growth",
+      "Not arbitrary reconstructed pointcloud surfaces"
+    ],
+    [
+      "CAPACITY-CUTOFF",
+      "容量截止合法化常数",
+      "finite-area regular locus,zero H^(m-2) singular measure andgrowth",
+      "compact tests converge to1 withzeroenergy",
+      "smooth",
+      "lem:capacity-cutoffs",
+      "Requires actual capacity/growth assumptions"
+    ],
+    [
+      "PROFILE-INTEGRATE",
+      "单调变换积分剖面ODE",
+      "positive locallyLipschitz confined profile satisfyingODE",
+      "model comparison withoutendpointlimit assumption",
+      "smooth",
+      "prop:profile-ode",
+      "Not an ODE solver error guarantee"
+    ],
+    [
+      "BV-EXTEND",
+      "严格BV逼近及有限体积截止",
+      "bounded comparison andactual ambientBV perimeter",
+      "comparison for unboundedfinitevolumeE",
+      "smooth",
+      "lem:finite-volume-cutoff",
+      "Discrete cut perimeter needs separate consistency certificate"
+    ],
+    [
+      "EQUALITY-GRAPH",
+      "弱图方程正则性提升",
+      "C1alpha weakCMC graph in smoothmetric",
+      "C11 regularity",
+      "smooth",
+      "lem:equality-graph-regularity",
+      "No noisy near-equality stability or reconstructed derivatives"
+    ],
+    [
+      "SPECTRAL-REARRANGE",
+      "等周界接径向Dirichlet重排",
+      "smooth relativelycompactD,globalmodelprofile,p>1",
+      "p-eigenvalue lower/torsion upper",
+      "smooth",
+      "cor:model-ball-spectral",
+      "Exact normalization and membership;no meshcertification"
+    ],
+    [
+      "CONVEX-RETRACT",
+      "紧凸球回缩",
+      "properCAT0 andcompactcycle support",
+      "compactworkspace withoutmassgrowth",
+      "CAT0",
+      "lem:compact-reduction",
+      "Properness,integrality andnonexpansive mapmustbeverified"
+    ],
+    [
+      "TWO-POINT-METRIC",
+      "二点微分恢复欧氏图册",
+      "biLipschitzBorelchart intoCAT0",
+      "measurablepositiveG andexactmassdensity",
+      "CAT0",
+      "prop:chart-mass",
+      "Mass uses absoluteinteger multiplicity;notarbitrarysignedweights"
+    ],
+    [
+      "QUADRATIC-MAJORANT",
+      "二次距离上界到质量上界",
+      "finite determinant-integralrepresentation andquadraticdistance bound",
+      "pushforwardabsoluteweightsqrt(detP) uppermeasure",
+      "CAT0",
+      "lem:quadratic-mass",
+      "Comparisonformdeterminant exactbutactualmapmass generallynot"
+    ],
+    [
+      "WHOLE-CYCLE-GRADIENT",
+      "全循环身份后局部化",
+      "integralcycle andweightedprojections",
+      "closedgradient/TVcompactness",
+      "CAT0",
+      "prop:sobolev-space",
+      "Borelchartrestrictions neednotnormal;cannotintegratebyparts independently"
+    ],
+    [
+      "ATOMIC-COAREA",
+      "含原子分布的能量重排",
+      "actualintegralsuperlevels andsmall-support bound",
+      "equimeasurable radialfunction andenergycontrol",
+      "CAT0",
+      "lem:rearranged-energy",
+      "Lowerdimensioninduction;notassumeACdistributionorquantilerate"
+    ],
+    [
+      "POWER-BOOTSTRAP",
+      "有限幂截断bootstrap",
+      "actualcriticalminimizer andweakEuler equation",
+      "allfinitemoments andweightedenergy",
+      "CAT0",
+      "lem:powers",
+      "No L∞,strictpositivity oruniformfinitecost"
+    ],
+    [
+      "C1-ZERO-COMPOSITE",
+      "零点处直接复合替代分数幂拆分",
+      "n>2,beta=1/(n-2),boundedr,a>0,kappa fixed;scalarF_j=z*w(kappa*r*z^beta)^j",
+      "jointC1 extension acrossz=0 withderivatives dz1/dr0",
+      "CAT0",
+      "lem:chord-tests",
+      "Scalarcalculusfragment maytransferindependently;fullHmembership/chordinequalities stillneedextremizerPDE. No numericalADoutputyet"
+    ],
+    [
+      "BOREL-CENTER-AVERAGE",
+      "对值与距离核平均",
+      "nonnegativeBorelrepresentative andfiniteweightedmoments",
+      "valid centeraverage withoutjointderivativechoices",
+      "CAT0",
+      "lem:opposite-average",
+      "Specificminimizer requiredforlowerbound;notunconditionalpointcloudvariance"
+    ],
+    [
+      "TOP-DIM-CONSTANCY",
+      "顶维差流识别填充",
+      "connectednoncompactorientedmanifold,compacttopcycle",
+      "uniquegivenboundarydomainfilling",
+      "CAT0",
+      "lem:top-dimensional-constancy",
+      "No parameterizedfillingtopology/optimization algorithm"
+    ]
+  ],
+  "domain_attempts": [
+    [
+      "机器学习自动微分",
+      "将穿零C1标量复合直接求导，审计分数幂分解在零门控特征上的梯度",
+      "值得另行冻结小型真实AD检验；普通解析微分与正确预操作分支是强旧基线。尚无AD运行、训练收益或实现故障证据。"
+    ],
+    [
+      "交通网络",
+      "把路网循环边界的填充质量用于运输或围合成本",
+      "一般图的距离及一维循环不满足n>=2 CAT0整数流；需二维真实几何和成本同一性。保留条件方向。"
+    ],
+    [
+      "材料孔隙",
+      "以有限周长孔隙的表面积界约束设计",
+      "需完整ambient光滑Hadamard结构、负截曲率和体积计量；三维普通欧氏基线已足够，未知新增益。"
+    ],
+    [
+      "生物形态",
+      "由近球等周比恢复组织内部几何",
+      "本稿是精确等号刚性，没有近等号稳定性；噪声、边界与环境曲率桥接缺失。"
+    ],
+    [
+      "语言表示",
+      "用加权弦矩检测语义点云几何",
+      "经验原子与任意权不满足假想极值循环及Euler方程；不能把严格弦矩上界直接套嵌入。"
+    ],
+    [
+      "艺术与网格",
+      "用质量最小填充生成面或体",
+      "存在性不指定拓扑/参数化，不提供离散优化器与误差率；普通欧氏填充已有旧结果。"
+    ],
+    [
+      "金融风险",
+      "以CAT0均值或尾分布估计风险",
+      "Sturm旧方差与新矛盾中的特定矩分开；交易观测没有积分流/PDE前提，未形成合理新候选。"
+    ],
+    [
+      "能源传热",
+      "用模型球p谱及扭转界约束响应",
+      "可复用连续Dirichlet比较，但实际器件多有边界/非Hadamard几何；需独立曲率证书与离散误差，旧欧氏界须公平比较。"
+    ],
+    [
+      "机器人形状空间",
+      "紧凸球回缩限制搜索区域",
+      "正确CAT0空间及非扩张回缩可迁移；不保证当前机器人配置空间CAT0，也无最短路或填充复杂度。"
+    ],
+    [
+      "数据库分位数",
+      "允许原子和平台的广义逆重排",
+      "统计分位数处理原子已是旧方法；本源内禀能量与整数切片结构没有自然数据库对应，暂保留零增益判断。"
+    ]
+  ],
+  "cross_family_attempts": [
+    {
+      "existing_method": "PART-333-SMALL-VALUE-DERIVATIVE",
+      "proposal": "Combine zero/small-value localization with F337 directC1 composite for gradient admission",
+      "qualification": "Only shared calculus interface sofar;periodic structured-curvature hypothesis ofF333 doesnotfollowfromF337. Separate scalar audit maynotneed bothfamilies;no combined benefit credit."
+    },
+    {
+      "existing_method": "PART-094-CLIP-THEN-PROJECT",
+      "proposal": "Clip-before-project and F337 whole-cycle-before-localize as operation-order correctness checks",
+      "qualification": "Weighted edge cochains and AKcurrents are different objects;no transferofprojectionbounds. Retain as methodological analogy,not a joint theorem."
+    },
+    {
+      "existing_method": "PART-374-MOMENTS",
+      "proposal": "Moment normalization with mass-density absolute multiplicity checks",
+      "qualification": "Fixed-mass geometric moments require actual measure model. Signed/real weights do notinherit integral density;no new combined candidate."
+    }
+  ],
+  "historical_references_by_key": {
+    "Aubin1976": "LIT-337-AUBIN1976",
+    "Bol1941": "LIT-337-BOL1941",
+    "BrezisLieb1983": "LIT-337-BREZISLIEB1983",
+    "Croke1984": "LIT-337-CROKE1984",
+    "Ghomi2026Pinched": "LIT-337-GHOMI2026PINCHED",
+    "GhomiSpruck2022": "LIT-337-GHOMISPRUCK2022",
+    "GhomiStavroulakis2026": "LIT-337-GHOMISTAVROULAKIS2026",
+    "Kleiner1992": "LIT-337-KLEINER1992",
+    "KloecknerKuperberg2019": "LIT-337-KLOECKNERKUPERBERG2019",
+    "LiYau1982": "LIT-337-LIYAU1982",
+    "Maggi2012": "LIT-337-MAGGI2012",
+    "Morgan2003": "LIT-337-MORGAN2003",
+    "PetersenManuscript": "LIT-337-PETERSENMANUSCRIPT",
+    "Talenti1976": "LIT-337-TALENTI1976",
+    "Weil1926": "LIT-337-WEIL1926",
+    "ChavelFeldman1980": "LIT-337-CHAVELFELDMAN1980",
+    "GuneysuPallara2015": "LIT-337-GUNEYSUPALLARA2015",
+    "AntonelliPasqualettoPozzetta2022": "LIT-337-ANTONELLIPASQUALETTOPOZZETTA2022",
+    "ChenGhomiWang2026HigherDimensions": "LIT-337-CHENGHOMIWANG2026HIGHERDIMENSIONS",
+    "AgnolettoDaSilvaNardulliResende2026": "LIT-337-AGNOLETTODASILVANARDULLIRESENDE2026",
+    "Wheeler2026": "LIT-337-WHEELER2026",
+    "BeckenbachRado1933": "LIT-337-BECKENBACHRADO1933",
+    "StredulinskyZiemer1997": "LIT-337-STREDULINSKYZIEMER1997",
+    "NobiliViolo2025": "LIT-337-NOBILIVIOLO2025",
+    "BrianiButtazzoPrinari2022": "LIT-337-BRIANIBUTTAZZOPRINARI2022",
+    "AntonelliBrueFogagnoloPozzetta2022": "LIT-337-ANTONELLIBRUEFOGAGNOLOPOZZETTA2022",
+    "AK2000": "LIT-337-AK2000",
+    "Wenger2005Iso": "LIT-337-WENGER2005ISO",
+    "Wenger2007Flat": "LIT-337-WENGER2007FLAT",
+    "Kirchheim1994": "LIT-337-KIRCHHEIM1994",
+    "Duda2007": "LIT-337-DUDA2007",
+    "Simon2014": "LIT-337-SIMON2014",
+    "Schulze2020": "LIT-337-SCHULZE2020",
+    "Gromov1983": "LIT-337-GROMOV1983",
+    "Almgren1986": "LIT-337-ALMGREN1986",
+    "Gromov2014": "LIT-337-GROMOV2014",
+    "LangStadlerUrech2026": "LIT-337-LANGSTADLERURECH2026",
+    "BridsonHaefliger1999": "LIT-337-BRIDSONHAEFLIGER1999",
+    "CorderoNazaretVillani2004": "LIT-337-CORDERONAZARETVILLANI2004",
+    "Izmestiev2014": "LIT-337-IZMESTIEV2014",
+    "Peteranderl2026": "LIT-337-PETERANDERL2026",
+    "LytchakWenger2018": "LIT-337-LYTCHAKWENGER2018",
+    "Sturm2003": "LIT-337-STURM2003",
+    "BrezisKato1979": "LIT-337-BREZISKATO1979",
+    "Brezis1986": "LIT-337-BREZIS1986",
+    "Rieffel2006": "LIT-337-RIEFFEL2006"
+  },
+  "historical_references_by_manuscript": {
+    "smooth": {
+      "Aubin1976": "LIT-337-AUBIN1976",
+      "Bol1941": "LIT-337-BOL1941",
+      "BrezisLieb1983": "LIT-337-BREZISLIEB1983",
+      "Croke1984": "LIT-337-CROKE1984",
+      "Ghomi2026Pinched": "LIT-337-GHOMI2026PINCHED",
+      "GhomiSpruck2022": "LIT-337-GHOMISPRUCK2022",
+      "GhomiStavroulakis2026": "LIT-337-GHOMISTAVROULAKIS2026",
+      "Kleiner1992": "LIT-337-KLEINER1992",
+      "KloecknerKuperberg2019": "LIT-337-KLOECKNERKUPERBERG2019",
+      "LiYau1982": "LIT-337-LIYAU1982",
+      "Maggi2012": "LIT-337-MAGGI2012",
+      "Morgan2003": "LIT-337-MORGAN2003",
+      "PetersenManuscript": "LIT-337-PETERSENMANUSCRIPT",
+      "Talenti1976": "LIT-337-TALENTI1976",
+      "Weil1926": "LIT-337-WEIL1926",
+      "ChavelFeldman1980": "LIT-337-CHAVELFELDMAN1980",
+      "GuneysuPallara2015": "LIT-337-GUNEYSUPALLARA2015",
+      "AntonelliPasqualettoPozzetta2022": "LIT-337-ANTONELLIPASQUALETTOPOZZETTA2022",
+      "ChenGhomiWang2026HigherDimensions": "LIT-337-CHENGHOMIWANG2026HIGHERDIMENSIONS",
+      "AgnolettoDaSilvaNardulliResende2026": "LIT-337-AGNOLETTODASILVANARDULLIRESENDE2026",
+      "Wheeler2026": "LIT-337-WHEELER2026",
+      "BeckenbachRado1933": "LIT-337-BECKENBACHRADO1933",
+      "StredulinskyZiemer1997": "LIT-337-STREDULINSKYZIEMER1997",
+      "NobiliViolo2025": "LIT-337-NOBILIVIOLO2025",
+      "BrianiButtazzoPrinari2022": "LIT-337-BRIANIBUTTAZZOPRINARI2022",
+      "AntonelliBrueFogagnoloPozzetta2022": "LIT-337-ANTONELLIBRUEFOGAGNOLOPOZZETTA2022"
+    },
+    "CAT0": {
+      "AK2000": "LIT-337-AK2000",
+      "Wenger2005Iso": "LIT-337-WENGER2005ISO",
+      "Wenger2007Flat": "LIT-337-WENGER2007FLAT",
+      "Kirchheim1994": "LIT-337-KIRCHHEIM1994",
+      "Duda2007": "LIT-337-DUDA2007",
+      "Talenti1976": "LIT-337-TALENTI1976",
+      "BrezisLieb1983": "LIT-337-BREZISLIEB1983",
+      "Simon2014": "LIT-337-SIMON2014",
+      "Schulze2020": "LIT-337-SCHULZE2020",
+      "Gromov1983": "LIT-337-GROMOV1983",
+      "Croke1984": "LIT-337-CROKE1984",
+      "Kleiner1992": "LIT-337-KLEINER1992",
+      "Almgren1986": "LIT-337-ALMGREN1986",
+      "Gromov2014": "LIT-337-GROMOV2014",
+      "LangStadlerUrech2026": "LIT-337-LANGSTADLERURECH2026",
+      "BridsonHaefliger1999": "LIT-337-BRIDSONHAEFLIGER1999",
+      "Weil1926": "LIT-337-WEIL1926",
+      "BeckenbachRado1933": "LIT-337-BECKENBACHRADO1933",
+      "GhomiSpruck2022": "LIT-337-GHOMISPRUCK2022",
+      "CorderoNazaretVillani2004": "LIT-337-CORDERONAZARETVILLANI2004",
+      "Aubin1976": "LIT-337-AUBIN1976",
+      "ChenGhomiWang2026HigherDimensions": "LIT-337-CHENGHOMIWANG2026HIGHERDIMENSIONS",
+      "Izmestiev2014": "LIT-337-IZMESTIEV2014",
+      "AgnolettoDaSilvaNardulliResende2026": "LIT-337-AGNOLETTODASILVANARDULLIRESENDE2026",
+      "Wheeler2026": "LIT-337-WHEELER2026",
+      "Peteranderl2026": "LIT-337-PETERANDERL2026",
+      "LytchakWenger2018": "LIT-337-LYTCHAKWENGER2018",
+      "Sturm2003": "LIT-337-STURM2003",
+      "BrezisKato1979": "LIT-337-BREZISKATO1979",
+      "Brezis1986": "LIT-337-BREZIS1986",
+      "Rieffel2006": "LIT-337-RIEFFEL2006"
+    }
+  },
+  "bibliography_entries_by_key": {
+    "Aubin1976": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Aubin1976,\n  author = {Aubin, Thierry},\n  title = {Probl{\\`e}mes isop{\\'e}rim{\\'e}triques et espaces de {Sobolev}},\n  journal = {Journal of Differential Geometry},\n  volume = {11},\n  number = {4},\n  year = {1976},\n  pages = {573--598},\n  doi = {10.4310/jdg/1214433725},\n  note = {\\url{https://doi.org/10.4310/jdg/1214433725}}\n}",
+        "lines": [
+          1,
+          11
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Aubin1976,\n  author = {Aubin, Thierry},\n  title = {Probl{\\`e}mes isop{\\'e}rim{\\'e}triques et espaces de {Sobolev}},\n  journal = {Journal of Differential Geometry},\n  volume = {11},\n  number = {4},\n  year = {1976},\n  pages = {573--598},\n  doi = {10.4310/jdg/1214433725},\n  note = {\\url{https://doi.org/10.4310/jdg/1214433725}}\n}",
+        "lines": [
+          260,
+          270
+        ]
+      }
+    ],
+    "Bol1941": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Bol1941,\n  author = {Bol, Gerrit},\n  title = {{Isoperimetrische Ungleichungen f{\\\"u}r Bereiche auf Fl{\\\"a}chen}},\n  journal = {Jahresbericht der Deutschen Mathematiker-Vereinigung},\n  volume = {51},\n  year = {1941},\n  pages = {219--257},\n  url = {https://eudml.org/doc/146284},\n  note = {\\url{https://eudml.org/doc/146284}}\n}",
+        "lines": [
+          13,
+          22
+        ]
+      }
+    ],
+    "BrezisLieb1983": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{BrezisLieb1983,\n  author = {Brezis, Ha{\\\"i}m and Lieb, Elliott},\n  title = {A relation between pointwise convergence of functions and convergence of functionals},\n  journal = {Proceedings of the American Mathematical Society},\n  volume = {88},\n  number = {3},\n  year = {1983},\n  pages = {486--490},\n  doi = {10.1090/S0002-9939-1983-0699419-3},\n  note = {\\url{https://doi.org/10.1090/S0002-9939-1983-0699419-3}}\n}",
+        "lines": [
+          24,
+          34
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{BrezisLieb1983,\n  author = {Brezis, Ha{\\\"i}m and Lieb, Elliott},\n  title = {A relation between pointwise convergence of functions and convergence of functionals},\n  journal = {Proceedings of the American Mathematical Society},\n  volume = {88},\n  number = {3},\n  year = {1983},\n  pages = {486--490},\n  doi = {10.1090/S0002-9939-1983-0699419-3},\n  url = {https://sites.math.rutgers.edu/~brezis/PUBlications/99-journal.pdf},\n  note = {\\url{https://sites.math.rutgers.edu/~brezis/PUBlications/99-journal.pdf}}\n}",
+        "lines": [
+          84,
+          95
+        ]
+      }
+    ],
+    "Croke1984": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Croke1984,\n  author = {Croke, Christopher B.},\n  title = {A sharp four dimensional isoperimetric inequality},\n  journal = {Commentarii Mathematici Helvetici},\n  volume = {59},\n  year = {1984},\n  pages = {187--192},\n  doi = {10.1007/BF02566344},\n  note = {\\url{https://doi.org/10.1007/BF02566344}}\n}",
+        "lines": [
+          36,
+          45
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Croke1984,\n  author = {Croke, Christopher B.},\n  title = {A sharp four dimensional isoperimetric inequality},\n  journal = {Commentarii Mathematici Helvetici},\n  volume = {59},\n  year = {1984},\n  pages = {187--192},\n  doi = {10.1007/BF02566344},\n  url = {https://doi.org/10.1007/BF02566344},\n  note = {\\url{https://doi.org/10.1007/BF02566344}}\n}",
+        "lines": [
+          133,
+          143
+        ]
+      }
+    ],
+    "Ghomi2026Pinched": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@misc{Ghomi2026Pinched,\n  author = {Ghomi, Mohammad},\n  title = {Total curvature and isoperimetric inequalities in pinched {Cartan--Hadamard} manifolds},\n  year = {2026},\n  eprint = {2608.12020},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  howpublished = {arXiv:2608.12020v1},\n  note = {\\url{https://arxiv.org/abs/2608.12020v1}}\n}",
+        "lines": [
+          47,
+          56
+        ]
+      }
+    ],
+    "GhomiSpruck2022": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{GhomiSpruck2022,\n  author = {Ghomi, Mohammad and Spruck, Joel},\n  title = {Total curvature and the isoperimetric inequality in {Cartan--Hadamard} manifolds},\n  journal = {Journal of Geometric Analysis},\n  volume = {32},\n  year = {2022},\n  pages = {Paper No.~50, 54 pp.},\n  doi = {10.1007/s12220-021-00801-2},\n  eprint = {1908.09814},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {Also available as \\href{https://arxiv.org/abs/1908.09814v7}{arXiv:1908.09814v7}},\n  url = {https://arxiv.org/abs/1908.09814v7}\n}",
+        "lines": [
+          58,
+          71
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{GhomiSpruck2022,\n  author = {Ghomi, Mohammad and Spruck, Joel},\n  title = {Total curvature and the isoperimetric inequality in {Cartan--Hadamard} manifolds},\n  journal = {The Journal of Geometric Analysis},\n  volume = {32},\n  number = {2},\n  year = {2022},\n  pages = {50},\n  note = {Article 50, 54 pp.; theorem locators follow arXiv:1908.09814v7, 23 September 2021, \\url{https://arxiv.org/abs/1908.09814v7}},\n  doi = {10.1007/s12220-021-00801-2},\n  url = {https://doi.org/10.1007/s12220-021-00801-2},\n  eprint = {1908.09814},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG}\n}",
+        "lines": [
+          231,
+          245
+        ]
+      }
+    ],
+    "GhomiStavroulakis2026": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{GhomiStavroulakis2026,\n  author = {Ghomi, Mohammad and Stavroulakis, John Ioannis},\n  title = {A local isoperimetric inequality for balls with nonpositive curvature},\n  journal = {International Mathematics Research Notices},\n  volume = {2026},\n  number = {6},\n  year = {2026},\n  pages = {rnag043},\n  doi = {10.1093/imrn/rnag043},\n  note = {\\url{https://doi.org/10.1093/imrn/rnag043}}\n}",
+        "lines": [
+          73,
+          83
+        ]
+      }
+    ],
+    "Kleiner1992": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Kleiner1992,\n  author = {Kleiner, Bruce},\n  title = {An isoperimetric comparison theorem},\n  journal = {Inventiones Mathematicae},\n  volume = {108},\n  year = {1992},\n  pages = {37--47},\n  doi = {10.1007/BF02100598},\n  note = {\\url{https://doi.org/10.1007/BF02100598}}\n}",
+        "lines": [
+          85,
+          94
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Kleiner1992,\n  author = {Kleiner, Bruce},\n  title = {An isoperimetric comparison theorem},\n  journal = {Inventiones Mathematicae},\n  volume = {108},\n  number = {1},\n  year = {1992},\n  pages = {37--47},\n  doi = {10.1007/BF02100598},\n  url = {https://doi.org/10.1007/BF02100598},\n  note = {\\url{https://doi.org/10.1007/BF02100598}}\n}",
+        "lines": [
+          145,
+          156
+        ]
+      }
+    ],
+    "KloecknerKuperberg2019": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{KloecknerKuperberg2019,\n  author = {Kloeckner, Beno{\\^i}t R. and Kuperberg, Greg},\n  title = {The {Cartan--Hadamard} conjecture and the {Little Prince}},\n  journal = {Revista Matem{\\'a}tica Iberoamericana},\n  volume = {35},\n  number = {4},\n  year = {2019},\n  pages = {1195--1258},\n  doi = {10.4171/RMI/1082},\n  eprint = {1303.3115},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  url = {https://ems.press/journals/rmi/articles/16336},\n  note = {Theorem numbering refers to \\href{https://arxiv.org/abs/1303.3115v3}{arXiv:1303.3115v3}; \\url{https://doi.org/10.4171/RMI/1082}}\n}",
+        "lines": [
+          96,
+          110
+        ]
+      }
+    ],
+    "LiYau1982": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{LiYau1982,\n  author = {Li, Peter and Yau, Shing-Tung},\n  title = {A new conformal invariant and its applications to the {Willmore} conjecture and the first eigenvalue of compact surfaces},\n  journal = {Inventiones Mathematicae},\n  volume = {69},\n  number = {2},\n  year = {1982},\n  pages = {269--291},\n  doi = {10.1007/BF01399507},\n  note = {\\url{https://doi.org/10.1007/BF01399507}},\n  url = {https://math.jhu.edu/~js/Math748/li-yau.conformal.pdf}\n}",
+        "lines": [
+          112,
+          123
+        ]
+      }
+    ],
+    "Maggi2012": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@book{Maggi2012,\n  author = {Maggi, Francesco},\n  title = {Sets of Finite Perimeter and Geometric Variational Problems: An Introduction to Geometric Measure Theory},\n  series = {Cambridge Studies in Advanced Mathematics},\n  volume = {135},\n  publisher = {Cambridge University Press},\n  year = {2012},\n  doi = {10.1017/CBO9781139108133},\n  isbn = {9781107021037},\n  url = {https://doi.org/10.1017/CBO9781139108133},\n  note = {\\url{https://doi.org/10.1017/CBO9781139108133}; author extract, including the Synopsis: \\url{https://web.ma.utexas.edu/users/maggi/Maggi_extract.pdf}}\n}",
+        "lines": [
+          125,
+          136
+        ]
+      }
+    ],
+    "Morgan2003": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Morgan2003,\n  author = {Morgan, Frank},\n  title = {Regularity of isoperimetric hypersurfaces in {Riemannian} manifolds},\n  journal = {Transactions of the American Mathematical Society},\n  volume = {355},\n  number = {12},\n  year = {2003},\n  pages = {5041--5052},\n  doi = {10.1090/S0002-9947-03-03061-7},\n  url = {https://doi.org/10.1090/S0002-9947-03-03061-7},\n  note = {\\url{https://doi.org/10.1090/S0002-9947-03-03061-7}}\n}",
+        "lines": [
+          138,
+          149
+        ]
+      }
+    ],
+    "PetersenManuscript": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@misc{PetersenManuscript,\n  author = {Petersen, Peter},\n  title = {{Riemannian} Geometry},\n  howpublished = {Author-hosted manuscript, \\url{https://www.math.ucla.edu/~petersen/RG.pdf}},\n  note = {Undated manuscript, accessed 23 September 2026; manuscript theorem and page numbers are used},\n  url = {https://www.math.ucla.edu/~petersen/RG.pdf}\n}",
+        "lines": [
+          151,
+          157
+        ]
+      }
+    ],
+    "Talenti1976": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Talenti1976,\n  author = {Talenti, Giorgio},\n  title = {Best constant in {Sobolev} inequality},\n  journal = {Annali di Matematica Pura ed Applicata},\n  volume = {110},\n  year = {1976},\n  pages = {353--372},\n  doi = {10.1007/BF02418013},\n  note = {\\url{https://doi.org/10.1007/BF02418013}}\n}",
+        "lines": [
+          159,
+          168
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Talenti1976,\n  author = {Talenti, Giorgio},\n  title = {Best constant in {Sobolev} inequality},\n  journal = {Annali di Matematica Pura ed Applicata},\n  series = {4},\n  volume = {110},\n  number = {1},\n  year = {1976},\n  pages = {353--372},\n  doi = {10.1007/BF02418013},\n  url = {https://doi.org/10.1007/BF02418013},\n  note = {\\url{https://doi.org/10.1007/BF02418013}}\n}",
+        "lines": [
+          70,
+          82
+        ]
+      }
+    ],
+    "Weil1926": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{Weil1926,\n  author = {Weil, Andr{\\'e}},\n  title = {Sur les surfaces {\\`a} courbure n{\\'e}gative},\n  journal = {Comptes rendus hebdomadaires des s{\\'e}ances de l'Acad{\\'e}mie des sciences},\n  volume = {182},\n  year = {1926},\n  pages = {1069--1071}\n}",
+        "lines": [
+          170,
+          177
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Weil1926,\n  author = {Weil, Andr{\\'e}},\n  title = {Sur les surfaces {\\`a} courbure n{\\'e}gative},\n  journal = {Comptes Rendus de l'Acad{\\'e}mie des Sciences de Paris},\n  volume = {182},\n  year = {1926},\n  pages = {1069--1071}\n}",
+        "lines": [
+          209,
+          216
+        ]
+      }
+    ],
+    "ChavelFeldman1980": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{ChavelFeldman1980,\n  author = {Chavel, Isaac and Feldman, Edgar A.},\n  title = {Isoperimetric inequalities on curved surfaces},\n  journal = {Advances in Mathematics},\n  volume = {37},\n  number = {2},\n  year = {1980},\n  pages = {83--98},\n  doi = {10.1016/0001-8708(80)90028-6},\n  note = {\\url{https://doi.org/10.1016/0001-8708(80)90028-6}}\n}",
+        "lines": [
+          180,
+          190
+        ]
+      }
+    ],
+    "GuneysuPallara2015": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{GuneysuPallara2015,\n  author = {G{\\\"u}neysu, Batu and Pallara, Diego},\n  title = {Functions with bounded variation on a class of {Riemannian} manifolds with {Ricci} curvature unbounded from below},\n  journal = {Mathematische Annalen},\n  volume = {363},\n  year = {2015},\n  pages = {1307--1331},\n  doi = {10.1007/s00208-015-1208-x},\n  note = {Author's final preprint, \\url{https://cvgmt.sns.it/media/doc/paper/2044/BVfunctionsfinal.pdf}; preprint theorem numbering is used}\n}",
+        "lines": [
+          192,
+          201
+        ]
+      }
+    ],
+    "AntonelliPasqualettoPozzetta2022": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{AntonelliPasqualettoPozzetta2022,\n  author = {Antonelli, Gioacchino and Pasqualetto, Enrico and Pozzetta, Marco},\n  title = {Isoperimetric sets in spaces with lower bounds on the {Ricci} curvature},\n  journal = {Nonlinear Analysis},\n  volume = {220},\n  year = {2022},\n  pages = {112839},\n  doi = {10.1016/j.na.2022.112839},\n  eprint = {2107.03124},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {Theorem numbering refers to \\href{https://arxiv.org/abs/2107.03124v2}{arXiv:2107.03124v2}},\n  url = {https://arxiv.org/abs/2107.03124v2}\n}",
+        "lines": [
+          203,
+          216
+        ]
+      }
+    ],
+    "ChenGhomiWang2026HigherDimensions": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@misc{ChenGhomiWang2026HigherDimensions,\n  author = {Chen, Shibing and Ghomi, Mohammad and Wang, Peng},\n  title = {The isoperimetric inequality and {CMC} hypersurfaces in {Cartan--Hadamard} manifolds},\n  year = {2026},\n  eprint = {2609.20517},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  howpublished = {Preprint, arXiv:2609.20517v1},\n  note = {Submitted 17 September 2026; \\url{https://arxiv.org/abs/2609.20517v1}},\n  url = {https://arxiv.org/abs/2609.20517v1}\n}",
+        "lines": [
+          218,
+          228
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{ChenGhomiWang2026HigherDimensions,\n  author = {Chen, Shibing and Ghomi, Mohammad and Wang, Peng},\n  title = {The isoperimetric inequality and {CMC} hypersurfaces in {Cartan--Hadamard} manifolds},\n  year = {2026},\n  eprint = {2609.20517},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  howpublished = {Preprint, arXiv:2609.20517v1},\n  note = {Submitted 17 September 2026; \\url{https://arxiv.org/abs/2609.20517v1}},\n  url = {https://arxiv.org/abs/2609.20517v1}\n}",
+        "lines": [
+          272,
+          282
+        ]
+      }
+    ],
+    "AgnolettoDaSilvaNardulliResende2026": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@misc{AgnolettoDaSilvaNardulliResende2026,\n  author = {Agnoletto, Marcos and {Da Silva}, M{\\'a}rcio Fabiano and Nardulli, Stefano and Resende, Reinaldo},\n  title = {A proof of the {Cartan--Hadamard} conjecture for small volumes under a {Ricci} curvature lower bound},\n  year = {2026},\n  eprint = {2609.17093},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {arXiv:2609.17093v2, revised 21 September 2026; \\url{https://arxiv.org/abs/2609.17093v2}},\n  url = {https://arxiv.org/abs/2609.17093v2}\n}",
+        "lines": [
+          230,
+          239
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{AgnolettoDaSilvaNardulliResende2026,\n  author = {Agnoletto, Marcos and {Da Silva}, M{\\'a}rcio Fabiano and Nardulli, Stefano and Resende, Reinaldo},\n  title = {A proof of the {Cartan--Hadamard} conjecture for small volumes under a {Ricci} curvature lower bound},\n  year = {2026},\n  eprint = {2609.17093},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {arXiv:2609.17093v2, revised 21 September 2026; \\url{https://arxiv.org/abs/2609.17093v2}},\n  url = {https://arxiv.org/abs/2609.17093v2}\n}",
+        "lines": [
+          295,
+          304
+        ]
+      }
+    ],
+    "Wheeler2026": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@misc{Wheeler2026,\n  author = {Wheeler, Glen},\n  title = {The {Cartan--Hadamard} isoperimetric inequality under controlled variation of curvature},\n  year = {2026},\n  eprint = {2609.14505},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {arXiv:2609.14505v1, 13 September 2026; \\url{https://arxiv.org/abs/2609.14505v1}},\n  url = {https://arxiv.org/abs/2609.14505v1}\n}",
+        "lines": [
+          241,
+          250
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Wheeler2026,\n  author = {Wheeler, Glen},\n  title = {The {Cartan--Hadamard} isoperimetric inequality under controlled variation of curvature},\n  year = {2026},\n  eprint = {2609.14505},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {arXiv:2609.14505v1, 13 September 2026; \\url{https://arxiv.org/abs/2609.14505v1}},\n  url = {https://arxiv.org/abs/2609.14505v1}\n}",
+        "lines": [
+          306,
+          315
+        ]
+      }
+    ],
+    "BeckenbachRado1933": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{BeckenbachRado1933,\n  author = {Beckenbach, Edwin F. and Rad{\\'o}, Tibor},\n  title = {Subharmonic functions and surfaces of negative curvature},\n  journal = {Transactions of the American Mathematical Society},\n  volume = {35},\n  number = {3},\n  year = {1933},\n  pages = {662--674},\n  doi = {10.1090/S0002-9947-1933-1501708-X},\n  note = {\\url{https://doi.org/10.1090/S0002-9947-1933-1501708-X}}\n}",
+        "lines": [
+          252,
+          262
+        ]
+      },
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{BeckenbachRado1933,\n  author = {Beckenbach, Edwin F. and Rad{\\'o}, Tibor},\n  title = {Subharmonic functions and surfaces of negative curvature},\n  journal = {Transactions of the American Mathematical Society},\n  volume = {35},\n  number = {3},\n  year = {1933},\n  pages = {662--674},\n  doi = {10.1090/S0002-9947-1933-1501708-X},\n  url = {https://www.ams.org/journals/tran/1933-035-03/S0002-9947-1933-1501708-X/S0002-9947-1933-1501708-X.pdf},\n  note = {\\url{https://doi.org/10.1090/S0002-9947-1933-1501708-X}}\n}",
+        "lines": [
+          218,
+          229
+        ]
+      }
+    ],
+    "StredulinskyZiemer1997": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{StredulinskyZiemer1997,\n  author = {Stredulinsky, Edward and Ziemer, William P.},\n  title = {Area minimizing sets subject to a volume constraint in a convex set},\n  journal = {Journal of Geometric Analysis},\n  volume = {7},\n  number = {4},\n  year = {1997},\n  pages = {653--677},\n  doi = {10.1007/BF02921639},\n  note = {\\url{https://doi.org/10.1007/BF02921639}}\n}",
+        "lines": [
+          264,
+          274
+        ]
+      }
+    ],
+    "NobiliViolo2025": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{NobiliViolo2025,\n  author = {Nobili, Francesco and Violo, Ivan Yuri},\n  title = {Fine {P{\\'o}lya--Szeg{\\H{o}}} rearrangement inequalities in metric spaces and applications},\n  journal = {Calculus of Variations and Partial Differential Equations},\n  volume = {64},\n  year = {2025},\n  pages = {Paper No.~276},\n  doi = {10.1007/s00526-025-03155-7},\n  eprint = {2409.14182},\n  archivePrefix = {arXiv},\n  primaryClass = {math.AP},\n  note = {Theorem numbering refers to \\href{https://arxiv.org/abs/2409.14182v2}{arXiv:2409.14182v2}; \\url{https://doi.org/10.1007/s00526-025-03155-7}},\n  url = {https://arxiv.org/abs/2409.14182v2}\n}",
+        "lines": [
+          276,
+          289
+        ]
+      }
+    ],
+    "BrianiButtazzoPrinari2022": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{BrianiButtazzoPrinari2022,\n  author = {Briani, Luca and Buttazzo, Giuseppe and Prinari, Francesca},\n  title = {Inequalities between torsional rigidity and principal eigenvalue of the {$p$-Laplacian}},\n  journal = {Calculus of Variations and Partial Differential Equations},\n  volume = {61},\n  year = {2022},\n  pages = {Paper No.~78},\n  doi = {10.1007/s00526-021-02129-9},\n  note = {\\url{https://doi.org/10.1007/s00526-021-02129-9}}\n}",
+        "lines": [
+          291,
+          300
+        ]
+      }
+    ],
+    "AntonelliBrueFogagnoloPozzetta2022": [
+      {
+        "manuscript_id": "P-9808a190babfbe20",
+        "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+        "entry": "@article{AntonelliBrueFogagnoloPozzetta2022,\n  author = {Antonelli, Gioacchino and Bru{\\`e}, Elia and Fogagnolo, Mattia and Pozzetta, Marco},\n  title = {On the existence of isoperimetric regions in manifolds with nonnegative {Ricci} curvature and {Euclidean} volume growth},\n  journal = {Calculus of Variations and Partial Differential Equations},\n  volume = {61},\n  year = {2022},\n  pages = {Paper No.~77},\n  doi = {10.1007/s00526-022-02193-9},\n  note = {\\url{https://doi.org/10.1007/s00526-022-02193-9}}\n}",
+        "lines": [
+          302,
+          311
+        ]
+      }
+    ],
+    "AK2000": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{AK2000,\n  author = {Ambrosio, Luigi and Kirchheim, Bernd},\n  title = {Currents in metric spaces},\n  journal = {Acta Mathematica},\n  volume = {185},\n  number = {1},\n  year = {2000},\n  pages = {1--80},\n  doi = {10.1007/BF02392711},\n  url = {https://doi.org/10.1007/BF02392711},\n  note = {\\url{https://doi.org/10.1007/BF02392711}}\n}",
+        "lines": [
+          1,
+          12
+        ]
+      }
+    ],
+    "Wenger2005Iso": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Wenger2005Iso,\n  author = {Wenger, Stefan},\n  title = {Isoperimetric inequalities of {Euclidean} type in metric spaces},\n  journal = {Geometric and Functional Analysis},\n  volume = {15},\n  number = {2},\n  year = {2005},\n  pages = {534--554},\n  doi = {10.1007/s00039-005-0515-x},\n  url = {https://doi.org/10.1007/s00039-005-0515-x},\n  eprint = {math/0306089},\n  archivePrefix = {arXiv},\n  note = {Theorem locators follow \\url{https://arxiv.org/abs/math/0306089v1}; \\url{https://doi.org/10.1007/s00039-005-0515-x}}\n}",
+        "lines": [
+          14,
+          27
+        ]
+      }
+    ],
+    "Wenger2007Flat": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Wenger2007Flat,\n  author = {Wenger, Stefan},\n  title = {Flat convergence for integral currents in metric spaces},\n  journal = {Calculus of Variations and Partial Differential Equations},\n  volume = {28},\n  number = {2},\n  year = {2007},\n  pages = {139--160},\n  doi = {10.1007/s00526-006-0034-0},\n  url = {https://doi.org/10.1007/s00526-006-0034-0},\n  eprint = {math/0508072},\n  archivePrefix = {arXiv},\n  note = {Theorem locators follow \\url{https://arxiv.org/abs/math/0508072v1}; \\url{https://doi.org/10.1007/s00526-006-0034-0}}\n}",
+        "lines": [
+          29,
+          42
+        ]
+      }
+    ],
+    "Kirchheim1994": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Kirchheim1994,\n  author = {Kirchheim, Bernd},\n  title = {Rectifiable metric spaces: local structure and regularity of the {Hausdorff} measure},\n  journal = {Proceedings of the American Mathematical Society},\n  volume = {121},\n  number = {1},\n  year = {1994},\n  pages = {113--123},\n  doi = {10.1090/S0002-9939-1994-1189747-7},\n  url = {https://doi.org/10.1090/S0002-9939-1994-1189747-7},\n  note = {\\url{https://doi.org/10.1090/S0002-9939-1994-1189747-7}}\n}",
+        "lines": [
+          44,
+          55
+        ]
+      }
+    ],
+    "Duda2007": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Duda2007,\n  author = {Duda, Jakub},\n  title = {Metric and {$w^*$}-differentiability of pointwise {Lipschitz} mappings},\n  journal = {Zeitschrift f{\\\"u}r Analysis und ihre Anwendungen},\n  volume = {26},\n  number = {3},\n  year = {2007},\n  pages = {341--362},\n  doi = {10.4171/ZAA/1328},\n  url = {https://ems.press/content/serial-article-files/35596},\n  note = {\\url{https://ems.press/content/serial-article-files/35596}}\n}",
+        "lines": [
+          57,
+          68
+        ]
+      }
+    ],
+    "Simon2014": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Simon2014,\n  author = {Simon, Leon},\n  title = {Introduction to Geometric Measure Theory},\n  year = {2014},\n  howpublished = {Lecture notes, Stanford University, \\url{https://web.stanford.edu/class/math285/ts-gmt.pdf}},\n  url = {https://web.stanford.edu/class/math285/ts-gmt.pdf}\n}",
+        "lines": [
+          97,
+          103
+        ]
+      }
+    ],
+    "Schulze2020": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Schulze2020,\n  author = {Schulze, Felix},\n  title = {Optimal isoperimetric inequalities for surfaces in any codimension in {Cartan--Hadamard} manifolds},\n  journal = {Geometric and Functional Analysis},\n  volume = {30},\n  number = {1},\n  year = {2020},\n  pages = {255--288},\n  doi = {10.1007/s00039-020-00522-8},\n  url = {https://doi.org/10.1007/s00039-020-00522-8},\n  eprint = {1802.00226},\n  archivePrefix = {arXiv},\n  note = {\\url{https://doi.org/10.1007/s00039-020-00522-8}}\n}",
+        "lines": [
+          105,
+          118
+        ]
+      }
+    ],
+    "Gromov1983": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Gromov1983,\n  author = {Gromov, Mikhael},\n  title = {Filling {Riemannian} manifolds},\n  journal = {Journal of Differential Geometry},\n  volume = {18},\n  number = {1},\n  year = {1983},\n  pages = {1--147},\n  doi = {10.4310/jdg/1214509283},\n  url = {https://doi.org/10.4310/jdg/1214509283},\n  note = {\\url{https://doi.org/10.4310/jdg/1214509283}}\n}",
+        "lines": [
+          120,
+          131
+        ]
+      }
+    ],
+    "Almgren1986": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{Almgren1986,\n  author = {Almgren, Jr., Frederick J.},\n  title = {Optimal isoperimetric inequalities},\n  journal = {Indiana University Mathematics Journal},\n  volume = {35},\n  number = {3},\n  year = {1986},\n  pages = {451--547},\n  doi = {10.1512/iumj.1986.35.35028},\n  url = {https://doi.org/10.1512/iumj.1986.35.35028},\n  note = {\\url{https://doi.org/10.1512/iumj.1986.35.35028}}\n}",
+        "lines": [
+          158,
+          169
+        ]
+      }
+    ],
+    "Gromov2014": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Gromov2014,\n  author = {Gromov, Misha},\n  title = {Number of Questions},\n  year = {2014},\n  howpublished = {Author's manuscript, \\url{https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/problems-sept2014-copy.pdf}},\n  note = {Version dated October 3, 2014},\n  url = {https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/problems-sept2014-copy.pdf}\n}",
+        "lines": [
+          171,
+          178
+        ]
+      }
+    ],
+    "LangStadlerUrech2026": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{LangStadlerUrech2026,\n  author = {Lang, Urs and Stadler, Stephan and Urech, David},\n  title = {Isoperimetric inequalities in {Hadamard} spaces of asymptotic rank two},\n  journal = {Advances in Mathematics},\n  volume = {502},\n  number = {Part A},\n  year = {2026},\n  pages = {111123},\n  note = {24 pp.; preprint version arXiv:2506.04882v3, 2 July 2026; \\url{https://arxiv.org/abs/2506.04882v3}; \\url{https://doi.org/10.1016/j.aim.2026.111123}},\n  eprint = {2506.04882},\n  archivePrefix = {arXiv},\n  primaryClass = {math.MG},\n  doi = {10.1016/j.aim.2026.111123},\n  url = {https://doi.org/10.1016/j.aim.2026.111123}\n}",
+        "lines": [
+          180,
+          194
+        ]
+      }
+    ],
+    "BridsonHaefliger1999": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@book{BridsonHaefliger1999,\n  author = {Bridson, Martin R. and Haefliger, Andr{\\'e}},\n  title = {Metric Spaces of Non-Positive Curvature},\n  series = {Grundlehren der mathematischen Wissenschaften},\n  volume = {319},\n  publisher = {Springer},\n  address = {Berlin},\n  year = {1999},\n  doi = {10.1007/978-3-662-12494-9},\n  url = {https://doi.org/10.1007/978-3-662-12494-9},\n  note = {\\url{https://doi.org/10.1007/978-3-662-12494-9}}\n}",
+        "lines": [
+          196,
+          207
+        ]
+      }
+    ],
+    "CorderoNazaretVillani2004": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{CorderoNazaretVillani2004,\n  author = {Cordero-Erausquin, Dario and Nazaret, Bruno and Villani, C{\\'e}dric},\n  title = {A mass-transportation approach to sharp {Sobolev} and {Gagliardo--Nirenberg} inequalities},\n  journal = {Advances in Mathematics},\n  volume = {182},\n  number = {2},\n  year = {2004},\n  pages = {307--332},\n  doi = {10.1016/S0001-8708(03)00080-X},\n  url = {https://doi.org/10.1016/S0001-8708(03)00080-X},\n  note = {\\url{https://doi.org/10.1016/S0001-8708(03)00080-X}}\n}",
+        "lines": [
+          247,
+          258
+        ]
+      }
+    ],
+    "Izmestiev2014": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Izmestiev2014,\n  author = {Izmestiev, Ivan},\n  title = {A simple proof of an isoperimetric inequality for {Euclidean} and hyperbolic cone-surfaces},\n  year = {2014},\n  eprint = {1409.7681},\n  archivePrefix = {arXiv},\n  primaryClass = {math.DG},\n  note = {arXiv:1409.7681v1, 26 September 2014; \\url{https://arxiv.org/abs/1409.7681v1}},\n  url = {https://arxiv.org/abs/1409.7681v1}\n}",
+        "lines": [
+          284,
+          293
+        ]
+      }
+    ],
+    "Peteranderl2026": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Peteranderl2026,\n  author = {Peteranderl, Jonas W.},\n  title = {Linear isoperimetric filling inequalities in {Hadamard} spaces at and above the asymptotic rank},\n  year = {2026},\n  eprint = {2608.26059},\n  archivePrefix = {arXiv},\n  primaryClass = {math.MG},\n  note = {arXiv:2608.26059v1, 26 August 2026; \\url{https://arxiv.org/abs/2608.26059v1}},\n  url = {https://arxiv.org/abs/2608.26059v1}\n}",
+        "lines": [
+          317,
+          326
+        ]
+      }
+    ],
+    "LytchakWenger2018": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{LytchakWenger2018,\n  author = {Lytchak, Alexander and Wenger, Stefan},\n  title = {Isoperimetric characterization of upper curvature bounds},\n  journal = {Acta Mathematica},\n  volume = {221},\n  number = {1},\n  year = {2018},\n  pages = {159--202},\n  doi = {10.4310/ACTA.2018.v221.n1.a5},\n  url = {https://doi.org/10.4310/ACTA.2018.v221.n1.a5},\n  note = {\\url{https://doi.org/10.4310/ACTA.2018.v221.n1.a5}}\n}",
+        "lines": [
+          328,
+          339
+        ]
+      }
+    ],
+    "Sturm2003": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@incollection{Sturm2003,\n  author = {Sturm, Karl-Theodor},\n  title = {Probability measures on metric spaces of nonpositive curvature},\n  booktitle = {Heat Kernels and Analysis on Manifolds, Graphs, and Metric Spaces},\n  series = {Contemporary Mathematics},\n  volume = {338},\n  pages = {357--390},\n  publisher = {American Mathematical Society},\n  year = {2003},\n  doi = {10.1090/conm/338/06080},\n  url = {https://doi.org/10.1090/conm/338/06080},\n  note = {\\url{https://doi.org/10.1090/conm/338/06080}}\n}",
+        "lines": [
+          341,
+          353
+        ]
+      }
+    ],
+    "BrezisKato1979": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@article{BrezisKato1979,\n  author = {Br{\\'e}zis, Ha{\\\"i}m and Kato, Tosio},\n  title = {Remarks on the {Schr{\\\"o}dinger} operator with singular complex potentials},\n  journal = {Journal de Math{\\'e}matiques Pures et Appliqu{\\'e}es},\n  volume = {58},\n  year = {1979},\n  pages = {137--151},\n  url = {https://sites.math.rutgers.edu/~brezis/PUBlications/070journal.pdf},\n  note = {\\url{https://sites.math.rutgers.edu/~brezis/PUBlications/070journal.pdf}}\n}",
+        "lines": [
+          355,
+          364
+        ]
+      }
+    ],
+    "Brezis1986": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@incollection{Brezis1986,\n  author = {Brezis, Ha{\\\"i}m},\n  title = {Some variational problems with lack of compactness},\n  booktitle = {Nonlinear Functional Analysis and Its Applications, Part 1},\n  series = {Proceedings of Symposia in Pure Mathematics},\n  volume = {45},\n  publisher = {American Mathematical Society},\n  year = {1986},\n  pages = {165--201},\n  doi = {10.1090/pspum/045.1/843559},\n  note = {\\url{https://doi.org/10.1090/pspum/045.1/843559}}\n}",
+        "lines": [
+          366,
+          377
+        ]
+      }
+    ],
+    "Rieffel2006": [
+      {
+        "manuscript_id": "P-85565211ca1088a3",
+        "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+        "entry": "@misc{Rieffel2006,\n  author = {Rieffel, Marc A.},\n  title = {{Lipschitz} extension constants equal projection constants},\n  year = {2006},\n  eprint = {math/0508097},\n  archivePrefix = {arXiv},\n  url = {https://arxiv.org/abs/math/0508097v5},\n  note = {Version 5; Theorem 2.1 and Proposition 2.2; \\url{https://arxiv.org/abs/math/0508097v5}}\n}",
+        "lines": [
+          379,
+          387
+        ]
+      }
+    ]
+  },
+  "historical_external_work_count": 46,
+  "historical_selected_originals": "data/provenance/readings/F-337-history.json",
+  "unread_or_unqualified_original_root_ids": [
+    "LIT-337-AUBIN1976",
+    "LIT-337-BOL1941",
+    "LIT-337-BREZISLIEB1983",
+    "LIT-337-CROKE1984",
+    "LIT-337-GHOMI2026PINCHED",
+    "LIT-337-GHOMISTAVROULAKIS2026",
+    "LIT-337-KLEINER1992",
+    "LIT-337-KLOECKNERKUPERBERG2019",
+    "LIT-337-LIYAU1982",
+    "LIT-337-MAGGI2012",
+    "LIT-337-MORGAN2003",
+    "LIT-337-PETERSENMANUSCRIPT",
+    "LIT-337-TALENTI1976",
+    "LIT-337-WEIL1926",
+    "LIT-337-CHAVELFELDMAN1980",
+    "LIT-337-GUNEYSUPALLARA2015",
+    "LIT-337-ANTONELLIPASQUALETTOPOZZETTA2022",
+    "LIT-337-CHENGHOMIWANG2026HIGHERDIMENSIONS",
+    "LIT-337-AGNOLETTODASILVANARDULLIRESENDE2026",
+    "LIT-337-WHEELER2026",
+    "LIT-337-BECKENBACHRADO1933",
+    "LIT-337-STREDULINSKYZIEMER1997",
+    "LIT-337-BRIANIBUTTAZZOPRINARI2022",
+    "LIT-337-ANTONELLIBRUEFOGAGNOLOPOZZETTA2022",
+    "LIT-337-AK2000",
+    "LIT-337-WENGER2007FLAT",
+    "LIT-337-KIRCHHEIM1994",
+    "LIT-337-SIMON2014",
+    "LIT-337-SCHULZE2020",
+    "LIT-337-GROMOV1983",
+    "LIT-337-ALMGREN1986",
+    "LIT-337-GROMOV2014",
+    "LIT-337-LANGSTADLERURECH2026",
+    "LIT-337-BRIDSONHAEFLIGER1999",
+    "LIT-337-CORDERONAZARETVILLANI2004",
+    "LIT-337-IZMESTIEV2014",
+    "LIT-337-PETERANDERL2026",
+    "LIT-337-LYTCHAKWENGER2018",
+    "LIT-337-STURM2003",
+    "LIT-337-BREZISKATO1979",
+    "LIT-337-BREZIS1986",
+    "LIT-337-RIEFFEL2006"
+  ],
+  "formal_status": "data/provenance/readings/F-337-formal.json",
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "gaps": [
+    "Current two manuscripts fully read and54named+1selectedunlabelled result bindings curated; not all historical proof versions, complete family or mathematical proof review.",
+    "Only4/46 unique historical roots checked in selected actual original scopes;42 original roots andrecursive proofs remain unqualified.57 bibliography occurrences retained per manuscript,not57 distinct works.",
+    "Only second manuscript sharp integral filling main andexistential Euclidean coefficient-optimality substatement have selected local sourceB. Other53 sourceC;all full dependency chains unknown. No local Lean build,Comparator orhuman specification review.",
+    "Lexical indices330localfiles2262declarations and112files708declarations are not442mathematicallyread files;zero lexical placeholders/localaxioms doesnot establish proof acceptance orMathlib closure.",
+    "No new candidate/card/externalcheck/numericalrun. Scalar C1-through-zero autodiff transfer is retained for separate frozen hypothesis comparison. No training/performance/newalgorithm gain asserted;old correct calculus/branch handling may suffice.",
+    "No generic discrete curvature oracle,finite-computation certificate,near-equality stability orprescribed-topology filling algorithm follows. Full chord inequalities needthe hypothetical extremizer andspecific normalized PDEminimizer.",
+    "Human grades/specifications,independent second provider andpilots absent;selected OpenAI session exact backend unknown. No routine GitHub push;readonlymath unchanged."
+  ],
+  "third_party_acquired_bytes": 3224589,
+  "third_party_republication": false,
+  "dependencies_installed": false,
+  "github_push": false
+}

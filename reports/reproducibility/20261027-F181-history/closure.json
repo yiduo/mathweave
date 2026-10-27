@@ -1,0 +1,83 @@
+{
+  "at": "2026-10-27T10:35:58.870542+00:00",
+  "work_package": "WP-128",
+  "generation": "GEN-20261027-125",
+  "base_commit": "c9259abf9e3b423f7d8a2bc7c6d05aeb84a47df6",
+  "overall_status": "active_incomplete",
+  "new_selected_original_scopes": 4,
+  "current_selected_original_scopes": 8,
+  "historical_root_count": 11,
+  "partial_original_domain_scopes": 1,
+  "remaining_unqualified_roots": [
+    "LIT-181-AH2000",
+    "LIT-181-LOVASZ1968",
+    "LIT-181-PYBER1985"
+  ],
+  "full_original_proof_or_lineage_acceptance": false,
+  "new_records": 3,
+  "new_explicit_edges": 8,
+  "versioned_old_records": 9,
+  "old_rows_byte_preserved": 5615,
+  "protected_files": 1327,
+  "draft_title_corrections_preserved": 2,
+  "scientific_code_and_prior_experiments_unchanged": true,
+  "core_tests": 95,
+  "clean_core_tests": 95,
+  "skipped_tests": 0,
+  "single_seed_impact_cases": 181,
+  "multi_seed_cases": 2,
+  "full_JSON_GraphML_objects_equal": true,
+  "scientific_archives": 18,
+  "source_archive_members": 378,
+  "strict_replays": {
+    "F149": {
+      "run_id": "EXP-149-001-e334ac2404104e6a",
+      "replay_run_id": "EXP-149-001-e334ac2404104e6a",
+      "deterministic_outputs_match": {
+        "raw.json": true,
+        "summary.json": true
+      },
+      "comparison_scope": "Exact complete JSON payloads; no fields excluded",
+      "replay_resource_envelope_met": true,
+      "recorded_worker_resource_flag": true,
+      "replay_resource_measurement_source": "manifest measured fields",
+      "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+      "isolation": "temporary directory; standard library; no upstream clone or credentials"
+    },
+    "F325": {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "replay_run_id": "EXP-325-001-c6884816c1ddb798",
+      "deterministic_outputs_match": {
+        "raw.json": true,
+        "summary.json": true
+      },
+      "comparison_scope": "Exact complete JSON payloads; no fields excluded",
+      "replay_resource_envelope_met": true,
+      "recorded_worker_resource_flag": true,
+      "replay_resource_measurement_source": "manifest measured fields",
+      "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+      "isolation": "temporary directory; standard library; no upstream clone or credentials"
+    }
+  },
+  "graph_nodes": 8874,
+  "graph_edges": 26094,
+  "core_citations": 9845,
+  "full_canonical_citations": 9858,
+  "source_artifacts": 2090,
+  "clean_files": 3294,
+  "clean_bytes": 93023244,
+  "clean_copy_all_original_files_still_identical": true,
+  "clean_directory_removed": true,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "new_distinct_hypotheses": 0,
+  "source_grade_promotions": 0,
+  "retrospective": "reports/retrospectives/045-old-method-sufficiency-and-history-scope.md",
+  "github_push": false,
+  "metadata_after_clean": [
+    "Finalclosure/storage/status/checkpoint/backlog/publication metadata",
+    "Finalclosure paragraphs in source-scope report andretrospective",
+    "Roadmap append"
+  ],
+  "scope": "Four selected historical original scopes and static stronger old-cycle criterion;not new mathematics,wholeCn proof,application efficacy,full lineage,human or provider acceptance."
+}

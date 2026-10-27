@@ -4,13 +4,17 @@
 
 **Weaving mathematical results, historical methods, and testable applications into an evidence graph.**
 
-This project connects a pinned mathematical manuscript corpus with historical literature, transferable methods, and concrete application problems. Its unit of research is **result family + historical lineage + application problem**. A versioned knowledge graph records the evidence, conditions, dependencies, experiments, and unresolved gaps.
+The research unit is **result family + historical lineage + application problem**. Versioned records connect source propositions, transferable methods, concrete hypotheses and reproducible checks, retaining conditions and adverse evidence.
 
-**Phase one is incomplete.** The project has 45 candidate connections and 13 preliminary checks of distinct hypotheses. Five checks support narrowly defined predictions; eight retain adverse observations. These are not five new mathematical results or demonstrated engineering improvements. No family has completed the full research requirements or all six stages. Human review, independent checks by another model provider, and engineering pilots remain outstanding.
+**Phase one is incomplete.** Current canonical records contain 47 candidate connections, 15 preliminary checks of distinct hypotheses, seven narrowly supported predictions and eight adverse observations. There are 64 actually read families and 59 current-source drafts. No family has completed its full lineage or all six stages. Real human classification, specification review, second-provider review and pilots remain zero.
 
-This owner-requested publication batch includes completed WP112 / GEN109 and an explicitly unfinished [WP113 reading checkpoint](state/reading-progress/WP-113.json). WP112 qualifies three pinned software projects: 11 source/license files and 2,588 actually read lines. Full solves, inverse blocks and tensor-compatible truncation still do not establish an identical-output F300 application benchmark. Totals remain 59 canonically credited reading families, 54 current-source decomposition drafts, 8,128 graph nodes and 23,260 relations; 45 candidates and 13 preliminary application checks. F020 now has all 15 TeX files / 3,967 lines and 345 bibliography lines actually read, plus selected formal and four historical-work scopes. Canonical qualification, complete history and global review040 remain pending. Same-provider auxiliary opinions add no independent-provider or human review credit. No new application check or numerical experiment is added. The previous verified public snapshot is `21ce7dc`; this batch requires separate push, readback and CI observations.
+The graph contains **8,874 nodes and 26,094 relations**. Its size measures records, not established mathematics or engineering value. A separate diagnostic and two component checks do not inflate the hypothesis count.
 
-Repository: [yiduo/mathweave](https://github.com/yiduo/mathweave).
+This October 27, 2026 owner-requested publication batch includes completed work through **WP128 / global review045** and the **unfinished WP129** journal. Four F271 manuscripts, 46 source files and 14,199 lines were read; five historical originals were checked only in selected scopes. Source bindings, methods and application mappings are still pending curation, so this journal adds no canonical coverage or application credit. See [the journal](state/reading-progress/WP-129.json).
+
+Recent checks preserve the old-method null hypothesis. The F149 synthetic reaction-network audit found 27 negative-concentration cases among 72 fixtures and 401 exact updates; the old coordinatewise baseline caught every one. F181's historical comparison found an older local expansion criterion already stronger at the selected interface. Neither establishes incremental 2026 engineering benefit. The F337 AD run remains a separate diagnostic because backend exceptions prevent adjudicating its frozen main prediction.
+
+Repository: [yiduo/mathweave](https://github.com/yiduo/mathweave). Exact public commit, readback and CI observations are tracked separately in [publication state](state/publication.json). Previous public CI success does not apply automatically to this batch. Routine package pushes remain disabled.
 
 ## Corpus and upstream boundary
 
@@ -67,7 +71,3 @@ Register numerical specifications before running experiments. Retain adverse and
 Original project code, documentation, and derived records are licensed under [Apache-2.0](LICENSE). Third-party items keep their own licenses and attribution in [NOTICE](NOTICE); this license does not relicense upstream manuscripts or external papers. Sensitive directions are represented only by necessary routing information in the public graph.
 
 Publication status and its verification receipt are recorded in [state/publication.json](state/publication.json). Publication does not complete the research program, grant a mathematical credibility upgrade, or imply approval for engineering deployment. See [publication scope](docs/publication.md).
-
-The [bounded symbolic-demand follow-up](reports/F025-demand-followup.md) distinguishes a real constrained old caller from the proposed single-marker feature. [Retrospective 032](reports/retrospectives/032-demand-constraints-and-next-counting-route.md) keeps all unmet phase-one targets. F113 is now read in full; [its scope report](reports/perfect-matching-F113-reading.md) separates relative counting, coarse deterministic counting, entropy, and sampling. The subsequent demand review qualifies actual counting consumers and strong old baselines; the next reading package covers F262 scalar/matrix spectral inequalities.
-
-The [matching-count demand review](reports/F113-counting-demand.md) adds one conditional graph-probability calibration connection. The literal published replica schedule is not admitted for finite execution. No new preliminary check or general Gaussian-boson-sampling claim is counted.

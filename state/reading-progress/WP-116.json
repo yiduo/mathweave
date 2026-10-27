@@ -1,0 +1,165 @@
+{
+  "work_package": "WP-116",
+  "status": "completed_bounded_source_audit",
+  "started_at": "2026-10-27T03:50:54.076907+00:00",
+  "base_commit": "011f37b",
+  "source_pins": {
+    "Singular/Singular": "b501ac240eec83597514c6223a6413790049ef46",
+    "sagemath/sage": "601df58edafe95f68597b9dec61e0a75adca8983"
+  },
+  "source_files": [
+    {
+      "project": "Singular/Singular",
+      "path": "Singular/LIB/algebra.lib",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/algebra.lib",
+      "github_blob_sha": "7ea79005ce2b10155686c0b297f38322736dac1e",
+      "bytes": 38457,
+      "lines": 1193,
+      "sha256": "49dc35f701b156d427118aec34bd3304938bdcdd396aa7b4ddc8cefa11a2f88c",
+      "temporary_path": "/private/tmp/ai-paper-WP116/algebra.lib",
+      "retrieved_at": "2026-10-27T03:51:45.238538+00:00",
+      "actual_read_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          265,
+          858
+        ]
+      ],
+      "download_is_not_full_reading": true,
+      "transport_note": "PluginUTF8body written usingpatch;removedonepatch-addedtrailingnewline onlyafter exactGitblobSHA1 equality toAPIsha established.",
+      "actual_lines_read": 744,
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "Singular/Singular",
+      "path": "Tst/Manual/is_bijective.tst",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Tst/Manual/is_bijective.tst",
+      "github_blob_sha": "60cce609e51414b3eb099cd1458e264ce1d8e108",
+      "bytes": 577,
+      "lines": 17,
+      "sha256": "35107cfd2161a8f82646cd407efcc0e7fa1a7aca44991f9e0f94a1917d61888d",
+      "temporary_path": "/private/tmp/ai-paper-WP116/is_bijective.tst",
+      "retrieved_at": "2026-10-27T03:55:07.342452+00:00",
+      "actual_read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "actually_executed_locally": false,
+      "actual_lines_read": 17,
+      "whole_file_actually_read": true
+    },
+    {
+      "project": "sagemath/sage",
+      "path": "src/sage/rings/morphism.pyx",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/rings/morphism.pyx",
+      "sha256": "38dbc7cd5b35f78275cdeade12449aa6bbbd7d607b95738650dea33ed5d60abb",
+      "github_blob_sha": "9613b2deb244e4788c1a733aef4fcfd7ff9f2ea5",
+      "bytes": 120489,
+      "lines": 3234,
+      "temporary_path": "/private/tmp/ai-paper-WP116/sage-morphism.pyx",
+      "retrieved_at": "2026-10-27T03:53:07.694740+00:00",
+      "actual_read_ranges": [
+        [
+          1053,
+          1149
+        ],
+        [
+          1190,
+          1438
+        ],
+        [
+          1600,
+          1905
+        ],
+        [
+          2676,
+          2794
+        ],
+        [
+          3080,
+          3234
+        ]
+      ],
+      "fallback_reason": "GitHubconnectorfetch_file transport error preserved;normalTLS primary raw URL fallback,not a source-content failure.",
+      "actual_lines_read": 926,
+      "whole_file_actually_read": false
+    }
+  ],
+  "actual_reading_ranges": [
+    {
+      "path": "Singular/LIB/algebra.lib",
+      "ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          265,
+          858
+        ]
+      ]
+    },
+    {
+      "path": "Tst/Manual/is_bijective.tst",
+      "ranges": [
+        [
+          1,
+          17
+        ]
+      ]
+    },
+    {
+      "path": "src/sage/rings/morphism.pyx",
+      "ranges": [
+        [
+          1053,
+          1149
+        ],
+        [
+          1190,
+          1438
+        ],
+        [
+          1600,
+          1905
+        ],
+        [
+          2676,
+          2794
+        ],
+        [
+          3080,
+          3234
+        ]
+      ]
+    }
+  ],
+  "actual_reading_lines": 1687,
+  "scientific_experiments": [],
+  "canonical_credit_added": true,
+  "next_action": "Restore actualF276natural/Model parameter andphase-pair scope;freeze executable EXP-276-001 specification withnooutputs,thenisolatedskeptic/defender auxiliaryreviews beforeimplementation/run. Preserve MAP276001 oldplan andoriginalcard predictions.",
+  "downloaded_bytes": 159523,
+  "provisional_reading_notes": [
+    "Singular algebra.lib actualinput suppliedphi/pr andactualvariablecounts;algDependent builds elimination graph andker withqring relations. is_injective reduceskernelmodsourceideal ifquotient;is_surjective explicitlywarnsquotientsourcemap maynotbewelldefined andlocal/mixedordersrequirecare. is_bijective computesgraphkernel/surjectivity inoneprocedure ratherthanliterallycallingbothwrappers. No stable-variable cancellation rule identified in readpaths.",
+    "Singular pinnedmanualcaller actuallyread17linescontains polynomial andquotient maps,butnoF047orunstabilized-inference fixture. This is source/test content,notlocaltest execution orcoverage ofallcallers.",
+    "Sage actualRingHomomorphism_from_quotient loopsgenerators ofcoverkernel andrequiresphi(x)==0. im_gensconstructor checksimagecount/domainvaliditywhencheck=True;itsdocsexplicitlynoteguardmaystillapplywhencheck=False,genericquotientconstructorhasno bypassparameter.",
+    "Sage actualinverse firstrequiresinjectivity,thenpreimagesofeverycodomaingenerator;graphmethodrequirescommutativeequalbaserings andtrivialbasemap,globaltermorders,quotientrelationsfrombothsides retained;renamesoverlappingvariables andkeepsseparateblocks. CachesgraphGB;finitefield-specificlinearpreimagebranchdistinct. AbstractcomplexC/proofsemanticnotarbitraryfloatingComplexField computation.",
+    "Old exactmap/graph/elimination/compositioncertification alreadyprovidesrelevantgiven-map checks in selectedpaths. F047couldaddadversarialregressioninstance,butnoactualcallerusesstableequivalenceasunstabilizedcertificate andnoindependentutilitygainworkloadadmitted. Stopaftertwo projects/threefilesratherthanfillremainingbudget. No newcandidate/formalrejection/scientificrun."
+  ],
+  "updated_at": "2026-10-27T03:55:07.342452+00:00",
+  "completed_at": "2026-10-27T04:05:26.828402+00:00",
+  "canonical_generation_id": "GEN-20261027-113",
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "new_scientific_experiments": 0,
+  "quality_evidence": "reports/reproducibility/20261027-F047-map-consumers/quality.json.gz",
+  "storage_evidence": "reports/reproducibility/20261027-F047-map-consumers/storage.json"
+}

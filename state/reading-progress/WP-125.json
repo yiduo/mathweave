@@ -1,0 +1,407 @@
+{
+  "work_package": "WP-125",
+  "family_id": "F-059",
+  "at": "2026-10-27T08:38:42.112153+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "complete_current_two_manuscript_source_draft_not_full_family_or_lineage",
+  "manuscripts": [
+    {
+      "manuscript_id": "P-b37600a212e7ade9",
+      "directory": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026",
+      "README_read": true,
+      "README_sha256": "11df2731db716f1f7182cb36d880171e24b78004ef9ea2485f1ff7c411e59c5f",
+      "source_files": [
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/figures/proof-route.tex",
+          "sha256": "a58fcd298da60f7a244376178a6f316baa11b6fefcc3f75a0ead1d4cd4fec660",
+          "lines": 33,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              33
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+          "sha256": "53cfcad5e63f89327631dfa81b900a19df8f970aeac5bea3d16e5018d2ee9cb1",
+          "lines": 27,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              27
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/preamble.tex",
+          "sha256": "501a3724b9d66efa5d438f620b22ab73a1dd0c76269f760e58cc39c4431cca06",
+          "lines": 53,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              53
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+          "sha256": "866e38755f154d2ca3bb72cf96a22da67a87eb186d48fba827c700140fe5fa14",
+          "lines": 299,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              299
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+          "sha256": "b2224a1aec81cc0dfdf6b5be07107d79a4959047dd7538d6e626fdf6f4bba6e5",
+          "lines": 226,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              226
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+          "sha256": "022082f8ba3a6807c5448358f17b23fce3f3222ec0c9d217e04887c2798231bd",
+          "lines": 20,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              20
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+          "sha256": "6ffd35e3a0d9fd8e1782315713f867129520737774a7f531e8b1b9da9bf92c37",
+          "lines": 420,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              420
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+          "sha256": "66c89a645ea35d38885ac0bd6d802998b1972a51216b4d98928f746162af1bca",
+          "lines": 406,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              406
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+          "sha256": "bc4e0fccbd95ac9c6b574707fe2e46c04513737fe55c10ef5df46560b263990e",
+          "lines": 246,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              246
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+          "sha256": "88d87393ab39706e948f826245c2d05f855f2bfda566cb7ad224fd8b087128ff",
+          "lines": 438,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              438
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+          "sha256": "f83599a45fbe0a60e6ee4dcbcb76dc94fed3b4efe30dd1469349231733da4e2e",
+          "lines": 307,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              307
+            ]
+          ]
+        }
+      ],
+      "source_file_count": 11,
+      "source_lines": 2475,
+      "withdrawn": null
+    },
+    {
+      "manuscript_id": "P-023c99253d0c28f5",
+      "directory": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026",
+      "README_read": true,
+      "README_sha256": "ad71e783ef9049eab59c7fb9d20ef06c25730cc4d707ac4bf963aaf609513109",
+      "source_files": [
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/figures/exterior-cut.tex",
+          "sha256": "8a578c83578b7186f43e4962727ea1879aefd3895da79efb6c44248d72816668",
+          "lines": 18,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              18
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+          "sha256": "b1415310ea0cb72431fcc342d789721f6ec8364e93f8b5145b38c194a6b106af",
+          "lines": 25,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              25
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/preamble.tex",
+          "sha256": "abfd47892039d220f900f36d7d400aafed39486c14a005872770fb950e80698c",
+          "lines": 19,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              19
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+          "sha256": "027c94e0b3d6ce6d6ef94068b082dc75a444f7f946c84af457ca58d8245c9a60",
+          "lines": 259,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              259
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+          "sha256": "c5a7a3649e46392fdfaf1161b88c07c3468b577b69f020ca77a1f99d3b252e7a",
+          "lines": 170,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              170
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+          "sha256": "d55b4572921a45f6044c22490d734f1a813e3385900a51f1a4f348fcd4a413e7",
+          "lines": 284,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              284
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+          "sha256": "0cb0d2ee65f3fe6f3325576700d6686b2b0b3ed9a57470c71d4544855f517b55",
+          "lines": 170,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              170
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+          "sha256": "7ef991665af5332453c6328b0c13a72039b3fe32da29ae35c3e8d938e19d364d",
+          "lines": 100,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              100
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+          "sha256": "5161237ccdcefa162cba3c93bd04265c544613ea34503145f3979e1f8c098a3d",
+          "lines": 414,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              414
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+          "sha256": "8ce1f592a10af783f536773a78b4f317f362f2c31bb13b4cb7e86ea7eb88c2f9",
+          "lines": 333,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              333
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+          "sha256": "03f9ecce9ed077cb328eca606e4230d2eb0670de4f4cedd32b44ea2833ad2aac",
+          "lines": 348,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              348
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+          "sha256": "6f0415dcc318ffa7e721695d1de6319ce0f3a8963607b4a9e8f72e9008a2571c",
+          "lines": 259,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              259
+            ]
+          ]
+        },
+        {
+          "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+          "sha256": "0bf81c331394823f49201e293299e0023ef69724b1bea2fd4f947adb35203637",
+          "lines": 727,
+          "body_read": true,
+          "actual_ranges_read": [
+            [
+              1,
+              727
+            ]
+          ]
+        }
+      ],
+      "source_file_count": 13,
+      "source_lines": 3126,
+      "withdrawn": null
+    }
+  ],
+  "source_files": 24,
+  "source_lines": 5601,
+  "actual_source_lines_read": 5601,
+  "canonical_credit_added": true,
+  "source_decomposition_draft_complete": true,
+  "numeric_or_symbolic_execution": false,
+  "next_action": "Run repaired /private/tmp/ai-paper-WP125/curate.py once with pinned Python3.12; all 5601 TeX/Bib+288 code lines already read, 400-line selected Lean source and five original selected scopes qualified. Then full canonical graph/source/impact/export/core/clean/archive/storage closure and mandatory global044. Do not run arithmetic verification programs without separate frozen specification.",
+  "started_at": "2026-10-27T08:45:38.818627+00:00",
+  "updated_at": "2026-10-27T09:24:19.649473+00:00",
+  "base_commit": "16f9bd78104ba267de747d266bf19474ae47b9eb",
+  "source_observations": [
+    {
+      "locator": "Firstsourceentirebackground,seeds,local,global,conclusionread",
+      "observation": "RealSeifertisometryandintegralmonodromy identification areseparateinputs. Oddorder/noeigen1 give dyadicuniqueness;firsttensor square mayregain eigen1,so rationaldescentincludesquadraticpart. Secondtensor/reverser cancellation isoneachcompleteeigenspace,notjusttotal determinant;common6cubesand11/13powersmakeindefiniteSU factors/remove±1. Fullhistoricalandproofauditunqualified."
+    },
+    {
+      "locator": "Firstsourceconclusion/C4introduction",
+      "observation": "Highdimensional2/3constructionNdivisible8 uses spherical simpleknots andweightedradialcone;C4multiplicity4/5constructionexplicitlyindependent,usesanalyticcharts/non-sphericalopenbookclassification. Do notmake secondclaimdependonfirstorreplace ambienttopologicalwithmetric/analytic equivalence."
+    },
+    {
+      "locator": "Firstsourceappendixand61+227linesverificationcode",
+      "observation": "Bothprogramsstaticallyreadonly;nooutput/rank/witnessverified. Rankprogramhasimport-timeexecution;witnessvalidator defaultsoutputunderreadonlymath,soanyfutureverifiedexecutionmustspecifyexplicitoutsideoutput andpreregisterscope. Arithmeticcannotcertifylatticetopologicalclassification."
+    }
+  ],
+  "remaining_current_source_paths": [],
+  "prior_partial_reading_stages": [
+    {
+      "at": "2026-10-27T08:45:38.818627+00:00",
+      "actual_source_lines_read": 912,
+      "observations": [
+        {
+          "locator": "introduction/seed/background selectedsource nowread",
+          "observation": "Separate realSeifertisometry andintegralmonodromymoduleisomorphism are NOT oneintegralSeifertcongruence;local/globalarithmeticandtopologicalclassification remainunread."
+        },
+        {
+          "locator": "seeds:product andappendixlisting",
+          "observation": "Mod1009augmentedrank868with867valuationrows yieldsrational/integerkernelwitnessviaadjugate,notfullsamefieldrankassertionforM. Allcoefficientsmayhuge;positiveEand4Esquaresbalancevariables. No finitearithmetic program executed."
+        }
+      ]
+    },
+    {
+      "at": "2026-10-27T08:48:52.690760+00:00",
+      "actual_source_lines_read": 2689,
+      "status": "first_current_source_fully_read_second_introduction_partial_no_canonical_credit"
+    }
+  ],
+  "source_files_fully_read": 24,
+  "full_source_read_manuscript_ids": [
+    "P-b37600a212e7ade9",
+    "P-023c99253d0c28f5"
+  ],
+  "additional_static_code_read": [
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/support/supplied_finite_rank.py",
+      "sha256": "1b287518e4aaab083732979e89d7af3bacf8f25e5d231e62e25fe18bc0442697",
+      "lines": 61,
+      "actual_ranges_read": [
+        [
+          1,
+          61
+        ]
+      ],
+      "scope": "Actualexternal lstinputlisting source,staticreadonly",
+      "executed": false
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/validation/explicit_relation.py",
+      "sha256": "85c80a08af6cfdaa9a7247f7fa609a518a6ae163355ccde480ea28efec382d56",
+      "lines": 227,
+      "actual_ranges_read": [
+        [
+          1,
+          227
+        ]
+      ],
+      "scope": "Supplementary explicitwitnessvalidator,staticreadonly",
+      "executed": false
+    }
+  ],
+  "additional_static_code_lines": 288,
+  "remaining_source_lines": 0,
+  "partial_evidence_receipt": "reports/reproducibility/20261027-F059-source-scope/partial-checkpoint.json",
+  "canonical_generation": "GEN-20261027-122",
+  "canonical_named_bindings": 51,
+  "canonical_method_contracts": 27,
+  "quality_evidence": "reports/reproducibility/20261027-F059-source-scope",
+  "next_work_package": "WP-126",
+  "formal_or_history_credit": "One selected chain sourceB;other50sourceC;five primary original selected scopes only. No full proof/history/build/human/provider completion."
+}

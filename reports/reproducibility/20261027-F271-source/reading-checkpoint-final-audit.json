@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-27T11:04:21.942379+00:00",
+  "natural_sources_hash_verified": 46,
+  "source_lines_read": 14199,
+  "current_bodies_read": 4,
+  "selected_original_scopes": 5,
+  "BBL_selected_scope_reused": 1,
+  "all_checkpoint_JSON_valid": true,
+  "all_WP129_gzip_decompressible": true,
+  "partial_receipt_exact_match": true,
+  "canonical_and_scientific_paths_unchanged": true,
+  "diff_whitespace_check": true,
+  "numerical_target_runs": 0,
+  "core_suite_not_rerun_reason": "Only reading/history/provenance/checkpoint metadata changed; no canonical dataset, implementation or experiment changes. Last completed package95core/95clean evidence remains separately scoped.",
+  "goal": "active_incomplete"
+}

@@ -1,0 +1,267 @@
+{
+  "at": "2026-10-27T09:12:56.319036+00:00",
+  "work_package": "WP-125",
+  "status": "partial_not_canonically_admitted",
+  "source_TeX_Bib_lines_read": 5601,
+  "additional_code_lines_statically_read": 288,
+  "selected_Lean_module_lines_read": 400,
+  "source_result_draft_count": 51,
+  "method_contract_draft_count": 27,
+  "selected_original_works": 5,
+  "full_historical_lineage": false,
+  "canonical_credit_added": false,
+  "scientific_experiments_executed": 0,
+  "terminal_handle": 65337,
+  "terminal_handle_exit": 1,
+  "failure": "Include resolution incorrectly used containing section directory; actual TeX resolves paths from document build directory. Assertion stopped before canonical writes.",
+  "repair": "Curator now resolves include/listing paths from each manuscript build directory; syntax and all actual include targets checked; curation has not been rerun.",
+  "include_links_verified": [
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/preamble.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "kind": "bibliography"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/support/supplied_finite_rank.py",
+      "kind": "lstinputlisting"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/figures/proof-route.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/preamble.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "kind": "input"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "kind": "bibliography"
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/figures/exterior-cut.tex",
+      "kind": "input"
+    }
+  ],
+  "helper_archive": "reports/reproducibility/20261027-F059-source-scope/partial-helpers-and-failure-logs.tar.gz",
+  "archive_sha256": "135fe6eb96f13bf6ba6bb6f2ea57e10525771074139604ef746c9b55b61c5818",
+  "archive_bytes": 61479,
+  "archive_roundtrip_all_members_verified": true,
+  "members": [
+    {
+      "name": "curate-attempt1.py",
+      "bytes": 22438,
+      "sha256": "7c38603f435f819dcd51e24d78da7a1673ea01c231990349d53a1258a18c989e"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 22521,
+      "sha256": "32c47390713dc601b90a1e64540077dc303b7d12c99e157e7042e4b518b3d407"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 749,
+      "sha256": "bff17ddd6e68701f188a42bf60077e34d2a8ae41b60fd09294ff20d3b8144a5a"
+    },
+    {
+      "name": "fetch_history.py",
+      "bytes": 1807,
+      "sha256": "a266342c594f856be714ba5140a73691aba748f7baa99333149160ef07aa52e6"
+    },
+    {
+      "name": "history-fetch.json",
+      "bytes": 3096,
+      "sha256": "5a0812f27fe799b4f05ec8c83ce301bde123ef4dac15ab1449e78dc094ea37f9"
+    },
+    {
+      "name": "qualification.json",
+      "bytes": 30676,
+      "sha256": "a07c6dae73a4e86fff400f8b2b30bd4fdf0ebba23dfa8de8ef7ab8ec24be1932"
+    },
+    {
+      "name": "qualify.py",
+      "bytes": 34490,
+      "sha256": "635e5d3ad4c11f8b7d85b1dd51d26965a0edf3cd770ef77efeaaeda934a13f0b"
+    },
+    {
+      "name": "save_status_checkpoint.py",
+      "bytes": 7866,
+      "sha256": "49aede357f647ffb8ce11b079cbd7662043693e0120d06b1ec7d5c182103647d"
+    },
+    {
+      "name": "template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "template-close.py",
+      "bytes": 14430,
+      "sha256": "0102473b81358cab5a2522893f95b2f8dcb7d35835030186058d723346c51a2f"
+    },
+    {
+      "name": "template-quality.py",
+      "bytes": 9337,
+      "sha256": "7a258212bb13c84089caf4052817d817154480d5ba27af3ebe11875e2bb28c1c"
+    },
+    {
+      "name": "template-source-curate.py",
+      "bytes": 16454,
+      "sha256": "daa73bcbe37dda13ca32713bfc8d36531c49cbd0af626d5429e10b0186705309"
+    },
+    {
+      "name": "template-source-qualify.py",
+      "bytes": 16400,
+      "sha256": "24891dbc55729f19af194c50cc4cd0cc1bb3690ee5656ee3cf563d608f40f5a2"
+    }
+  ],
+  "third_party_raw_and_text_hash_verified_then_removed": [
+    {
+      "name": "Kato1974.pdf",
+      "bytes": 748904,
+      "sha256": "3293aa8488acea3df5694feed2dcb2d52f32acfcbd1d2091293f579a9f2b2d7c"
+    },
+    {
+      "name": "Kato1974.txt",
+      "bytes": 25293,
+      "sha256": "bb892e985de315bbae52f24946df3a3e18930c080bc5e4f2489f34465c37af3b"
+    },
+    {
+      "name": "Levine1970.pdf",
+      "bytes": 1080158,
+      "sha256": "9f33acf3064245e93886ad652a8620a26a03f2d22dcca8c4fc445407aee35892"
+    },
+    {
+      "name": "Levine1970.txt",
+      "bytes": 33129,
+      "sha256": "0ba40cefabd80893cdffe34362a2159f382f4e0ea1baaa463541a8ac6cfa146a"
+    },
+    {
+      "name": "Rapinchuk2014.pdf",
+      "bytes": 280765,
+      "sha256": "b8186fce2bca31798ab7816f5607a014d5099a526cf90f8df63be44cbf5148ec"
+    },
+    {
+      "name": "Rapinchuk2014.txt",
+      "bytes": 84578,
+      "sha256": "66c127b4a6eea5d82947e5c342ed9c9a724db2cc46df3589bd877f12ebc704e4"
+    },
+    {
+      "name": "Massey2015LeCycles.pdf",
+      "bytes": 540052,
+      "sha256": "717bb3de7b912800ea78504c8335a1d61f8af93ed77e192c36685857196ed458"
+    },
+    {
+      "name": "Massey2015LeCycles.txt",
+      "bytes": 101425,
+      "sha256": "af7cd31b0b2f9334c68ee1d86ce6f48b54bfe6506ce3c33723b235d43a3ba16f"
+    },
+    {
+      "name": "BobadillaPelka2024.pdf",
+      "bytes": 1722392,
+      "sha256": "2ae607f33bbd05bf1a33c8c8d1c719bb539806fb84097b64804efccc1f51f82e"
+    },
+    {
+      "name": "BobadillaPelka2024.txt",
+      "bytes": 492860,
+      "sha256": "a2f80c662835ff641d25539fb63fc3e66d3a7011c0cbe761e24bcaa496b6012a"
+    }
+  ],
+  "removed_bytes": 5109556,
+  "temporary_helpers_retained": "/private/tmp/ai-paper-WP125",
+  "remaining_work": [
+    "Rerun repaired curation once; retain failure evidence",
+    "Full graph/source/FK/impact/export/core/clean/archive checks",
+    "Compression/storage closure and WP125 completion",
+    "Mandatory global retrospective044"
+  ],
+  "no_github_push": true
+}

@@ -1,0 +1,160 @@
+{
+  "at": "2026-10-27T06:53:24.142970+00:00",
+  "package": "WP-120",
+  "own_helpers_and_logs": [
+    {
+      "path": "before-protocol-v2-core.log",
+      "bytes": 13240,
+      "sha256": "f385e877ce4a37582b97f25a8af3db8429e9625c77c909c1a434d7b9667bcbce"
+    },
+    {
+      "path": "before-protocol-v2-quality.json.gz",
+      "bytes": 4069,
+      "sha256": "2c12dd233e78ce526216a2840ec41308d9ad7f3af54a457895eb94d4d3ced318"
+    },
+    {
+      "path": "before-protocol-v2-quality.log",
+      "bytes": 1307,
+      "sha256": "079cd5b7de7a69dc06828f4541463de477d0b119b2a8cb928881b86203b4851a"
+    },
+    {
+      "path": "clean-check.json.gz",
+      "bytes": 117220,
+      "sha256": "07f35bad5675bd9c1635e1aa2dab0cce0e69e7e289a7dfa79a8fd3d1fe62b8af"
+    },
+    {
+      "path": "clean-core.log",
+      "bytes": 14468,
+      "sha256": "1665425cecc7f031baa666c5875822efa3d850d540af7cf066b5693e82e92a36"
+    },
+    {
+      "path": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "92ea450823bf0c62c5a906a108e270fd3796a8877ba9e89cf4a250a52bd15a69"
+    },
+    {
+      "path": "close.py",
+      "bytes": 13374,
+      "sha256": "c60400514d1ee35663f17d46bf2b8f2d353c7c3bf075668bfa99053b3f226712"
+    },
+    {
+      "path": "core-v2.log",
+      "bytes": 14468,
+      "sha256": "1bcc426b73393bea8483fdb847ff03e19a06c6b290e1d0cb10a3e497866f81bb"
+    },
+    {
+      "path": "core.log",
+      "bytes": 13240,
+      "sha256": "f385e877ce4a37582b97f25a8af3db8429e9625c77c909c1a434d7b9667bcbce"
+    },
+    {
+      "path": "curate.py",
+      "bytes": 14285,
+      "sha256": "fc87c4f307427c753019c141d15edcc1a084b106ade9d662c68711e109b02ed8"
+    },
+    {
+      "path": "curation-summary.json",
+      "bytes": 786,
+      "sha256": "ccd5fc1070f6dc812dbe3d20d07c8471b76a4364779f87e1111690030c85c16a"
+    },
+    {
+      "path": "curation.log",
+      "bytes": 482,
+      "sha256": "99f4dd917c07ef8b99cc043eec15436377dd0431f1e9997ccdb7d96d61780687"
+    },
+    {
+      "path": "defender-implementation.md",
+      "bytes": 13280,
+      "sha256": "1da88eb5e05d9f885ae40a06490cd78c6662cff2237349d2d379a8d3a9695e0c"
+    },
+    {
+      "path": "legacy332-replay.json",
+      "bytes": 726,
+      "sha256": "3c3c6212c103901ef1da444d631c514757034f4c91bda194bb067bf4730d8b97"
+    },
+    {
+      "path": "legacy332-replay.log",
+      "bytes": 726,
+      "sha256": "3c3c6212c103901ef1da444d631c514757034f4c91bda194bb067bf4730d8b97"
+    },
+    {
+      "path": "protocol-tests-final-v2.log",
+      "bytes": 2087,
+      "sha256": "1bd872779ad928ca1848a4dc13b956088393d46dabce0009e12fc9972d4b8ae8"
+    },
+    {
+      "path": "protocol-tests-final.log",
+      "bytes": 858,
+      "sha256": "a386b55c3da905275af40e7e91bc34adfc4995806ab0d3c75bf9ff94329d20cf"
+    },
+    {
+      "path": "protocol-tests-lifecycle-final.log",
+      "bytes": 1893,
+      "sha256": "0466a1e860279f64a4115b2e0f28cb52ee01a111da2e6b009039b842453a0bc3"
+    },
+    {
+      "path": "protocol-tests-repaired.log",
+      "bytes": 1713,
+      "sha256": "41f84bc1f43c87db0fb792fdb914da7fdb8816d8c023a5e8208f7831677febda"
+    },
+    {
+      "path": "protocol-tests.log",
+      "bytes": 702,
+      "sha256": "3ff24c5e949f0b8ecd3324342c24731ce4155c5c8c77a2a973b2b45fc4d9bd6e"
+    },
+    {
+      "path": "quality-before-citation-correction.json.gz",
+      "bytes": 4273,
+      "sha256": "2fc5850a9f0d3930755b4f7fc373f177dabed226b76c80efa8100f0c9bf4ceee"
+    },
+    {
+      "path": "quality-before-citation-correction.log",
+      "bytes": 1183,
+      "sha256": "f5b5e41ef4bcf33637ae29555627b1d82ce05920ecf731ba9e82214d0616a6b0"
+    },
+    {
+      "path": "quality.json.gz",
+      "bytes": 4072,
+      "sha256": "0bd99575b781ca95c4967907f28ebe2d3520044ee41ceabe253d4e2e9ee9c42a"
+    },
+    {
+      "path": "quality.log",
+      "bytes": 1309,
+      "sha256": "c01c5d781f7fa17a8991f0929f241a41293124ef998b2eabfe620dcbcd5c43cd"
+    },
+    {
+      "path": "quality.py",
+      "bytes": 7933,
+      "sha256": "03a4bf7ca8b21458f948d900d4f924b8669100f3ecb3fb509328db65f435eea9"
+    },
+    {
+      "path": "skeptic-implementation.md",
+      "bytes": 12954,
+      "sha256": "b8eaf95879a62941d815181fee5162ba69f30119acbda1ded5957892bb643982"
+    },
+    {
+      "path": "template-quality.py",
+      "bytes": 7518,
+      "sha256": "37597ce9c3beed40072cf2475ad40b0a4cd74cfd94d4fce0789eeb9486ef2c9c"
+    },
+    {
+      "path": "template-template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    }
+  ],
+  "archive_sha256": "2b358de319865f170c7991f7ddb2bb883ebc02da7312f741451d8f2ba3a5eabf",
+  "archive_uncompressed_sha256": "e258f1924c077800d498c01fe520068c99cefbcada8fcc3fbb0ad1cf48064de9",
+  "all_members_and_roundtrip_verified": true,
+  "clean_files": 2384,
+  "clean_bytes": 84872467,
+  "clean_removed": true,
+  "target_runs_added": 0,
+  "new_dependency_downloads": 0,
+  "wheel_cache": "/private/tmp/ai-paper-WP120/autograd-1.9.1-py3-none-any.whl",
+  "wheel_bytes": 54387,
+  "runtime_pin": "428existingNumPysource/nativefileshashed,notcopied;19nativeRECORDmismatchesretained,notpublisherattestation",
+  "source_integrity": "5399oldcanonicalrows/oldedges/readingcoverage/16archives298memberspreserved;initialnewcitationandspec/card/generationversionsarchivedbeforecorrections",
+  "work_root_removed": true,
+  "removed_at": "2026-10-27T06:53:24.721819+00:00"
+}

@@ -1,0 +1,326 @@
+{
+  "at": "2026-10-27T10:44:36.156723+00:00",
+  "rows": [
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "main": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+      "include_closure_file_count": 9,
+      "raw_manifest_equals_actual_include_closure": true,
+      "source_lines": 3023,
+      "fully_read_source_files": [
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/01-introduction.tex"
+      ],
+      "remaining_source_files": [
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/references.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex",
+        "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/07-pressure.tex"
+      ],
+      "body_read_complete": false,
+      "include_edges": [
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/01-introduction.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/07-pressure.tex"
+        },
+        {
+          "source": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/references.tex"
+        }
+      ],
+      "scope": "File reachability/hash and consumed-range audit,not mathematical proof or application validation"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "main": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+      "include_closure_file_count": 13,
+      "raw_manifest_equals_actual_include_closure": true,
+      "source_lines": 2976,
+      "fully_read_source_files": [
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex"
+      ],
+      "remaining_source_files": [
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/isolated-surgery.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/period-averaging.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/references.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+        "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex"
+      ],
+      "body_read_complete": false,
+      "include_edges": [
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/isolated-surgery.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/period-averaging.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex"
+        },
+        {
+          "source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/references.tex"
+        }
+      ],
+      "scope": "File reachability/hash and consumed-range audit,not mathematical proof or application validation"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "main": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+      "include_closure_file_count": 12,
+      "raw_manifest_equals_actual_include_closure": true,
+      "source_lines": 3825,
+      "fully_read_source_files": [
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex"
+      ],
+      "remaining_source_files": [
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/holes-comparison.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/sparse-ghost.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/references.bib",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+        "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/08-global-spin.tex"
+      ],
+      "body_read_complete": false,
+      "include_edges": [
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/sparse-ghost.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/holes-comparison.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "input",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/08-global-spin.tex"
+        },
+        {
+          "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "command": "bibliography",
+          "target": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/references.bib"
+        }
+      ],
+      "scope": "File reachability/hash and consumed-range audit,not mathematical proof or application validation"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "main": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+      "include_closure_file_count": 12,
+      "raw_manifest_equals_actual_include_closure": true,
+      "source_lines": 4375,
+      "fully_read_source_files": [
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/exposure-first-moment.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/hull-routing.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/references.bib",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/00-introduction.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex"
+      ],
+      "remaining_source_files": [],
+      "body_read_complete": true,
+      "include_edges": [
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/00-introduction.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/exposure-first-moment.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/hull-routing.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "input",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex"
+        },
+        {
+          "source": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "command": "bibliography",
+          "target": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/references.bib"
+        }
+      ],
+      "scope": "File reachability/hash and consumed-range audit,not mathematical proof or application validation"
+    }
+  ],
+  "all46source_files_reachable": true,
+  "actual_read_LF_lines": 5169,
+  "full_current_bodies_read": 1,
+  "canonical_credit_added": false,
+  "all18read_file_hashes_reverified": true,
+  "mathematical_proof_acceptance": false
+}

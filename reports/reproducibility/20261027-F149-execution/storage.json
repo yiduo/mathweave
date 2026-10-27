@@ -1,0 +1,134 @@
+{
+  "at": "2026-10-27T10:10:12.701019+00:00",
+  "archive": "reports/reproducibility/20261027-F149-execution/helpers-and-logs.tar.gz",
+  "sha256": "b5b99a015ee1109c4301cb6e696abb6f126c4952b4fac89a7b5603885d32d308",
+  "decompressed_sha256": "82cc256101d8543a18da5e0de5abf436b5da1169e898bf8b93d8f84830c2a2c4",
+  "compressed_bytes": 247744,
+  "decompressed_bytes": 430080,
+  "member_manifest": [
+    {
+      "name": "audit_result.py",
+      "bytes": 5079,
+      "sha256": "bad4ed99f8d33c02d82c11096db8095395357a2adc2c44a02d4d59ff83a54e17"
+    },
+    {
+      "name": "build_report.py",
+      "bytes": 3627,
+      "sha256": "4092428835ec0d5fc82cc38be534be31303e95f8a05ce1bf8f5d38b8bfa9fc67"
+    },
+    {
+      "name": "clean-check.json.gz",
+      "bytes": 159428,
+      "sha256": "a3f7d289f82285243f594d026b6e4965768a03b6a216093801d574371f62015b"
+    },
+    {
+      "name": "clean-core.log",
+      "bytes": 15992,
+      "sha256": "ceaedcd186700ee1661a030b6822d093527e25af92bea72cf4ac545f6e26d584"
+    },
+    {
+      "name": "clean.log",
+      "bytes": 405,
+      "sha256": "ab32d5cdc68015d26763563a45c56aab130a849153826f8ccd7547eb300788aa"
+    },
+    {
+      "name": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "close.py",
+      "bytes": 15127,
+      "sha256": "7f2f70c007f72dd4be13ef4b12feaf14814408c11fd2c2f67055d51e667f68df"
+    },
+    {
+      "name": "closure.json",
+      "bytes": 2314,
+      "sha256": "f16cb50846bfd64135c4b86b0d31e7cc84ed4d2394767cece14b368834cf40a3"
+    },
+    {
+      "name": "core.log",
+      "bytes": 15992,
+      "sha256": "d42e06d2b53c6a53bb1cacea7995ef42fdc353a6125d72ab179ef2bc6906352b"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 6916,
+      "sha256": "1d25c4c95e01d7df968062a2f66afc8d84d439582f148bbef8e3a8e97c5cf0d9"
+    },
+    {
+      "name": "curation-summary.json",
+      "bytes": 826,
+      "sha256": "d7319b396fba2828d8a5144cece42a1f72742f41e5d2c71582a00a9d9f726323"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 738,
+      "sha256": "db5e5463e5415c0c09429c887296303753c489786746b6415892f3e9b4916b52"
+    },
+    {
+      "name": "first-attempt.log",
+      "bytes": 153974,
+      "sha256": "53886dbf4fa921cd8dc34b0b82e16d3dc598d0cd1f7851a33eb399fcbd572c70"
+    },
+    {
+      "name": "next-selection.json",
+      "bytes": 2556,
+      "sha256": "63c443663d0474acada0baa4d15ccf4680eb94421ef1442898aa8b3d07cdb5b5"
+    },
+    {
+      "name": "post-clean-metadata-check.json",
+      "bytes": 462,
+      "sha256": "144f8fbbb3120991aebfe0794ef2a1d9ff4650533ff11ff46177462422c8f5f9"
+    },
+    {
+      "name": "quality.json.gz",
+      "bytes": 6076,
+      "sha256": "8f1d2590318d8811521fd3bad7c5e4a2ad372dac7ce8be9547e5d1661795b866"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 940,
+      "sha256": "38e5149b2123b1ce173df1eb0a14d824702e9073ce560a75d4633302854c7cef"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 6943,
+      "sha256": "d7361636f460062dc3b4a81ec807ce75921a14704697e62f4fcdbc8db70504ce"
+    },
+    {
+      "name": "result-audit.json",
+      "bytes": 1632,
+      "sha256": "f0865daff2fd6e8f11d08f6ca202b6fcce94768e8506cd4344237eb25772173e"
+    },
+    {
+      "name": "strict-replay.json",
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    {
+      "name": "strict-replay.log",
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    {
+      "name": "template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "name": "template-quality.py",
+      "bytes": 6807,
+      "sha256": "f4d2be732e427e798a65b90cca43c9b5fd17e5182dcde1d03201816128afd1b1"
+    }
+  ],
+  "members_byte_verified": 23,
+  "target_payloads_already_compressed": "raw/summary/inputs plus545progressmembers andattemptsource/stdout/stderr;allhashesverified",
+  "source_archives": 18,
+  "source_members": 378,
+  "new_downloads": 0,
+  "third_party_bodies_copied": 0,
+  "clean_directory_removed": true,
+  "scope": "Allownhelpers/logs/audits compressedandroundtripverified;originalsuccessfulattempt/runremainimmutable with theircompressedpayloads. No code/source changesafterfreeze.",
+  "temporary_work_root_removed": true
+}

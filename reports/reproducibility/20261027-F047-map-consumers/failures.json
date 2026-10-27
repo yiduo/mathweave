@@ -1,0 +1,7 @@
+{
+  "at": "2026-10-27T04:05:26.828402+00:00",
+  "plugin_Sage_transport": "fetch_file connector transport error;normalTLS samepinned primaryraw fallback,not interpreted as source failure",
+  "plugin_text_transport": "patchaddedonefinalnewline;trimmedonlyafterexactGitblobSHA1matchwithAPI,source SHA256recorded after equality",
+  "report_helper_syntax_failure": "First own report helper had an unclosed single-line string;failed helper snapshot retained,syntax fixed before executing any report mutation. No canonical/scientific criterion changed.",
+  "scientific_runs_failed_or_repeated": false
+}

@@ -1,0 +1,94 @@
+{
+  "id": "WP-126-source-reference-v1",
+  "work_package": "WP-126",
+  "at": "2026-10-27T09:32:38.560654+00:00",
+  "base_commit": "f1fbf8ce8fdbfbf13fa9f8ced72f16f45d423b5a",
+  "status": "preparation_draft_not_executable_preregistration",
+  "connection_id": "APP-149-01",
+  "selected_model_provider": "OpenAI",
+  "exact_backend": "unknown",
+  "sources_rechecked": [
+    {
+      "path": "math/preprints/Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026/build/sections/introduction.tex",
+      "sha256": "73122c3242d7cdcc86a4d50fc3169e1ef79ade9fbf8b0316f0ebd64cec288bb5",
+      "ranges_actually_read": [
+        [
+          1,
+          186
+        ]
+      ],
+      "scope": "Full file reread for pending experiment preparation;not new family coverage or proof/build credit."
+    },
+    {
+      "path": "math/preprints/Boundedness-and-persistence-of-weakly-reversible-mass-action-systems-September-25-2026/build/sections/01-introduction.tex",
+      "sha256": "04cd2c4b3d8991748385bfb7d50e3c3815ba4b1c250e38c95f8e672151c8c06a",
+      "ranges_actually_read": [
+        [
+          1,
+          256
+        ]
+      ],
+      "scope": "Full file reread for pending experiment preparation;not new family coverage or proof/build credit."
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/MassAction.lean",
+      "sha256": "7fc1497663e433a087203ad3778bc85b81c48588ba4df9e3ff949a23782a0000",
+      "ranges_actually_read": [
+        [
+          1,
+          60
+        ]
+      ],
+      "scope": "Full file reread for pending experiment preparation;not new family coverage or proof/build credit."
+    },
+    {
+      "path": "experiments/plans/MAP-149-001.json",
+      "sha256": "4879c080ef3a2a64bd101cf171fde54fa918ce7677b8d52b9cbc303946167e0d",
+      "ranges_actually_read": [
+        [
+          1,
+          37
+        ]
+      ],
+      "scope": "Full file reread for pending experiment preparation;not new family coverage or proof/build credit."
+    }
+  ],
+  "original_prediction_changed": false,
+  "target_outputs_observed": false,
+  "scientific_execution": false,
+  "fixture_pack_frozen": false,
+  "source_implementation_frozen": false,
+  "new_candidate_credit": 0,
+  "new_initial_check_credit": 0,
+  "scope_findings": [
+    "Uniform source uses positive stoichiometric class and one eventual compact forward-invariant K_P before forall initial states;entry time may depend on initial state. No effective epsilon_P or numerical Euler guarantee.",
+    "Bounded source uses closed nonnegative compatibility class notation but initial state positive;epsilon may depend on initial state and is not a classwise eventual bound.",
+    "Selected Comparator challenge asserts global initial-dependent bounds only;its intentional sorry is a challenge,not an observed failure in source solution. No Lean run/human approval inferred.",
+    "Source explicitly cites old two-species and single-linkage permanence. A nonlinear multi-linkage synthetic example must still be checked for old coverage;nonlinear or not complex-balanced does not establish 2026 novelty."
+  ],
+  "proposed_finite_time_reference": {
+    "status": "symbolic_proof_and_verifier_design_pending_review_not_accepted_output",
+    "assumptions": [
+      "Finite nonnegative-integer complexes,positive fixed rational reaction rates,positive rational initial state.",
+      "For this independent reference ONLY,supplied rational conservation vector w with every w_i>0 and w dot(yprime-y)=0 for every actual reaction;source theorem itself does not require this bounded-class restriction.",
+      "M=w dot x0 and m_i=M/w_i;all interval/reference claims limited to the corresponding nonnegative bounded simplex."
+    ],
+    "loss_bound": "For every species i, K_i=sum_e k_e max(y_i-yprime_i,0) product_j m_j^(y_j-1_{j=i}). A consumed species has y_i>=1,so exponents are nonnegative. On the simplex,each loss monomial<=x_i product_j m_j^(y_j-1_{j=i});production is nonnegative. Hence f_i(x)>=-K_i x_i.",
+    "continuous_reference": "With polynomial local existence/uniqueness,conservation and boundary quasipositivity,compact continuation and the differential inequality give x_i(t)>=x_i(0) exp(-K_i t)>0 on every finite interval. A separate verifier must justify each reaction certificate against the whole input,not merely assert weak reversibility.",
+    "critical_limit": "The lower bound depends on x0,t and can decay to zero as t grows. It is not liminf persistence,not a uniform eventual epsilon_P,not an absorbing-set computation,not a nonlinear trajectory approximation andnot an Euler accuracy guarantee. It uses ordinary differential-inequality/conservation reasoning independently of new permanence.",
+    "reference_qualification_pending": [
+      "Check formal certificate representation and independent reaction/expanded-polynomial verification paths.",
+      "Confirm this analytic finite-time certificate is sufficient for the original plan scope;do not rename it a validated numerical ODE trajectory.",
+      "Freeze nonlinear multi-linkage fixtures and exact old-theorem coverage classifications;synthetic allowed,but known linear control alone cannot support new class or application gain.",
+      "Keep full exact Euler old baseline,malformed-input scope tests and total cost;do not compare only deliberately false permanence-implies-Euler rule."
+    ]
+  },
+  "required_before_execution": [
+    "Whole explicit fixture pack with rates,initial states,Euler step counts/steps and source eligibility frozen before target outputs.",
+    "Executable specification preserves original success/failure meanings and distinguishes conditional source claim,independently certified finite-time reference,finite Euler observation,and unestablished long-run numerical assertion.",
+    "Independent rational Euler judge and accepted analytic finite-time certificate verifier,including entire stoichiometry/graph/positivity scope.",
+    "Full resource/timeout/memory/failure-archive rules and source binding;local Git freeze before importing/running targets.",
+    "Same-provider auxiliary review honestly labelled;real human/second-provider remain unavailable and no approvals synthesized."
+  ],
+  "next_action": "Review the symbolic finite-time reference and choose a small genuinely nonlinear multi-linkage whole-input fixture pack with explicit old coverage,then prepare a separate executable spec and implementation without generating target outputs. If reference cannot qualify,record exact failure and use the global044 F181 historical alternative."
+}

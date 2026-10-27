@@ -1,0 +1,2265 @@
+{
+  "at": "2026-10-27T09:13:33.621532+00:00",
+  "work_package": "WP-125",
+  "generation_id": "GEN-20261027-122",
+  "family_id": "F-059",
+  "base_commit": "02f0ea4705a95c6293ead5876f82441aeee2318d",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-b37600a212e7ade9",
+    "P-023c99253d0c28f5"
+  ],
+  "full_natural_current_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/figures/proof-route.tex",
+      "sha256": "a58fcd298da60f7a244376178a6f316baa11b6fefcc3f75a0ead1d4cd4fec660",
+      "lines": 33,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          33
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "sha256": "53cfcad5e63f89327631dfa81b900a19df8f970aeac5bea3d16e5018d2ee9cb1",
+      "lines": 27,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          27
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/preamble.tex",
+      "sha256": "501a3724b9d66efa5d438f620b22ab73a1dd0c76269f760e58cc39c4431cca06",
+      "lines": 53,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          53
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "sha256": "866e38755f154d2ca3bb72cf96a22da67a87eb186d48fba827c700140fe5fa14",
+      "lines": 299,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          299
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "sha256": "b2224a1aec81cc0dfdf6b5be07107d79a4959047dd7538d6e626fdf6f4bba6e5",
+      "lines": 226,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          226
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+      "sha256": "022082f8ba3a6807c5448358f17b23fce3f3222ec0c9d217e04887c2798231bd",
+      "lines": 20,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          20
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "sha256": "6ffd35e3a0d9fd8e1782315713f867129520737774a7f531e8b1b9da9bf92c37",
+      "lines": 420,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          420
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "sha256": "66c89a645ea35d38885ac0bd6d802998b1972a51216b4d98928f746162af1bca",
+      "lines": 406,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          406
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "sha256": "bc4e0fccbd95ac9c6b574707fe2e46c04513737fe55c10ef5df46560b263990e",
+      "lines": 246,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          246
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "sha256": "88d87393ab39706e948f826245c2d05f855f2bfda566cb7ad224fd8b087128ff",
+      "lines": 438,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          438
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "sha256": "f83599a45fbe0a60e6ee4dcbcb76dc94fed3b4efe30dd1469349231733da4e2e",
+      "lines": 307,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          307
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/figures/exterior-cut.tex",
+      "sha256": "8a578c83578b7186f43e4962727ea1879aefd3895da79efb6c44248d72816668",
+      "lines": 18,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          18
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "sha256": "b1415310ea0cb72431fcc342d789721f6ec8364e93f8b5145b38c194a6b106af",
+      "lines": 25,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          25
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/preamble.tex",
+      "sha256": "abfd47892039d220f900f36d7d400aafed39486c14a005872770fb950e80698c",
+      "lines": 19,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          19
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "sha256": "027c94e0b3d6ce6d6ef94068b082dc75a444f7f946c84af457ca58d8245c9a60",
+      "lines": 259,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          259
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+      "sha256": "c5a7a3649e46392fdfaf1161b88c07c3468b577b69f020ca77a1f99d3b252e7a",
+      "lines": 170,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          170
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+      "sha256": "d55b4572921a45f6044c22490d734f1a813e3385900a51f1a4f348fcd4a413e7",
+      "lines": 284,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          284
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+      "sha256": "0cb0d2ee65f3fe6f3325576700d6686b2b0b3ed9a57470c71d4544855f517b55",
+      "lines": 170,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          170
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+      "sha256": "7ef991665af5332453c6328b0c13a72039b3fe32da29ae35c3e8d938e19d364d",
+      "lines": 100,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          100
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "sha256": "5161237ccdcefa162cba3c93bd04265c544613ea34503145f3979e1f8c098a3d",
+      "lines": 414,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          414
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "sha256": "8ce1f592a10af783f536773a78b4f317f362f2c31bb13b4cb7e86ea7eb88c2f9",
+      "lines": 333,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          333
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+      "sha256": "03f9ecce9ed077cb328eca606e4230d2eb0670de4f4cedd32b44ea2833ad2aac",
+      "lines": 348,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          348
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+      "sha256": "6f0415dcc318ffa7e721695d1de6319ce0f3a8963607b4a9e8f72e9008a2571c",
+      "lines": 259,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          259
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "sha256": "0bf81c331394823f49201e293299e0023ef69724b1bea2fd4f947adb35203637",
+      "lines": 727,
+      "body_read": true,
+      "actual_ranges_read": [
+        [
+          1,
+          727
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/support/supplied_finite_rank.py",
+      "sha256": "1b287518e4aaab083732979e89d7af3bacf8f25e5d231e62e25fe18bc0442697",
+      "lines": 61,
+      "actual_ranges_read": [
+        [
+          1,
+          61
+        ]
+      ],
+      "scope": "Actualexternal lstinputlisting source,staticreadonly",
+      "executed": false
+    },
+    {
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/validation/explicit_relation.py",
+      "sha256": "85c80a08af6cfdaa9a7247f7fa609a518a6ae163355ccde480ea28efec382d56",
+      "lines": 227,
+      "actual_ranges_read": [
+        [
+          1,
+          227
+        ]
+      ],
+      "scope": "Supplementary explicitwitnessvalidator,staticreadonly",
+      "executed": false
+    }
+  ],
+  "TeX_Bib_files": 24,
+  "TeX_Bib_lines": 5601,
+  "additional_static_code_lines": 288,
+  "total_source_lines": 5889,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/preamble.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/paper.tex",
+      "kind": "bibliography",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/certificate.tex",
+      "kind": "lstinputlisting",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/support/supplied_finite_rank.py",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/figures/proof-route.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/preamble.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/paper.tex",
+      "kind": "bibliography",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "kind": "input",
+      "target": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/figures/exterior-cut.tex",
+      "fully_read": true
+    }
+  ],
+  "auxiliary_source_witness": {
+    "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/verification/support/explicit-relation.json",
+    "sha256": "e5a3ad0b8901ac358374575dbaf7be9e03bb84063def63749f16618cf2ba1780",
+    "bytes": 156782,
+    "scope": "Source witness input inventoried only;no relation/rank/chain/output verification performed."
+  },
+  "results": [
+    {
+      "id": "CLM-059-HIGH-BG-MILNOR",
+      "key": "high:bg:milnor",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:milnor",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        7,
+        19
+      ],
+      "statement_tex": "Let $s\\geq2$, and let $f:(\\mathbb C^s,0)\\to(\\mathbb C,0)$ be a holomorphic germ with an isolated\ncritical point at $0$, with $f(0)=0$.  For sufficiently small $\\varepsilon>0$, the link\n$K_f=f^{-1}(0)\\cap S^{2s-1}_\\varepsilon$ is a smooth closed manifold of\ndimension $2s-3$, and\n\\[\n f/|f|:S^{2s-1}_\\varepsilon\\setminus K_f\\longrightarrow S^1\n\\]\nis a locally trivial fibration.  Each fiber is the interior of its closure\n$F_f$, a compact manifold with boundary $K_f$.  Both $F_f$ and its interior\nare homotopy equivalent to a finite bouquet of $(s-1)$-spheres.\nThe link is $(s-3)$-connected.",
+      "summary": "孤立奇点的 Milnor 纤维与连通性输入",
+      "conditions": "Holomorphic germ in s>=2 variables,isolatedcriticalpoint;small-link dimension2s-3,fiber bouquet of(s-1)-spheres,link(s-3)-connected. Selectedclassicalinput;not independently audited Milnorbook.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-TS",
+      "key": "high:bg:ts",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:ts",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        38,
+        51
+      ],
+      "statement_tex": "Suppose $f$ and $g$ have isolated critical points in $a$ and $b$ variables,\nrespectively.  There is an isomorphism of integral lattices\n\\[\n L_{f+g}\\cong L_f\\otimes_{\\mathbb Z}L_g\n\\]\nunder which\n\\[\n M_{f+g}\\cong M_f\\otimes M_g,\n \\qquad\n S_{f+g}\\cong(-1)^{ab}S_f\\otimes S_g.\n\\]\nThe assertion includes one-variable powers, with reduced zeroth homology.",
+      "summary": "不交变量和的整数张量公式",
+      "conditions": "Disjoint variable sets,isolatedcriticalpoints;integrallattice tensor product,monodromytensor andSeifertsign(-1)^(ab). Includesonevariable reducedH0;sign anddimension conventions retained.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-SPECTRUM",
+      "key": "high:bg:spectrum",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:spectrum",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        68,
+        78
+      ],
+      "statement_tex": "If $f$ is weighted homogeneous of normalized degree $1$ and has an isolated\ncritical point, its spectral polynomial is\n\\begin{equation}\\label{eq:bg-spectrum}\n P_f(t)=\\sum_{\\beta\\in\\operatorname{Sp}^{+}(f)}t^\\beta\n       =\\prod_{j=1}^s\\frac{t^{w_j}-t}{1-t^{w_j}}.\n\\end{equation}\nExponents are counted with multiplicity.  Their classes modulo $\\mathbb Z$\ndetermine the eigenvalues of $M_f$ by exponentiation, with a fixed choice\nof sign in the exponent.  The operator $M_f$ has finite order.",
+      "summary": "正权齐次谱与有限阶单值作用",
+      "conditions": "Positive rationalweights,weighteddegree1,isolatedcriticalpoint;P(t)=product(t^w-t)/(1-t^w),positiveexponent convention andmultiplicities. Characteristicroots alone do not identify integralSeifert forms.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-REAL",
+      "key": "high:bg:real",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:real",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        102,
+        106
+      ],
+      "statement_tex": "Let $f$ and $g$ be isolated weighted homogeneous singularities in the same\nnumber of variables.  If their multisets of positive spectral exponents\nagree modulo $2\\mathbb Z$, their real Seifert forms are isomorphic.",
+      "summary": "模二谱数据确定实 Seifert 形式的输入",
+      "conditions": "Same ambientdimension,isolatedweightedhomogeneousgerms,positive spectra equalmod2Z;concludesREALformisometry,includingeigenvalue1 conventions. Doesnot implyintegercongruence.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-ORLIK",
+      "key": "high:bg:orlik",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:orlik",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        130,
+        146
+      ],
+      "statement_tex": "Suppose $f$ is a sum of chains\n\\[\n x_1^{a_1}x_2+\\cdots+x_{r-1}^{a_{r-1}}x_r+x_r^{a_r},\n \\qquad a_i\\geq2,\n\\]\nincluding chains with $r=1$.  Write the characteristic polynomial of\n$M_f$ as $\\prod_d\\Phi_d(t)^{c_d}$, where $\\Phi_d$ is cyclotomic.\nThen, as an integral module with operator $t=M_f$,\n\\begin{equation}\\label{eq:bg-orlik}\n (L_f,M_f)\\cong\n \\bigoplus_{j=1}^{\\max c_d}\\mathbb Z[t]/\\bigl(p_j(t)\\bigr),\n \\qquad p_j(t)=\\prod_{c_d\\geq j}\\Phi_d(t).\n\\end{equation}\nIn particular, the eigenvalues with multiplicity determine this integral\nmonodromy module within the indicated class of singularities.",
+      "summary": "链和的整数单值作用模输入",
+      "conditions": "Sums ofchains withall exponents>=2,includingpurepowers;cyclotomicmultiplicities determine standardintegralmodulewithoperator. Not an integralSeifert-form isometry.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-HASSE",
+      "key": "high:bg:hasse",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:hasse",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        165,
+        169
+      ],
+      "statement_tex": "Two nondegenerate quadratic forms over a number field $F$ are isometric\nover $F$ if and only if they are isometric over $F_v$ for every place\n$v$, including the archimedean places.",
+      "summary": "数域二次形式的局部整体输入",
+      "conditions": "Nonsingularquadraticforms overnumberfield;isometric iff atEVERY finite andarchimedean completion. Not a directintegrallatticeclassification.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-APPROXIMATION",
+      "key": "high:bg:approximation",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:approximation",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        175,
+        180
+      ],
+      "statement_tex": "Let $G$ be a connected, simply connected, absolutely almost simple\nalgebraic group over a number field $F$.  If\n$\\prod_{v\\mid\\infty}G(F_v)$ is noncompact, then $G(F)$ is dense in\n$G(\\mathbb A_{F,f})$, the group of finite adelic points.",
+      "summary": "单连通群的强逼近输入",
+      "conditions": "Connected,simplyconnected,absolutelyalmostsimple group overnumberfield;noncompactarchimedeanproduct givesdensity in FINITE adeles. Restrictedproduct/integrality outsidefinitelymanyplaces,not merelyfinitecongruenceconditions.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-BG-CLASSIFICATION",
+      "key": "high:bg:classification",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "bg:classification",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/background.tex",
+      "statement_lines": [
+        199,
+        214
+      ],
+      "statement_tex": "A smooth closed manifold of dimension $d\\geq5$ that is homotopy\nequivalent to $S^d$ is homeomorphic to $S^d$.\n\nLet $q\\geq3$, and let $K_1,K_2\\subset S^{2q+1}$ be smooth oriented\nsubmanifolds homeomorphic to $S^{2q-1}$.  Suppose the knots are\n\\emph{simple}, meaning\n\\[\n \\pi_1(S^{2q+1}\\setminus K_j)\\cong\\mathbb Z,\n \\qquad\n \\pi_i(S^{2q+1}\\setminus K_j)=0\\quad(2\\leq i\\leq q-1).\n\\]\nIf their integral Seifert matrices are congruent, then they are\nambiently isotopic.  In particular their embedded sphere pairs are\nhomeomorphic.",
+      "summary": "高维球面结分类输入",
+      "conditions": "Homotopysphere dimension>=5 ishomeomorphic tosphere;simpleoriented(2q-1)-knots,q>=3,instandardS^(2q+1) withintegralSeifertcongruence areisotopic. Need actualsphericalbinding andsimplicity,not arbitraryopenbooks.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-TOPO-ANALYTIC",
+      "key": "high:topo:analytic",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "topo:analytic",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "statement_lines": [
+        69,
+        73
+      ],
+      "statement_tex": "The polynomials $f_1,f_2$ have isolated critical points at the origin,\nare reduced both as polynomials and as analytic germs, and satisfy\n$\\{\\ord_0(f_1),\\ord_0(f_2)\\}=\\{2,3\\}$.",
+      "summary": "最终多项式的约化性、孤立性和普通阶",
+      "conditions": "Fourdisjointcopiesq_j,6cubes,11/13powers;onlycriticalpointglobally0,analyticandpolynomialreducedness,orders2/3,Hessianranks16E/0. Ordinarydegree notweighteddegree.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-TOPO-SPHERE",
+      "key": "high:topo:sphere",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "topo:sphere",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "statement_lines": [
+        118,
+        121
+      ],
+      "statement_tex": "Each $K_j$ is a homotopy sphere, and each embedding\n$K_j\\subset S^{2n+1}_\\varepsilon$ is a simple knot.",
+      "summary": "行列式一与简单球面结",
+      "conditions": "Finaleigenorderscontain11and13,soPhi_d(1)=1 anddet(1-T)=1;Wang/Alexanderdualityandconnectivity makebindinghomotopysphere andcomplementsimple. Spectra alone withouttheseintegral/connectivityconditionsinsufficient.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-TOPO-ARNOLD-CORANK",
+      "key": "high:topo:arnold-corank",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "topo:arnold-corank",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "statement_lines": [
+        271,
+        278
+      ],
+      "statement_tex": "In the finite ambient dimension $N>3$ divisible by eight\nin~\\eqref{topo:dimension}, the polynomials $f_1,f_2$\nin~\\eqref{topo:polynomials} have different Hessian coranks, although\ntheir reduced complex hypersurface germs are ambiently homeomorphic.\nBoth polynomials have real coefficients, are weighted homogeneous with\npositive rational weights, and have isolated critical points at the origin.",
+      "summary": "环境同胚下 Hessian 余秩不同",
+      "conditions": "SamefiniteNdivisible8,E>0,Hessianranks16E/0;coranksunequalbutSAMEparity. This ishighdimensionalambienttopology,notC3ormetricequivalence.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-TOPO-RIGHT-EQUIVALENCE",
+      "key": "high:topo:right-equivalence",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "topo:right-equivalence",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "statement_lines": [
+        292,
+        306
+      ],
+      "statement_tex": "For the same polynomials $f_1,f_2$ and the single finite ambient dimension\n$N>3$ divisible by eight in Theorem~\\ref{thm:main}, there is a homeomorphism\ngerm\n\\[\n \\varphi:(\\C^N,0)\\longrightarrow(\\C^N,0)\n \\qquad\\text{such that}\\qquad\n f_1=f_2\\circ\\varphi.\n\\]\nNevertheless, their multiplicities are respectively $2$ and $3$. Thus\nneither multiplicity nor multiplicity modulo two is invariant under\ntopological right equivalence, even for reduced real-coefficient weighted\nhomogeneous holomorphic germs with positive rational weights and isolated\ncritical points at the origin.",
+      "summary": "右拓扑重数及奇偶反例",
+      "conditions": "Samehighdimensionalrealpolynomials orders2/3;King/Saekibridge yieldsf1=f2∘phi,realcoefficientsremoveconjugation alternative. phi neednot equalconstructedambientmap;historicalbridgeunreviewed.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-TOPO-TANGENT-MILNOR",
+      "key": "high:topo:tangent-milnor",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "topo:tangent-milnor",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/conclusion.tex",
+      "statement_lines": [
+        356,
+        374
+      ],
+      "statement_tex": "In the single ambient dimension $N+1$, put\n\\[\n \\widetilde f_j(z,t)=f_j(z)+t^2,\\qquad j=1,2.\n\\]\nThe germs $\\widetilde f_1,\\widetilde f_2:(\\C^{N+1},0)\\to(\\C,0)$ are\ntopologically right equivalent and have isolated critical points at the\norigin, but\n\\[\n H_0\\bigl((\\widetilde f_1)_*^{-1}(1);\\Z\\bigr)\\cong\\Z,\n \\qquad\n H_0\\bigl((\\widetilde f_2)_*^{-1}(1);\\Z\\bigr)\\cong\\Z^2.\n\\]\nThus integral homology of the initial-form Milnor fibre is not invariant\nunder topological right equivalence, already in degree zero. In particular,\nthe initial-form Milnor-fibre homotopy conjecture of Budur, Fern\\'andez de\nBobadilla, L\\^e, and Nguyen\n\\cite[Conjecture~1.7 in arXiv v3]{BudurEtAl2022ContactLoci} fails.",
+      "summary": "加共同平方后的初始形式纤维差异",
+      "conditions": "Addcommonnewt² preservesrightequivalence/isolation;fullordinaryinitialform Q+t²versust² hasH0 ZversusZ². Do notsquarefreereducet²;initialformsneednot haveisolatedcriticalpoints.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-REVERSER",
+      "key": "high:local:reverser",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:reverser",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "statement_lines": [
+        30,
+        35
+      ],
+      "statement_tex": "There is an integral involution $C_j$ of $L_j$ such that\n\\[\n C_j^{-1}T_jC_j=T_j^{-1},\\qquad C_j^{\\mathsf t}B_jC_j=B_j.\n\\]",
+      "summary": "实系数诱导的整数反转子",
+      "conditions": "Realcoefficientgerms,EVENambientdimension;complexconjugation givesintegralinvolutionC reversingT andpreservingB,withpositive/negativepush-offlinkingsigns.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-GLOBAL-DETERMINANTS",
+      "key": "high:global:determinants",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "global:determinants",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "statement_lines": [
+        84,
+        90
+      ],
+      "statement_tex": "For every prime $\\ell$, the ratio\n$\\widehat R^{-1}\\widehat D_\\ell$ has determinant $1$ on every\neigenspace of $\\tau_1\\otimes\\tau_1$ over $\\overline{\\Q_\\ell}$.\nThis remains true after tensoring both maps with identity maps on any\ncommon finite-order operator data.",
+      "summary": "逐特征空间的行列式缺陷抵消",
+      "conditions": "R andDell areequivariantformisometries andC reversers;correctedfourthtensor rati o=a⊗CaC^-1 hasdet1 onEVERY completeproducteigenspace,includingcoincidentproducts/eigen1. Preservedaftercommonidentitytensors.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-GLOBAL-INDEFINITE",
+      "key": "high:global:indefinite",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "global:indefinite",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "statement_lines": [
+        166,
+        174
+      ],
+      "statement_tex": "Every eigenvalue of $\\Theta_j$ has odd order divisible by both $11$\nand $13$.  On every complex eigenspace, the hermitian form\n\\[\n (x,y)\\longmapsto\\beta_j(x,\\overline y)\n\\]\nis nondegenerate and indefinite; the complex dimension of that\neigenspace is at least $21$.",
+      "summary": "共同幂和产生非紧 Hermitian 因子",
+      "conditions": "Addsixcubes and11th/13thpowers tofourthtensorseeddata. Allfinaleigenordersoddanddivisible11,13;eachfullcomplexeigenspaceHermitianformnondegenerateindefinite anddimension>=21. Not an ad hocfinite-sign heuristic.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-GLOBAL-INTEGRAL",
+      "key": "high:global:integral",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "global:integral",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/global.tex",
+      "statement_lines": [
+        256,
+        264
+      ],
+      "statement_tex": "The triples $H_1$ and $H_2$ in \\eqref{global:final-data} are\nisometric over $\\Z$: there is a lattice isomorphism\n$U:\\Lambda_1\\longrightarrow\\Lambda_2$ satisfying\n\\[\n U\\Theta_1=\\Theta_2U,\n \\qquad U^{\\mathsf t}\\beta_2U=\\beta_1.\n\\]",
+      "summary": "全格稳定子中的整数等变同构",
+      "conditions": "Correctedrationalandlocalisometries,allfinalSUfactorssimplyconnected/noncompact,restrictedadeliccosetstabilizesFULLlattice. Densityproducesglobalintegralontoisometry;no integralcyclotomicsplitting or effectiveheight boundassumed.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-THM-MAIN",
+      "key": "high:thm:main",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "thm:main",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/introduction.tex",
+      "statement_lines": [
+        39,
+        51
+      ],
+      "statement_tex": "There is a finite integer $N>3$, divisible by eight, and there are reduced\npolynomials $f_1,f_2\\in\\R[z_1,\\ldots,z_N]$, weighted homogeneous for\npositive rational weights, such that:\n\\begin{enumerate}[label=\\textup{(\\roman*)}]\n\\item each $f_j$ has an isolated critical point at the origin;\n\\item $\\ord_0f_1=2$ and $\\ord_0f_2=3$;\n\\item there is a homeomorphism germ of ambient pairs\n\\[\n (\\C^N,V(f_1),0)\\ \\cong\\ (\\C^N,V(f_2),0).\n\\]\n\\end{enumerate}",
+      "summary": "高维重数二与三的环境同胚构造",
+      "conditions": "ExistsonefiniteN>3 divisible8 andtwo reducedrealpolynomials,positive rationalweightedhomogeneous,isolatedcriticalpoints,ordinaryorders2/3,andambientpairhomeomorphism. Nnot minimized;no holomorphic/biLipschitzmap or practicalconstructioncost.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-SYMMETRIZE",
+      "key": "high:local:symmetrize",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:symmetrize",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        22,
+        29
+      ],
+      "statement_tex": "Each $B_j$ is an integral unimodular symmetric form preserved by $T_j$.\nThe pair $(B_j,T_j)$ recovers $S_j$ by $S_j=B_jT_j^{-r}$.\nThe real Seifert isometry is an equivariant real isometry of the\nsymmetric data.  Symmetrization commutes with tensor products of\neven-variable factors, up to the common signs in\nTheorem~\\ref{bg:ts}.",
+      "summary": "奇阶单值作用下的可逆对称化",
+      "conditions": "Evenambientdimension,T=S^-1 S^t ofcommonoddorder,m odd,2r=1modm;B=ST^r integralunimodularsymmetric,T-invariant,S recoveredbyBT^-r. Requiresoperatorintertwining andcommon tensorsigns.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-LIFTING",
+      "key": "high:local:lifting",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:lifting",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        68,
+        79
+      ],
+      "statement_tex": "Let $\\ell$ be an odd prime and let $\\mathcal A$ be a commutative\n$\\Z_\\ell$-algebra that is finite as a $\\Z_\\ell$-module.  Write $J$ for\nits Jacobson radical.  Then $\\mathcal A/J$ is a product of finite fields,\nand $\\mathcal A$ is complete for the $J$-adic topology.  For a unit\n$u\\in\\mathcal A$:\n\\begin{enumerate}\n\\item if its image in every residue field is a square, then $u$ is a\nsquare in $\\mathcal A$;\n\\item $u=a^2+b^2$ for some $a,b\\in\\mathcal A$.\n\\end{enumerate}",
+      "summary": "有限算子代数中的奇素数提升",
+      "conditions": "Oddprimeell;commutativefiniteZell-algebra completeinradicaltopology. Unitresiduesquarelifts to square,and everyunit isa²+b². Not thedyadiccase orarbitrarynoncommutativealgebra.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-ODD-PRIMES",
+      "key": "high:local:odd-primes",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:odd-primes",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        103,
+        113
+      ],
+      "statement_tex": "Let $L$ be a finite free $\\Z_\\ell$-module, with $\\ell$ odd, and let\n$T$ be an automorphism of $L$.  If $B_1,B_2$ are unimodular symmetric\nforms preserved by $T$, then\n\\[\n (L\\otimes L,T\\otimes T,B_1\\otimes B_1)\n \\cong\n (L\\otimes L,T\\otimes T,B_2\\otimes B_2)\n\\]\nby an equivariant integral isometry.",
+      "summary": "奇素数上的等变张量平方同构",
+      "conditions": "SamefinitefreeZellmodulewithoperatorT,ellodd,twoT-invariantunimodularsymmetricforms. TensorSQUARES equivariantlyisometric;doesnot implyoriginalformsisometric. Fullorderedoffdiagonalblocks paired.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-DYADIC",
+      "key": "high:local:dyadic",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:dyadic",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        201,
+        206
+      ],
+      "statement_tex": "Let $L$ be a finite free $\\Z_2$-module, and let $T$ satisfy $T^m=1$\nfor an odd $m$.  Suppose $1$ is not an eigenvalue of $T$ on\n$L\\otimes\\Q_2$.  Any two $T$-invariant unimodular symmetric forms\non $L$ are equivariantly isometric over $\\Z_2$.",
+      "summary": "去掉一特征值后的二进唯一性",
+      "conditions": "FinitefreeZ2module,T^m=1 withm odd,noeigenvalue1 overQ2;T-invariantunimodularsymmetricforms equivariantlyisometric. Nontrivialunramifiedinvolution andtrace/norm lifting required.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-HERMITIAN-LENGTHS",
+      "key": "high:local:hermitian-lengths",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:hermitian-lengths",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        309,
+        318
+      ],
+      "statement_tex": "Let $E/F$ be a quadratic field extension with $\\operatorname{char}F\\ne2$,\nand let $h_1,h_2$ be nonsingular hermitian forms.  If the quadratic\nforms\n\\[\n Q_{h_j}(x)=h_j(x,x)\n\\]\non the underlying $F$-spaces are isometric, then $h_1,h_2$ are\n$E$-linearly isometric.",
+      "summary": "长度二次形式到 Hermitian 同构",
+      "conditions": "QuadraticfieldextensionE/F,charF!=2,nonsingularHermitianforms;isometricunderlyingFlengthquadraticforms implyE-linearHermitianisometry bylinecancellation. Not an arbitraryfieldextension.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-HASSE-DESCENT",
+      "key": "high:local:hasse-descent",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:hasse-descent",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        360,
+        365
+      ],
+      "statement_tex": "Let $(V_j,U_j,\\beta_j)$ be rational vector spaces with nonsingular\nsymmetric forms preserved by operators of finite odd order.\nIf they are equivariantly isometric over $\\R$ and over $\\Q_\\ell$\nfor every prime $\\ell$, then they are equivariantly isometric over $\\Q$.",
+      "summary": "等变有理形式的局部整体下降",
+      "conditions": "Nonsingularsymmetric rationalspaces,finiteODDoperatororder;equivariantisometries overR andallQell giveoneoverQ. Tensorcanregain eigenvalue1,soordinaryquadraticcomponent retained;exclude-1byoddorder.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-LOCAL-RATIONAL",
+      "key": "high:local:rational",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "local:rational",
+      "aliases": [
+        "local:conclusion"
+      ],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/local.tex",
+      "statement_lines": [
+        412,
+        423
+      ],
+      "statement_tex": "\\label{local:conclusion}\nSet\n\\[\n A_j=(L_j,T_j,B_j)^{\\otimes2}.\n\\]\nThere are an equivariant rational isometry\n$R:A_1\\otimes\\Q\\longrightarrow A_2\\otimes\\Q$ and, for every prime\n$\\ell$, an equivariant isometry\n$D_\\ell:A_1\\otimes\\Z_\\ell\\longrightarrow A_2\\otimes\\Z_\\ell$.\nThese can be chosen so that $D_\\ell=R$ after extension to $\\Q_\\ell$\nfor all but finitely many primes.",
+      "summary": "第一张量平方的局部与有理比较",
+      "conditions": "Preparedseeddata;oneequivariantR overQ andDelleveryZell onfirstsquares,Dell=R exceptfinitelymanyprimes. Doesnotyet giveglobalintegerisometry. Aliaslocal:conclusion not an extraresult.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-SEED-PRODUCT",
+      "key": "high:seed:product",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "seed:product",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "statement_lines": [
+        7,
+        20
+      ],
+      "statement_tex": "Set $d=3^{11}$ and\n\\[\n \\mathcal B=\\{b\\in\\Z:0<b<d/2,\\ 3\\nmid b\\},\\qquad\n A_b=\\frac{d-b}{b},\\qquad\n R_b=\\frac{(2d+b)(2d-b)}{(3d-b)(d+b)}.\n\\]\nThere are integers $e_b$, $b\\in\\mathcal B$, such that\n\\begin{equation}\\label{seed:products}\n E:=\\sum_{b\\in\\mathcal B}e_b>0,\n \\qquad \\prod_{b\\in\\mathcal B}A_b^{e_b}\n =\\prod_{b\\in\\mathcal B}R_b^{e_b}=1.\n\\end{equation}",
+      "summary": "两组正有理数的整数乘积关系",
+      "conditions": "d=3^11,b in(0,d/2),3∤b;existsinteger e withpositiveE=sum e andbothspecifiedpositiveproducts1. Primecut4450,896columns867valuationrows andaugmentedrank868mod1009 areSOURCEfinitecertificateclaims,NOT locallyexecutedresults.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-SEED-CHAIN",
+      "key": "high:seed:chain",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "seed:chain",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "statement_lines": [
+        78,
+        91
+      ],
+      "statement_tex": "Let $D$ be a positive odd integer and let $c\\in\\Z$ satisfy\n$0<c<D/2$.  There is a chain\npolynomial\n\\begin{equation}\\label{seed:chain-polynomial}\n F_c=x_1^{a_1}x_2+\\cdots+x_{\\ell-1}^{a_{\\ell-1}}x_\\ell\n       +x_\\ell^{a_\\ell}\n\\end{equation}\nof weighted degree $1$, whose first weight is $c/D$, all of whose\nweights are positive and less than $1/2$, and all of whose ordinary\nmonomial degrees are at least $3$.  It has an isolated critical point\nat the origin.  Removing its first variable and first monomial gives\na chain with exactly the remaining weights, when $\\ell>1$.",
+      "summary": "指定正权补成孤立链",
+      "conditions": "OddpositiveD,0<c<D/2;decreasingremainderchainfirstweightc/D,allweights(0,1/2),ordinarymonomialdegrees>=3,isolatedcriticalpoint,andtailretainsremainingweights. ActualselectedLeanoutputandtailidentitycompared;no build.",
+      "source_claim_grade": "B"
+    },
+    {
+      "id": "CLM-059-HIGH-SEED-SEEDS",
+      "key": "high:seed:seeds",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "seed:seeds",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "statement_lines": [
+        116,
+        128
+      ],
+      "statement_tex": "There are real-coefficient weighted homogeneous polynomials\n$p_1,p_2$, each in an even number $s_0$ of variables, such that:\n\\begin{enumerate}\n\\item both are sums, in disjoint variables, of chains with exponents\n      at least $2$, and both have isolated critical points;\n\\item $\\ord_0p_1=2$ and $\\ord_0p_2=3$;\n\\item their spectral multisets are equal modulo $2$;\n\\item their real Seifert forms are isomorphic, and, separately, their\n      integral monodromy modules are isomorphic;\n\\item both monodromy operators have order dividing $D=3^{12}$.\n\\end{enumerate}",
+      "summary": "保持不同普通阶的模二谱种子",
+      "conditions": "Disjointchain/tailcopies realize signedweights;4Esquaresonside1 plus2commoncubes balanceEVENsamevariables s0. Orders2/3,spectraequalitymod2,SEPARATErealSeifertandintegralmonodromyisomorphisms;monodromyorder divides3^12.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-HIGH-SEED-PREPARED",
+      "key": "high:seed:prepared",
+      "manuscript_id": "P-b37600a212e7ade9",
+      "label": "seed:prepared",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/sections/seeds.tex",
+      "statement_lines": [
+        276,
+        290
+      ],
+      "statement_tex": "In two new variables on each side, put\n\\begin{equation}\\label{seed:q-definition}\n q_j=p_j+x^5+y^7,\\qquad j=1,2,\n \\qquad s=s_0+2.\n\\end{equation}\nThese are real-coefficient isolated sums of chains in the same even\nnumber $s$ of variables, with orders $2$ and $3$.  Their real Seifert\nforms are isomorphic, and their integral monodromy modules are\nisomorphic.  Both monodromies have odd order dividing\n\\[\n m=3^{12}\\cdot5\\cdot7,\n\\]\nand neither has eigenvalue $1$.",
+      "summary": "共同五次和七次幂去掉一特征值",
+      "conditions": "q_j=p_j+x5+y7,s=s0+2 even;preserveorders/realform/integralmodule,oddmonodromyorderdivides35*3^12 andnoeigen1. Latertensorpowerscanregain eigen1.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-THM-MAIN",
+      "key": "four:thm:main",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "thm:main",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        31,
+        45
+      ],
+      "statement_tex": "There are reduced convergent holomorphic function germs\n\\(f_4,f_5\\colon(\\mathbb C^4,0)\\to(\\mathbb C,0)\\), each with an isolated\ncritical point at the origin, such that\n\\[\n   \\operatorname{ord}_0f_4=4,\\qquad\n   \\operatorname{ord}_0f_5=5,\n\\]\nand a homeomorphism germ of ambient pairs\n\\[\n   (\\mathbb C^4,V(f_4),0)\n      \\;\\cong\\;\n   (\\mathbb C^4,V(f_5),0).\n\\]",
+      "summary": "四复变量中重数四与五的独立构造",
+      "conditions": "Reducedconvergentholomorphicgerms(C4,0)->(C,0),isolatedcriticalpoints,ordinaryorders4/5,andambientpairhomeomorphism. Analyticchartfunctions,not claimedexplicitpolynomials;independentofhighdimensional2/3route.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-PLANE-DATA",
+      "key": "four:lem:plane-data",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:plane-data",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+      "statement_lines": [
+        30,
+        43
+      ],
+      "statement_tex": "Each \\(\\pi_i\\) is a finite map germ of degree four. The curves \\(d_i=0\\)\nare reduced, have isolated singularities at the origin, and have the same\nsix-branch embedded type. Their integral Milnor Seifert forms are\nisometric, and each has Milnor number \\(51\\).\nLet \\(\\Phi_5(t)=t^4+t^3+t^2+t+1\\).  If \\(M_h\\) is the monodromy on\n\\(H_{\\mathbb Q}=H\\otimes\\mathbb Q\\), then\n\\[\n \\dim_{\\mathbb Q}\\ker(M_h-I)=2,\\qquad\n \\dim_{\\mathbb Q}\\ker\\Phi_5(M_h)=4.\n\\]\nThe monodromy on either \\(D_i\\otimes\\mathbb C\\) is semisimple at\neigenvalue \\(1\\) and at every primitive fifth root of unity.",
+      "summary": "度四映射及六支平面曲线数据",
+      "conditions": "Twoexplicitgraphmapsgermsdegree4;pullbacksreducedisolatedsixbranchsametype,Milnornumber51 andintegralSeifertisometry. Baseh hasfixedsectorrank2/fifthsectorrank4;upstairssemisimpleat1/fifthroots. Abstractisometrydoesnot intertwinepi maps.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-COVER-ADJUNCTION",
+      "key": "four:lem:cover-adjunction",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:cover-adjunction",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/02-plane.tex",
+      "statement_lines": [
+        208,
+        229
+      ],
+      "statement_tex": "For \\(i=0,1\\), the page maps induce\n\\(\\pi_{i*}:D_i\\to H\\) and a full-preimage transfer\n\\(\\pi_i^!:H\\to D_i\\) satisfying\n\\[\n \\pi_{i*}\\pi_i^!=4\\,\\mathrm{id}_H .\n\\]\nIf \\(s_h,s_{d_i}\\) are the Seifert forms computed by ordered\nfilling-chain intersection in the total Milnor tubes, then\n\\[\n s_{d_i}(\\pi_i^!a,b)=s_h(a,\\pi_{i*}b),\\qquad\n s_{d_i}(b,\\pi_i^!a)=s_h(\\pi_{i*}b,a).\n\\]\nConsequently, after tensoring with \\(\\mathbb Q\\),\n\\[\n D_{i,\\mathbb Q}=(\\ker\\pi_{i*})_{\\mathbb Q}\n       \\ \\perp\\ \\pi_i^!H_{\\mathbb Q},\\qquad\n \\operatorname{pr}_i(l)=l-\\tfrac14\\pi_i^!\\pi_{i*}l\n\\]\nis the projection onto \\((\\ker\\pi_{i*})_{\\mathbb Q}\\) for both orders\nof the form.",
+      "summary": "有限覆盖的双序 Seifert 伴随",
+      "conditions": "ActualfinitepageprojectionpushforwardandFULLpreimagetransfer,pi*pi!=4. Orderedfillingadjunction inBOTHarguments;D_Q=kerpi* perp pi!H_Q andpr=l-(1/4)pi!pi*l. Needactualcut comparison/ramificationtransversality.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-SIMULTANEOUS-PARAMETERS",
+      "key": "four:lem:simultaneous-parameters",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:simultaneous-parameters",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+      "statement_lines": [
+        10,
+        32
+      ],
+      "statement_tex": "For every sufficiently large integer \\(r\\), choose an integer \\(n_0\\)\nsuch that\n\\[\n n_0\\equiv1\\pmod{2^r},\\qquad n_0\\equiv2\\pmod5,\\qquad\n n_0>5\\cdot2^r,\n\\]\nand define\n\\begin{align*}\n n_1&=n_0+5\\cdot2^r,&\n a&=(n_0^2-1)/4,& b&=(n_1^2-1)/4,\\\\\n \\alpha&=\\frac{4b}{a+b},&\n \\beta&=\\frac{4a}{a+b}.\n\\end{align*}\nThen \\(a,b\\) are positive comparable integers,\n\\(n_0,n_1\\equiv1\\pmod4\\), and \\(\\gcd(n_0,n_1)=1\\).\nMoreover\n\\[\n \\alpha+\\beta=4,\\qquad a\\alpha=b\\beta,\\qquad\n \\frac{(a-2)\\alpha}{4}>4,\\qquad\n \\frac{(b-2)\\beta}{4}>4.\n\\]",
+      "summary": "分析与算术共用的参数顺序",
+      "conditions": "Sufficientlylargeinteger r,choose n0=1mod2^r,2mod5,>5*2^r;setn1=n0+5*2^r and a=(n0²-1)/4,b=(n1²-1)/4. gcd(n0,n1)=1,comparablea,b,alph+beta4,a*alpha=b*beta,andstrictgradientbounds>4. Choose s onlyAFTERtuplefixed.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-PROP-AMBIENT-ORDERS",
+      "key": "four:prop:ambient-orders",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "prop:ambient-orders",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/03-ambient.tex",
+      "statement_lines": [
+        87,
+        94
+      ],
+      "statement_tex": "For the parameters of Lemma~\\ref{lem:simultaneous-parameters}\nand every sufficiently small \\(s>0\\), each \\(C_{i,s}\\) is a smooth\ncomplex fourfold near the origin, and \\(f_{i,s}\\) has an isolated\ncritical point there, as proved in Lemma~\\ref{lem:isolation}. After solving the smooth ambient equations\nin analytic local coordinates, \\(f_{0,s}\\) has order five and\n\\(f_{1,s}\\) has order four. Both are reduced convergent germs.",
+      "summary": "光滑四维环境中的普通阶计算",
+      "conditions": "MonicWeierstrassgraphs ands sufficientlysmallpositive;C_i,s smoothC4germs,analyticimplicitcoordinatesgiveorders5/4 andnonzeroinitialforms. Reducedness/criticalisolation rely onseparatelemma:isolation;not merelyinitialtermcalculation.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-THM-TUBE",
+      "key": "four:thm:tube",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "thm:tube",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/04-tube.tex",
+      "statement_lines": [
+        59,
+        83
+      ],
+      "statement_tex": "For sufficiently large \\(a,b\\) satisfying\n\\[\n \\frac{(a-2)\\alpha}{k}>L_0,\\qquad\n \\frac{(b-2)\\beta}{k}>L_0,\n\\]\nwhere \\(L_0=4\\) is the gradient exponent in\n\\eqref{eq:plane-gradient}, and for sufficiently small \\(s>0\\), the germ\n\\(f_s:C_s\\to\\C\\) has its sole critical point at the origin in a fixed\nsmall tube. Its integral Milnor lattice, in rational coordinates, is\n\\begin{equation}\n\\Lambda_\\pi=\n\\left\\{(\\pr l,z): l\\in D,\\ z\\in H\\otimes E,\\quad\n\\pi_*l\\bmod kH=(1\\otimes\\tau)z\\right\\}\n\\subset K_\\Q\\oplus(H\\otimes E)_\\Q.\n\\label{eq:tube-1}\n\\end{equation}\nThe rational orthogonal filling form on these coordinates is\n\\begin{equation}\n  -s_d|_K\\ \\perp\\ (s_h\\otimes e).\n\\label{eq:tube-2}\n\\end{equation}\nThe lattice and form are those of a genuine local Milnor page of\n\\(f_s\\) in the smooth ambient germ \\(C_s\\).",
+      "summary": "实际局部页的模四格与填充形式",
+      "conditions": "k4,commonlargea,b satisfyingstrictgradientbounds>4 andsmallfixeds. Exactlatticepairs(pr l,z),pi*l mod4H=(1⊗tau)z;form -sd|K perp(sh⊗e),e=(1/4)upstairsfulltransferpairing. MustbeACTUALlocalMilnorpage,not abstractlatticealone.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-BOUNDARY",
+      "key": "four:lem:boundary",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:boundary",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "statement_lines": [
+        48,
+        57
+      ],
+      "statement_tex": "For every sufficiently small fixed \\(s>0\\), the map \\(f_s\\) on\nthe compact outer lateral boundary of \\(X_s\\) over\n\\(\\{|v|\\le\\delta\\}\\) is proper, and its restriction to every\nstratum has real rank two throughout that disk.\nIn particular, all active lateral faces and corners of \\eqref{eq:tube-4}\nare independent of the horizontal face over \\(|f_s|=\\delta\\).\nThe horizontal boundary map is proper on the union of lateral\nstrata and a submersion on each stratum.",
+      "summary": "自定义外边界全值盘正则性",
+      "conditions": "Fixeds small;compactGENUINEouterlateralstrata/baseball/h-cut/verticalfaces andcorners rank2overwholeclosedvaluedisk. AuxiliaryinnerJisnot an outerstratum;no claimofdiskwidesubmersionthere.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-CONTINUATIONS",
+      "key": "four:lem:continuations",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:continuations",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "statement_lines": [
+        153,
+        172
+      ],
+      "statement_tex": "For sufficiently small \\(s>0\\), the exterior total/page pairs continue\nto \\(s=0\\). On the inner part, the sublevel totals and\nhorizontal-boundary fibrations continue from \\(h+P\\) to \\(h\\)\nthrough \\(h+\\theta P\\), \\(0\\le\\theta\\le1\\). These continuations preserve the complex\nvalue on the horizontal boundary and agree on \\(J\\) up to isotopy\nthrough their two-parameter rectangle.\n\nThey can be chosen to preserve the label \\(p_0\\), the coordinate\n\\(w_0\\), and the exact positive \\(y\\)-angle \\(\\phi\\) on the\ninterface circles characterized by\n\\[\n p=\\Phi(p_0,q),\\qquad w=w_0,\\qquad\n y=M\\lambda^\\alpha e^{i\\phi},\\qquad h(p)+\\theta P(y,z,w)=c.\n\\]\nHere \\(z=R_s(p,w_0)/y\\), and \\(q\\) is the unique value near \\(c\\)\nthat satisfies these equations. The inner continuation is an isotopy\nof sublevel totals; value preservation is required on its horizontal\nboundary, not through its critical region.",
+      "summary": "保留标记与角度的模型延拓",
+      "conditions": "Exteriorsto0,innerh+thetaPtoh isotopiesofSUBLEVELTOTALSandhorizontalboundaryfibrations,withbasepagelabelp0,w0,positiveyanglefixed. Physicalp maymove. Do notrequirevaluepreservationthroughcriticalinnertotal;nohiddenbase-circle shear.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ISOLATION",
+      "key": "four:lem:isolation",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:isolation",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/05-boundary.tex",
+      "statement_lines": [
+        273,
+        277
+      ],
+      "statement_tex": "For sufficiently large \\(a,b\\) as in Theorem~\\ref{thm:tube},\nthe only critical point of \\(f_s\\) in \\eqref{eq:tube-4} for all sufficiently\nsmall \\(s>0\\) is the origin.",
+      "summary": "统一管内的临界点孤立性",
+      "conditions": "Samea,b tupleandallsufficientlysmalls;constrainedcriticalequations/rescaledmultiplierchi=s^k chiorig,gradientvaluationL0=4andstrictinequalities excludeallnonoriginpoints. Includesp0/axis/u0cases andallverticalscales.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ACYCLIC",
+      "key": "four:lem:acyclic",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:acyclic",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "statement_lines": [
+        12,
+        20
+      ],
+      "statement_tex": "There are natural identifications\n\\begin{equation}\nH_3(W)=K,\\qquad H_2(W)=H/\\pi_*D,\\qquad\n\\Psi:H_3(W;\\Z/k)\\hookrightarrow D/kD.\n\\label{eq:tube-11}\n\\end{equation}\nThe large total \\(\\widehat\\T_s\\) is acyclic.",
+      "summary": "圆塌缩的内同调与大总空间无环",
+      "conditions": "Hyperbola-to-circlecollapsewithrootcirclecollapsed;H3(W)=kerpi*,H2(W)=H/pi*D andsignedmod4injectionintoD/4D. Acycliccustomtotalprovedseparatelyusingconeweightsandexteriorattachment;not inferredfromordinarytube theorem.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-LOCAL",
+      "key": "four:lem:local",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:local",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "statement_lines": [
+        138,
+        142
+      ],
+      "statement_tex": "The middle homology and filling pairing of the page of \\eqref{eq:tube-4}\nare naturally those of a sufficiently small ordinary Milnor\nrepresentative of \\(f_s\\).",
+      "summary": "大管与普通 Milnor 页的实际比较",
+      "conditions": "AFTERboundary/isolationandacyclicity;ordinaryMilnorballinsidecustomcuts,properstratifiedsubmersiononinterveningannulusoverFULLdisk. RelativeMayerVietorisanddisjointvaluecollars preserveH3andorderedfillingpairing.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-MV",
+      "key": "four:lem:mv",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:mv",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/06-collapse.tex",
+      "statement_lines": [
+        233,
+        243
+      ],
+      "statement_tex": "The full page has an exact sequence\n\\begin{equation}\n0\\longrightarrow K\\longrightarrow H_3(\\T_s)\n\\xrightarrow{\\partial} H\\otimes E\n\\xrightarrow{\\overline{1\\otimes\\tau}}H/\\pi_*D.\n\\label{eq:tube-13}\n\\end{equation}\nThe image of the exterior page in \\(H_3(\\T_s)\\) maps\nisomorphically under \\(\\partial\\) to \\(H\\otimes\\ker\\tau\\).",
+      "summary": "外部切割的有符号正合序列",
+      "conditions": "0->K->H3(T)->H⊗E->H/pi*D withlastmappositivequotient1⊗tau. Exteriorimagemapsiso H⊗kertau AFTERinterfaceH3generatordiesininner. Stoppedradialretraction preservesbasepagelabelandactualinterface,notP=0.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-BOCK",
+      "key": "four:lem:bock",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:bock",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+      "statement_lines": [
+        21,
+        29
+      ],
+      "statement_tex": "For \\(b\\in H/kH=H_2(J)\\), and any\n\\(\\eta\\in H_3(J;\\Z/k)\\) with \\(\\beta_{\\rm Bock}\\eta=b\\),\n\\begin{equation}\n\\Psi(i_*\\eta)=\\pi^!b\\pmod{kD},\n\\label{eq:tube-14}\n\\end{equation}\nwith the orientation of \\(\\Psi\\) fixed after \\eqref{eq:tube-12}.",
+      "summary": "Bockstein 类与完整有限映射转移",
+      "conditions": "ConventionBock[Cbarmod4]=[dC/4],signedPsi;foranyliftetaofb inH/4H,Psi i*eta=pi!bmod4D. Anchoredcircles,fullrootdiagonal,basebraidorbitsandseamcapnaturalities required;not individualrootclosure.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-LATTICE",
+      "key": "four:lem:lattice",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:lattice",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/07-lattice.tex",
+      "statement_lines": [
+        263,
+        274
+      ],
+      "statement_tex": "In these rational coordinates, the image of \\(H_3(\\T_s)\\) is exactly\nthe lattice\n\\[\n\\Lambda_\\pi=\n\\left\\{(\\pr l,z): l\\in D,\\ z\\in H\\otimes E,\\quad\n\\pi_*l\\bmod kH=(1\\otimes\\tau)z\\right\\}\n\\subset K_\\Q\\oplus(H\\otimes E)_\\Q\n\\]\nfrom \\eqref{eq:tube-1}, where\n\\(\\pr l=l-k^{-1}\\pi^!\\pi_*l\\).",
+      "summary": "分数坐标中完整整数延拓格",
+      "conditions": "Innernumeratoru=4x-xext(4z) satisfiesu=-pi!bmod4D. pr l andresidueconditiongiveALLintegralpageclasses;K∩4D=4K usesHtfree. Sameabstractplaneformisometryneednotmatchresidues.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-EXTERIOR",
+      "key": "four:lem:exterior",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:exterior",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+      "statement_lines": [
+        12,
+        16
+      ],
+      "statement_tex": "The \\(K_\\Q\\) and \\((H\\otimes E)_\\Q\\) summands are\northogonal for the tube filling form. The\nsecond summand has form \\(s_h\\otimes e\\).",
+      "summary": "正交填充与四重覆盖除数",
+      "conditions": "K_Q and(H⊗E)_Q orthogonalinBOTHorders;exteriorforms sh⊗e,e=1/4s_upstairs(tr,tr). AdjustexteriorclassbyinterfaceH3generatortobound;coverorientation/joinKoszulsignsretained.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-INNER",
+      "key": "four:lem:inner",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:inner",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/08-fillings.tex",
+      "statement_lines": [
+        90,
+        93
+      ],
+      "statement_tex": "The restriction of the filling form to\n\\(K\\) is \\(-s_d|_K\\).",
+      "summary": "内填充的负号",
+      "conditions": "Innerform=-sd|K. Two distinctbalancingradii separatesweeps awayfromroots;incidentalcone-tipschainboundariesandtransversality controlled;normalgraphdiskdeterminantisnegative. Coordinate signflipdoesnotremovebilinearminus.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-PARAMETER-INDICES",
+      "key": "four:lem:parameter-indices",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:parameter-indices",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        18,
+        29
+      ],
+      "statement_tex": "For the parameters fixed in Lemma~\\ref{lem:simultaneous-parameters}, put\n\\[\n g=\\gcd(a,b),\\qquad m=4ab+a+b.\n\\]\nThen \\(a,b\\equiv2\\pmod5\\), \\(5\\nmid g\\), and\n\\(g\\ge 2^{r-1}>5\\). For each \\(q\\in\\{1,4\\}\\), there are positive\nintegers \\(i,j\\) satisfying\n\\[\n i\\equiv j\\pmod4,\\qquad \\frac{bi+aj}{m}=\\frac q5 .\n\\]",
+      "summary": "互素局部指标与正特征权",
+      "conditions": "Samefixedparametersgivea,b=2mod5,gcdg>=2^(r-1)>5,5∤g;positivei,j withi=jmod4,(bi+aj)/m=q/5 forq1,4. Positivity andcongruencesneededforholomorphicendestimates.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ARITH-BOUNDARY",
+      "key": "four:lem:arith-boundary",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:arith-boundary",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        121,
+        130
+      ],
+      "statement_tex": "The classes $b_0,b_1$ are fixed by the page monodromy, and\n\\begin{equation}\\label{eq:arith-boundary-pairings}\n \\begin{aligned}\n e(b_j,b_j)&=-\\frac{n_j^2}{4},&\n e(b_0,b_1)&=-\\frac14,\\\\\n 4e(b_j,x)&\\equiv-\\tau(x)\\pmod4&&(x\\in E).\n \\end{aligned}\n\\end{equation}",
+      "summary": "两条有向边界向量的配对",
+      "conditions": "Graphindexandboundaryindexindependent;b0complexoriented/y-axis,b1opposite/z-axis,tau(bj)=1. e(bj,bj)=-nj²/4,e(b0,b1)=-1/4,4e(bj,x)=-tau(x)mod4. Fullcoverorientationessential.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ARITH-LOCAL-SPLITTING",
+      "key": "four:lem:arith-local-splitting",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:arith-local-splitting",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        204,
+        225
+      ],
+      "statement_tex": "For every rational prime $\\ell\\nmid n_j$, the lattice\n$E_{\\mathbb Z_\\ell}$ has the following $\\mathbb Z_\\ell$-module\nsplitting, orthogonal for the $\\mathbb Q_\\ell$-valued form $e$:\n\\[\n E_{\\mathbb Z_\\ell}=\n \\mathbb Z_\\ell v_j\\perp U_{j,\\ell},\n \\qquad U_{j,\\ell}\\subset\\ker(\\tau_{\\mathbb Z_\\ell}).\n\\]\nFor $\\nu=0,1$ this induces an integral Seifert isometry\n\\begin{equation}\\label{eq:arith-local-alpha}\n \\begin{split}\n \\alpha_{\\nu,j}\\colon\n &(D_\\nu,-s_{d_\\nu})_{\\mathbb Z_\\ell}\n       \\perp(H\\otimes U_{j,\\ell},s_h\\otimes e)\n       \\xrightarrow{\\ \\sim\\ }(\\Lambda_\\nu,s_\\nu)_{\\mathbb Z_\\ell},\\\\\n &(l,u)\\longmapsto\n \\bigl(\\operatorname{pr}_\\nu l,\\ \\pi_{\\nu*}l\\otimes v_j+u\\bigr).\n \\end{split}\n\\end{equation}\nIt also holds over $\\mathbb Q$.",
+      "summary": "互补素数集上的局部整数分裂",
+      "conditions": "For everyell∤nj,vj=bj/nj givesE_Zell=Zell vj perpUj withUj⊂kertau;alpha mapsDnu(-sd)perpH⊗UontoFULLlatticeLambda_nu. At2,nj=1mod4/divisionsbyunits;no splittingofglobalprimarylatticeassumed.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ARITH-DISCREPANCY",
+      "key": "four:lem:arith-discrepancy",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:arith-discrepancy",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        336,
+        343
+      ],
+      "statement_tex": "The rational Seifert isometry\n$\\Delta=J_0^{-1}J_1$ acts as the identity outside\n$F_{0,1}\\oplus F_{0,5}$.  Its restriction to $F_{0,1}$ lifts to the\nrational points of the spin group of $B_0|F_{0,1}$.  Its restriction to\n$F_{0,5}$ lies in the special unitary group of the $L/L^+$ Hermitian\nform.",
+      "summary": "反射差异的 Spin 与 SU 提升",
+      "conditions": "Jj=alpha1j(I⊕1)alpha0j^-1 areseparate rationalisometries;Delta=J0^-1J1 identityoutside1/fifthprimarysectors. Reflectionminusspacescomparesectorwise;Spinlift needsdet1ANDtrivialspinornorm;fifthsectorLdet1 givesSU.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-LEM-ARITH-REAL-SIGNS",
+      "key": "four:lem:arith-real-signs",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "lem:arith-real-signs",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        421,
+        426
+      ],
+      "statement_tex": "The quadratic form $B_\\nu|F_{\\nu,1}$ is indefinite and has dimension at\nleast five.  The Hermitian form on $F_{\\nu,5}$ has dimension at least two\nover $L$ and is indefinite at the real place of $L^+$ indexed by\nthe pair $\\{\\zeta,\\bar\\zeta\\}$. Both assertions hold for $\\nu=0,1$.",
+      "summary": "实际非紧修正群的实符号",
+      "conditions": "Invariantquadraticsectorindefinite anddimension>=5;fifthHermitiansectordim>=2overQ(zeta5),indefiniteatone specifiedrealplace. Comesfrompositiveindicesandend-regularholomorphicforms+conjugates;not an assumed genericindefiniteness.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-059-FOUR-PROP-ARITH-INTEGRAL-CONGRUENCE",
+      "key": "four:prop:arith-integral-congruence",
+      "manuscript_id": "P-023c99253d0c28f5",
+      "label": "prop:arith-integral-congruence",
+      "aliases": [],
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/sections/09-arithmetic.tex",
+      "statement_lines": [
+        557,
+        560
+      ],
+      "statement_tex": "For the two germs constructed above, the two integral Milnor Seifert\nforms $(\\Lambda_0,s_0)$ and $(\\Lambda_1,s_1)$ are isometric.",
+      "summary": "保持模四粘合的整数 Seifert 同构",
+      "conditions": "Two rationalmaps integralatcomplementaryprimes becausegcd(n0,n1)=1. LiftDelta inSpin×ResSU,verifyrealnoncompactness,andapproximateinsideFULLsource-latticestabilizers. Nointegralprimarysplitting orfiniteheight/costbound.",
+      "source_claim_grade": "C"
+    }
+  ],
+  "canonical_result_ids": {
+    "high:bg:milnor": "CLM-059-HIGH-BG-MILNOR",
+    "high:bg:ts": "CLM-059-HIGH-BG-TS",
+    "high:bg:spectrum": "CLM-059-HIGH-BG-SPECTRUM",
+    "high:bg:real": "CLM-059-HIGH-BG-REAL",
+    "high:bg:orlik": "CLM-059-HIGH-BG-ORLIK",
+    "high:bg:hasse": "CLM-059-HIGH-BG-HASSE",
+    "high:bg:approximation": "CLM-059-HIGH-BG-APPROXIMATION",
+    "high:bg:classification": "CLM-059-HIGH-BG-CLASSIFICATION",
+    "high:topo:analytic": "CLM-059-HIGH-TOPO-ANALYTIC",
+    "high:topo:sphere": "CLM-059-HIGH-TOPO-SPHERE",
+    "high:topo:arnold-corank": "CLM-059-HIGH-TOPO-ARNOLD-CORANK",
+    "high:topo:right-equivalence": "CLM-059-HIGH-TOPO-RIGHT-EQUIVALENCE",
+    "high:topo:tangent-milnor": "CLM-059-HIGH-TOPO-TANGENT-MILNOR",
+    "high:local:reverser": "CLM-059-HIGH-LOCAL-REVERSER",
+    "high:global:determinants": "CLM-059-HIGH-GLOBAL-DETERMINANTS",
+    "high:global:indefinite": "CLM-059-HIGH-GLOBAL-INDEFINITE",
+    "high:global:integral": "CLM-059-HIGH-GLOBAL-INTEGRAL",
+    "high:thm:main": "CLM-059-HIGH-THM-MAIN",
+    "high:local:symmetrize": "CLM-059-HIGH-LOCAL-SYMMETRIZE",
+    "high:local:lifting": "CLM-059-HIGH-LOCAL-LIFTING",
+    "high:local:odd-primes": "CLM-059-HIGH-LOCAL-ODD-PRIMES",
+    "high:local:dyadic": "CLM-059-HIGH-LOCAL-DYADIC",
+    "high:local:hermitian-lengths": "CLM-059-HIGH-LOCAL-HERMITIAN-LENGTHS",
+    "high:local:hasse-descent": "CLM-059-HIGH-LOCAL-HASSE-DESCENT",
+    "high:local:rational": "CLM-059-HIGH-LOCAL-RATIONAL",
+    "high:seed:product": "CLM-059-HIGH-SEED-PRODUCT",
+    "high:seed:chain": "CLM-059-HIGH-SEED-CHAIN",
+    "high:seed:seeds": "CLM-059-HIGH-SEED-SEEDS",
+    "high:seed:prepared": "CLM-059-HIGH-SEED-PREPARED",
+    "four:thm:main": "CLM-059-FOUR-THM-MAIN",
+    "four:lem:plane-data": "CLM-059-FOUR-LEM-PLANE-DATA",
+    "four:lem:cover-adjunction": "CLM-059-FOUR-LEM-COVER-ADJUNCTION",
+    "four:lem:simultaneous-parameters": "CLM-059-FOUR-LEM-SIMULTANEOUS-PARAMETERS",
+    "four:prop:ambient-orders": "CLM-059-FOUR-PROP-AMBIENT-ORDERS",
+    "four:thm:tube": "CLM-059-FOUR-THM-TUBE",
+    "four:lem:boundary": "CLM-059-FOUR-LEM-BOUNDARY",
+    "four:lem:continuations": "CLM-059-FOUR-LEM-CONTINUATIONS",
+    "four:lem:isolation": "CLM-059-FOUR-LEM-ISOLATION",
+    "four:lem:acyclic": "CLM-059-FOUR-LEM-ACYCLIC",
+    "four:lem:local": "CLM-059-FOUR-LEM-LOCAL",
+    "four:lem:mv": "CLM-059-FOUR-LEM-MV",
+    "four:lem:bock": "CLM-059-FOUR-LEM-BOCK",
+    "four:lem:lattice": "CLM-059-FOUR-LEM-LATTICE",
+    "four:lem:exterior": "CLM-059-FOUR-LEM-EXTERIOR",
+    "four:lem:inner": "CLM-059-FOUR-LEM-INNER",
+    "four:lem:parameter-indices": "CLM-059-FOUR-LEM-PARAMETER-INDICES",
+    "four:lem:arith-boundary": "CLM-059-FOUR-LEM-ARITH-BOUNDARY",
+    "four:lem:arith-local-splitting": "CLM-059-FOUR-LEM-ARITH-LOCAL-SPLITTING",
+    "four:lem:arith-discrepancy": "CLM-059-FOUR-LEM-ARITH-DISCREPANCY",
+    "four:lem:arith-real-signs": "CLM-059-FOUR-LEM-ARITH-REAL-SIGNS",
+    "four:prop:arith-integral-congruence": "CLM-059-FOUR-PROP-ARITH-INTEGRAL-CONGRUENCE"
+  },
+  "aliases_not_extra_results": {
+    "high:local:conclusion": "high:local:rational"
+  },
+  "method_contracts": [
+    [
+      "high",
+      "RELATION",
+      "增广秩到整数乘积关系",
+      "Integer valuation matrix and a row of ones with a nonsingular augmented minor",
+      "Integer kernel vector with nonzero coordinate sum,oriented positive",
+      "sections/seeds.tex",
+      7,
+      88,
+      "The source rank868/cutoff counts are not locally executed. A mod-p nonzero minor proves integer determinant nonzero;it does not identify all rational ranks. No coefficient-size efficiency bound."
+    ],
+    [
+      "high",
+      "CHAIN",
+      "递减余数构造指定正权链",
+      "Odd D and integer c with0<2c<D",
+      "Finite isolated chain with first normalized weight c/D and ordinary monomial degree>=3",
+      "sections/seeds.tex",
+      90,
+      136,
+      "Remainders strictly decrease;weights andtail deletion kept. Existing Euclidean/linear algebra methods may already suffice for finite certificates."
+    ],
+    [
+      "high",
+      "TAIL-BALANCE",
+      "互补尾部与平方变量平衡",
+      "Signed starting-weight occurrences from a positive-sum relation",
+      "Equal ambient dimensions with orders2/3",
+      "sections/seeds.tex",
+      137,
+      204,
+      "Each occurrence has disjoint chain andopposite-side tail.4E squares on side1 andcommon cubes cannot be replaced by a small unrelated example."
+    ],
+    [
+      "high",
+      "SPECTRAL-CHARACTERS",
+      "有限字符逐类比较谱",
+      "Weighted spectrum polynomials in the same ambient dimension",
+      "Equality modulo2Z of exponent multisets",
+      "sections/seeds.tex",
+      205,
+      283,
+      "Separate even,odd-non3,odd-3 characters. Atzero factors use whole finite polynomials;never cancel zero against a pole. This yields real form andoperator module separately."
+    ],
+    [
+      "high",
+      "SYMMETRIZE",
+      "保留算子的可逆对称化",
+      "Integral unimodular S with odd-order T=S^-1S^t",
+      "Symmetric B=ST^r with2r=1modm and recoverable S",
+      "sections/local.tex",
+      1,
+      62,
+      "Even-variable common signs andequivariance required;discarding T loses information."
+    ],
+    [
+      "high",
+      "ODD-TENSOR",
+      "奇素数下张量平方消除形式差异",
+      "Two unimodular symmetric forms on the same operator module",
+      "Equivariant tensor-square isometry overZell",
+      "sections/local.tex",
+      70,
+      218,
+      "Odd prime only;finite commutative operator algebra,diagonal square roots andpaired off-diagonal sum-of-two-squares. Not an isometry of original forms."
+    ],
+    [
+      "high",
+      "DYADIC",
+      "二进非一特征因子的唯一性",
+      "Odd-order T without eigenvalue1 on a freeZ2module",
+      "Equivariant uniqueness of invariant unimodular symmetric forms",
+      "sections/local.tex",
+      220,
+      329,
+      "Paired factors andnontrivial unramified Hermitian factors,perfecttrace andunitnorm lifting;not arbitrary dyadic quadratic forms."
+    ],
+    [
+      "high",
+      "RATIONAL-DESCENT",
+      "算子分块后的有理下降",
+      "Equivariant form isometries overR and everyQell",
+      "One rational equivariant isometry",
+      "sections/local.tex",
+      331,
+      438,
+      "Finite odd-order operator;retain eigenvalue1 quadratic component after tensoring. Complete local data,not a few sampled primes."
+    ],
+    [
+      "high",
+      "DETERMINANT-CANCEL",
+      "反转子配对抵消逐特征行列式",
+      "Rational/local maps and integral involutions reversing operator",
+      "Fourth tensor discrepancy determinant1 on each eigenspace",
+      "sections/global.tex",
+      23,
+      158,
+      "Real coefficients/even dimension. Full ordered tensor eigenpairs including collisions;total determinant1 alone is insufficient."
+    ],
+    [
+      "high",
+      "NONCOMPACT-FACTORS",
+      "共同幂和加入非紧修正因子",
+      "Fourth tensor operator-form data",
+      "Six cubes give both signs;11/13powers remove real eigenvalues",
+      "sections/global.tex",
+      160,
+      280,
+      "Actual computed eigenspace signatures anddimension>=21;not arbitrary generic perturbations."
+    ],
+    [
+      "high",
+      "ADELlC-LATTICE",
+      "全格稳定子中的整体修复",
+      "Rational/local isometries in simplyconnected noncompact SU factors",
+      "An integral onto equivariant isometry",
+      "sections/global.tex",
+      282,
+      406,
+      "Restricted adelic product includes integrality elsewhere;full-lattice compact opens,no integralcyclotomic splitting andno effective height bound."
+    ],
+    [
+      "high",
+      "SPHERICAL-LINK",
+      "双素数特征阶与球面结准入",
+      "Final integral monodromy with all orders divisible11 and13",
+      "det(1-T)=1 plus connectivity gives a simple spherical binding",
+      "sections/conclusion.tex",
+      115,
+      229,
+      "Wang/Alexanderduality andhigh-dimensional Poincare/simplicity hypotheses essential;determinant or spectrum alone does not identify topology."
+    ],
+    [
+      "high",
+      "WEIGHTED-CONE",
+      "正权轨道延拓环境同胚",
+      "Oriented sphere-link pair equivalence and positive weights",
+      "Ambient ball-pair homeomorphism fixing0",
+      "sections/conclusion.tex",
+      230,
+      287,
+      "Weights may differ;constructed map is topological,not asserted holomorphic,biLipschitz,or the right-equivalence map."
+    ],
+    [
+      "high",
+      "INITIAL-FORM",
+      "共同平方保持右等价并分离初始纤维",
+      "Actual right-equivalent real-coefficient germs from the full construction",
+      "Aftercommon t²,initial-form H0 hasone versus two components",
+      "sections/conclusion.tex",
+      289,
+      420,
+      "Retain nonreduced initialform t² andordinary degree;the stronger right-equivalence bridge uses unreviewed King/Saeki inputs."
+    ],
+    [
+      "four",
+      "FINITE-MAP",
+      "抽象形式与实际映射分离",
+      "Two degree4graph projections to one plane curve",
+      "Abstract plane-form isometry plus separate pushforward/transfer",
+      "sections/02-plane.tex",
+      1,
+      284,
+      "No compatibility of the abstract isometry with the two projections is assumed. Bothordered Seifert adjunction identities are necessary."
+    ],
+    [
+      "four",
+      "COMMON-PARAMETERS",
+      "先固定共同参数再取变形极限",
+      "CRT integers n0,n1 withcongruences andcoprimeindices",
+      "Comparable a,b meeting gradient andlater arithmetic requirements",
+      "sections/03-ambient.tex",
+      1,
+      170,
+      "One tuple serves both graphs;choose smalls only afterward. Initialterm orders alone do not prove isolation/reducedness."
+    ],
+    [
+      "four",
+      "ACTUAL-TUBE",
+      "自定义管与实际局部页比较",
+      "Custom boundary strata,isolation,acyclic total andordinary inner Milnorball",
+      "Actual local H3and ordered Seifert form",
+      "sections/06-collapse.tex",
+      135,
+      225,
+      "Ordinary tube contractibility cannot be transferred to arbitrary custom cuts withoutthe full disk-wide outer-regularity andrelative-pair comparison."
+    ],
+    [
+      "four",
+      "ANCHORED-CIRCLES",
+      "保持标签与正角度的边界延拓",
+      "Two-parameter inner/exterior continuations",
+      "Same oriented lens circle over each labeled base loop",
+      "sections/05-boundary.tex",
+      148,
+      288,
+      "Keep p0,w0,y-angle;physical p may move. Value-preserving onhorizontalboundary,notthroughcriticalinner total."
+    ],
+    [
+      "four",
+      "CIRCLE-COLLAPSE",
+      "根处圆塌缩与有符号同调",
+      "Hyperbola family yz=Rs overthebase/root page",
+      "H3=kerpi*,H2=H/pi*D andsigned relative suspension",
+      "sections/06-collapse.tex",
+      10,
+      133,
+      "Circle-first versus base-first orientations fixed. Collapsing roots changes chain boundaries;not a generic product-space identity."
+    ],
+    [
+      "four",
+      "BOCKSTEIN-TRANSFER",
+      "扭结边界的 Bockstein 转移",
+      "Mod4 boundaryclass andanchored root-fiber transport",
+      "Signed Bockstein lift equals full finite-map transfer",
+      "sections/07-lattice.tex",
+      1,
+      261,
+      "Diagonal root vector,seam cap,andnaturality on braid orbits;individual roots neednot close."
+    ],
+    [
+      "four",
+      "EXACT-LATTICE",
+      "保留模四余类的完整整数格",
+      "pr l,z with pi*l mod4H=(1⊗tau)z",
+      "Exact integral page lattice inside rational orthogonal coordinates",
+      "sections/07-lattice.tex",
+      262,
+      348,
+      "Inner numerator u=-pi!b mod4D;torsion-freeH givesK∩4D=4K. Abstract form equality cannot erase this congruence."
+    ],
+    [
+      "four",
+      "FILLING-SIGNS",
+      "填充链的正交与负号核对",
+      "Inner root fillings,exterior full-cover transfers",
+      "-sd|K perp(sh⊗e),e=1/4upstairs form",
+      "sections/08-fillings.tex",
+      1,
+      259,
+      "Opposite collars,interface class correction,two balancingradii andnormaldisk determinant signs all retained;uniform coordinate signflip doesnot removebilinear minus."
+    ],
+    [
+      "four",
+      "LOCAL-SPLITTINGS",
+      "互补素数集上的整数局部分裂",
+      "Boundaryvectors b0,b1,n0,n1coprime andnj=1mod4",
+      "Two rational isometries integral at complementary prime sets",
+      "sections/09-arithmetic.tex",
+      1,
+      280,
+      "UsefullLambda withresiduecondition;at2all divisionsbyunits orknownmultiples4. No integralprimary decomposition assumed."
+    ],
+    [
+      "four",
+      "SPIN-SU",
+      "反射缺陷的精确修正群",
+      "Two rationalmapsJ0,J1 andsectorwise isometric minusspaces",
+      "Delta lifts toSpin onfixedsector andSU onfifthsector",
+      "sections/09-arithmetic.tex",
+      281,
+      411,
+      "Spin requires bothdet1andtrivialspinornorm;SUrequiresfield determinant1. Identity onallother primaryparts,not a claim abouttotal determinantonly."
+    ],
+    [
+      "four",
+      "REAL-SIGNS",
+      "特征微分的端点正则与实非紧性",
+      "Positive indexpairs q1/5,q4/5 anddeck-invariant holomorphicdifferentials",
+      "Indefinite quadraticsector dim>=5 andHermitiansector dim>=2",
+      "sections/09-arithmetic.tex",
+      412,
+      537,
+      "Check every compactification end andinversecharacters;actual Hodge/intersection signs areneeded before strongapproximation."
+    ],
+    [
+      "four",
+      "ADELlC-CORRECTION",
+      "保持全格的 adelic 误差修复",
+      "Spin×ResSU rational lift andnoncompactreal factors",
+      "One global integral Seifert congruence",
+      "sections/09-arithmetic.tex",
+      539,
+      659,
+      "Choose compactopens in full-lattice stabilizers atALLprimes;finite centralSpin kernel handled. Density supplies existence,no effective coefficient search cost."
+    ],
+    [
+      "four",
+      "OPENBOOK-CONE",
+      "非球面 binding 的开书与锥延拓",
+      "Actual simpleMilnoropenbooks onstandardS7,congruentintegralSeifertforms",
+      "Oriented sphere-link diffeomorphism thenambientgerm homeomorphism",
+      "sections/09-arithmetic.tex",
+      661,
+      727,
+      "Kato n3pagehandle/collar hypotheses,not sphericalLevine theorem. Analyticpaircone includescenter;no metric/contactomorphism orright-equivalence conclusion forC4 inferred."
+    ]
+  ],
+  "section_scope_notes": [
+    "Ordinary multiplicity,weighted degree,Hessian corank,embeddedtopology,topologicalright equivalence,biLipschitz/contact equivalence,andmu-constantfamily are separate predicates.",
+    "The two current constructions are independent. High dimension2/3 uses spherical bindings andrealpolynomials;C4orders4/5 uses analyticcharts andKato nonsphericalopenbooks.",
+    "Fullintegrallattice maps andresidues matter;abstractform/moduleisomorphisms anddifferentlocalmaps cannot be silently identified.",
+    "One unregisteredchainlemma hasselectedstaticalgebraicLeancoverage. BothmainclaimsremainC;no localLeanbuild,Comparator,human orsecondproviderreview.",
+    "Fiveoriginalworks selectedtextscope only;48otherexternalroots,unreadparts ofselectedworks andrecursiveproofs remain unqualified.",
+    "No finitearithmetic script executed andnoactualconsumer/applicationbenefit measured. Old finiteintegerlinear algebra,ordinarydegree calculation andfamilyinvariance mayalready suffice."
+  ],
+  "bibliography_entries_by_key": {
+    "high:Milnor1968": {
+      "key": "Milnor1968",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@book{Milnor1968,\n  author = {John Milnor},\n  title = {Singular Points of Complex Hypersurfaces},\n  series = {Annals of Mathematics Studies},\n  volume = {61},\n  publisher = {Princeton University Press},\n  address = {Princeton, NJ},\n  year = {1968}\n}",
+      "line": 1
+    },
+    "high:Sakamoto1974": {
+      "key": "Sakamoto1974",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Sakamoto1974,\n  author = {Koichi Sakamoto},\n  title = {The {Seifert} matrices of {Milnor} fiberings defined by holomorphic functions},\n  journal = {Journal of the Mathematical Society of Japan},\n  volume = {26}, number = {4}, pages = {714--721}, year = {1974},\n  doi = {10.2969/jmsj/02640714}\n}",
+      "line": 10
+    },
+    "high:Steenbrink1989": {
+      "key": "Steenbrink1989",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Steenbrink1989,\n  author = {J. H. M. Steenbrink},\n  title = {The spectrum of hypersurface singularities},\n  journal = {Ast\\'erisque},\n  volume = {179--180}, pages = {163--184}, year = {1989},\n  url = {https://www.numdam.org/item/AST_1989__179-180__163_0/}\n}",
+      "line": 17
+    },
+    "high:BalnojanHertling2019": {
+      "key": "BalnojanHertling2019",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{BalnojanHertling2019,\n  author = {Sven Balnojan and Claus Hertling},\n  title = {Real {Seifert} forms and polarizing forms of {Steenbrink} mixed {Hodge} structures},\n  journal = {Bulletin of the Brazilian Mathematical Society, New Series},\n  volume = {50}, number = {1}, pages = {233--274}, year = {2019},\n  doi = {10.1007/s00574-018-0107-7},\n  url = {https://arxiv.org/abs/1712.00383}\n}",
+      "line": 24
+    },
+    "high:Nemethi1995": {
+      "key": "Nemethi1995",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Nemethi1995,\n  author = {Andr\\'as N\\'emethi},\n  title = {The real {Seifert} form and the spectral pairs of isolated hypersurface singularities},\n  journal = {Compositio Mathematica},\n  volume = {98}, number = {1}, pages = {23--41}, year = {1995},\n  url = {https://www.numdam.org/item/CM_1995__98_1_23_0/}\n}",
+      "line": 32
+    },
+    "high:HertlingMase2022": {
+      "key": "HertlingMase2022",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{HertlingMase2022,\n  author = {Claus Hertling and Makiko Mase},\n  title = {The integral monodromy of isolated quasihomogeneous singularities},\n  journal = {Algebra \\& Number Theory},\n  volume = {16}, pages = {955--1024}, year = {2022},\n  doi = {10.2140/ant.2022.16.955},\n  url = {https://arxiv.org/abs/2009.08053}\n}",
+      "line": 39
+    },
+    "high:OMeara1963": {
+      "key": "OMeara1963",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@book{OMeara1963,\n  author = {O. T. O'Meara},\n  title = {Introduction to Quadratic Forms},\n  series = {Grundlehren der mathematischen Wissenschaften},\n  volume = {117}, publisher = {Springer-Verlag},\n  address = {Berlin--G\\\"ottingen--Heidelberg}, year = {1963}\n}",
+      "line": 47
+    },
+    "high:Platonov1969": {
+      "key": "Platonov1969",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Platonov1969,\n  author = {V. P. Platonov},\n  title = {The problem of strong approximation and the {Kneser--Tits} conjecture for algebraic groups},\n  journal = {Mathematics of the USSR-Izvestiya},\n  volume = {3}, number = {6}, pages = {1139--1147}, year = {1969},\n  doi = {10.1070/IM1969v003n06ABEH000838},\n  url = {https://www.mathnet.ru/eng/im2220}\n}",
+      "line": 54
+    },
+    "high:Platonov1970": {
+      "key": "Platonov1970",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Platonov1970,\n  author = {V. P. Platonov},\n  title = {Addendum to the paper ``The problem of strong approximation and the {Kneser--Tits} conjecture for algebraic groups''},\n  journal = {Mathematics of the USSR-Izvestiya},\n  volume = {4}, number = {4}, pages = {784--786}, year = {1970},\n  doi = {10.1070/IM1970v004n04ABEH000932},\n  url = {https://www.mathnet.ru/eng/im2446}\n}",
+      "line": 62
+    },
+    "high:Rapinchuk2014": {
+      "key": "Rapinchuk2014",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@incollection{Rapinchuk2014,\n  author = {Andrei S. Rapinchuk},\n  title = {Strong approximation for algebraic groups},\n  booktitle = {Thin Groups and Superstrong Approximation},\n  editor = {Emmanuel Breuillard and Hee Oh},\n  series = {Mathematical Sciences Research Institute Publications},\n  volume = {61}, publisher = {Cambridge University Press},\n  pages = {269--298}, year = {2014},\n  url = {https://library.slmath.org/books/Book61/files/70rapi.pdf}\n}",
+      "line": 70
+    },
+    "high:Levine1970": {
+      "key": "Levine1970",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Levine1970,\n  author = {J. Levine},\n  title = {An algebraic classification of some knots of codimension two},\n  journal = {Commentarii Mathematici Helvetici},\n  volume = {45}, pages = {185--198}, year = {1970},\n  doi = {10.1007/BF02567325}\n}",
+      "line": 80
+    },
+    "high:Smale1961": {
+      "key": "Smale1961",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Smale1961,\n  author = {Stephen Smale},\n  title = {Generalized {Poincar\\'e}'s conjecture in dimensions greater than four},\n  journal = {Annals of Mathematics},\n  series = {2}, volume = {74}, number = {2}, pages = {391--406},\n  year = {1961}, doi = {10.2307/1970239}\n}",
+      "line": 87
+    },
+    "high:Durfee1974": {
+      "key": "Durfee1974",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Durfee1974,\n  author = {Alan H. Durfee},\n  title = {Fibered knots and algebraic singularities},\n  journal = {Topology}, volume = {13}, number = {1},\n  pages = {47--59}, year = {1974},\n  doi = {10.1016/0040-9383(74)90037-8}\n}",
+      "line": 94
+    },
+    "high:Saeki1999": {
+      "key": "Saeki1999",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Saeki1999,\n  author = {Osamu Saeki},\n  title = {Theory of fibered $3$-knots in {$S^5$} and its applications},\n  journal = {Journal of Mathematical Sciences, the University of Tokyo},\n  volume = {6}, number = {4}, pages = {691--756}, year = {1999},\n  url = {https://www.ms.u-tokyo.ac.jp/journal/pdf/jms060404.pdf}\n}",
+      "line": 101
+    },
+    "high:King1978": {
+      "key": "King1978",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{King1978,\n  author = {H. C. King},\n  title = {Topological type of isolated critical points},\n  journal = {Annals of Mathematics}, series = {2},\n  volume = {107}, number = {3}, pages = {385--397}, year = {1978},\n  url = {https://annals.math.princeton.edu/1978/107-3/p02}\n}",
+      "line": 108
+    },
+    "high:Saeki1989": {
+      "key": "Saeki1989",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Saeki1989,\n  author = {Osamu Saeki},\n  title = {Topological types of complex isolated hypersurface singularities},\n  journal = {Kodai Mathematical Journal},\n  volume = {12}, number = {1}, pages = {23--29}, year = {1989},\n  url = {https://www.jstage.jst.go.jp/article/kodaimath1978/12/1/12_1_23/_pdf/-char/ja}\n}",
+      "line": 115
+    },
+    "high:Neumann2017": {
+      "key": "Neumann2017",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@incollection{Neumann2017,\n  author = {Walter D. Neumann},\n  title = {Topology of hypersurface singularities},\n  booktitle = {Erich K\\\"ahler: Mathematische Werke/Mathematical Works},\n  editor = {Rolf Berndt and Oswald Riemenschneider},\n  publisher = {Walter de Gruyter}, pages = {727--736}, year = {2003},\n  note = {Reposted as arXiv:1706.04386 in 2017},\n  url = {https://arxiv.org/abs/1706.04386}\n}",
+      "line": 122
+    },
+    "high:Zariski1971": {
+      "key": "Zariski1971",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Zariski1971,\n  author = {Oscar Zariski},\n  title = {Some open questions in the theory of singularities},\n  journal = {Bulletin of the American Mathematical Society},\n  volume = {77}, number = {4}, pages = {481--491}, year = {1971},\n  doi = {10.1090/S0002-9904-1971-12729-5}\n}",
+      "line": 131
+    },
+    "high:Zariski1932": {
+      "key": "Zariski1932",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Zariski1932,\n  author = {Oscar Zariski},\n  title = {On the topology of algebroid singularities},\n  journal = {American Journal of Mathematics},\n  volume = {54}, number = {3}, pages = {453--465}, year = {1932},\n  doi = {10.2307/2370887}\n}",
+      "line": 138
+    },
+    "high:Eyral2007": {
+      "key": "Eyral2007",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Eyral2007,\n  author = {Christophe Eyral},\n  title = {{Zariski}'s multiplicity question---a survey},\n  journal = {New Zealand Journal of Mathematics},\n  volume = {36}, pages = {253--276}, year = {2007},\n  url = {https://webdoc.sub.gwdg.de/ebook/serien/e/mpi_mathematik/2005/81.pdf}\n}",
+      "line": 145
+    },
+    "high:ACampo1973": {
+      "key": "ACampo1973",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{ACampo1973,\n  author = {Norbert A'Campo},\n  title = {Le nombre de {Lefschetz} d'une monodromie},\n  journal = {Indagationes Mathematicae (Proceedings)},\n  volume = {76}, number = {2}, pages = {113--118}, year = {1973},\n  doi = {10.1016/1385-7258(73)90044-9}\n}",
+      "line": 152
+    },
+    "high:Le1973": {
+      "key": "Le1973",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Le1973,\n  author = {{L\\^e D\\~ung Tr\\'ang}},\n  title = {Calcul du nombre de cycles \\'evanouissants d'une hypersurface complexe},\n  journal = {Annales de l'Institut Fourier},\n  volume = {23}, number = {4}, pages = {261--270}, year = {1973},\n  doi = {10.5802/aif.491}\n}",
+      "line": 159
+    },
+    "high:FernandesJelonekSampaio2025": {
+      "key": "FernandesJelonekSampaio2025",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@misc{FernandesJelonekSampaio2025,\n  author = {Alexandre Fernandes and Zbigniew Jelonek and Jos\\'e Edson Sampaio},\n  title = {Proof of the metric {Arnold}'s corank problem},\n  year = {2025}, note = {arXiv:2509.03447v2},\n  url = {https://arxiv.org/abs/2509.03447v2}\n}",
+      "line": 166
+    },
+    "high:BobadillaPelka2022": {
+      "key": "BobadillaPelka2022",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{BobadillaPelka2022,\n  author = {Javier {Fern\\'andez de Bobadilla} and Tomasz Pe{\\l}ka},\n  title = {Symplectic monodromy at radius zero and equimultiplicity of $\\mu$-constant families},\n  journal = {Annals of Mathematics}, series = {2},\n  volume = {200}, number = {1}, pages = {153--299}, year = {2024},\n  doi = {10.4007/annals.2024.200.1.4},\n  note = {Author version: arXiv:2204.07007v5},\n  url = {https://arxiv.org/abs/2204.07007v5}\n}",
+      "line": 172
+    },
+    "high:Milne2022": {
+      "key": "Milne2022",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@book{Milne2022,\n  author = {J. S. Milne},\n  title = {Algebraic Groups: The Theory of Group Schemes of Finite Type over a Field},\n  series = {Cambridge Studies in Advanced Mathematics}, volume = {170},\n  publisher = {Cambridge University Press}, address = {Cambridge}, year = {2022},\n  note = {Corrected reprint of the 2017 edition},\n  url = {https://www.jmilne.org/math/Books/iAG2022.pdf}\n}",
+      "line": 182
+    },
+    "high:Greuel1986": {
+      "key": "Greuel1986",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Greuel1986,\n  author = {Gert-Martin Greuel},\n  title = {Constant {Milnor} number implies constant multiplicity for quasihomogeneous singularities},\n  journal = {Manuscripta Mathematica}, volume = {56}, number = {2},\n  pages = {159--166}, year = {1986}, doi = {10.1007/BF01172153}\n}",
+      "line": 191
+    },
+    "high:OShea1987": {
+      "key": "OShea1987",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{OShea1987,\n  author = {Donal B. O'Shea},\n  title = {Topologically trivial deformations of isolated quasihomogeneous hypersurface singularities are equimultiple},\n  journal = {Proceedings of the American Mathematical Society},\n  volume = {101}, number = {2}, pages = {260--262}, year = {1987},\n  doi = {10.1090/S0002-9939-1987-0902538-0}\n}",
+      "line": 197
+    },
+    "high:LeRamanujam1976": {
+      "key": "LeRamanujam1976",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{LeRamanujam1976,\n  author = {{L\\^e D\\~ung Tr\\'ang} and C. P. Ramanujam},\n  title = {The invariance of {Milnor}'s number implies the invariance of the topological type},\n  journal = {American Journal of Mathematics}, volume = {98}, number = {1},\n  pages = {67--78}, year = {1976}, doi = {10.2307/2373614}\n}",
+      "line": 204
+    },
+    "high:Orlik1972": {
+      "key": "Orlik1972",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@incollection{Orlik1972,\n  author = {Peter Orlik},\n  title = {On the homology of weighted homogeneous manifolds},\n  booktitle = {Proceedings of the Second Conference on Compact Transformation Groups, Part I},\n  series = {Lecture Notes in Mathematics}, volume = {298},\n  publisher = {Springer}, address = {Berlin}, pages = {260--269}, year = {1972},\n  doi = {10.1007/BFb0070047}\n}",
+      "line": 210
+    },
+    "high:OrlikRandell1977": {
+      "key": "OrlikRandell1977",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{OrlikRandell1977,\n  author = {Peter Orlik and Richard C. Randell},\n  title = {The monodromy of weighted homogeneous singularities},\n  journal = {Inventiones Mathematicae}, volume = {39}, pages = {199--211},\n  year = {1977}, doi = {10.1007/BF01402973}\n}",
+      "line": 218
+    },
+    "high:SebastianiThom1971": {
+      "key": "SebastianiThom1971",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{SebastianiThom1971,\n  author = {Marcos Sebastiani and Ren\\'e Thom},\n  title = {Un r\\'esultat sur la monodromie},\n  journal = {Inventiones Mathematicae}, volume = {13}, pages = {90--96},\n  year = {1971}, doi = {10.1007/BF01390095}\n}",
+      "line": 224
+    },
+    "high:Steenbrink1977": {
+      "key": "Steenbrink1977",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Steenbrink1977,\n  author = {J. H. M. Steenbrink},\n  title = {Intersection form for quasi-homogeneous singularities},\n  journal = {Compositio Mathematica}, volume = {34}, number = {2},\n  pages = {211--223}, year = {1977},\n  url = {https://www.numdam.org/item/CM_1977__34_2_211_0/}\n}",
+      "line": 230
+    },
+    "high:Witt1937": {
+      "key": "Witt1937",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Witt1937,\n  author = {Ernst Witt},\n  title = {{Theorie der quadratischen Formen in beliebigen K{\\\"o}rpern}},\n  journal = {Journal f{\\\"u}r die reine und angewandte Mathematik},\n  volume = {176}, pages = {31--44}, year = {1937},\n  doi = {10.1515/crll.1937.176.31}\n}",
+      "line": 237
+    },
+    "high:Hatcher2002": {
+      "key": "Hatcher2002",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@book{Hatcher2002,\n  author = {Allen Hatcher}, title = {Algebraic Topology},\n  publisher = {Cambridge University Press}, address = {Cambridge}, year = {2002},\n  url = {https://pi.math.cornell.edu/~hatcher/AT/AT.pdf}\n}",
+      "line": 244
+    },
+    "high:Sampaio2026": {
+      "key": "Sampaio2026",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@misc{Sampaio2026,\n  author = {Jos\\'e Edson Sampaio},\n  title = {On the {Arnold} corank, the {Zariski} multiplicity, and the tangent {Milnor} fiber problems},\n  year = {2026}, note = {Preprint, August 28, 2026},\n  url = {https://www.researchgate.net/publication/413623762}\n}",
+      "line": 249
+    },
+    "high:Sampaio2025Milnor": {
+      "key": "Sampaio2025Milnor",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@misc{Sampaio2025Milnor,\n  author = {Jos\\'e Edson Sampaio},\n  title = {On the {Milnor} fibres of initial forms of topologically equivalent holomorphic functions},\n  year = {2025}, note = {arXiv:2503.17127v1},\n  url = {https://arxiv.org/abs/2503.17127v1}\n}",
+      "line": 255
+    },
+    "high:BudurEtAl2022ContactLoci": {
+      "key": "BudurEtAl2022ContactLoci",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{BudurEtAl2022ContactLoci,\n  author = {Nero Budur and Javier Fern\\'andez de Bobadilla and Quy Thuong L\\^e and Hong Duc Nguyen},\n  title = {Cohomology of contact loci},\n  journal = {Journal of Differential Geometry},\n  volume = {120}, number = {3}, pages = {389--409}, year = {2022},\n  doi = {10.4310/jdg/1649953456},\n  note = {Author version: arXiv:1911.08213v3},\n  url = {https://arxiv.org/abs/1911.08213v3}\n}",
+      "line": 261
+    },
+    "high:StacksProject": {
+      "key": "StacksProject",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@misc{StacksProject,\n  author = {{The Stacks Project Authors}},\n  title = {The {Stacks} Project}, year = {2026},\n  note = {Tags 00ND and 02JN, accessed September 24, 2026},\n  url = {https://stacks.math.columbia.edu}\n}",
+      "line": 271
+    },
+    "high:Yau1988": {
+      "key": "Yau1988",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Yau1988,\n  author = {Stephen S.-T. Yau},\n  title = {Topological types and multiplicities of isolated quasi-homogeneous surface singularities},\n  journal = {Bulletin of the American Mathematical Society (N.S.)},\n  volume = {19}, number = {2}, pages = {447--454}, year = {1988},\n  doi = {10.1090/S0273-0979-1988-15695-9}\n}",
+      "line": 278
+    },
+    "high:Jacobowitz1962": {
+      "key": "Jacobowitz1962",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@article{Jacobowitz1962,\n  author = {Ronald Jacobowitz},\n  title = {Hermitian forms over local fields},\n  journal = {American Journal of Mathematics}, volume = {84}, number = {3},\n  pages = {441--465}, year = {1962}, doi = {10.2307/2372982}\n}",
+      "line": 286
+    },
+    "high:OpenAIMuConstant2026": {
+      "key": "OpenAIMuConstant2026",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/build/references.bib",
+      "entry": "@misc{OpenAIMuConstant2026,\n  author = {{OpenAI}},\n  title = {{Topological triviality of $\\mu$-constant families of surface singularities}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026/main.pdf}{OAI:Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026}},\n  year = {2026}\n}",
+      "line": 293
+    },
+    "four:Zariski1932": {
+      "key": "Zariski1932",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Zariski1932,\n  author = {Oscar Zariski},\n  title = {On the topology of algebroid singularities},\n  journal = {American Journal of Mathematics},\n  volume = {54}, number = {3}, pages = {453--465}, year = {1932},\n  doi = {10.2307/2370887}\n}",
+      "line": 1
+    },
+    "four:Zariski1965": {
+      "key": "Zariski1965",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Zariski1965,\n  author = {Oscar Zariski},\n  title = {Studies in equisingularity. {I}. Equivalent singularities of plane algebroid curves},\n  journal = {American Journal of Mathematics},\n  volume = {87}, number = {2}, pages = {507--536}, year = {1965},\n  doi = {10.2307/2373019}\n}",
+      "line": 9
+    },
+    "four:Zariski1971": {
+      "key": "Zariski1971",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Zariski1971,\n  author = {Oscar Zariski},\n  title = {Some open questions in the theory of singularities},\n  journal = {Bulletin of the American Mathematical Society},\n  volume = {77}, number = {4}, pages = {481--491}, year = {1971},\n  doi = {10.1090/S0002-9904-1971-12729-5}\n}",
+      "line": 17
+    },
+    "four:Milnor1968": {
+      "key": "Milnor1968",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@book{Milnor1968,\n  author = {John Milnor},\n  title = {Singular Points of Complex Hypersurfaces},\n  series = {Annals of Mathematics Studies}, volume = {61},\n  publisher = {Princeton University Press},\n  address = {Princeton, NJ}, year = {1968},\n  url = {https://www.jstor.org/stable/j.ctt1bd6kvv}\n}",
+      "line": 25
+    },
+    "four:Levine1970": {
+      "key": "Levine1970",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Levine1970,\n  author = {J. Levine},\n  title = {An algebraic classification of some knots of codimension two},\n  journal = {Commentarii Mathematici Helvetici},\n  volume = {45}, pages = {185--198}, year = {1970},\n  doi = {10.1007/BF02567325}\n}",
+      "line": 34
+    },
+    "four:Durfee1974": {
+      "key": "Durfee1974",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Durfee1974,\n  author = {Alan H. Durfee},\n  title = {Fibered knots and algebraic singularities},\n  journal = {Topology}, volume = {13}, number = {1},\n  pages = {47--59}, year = {1974},\n  doi = {10.1016/0040-9383(74)90037-8}\n}",
+      "line": 42
+    },
+    "four:Kato1974": {
+      "key": "Kato1974",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Kato1974,\n  author = {Mitsuyoshi Kato},\n  title = {A classification of simple spinnable structures on a {$1$}-connected {Alexander} manifold},\n  journal = {Journal of the Mathematical Society of Japan},\n  volume = {26}, number = {3}, pages = {454--463}, year = {1974},\n  doi = {10.2969/jmsj/02630454},\n  url = {https://www.maths.ed.ac.uk/~v1ranick/papers/kato2.pdf}\n}",
+      "line": 50
+    },
+    "four:Sakamoto1974": {
+      "key": "Sakamoto1974",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Sakamoto1974,\n  author = {Koichi Sakamoto},\n  title = {The {Seifert} matrices of {Milnor} fiberings defined by holomorphic functions},\n  journal = {Journal of the Mathematical Society of Japan},\n  volume = {26}, number = {4}, pages = {714--721}, year = {1974},\n  doi = {10.2969/jmsj/02640714}\n}",
+      "line": 59
+    },
+    "four:LeRamanujam1976": {
+      "key": "LeRamanujam1976",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{LeRamanujam1976,\n  author = {{L\\^e D\\~ung Tr\\'ang} and C. P. Ramanujam},\n  title = {The invariance of {Milnor}'s number implies the invariance of the topological type},\n  journal = {American Journal of Mathematics},\n  volume = {98}, number = {1}, pages = {67--78}, year = {1976},\n  doi = {10.2307/2373614}\n}",
+      "line": 67
+    },
+    "four:KauffmanNeumann1977": {
+      "key": "KauffmanNeumann1977",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{KauffmanNeumann1977,\n  author = {Louis H. Kauffman and Walter D. Neumann},\n  title = {Products of knots, branched fibrations and sums of singularities},\n  journal = {Topology}, volume = {16}, number = {4},\n  pages = {369--393}, year = {1977},\n  doi = {10.1016/0040-9383(77)90042-8},\n  url = {https://webhomes.maths.ed.ac.uk/~v1ranick/papers/kauffmanneumann.pdf}\n}",
+      "line": 75
+    },
+    "four:EisenbudNeumann1985": {
+      "key": "EisenbudNeumann1985",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@book{EisenbudNeumann1985,\n  author = {David Eisenbud and Walter D. Neumann},\n  title = {Three-Dimensional Link Theory and Invariants of Plane Curve Singularities},\n  series = {Annals of Mathematics Studies}, volume = {110},\n  publisher = {Princeton University Press},\n  address = {Princeton, NJ}, year = {1985},\n  url = {https://www.jstor.org/stable/j.ctt1bgzb9w}\n}",
+      "line": 84
+    },
+    "four:DuBoisMichel1994": {
+      "key": "DuBoisMichel1994",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{DuBoisMichel1994,\n  author = {Philippe du Bois and Fran\\c{c}oise Michel},\n  title = {The integral {Seifert} form does not determine the topology of plane curve germs},\n  journal = {Journal of Algebraic Geometry},\n  volume = {3}, number = {1}, pages = {1--38}, year = {1994}\n}",
+      "line": 93
+    },
+    "four:Nemethi1995": {
+      "key": "Nemethi1995",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Nemethi1995,\n  author = {Andr\\'as N\\'emethi},\n  title = {The real {Seifert} form and the spectral pairs of isolated hypersurface singularities},\n  journal = {Compositio Mathematica},\n  volume = {98}, number = {1}, pages = {23--41}, year = {1995},\n  url = {https://www.numdam.org/item/CM_1995__98_1_23_0/}\n}",
+      "line": 100
+    },
+    "four:DuBoisHunault1996": {
+      "key": "DuBoisHunault1996",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{DuBoisHunault1996,\n  author = {Philippe du Bois and Ollivier Hunault},\n  title = {Classification des formes de {Seifert} rationnelles des germes de courbe plane},\n  journal = {Annales de l'Institut Fourier},\n  volume = {46}, number = {2}, pages = {371--410}, year = {1996},\n  doi = {10.5802/aif.1518},\n  url = {https://www.numdam.org/articles/10.5802/aif.1518/}\n}",
+      "line": 108
+    },
+    "four:Saeki1999": {
+      "key": "Saeki1999",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Saeki1999,\n  author = {Osamu Saeki},\n  title = {Theory of fibered {$3$}-knots in {$S^5$} and its applications},\n  journal = {Journal of Mathematical Sciences, the University of Tokyo},\n  volume = {6}, number = {4}, pages = {691--756}, year = {1999},\n  url = {https://www.ms.u-tokyo.ac.jp/journal/pdf/jms060404.pdf}\n}",
+      "line": 117
+    },
+    "four:ArtalEtAl2002": {
+      "key": "ArtalEtAl2002",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{ArtalEtAl2002,\n  author = {Enrique Artal Bartolo and Pierrette Cassou-Nogu\\`es and Ignacio Luengo and Alejandro Melle-Hern\\'andez},\n  title = {The {Denef--Loeser} zeta function is not a topological invariant},\n  journal = {Journal of the London Mathematical Society},\n  series = {2}, volume = {65}, number = {1},\n  pages = {45--54}, year = {2002},\n  url = {https://www.mat.ucm.es/~amelle/topol-not-topol.pdf}\n}",
+      "line": 125
+    },
+    "four:KoikeParusinski2010": {
+      "key": "KoikeParusinski2010",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{KoikeParusinski2010,\n  author = {Satoshi Koike and Adam Parusi\\'nski},\n  title = {Some questions on the {Fukui} numerical set for complex function germs},\n  journal = {Demonstratio Mathematica},\n  volume = {43}, number = {2}, pages = {285--302}, year = {2010},\n  doi = {10.1515/dema-2010-0206}\n}",
+      "line": 134
+    },
+    "four:Platonov1969": {
+      "key": "Platonov1969",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Platonov1969,\n  author = {V. P. Platonov},\n  title = {The problem of strong approximation and the {Kneser--Tits} conjecture for algebraic groups},\n  journal = {Mathematics of the USSR-Izvestiya},\n  volume = {3}, number = {6}, pages = {1139--1147}, year = {1969},\n  doi = {10.1070/IM1969v003n06ABEH000838},\n  url = {https://www.mathnet.ru/eng/im2220}\n}",
+      "line": 142
+    },
+    "four:Platonov1970": {
+      "key": "Platonov1970",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Platonov1970,\n  author = {V. P. Platonov},\n  title = {Addendum to the paper: The problem of strong approximation and the {Kneser--Tits} conjecture for algebraic groups},\n  journal = {Mathematics of the USSR-Izvestiya},\n  volume = {4}, number = {4}, pages = {784--786}, year = {1970},\n  doi = {10.1070/IM1970v004n04ABEH000932},\n  url = {https://www.mathnet.ru/eng/im2446}\n}",
+      "line": 151
+    },
+    "four:Rapinchuk2014": {
+      "key": "Rapinchuk2014",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@incollection{Rapinchuk2014,\n  author = {Andrei S. Rapinchuk},\n  title = {Strong approximation for algebraic groups},\n  booktitle = {Thin Groups and Superstrong Approximation},\n  editor = {Emmanuel Breuillard and Hee Oh},\n  series = {Mathematical Sciences Research Institute Publications},\n  volume = {61}, publisher = {Cambridge University Press},\n  pages = {269--298}, year = {2014},\n  url = {https://library.slmath.org/books/Book61/files/70rapi.pdf}\n}",
+      "line": 160
+    },
+    "four:Milne2022": {
+      "key": "Milne2022",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@book{Milne2022,\n  author = {J. S. Milne},\n  title = {Algebraic Groups: The Theory of Group Schemes of Finite Type over a Field},\n  series = {Cambridge Studies in Advanced Mathematics},\n  volume = {170}, publisher = {Cambridge University Press},\n  address = {Cambridge}, year = {2022},\n  note = {Corrected reprint of the 2017 edition},\n  url = {https://www.jmilne.org/math/Books/iAG2022.pdf}\n}",
+      "line": 171
+    },
+    "four:BobadillaPelka2024": {
+      "key": "BobadillaPelka2024",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{BobadillaPelka2024,\n  author = {Javier {Fern\\'andez de Bobadilla} and Tomasz Pe{\\l}ka},\n  title = {Symplectic monodromy at radius zero and equimultiplicity of {$\\mu$}-constant families},\n  journal = {Annals of Mathematics}, series = {2},\n  volume = {200}, number = {1}, pages = {153--299}, year = {2024},\n  doi = {10.4007/annals.2024.200.1.4},\n  url = {https://annals.math.princeton.edu/2024/200-1/p04},\n  note = {Author version: \\href{https://arxiv.org/abs/2204.07007v5}{arXiv:2204.07007v5}, March 5, 2024}\n}",
+      "line": 181
+    },
+    "four:AlanisLopezEtAl2022": {
+      "key": "AlanisLopezEtAl2022",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{AlanisLopezEtAl2022,\n  author = {L. Alan\\'is-L\\'opez and Enrique Artal Bartolo and Christian Bonatti and Xavier G\\'omez-Mont and M. Gonz\\'alez Villa and Pablo Portilla Cuadrado},\n  title = {On a quadratic form associated with a surface automorphism and its applications to singularity theory},\n  journal = {Indagationes Mathematicae},\n  volume = {33}, number = {4}, pages = {816--843}, year = {2022},\n  doi = {10.1016/j.indag.2022.02.007},\n  url = {https://arxiv.org/abs/2011.12332}\n}",
+      "line": 191
+    },
+    "four:OpenAI2026Multiplicity23": {
+      "key": "OpenAI2026Multiplicity23",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@misc{OpenAI2026Multiplicity23,\n  author = {{OpenAI}},\n  title = {{Ambiently homeomorphic isolated hypersurfaces of multiplicities two and three}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/paper.pdf}{OAI:Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026}},\n  year = {2026}\n}",
+      "line": 200
+    },
+    "four:Massey2015LeCycles": {
+      "key": "Massey2015LeCycles",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@misc{Massey2015LeCycles,\n  author = {David B. Massey},\n  title = {Non-isolated Hypersurface Singularities and {L\\^e} Cycles},\n  year = {2015},\n  howpublished = {\\href{https://arxiv.org/abs/1410.3312v2}{arXiv:1410.3312v2}},\n  note = {Lecture notes from the S\\~ao Carlos singularities meeting of 2014; revised November 13, 2015}\n}",
+      "line": 208
+    },
+    "four:Nemethi1999SeifertInfinity": {
+      "key": "Nemethi1999SeifertInfinity",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Nemethi1999SeifertInfinity,\n  author = {Andr\\'as N\\'emethi},\n  title = {On the {Seifert} form at infinity associated with polynomial maps},\n  journal = {Journal of the Mathematical Society of Japan},\n  volume = {51}, number = {1}, pages = {63--70}, year = {1999},\n  doi = {10.2969/jmsj/05110063},\n  note = {\\href{https://doi.org/10.2969/jmsj/05110063}{doi:10.2969/jmsj/05110063}}\n}",
+      "line": 216
+    },
+    "four:Conrad2014Reductive": {
+      "key": "Conrad2014Reductive",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@incollection{Conrad2014Reductive,\n  author = {Brian Conrad},\n  title = {Reductive group schemes},\n  booktitle = {Autour des schémas en groupes. Vol. I},\n  series = {Panoramas et Synthèses},\n  volume = {42--43},\n  publisher = {Société Mathématique de France},\n  pages = {93--444}, year = {2014},\n  note = {\\href{https://math.stanford.edu/~conrad/papers/luminysga3.pdf}{author manuscript}}\n}",
+      "line": 225
+    },
+    "four:Greuel1986": {
+      "key": "Greuel1986",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{Greuel1986,\n  author = {Gert-Martin Greuel},\n  title = {Constant {Milnor} number implies constant multiplicity for quasihomogeneous singularities},\n  journal = {Manuscripta Mathematica},\n  volume = {56}, number = {2}, pages = {159--166}, year = {1986},\n  doi = {10.1007/BF01172153}\n}",
+      "line": 237
+    },
+    "four:OShea1987": {
+      "key": "OShea1987",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{OShea1987,\n  author = {Donal B. O'Shea},\n  title = {Topologically trivial deformations of isolated quasihomogeneous hypersurface singularities are equimultiple},\n  journal = {Proceedings of the American Mathematical Society},\n  volume = {101}, number = {2}, pages = {260--262}, year = {1987},\n  doi = {10.1090/S0002-9939-1987-0902538-0}\n}",
+      "line": 245
+    },
+    "four:McLean2019": {
+      "key": "McLean2019",
+      "path": "math/preprints/Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026/build/references.bib",
+      "entry": "@article{McLean2019,\n  author = {Mark McLean},\n  title = {{Floer} cohomology, multiplicity and the log canonical threshold},\n  journal = {Geometry \\& Topology},\n  volume = {23}, number = {2}, pages = {957--1056}, year = {2019},\n  doi = {10.2140/gt.2019.23.957}\n}",
+      "line": 253
+    }
+  },
+  "historical_references_by_key": {
+    "high:Milnor1968": "LIT-059-MILNOR1968",
+    "high:Sakamoto1974": "LIT-059-SAKAMOTO1974",
+    "high:Steenbrink1989": "LIT-059-STEENBRINK1989",
+    "high:BalnojanHertling2019": "LIT-059-BALNOJANHERTLING2019",
+    "high:Nemethi1995": "LIT-059-NEMETHI1995",
+    "high:HertlingMase2022": "LIT-059-HERTLINGMASE2022",
+    "high:OMeara1963": "LIT-059-OMEARA1963",
+    "high:Platonov1969": "LIT-059-PLATONOV1969",
+    "high:Platonov1970": "LIT-059-PLATONOV1970",
+    "high:Rapinchuk2014": "LIT-059-RAPINCHUK2014",
+    "high:Levine1970": "LIT-059-LEVINE1970",
+    "high:Smale1961": "LIT-059-SMALE1961",
+    "high:Durfee1974": "LIT-059-DURFEE1974",
+    "high:Saeki1999": "LIT-059-SAEKI1999",
+    "high:King1978": "LIT-059-KING1978",
+    "high:Saeki1989": "LIT-059-SAEKI1989",
+    "high:Neumann2017": "LIT-059-NEUMANN2017",
+    "high:Zariski1971": "LIT-059-ZARISKI1971",
+    "high:Zariski1932": "LIT-059-ZARISKI1932",
+    "high:Eyral2007": "LIT-059-EYRAL2007",
+    "high:ACampo1973": "LIT-059-ACAMPO1973",
+    "high:Le1973": "LIT-059-LE1973",
+    "high:FernandesJelonekSampaio2025": "LIT-059-FERNANDESJELONEKSAMPAIO2025",
+    "high:BobadillaPelka2022": "LIT-059-BOBADILLAPELKA2024",
+    "high:Milne2022": "LIT-059-MILNE2022",
+    "high:Greuel1986": "LIT-059-GREUEL1986",
+    "high:OShea1987": "LIT-059-OSHEA1987",
+    "high:LeRamanujam1976": "LIT-059-LERAMANUJAM1976",
+    "high:Orlik1972": "LIT-059-ORLIK1972",
+    "high:OrlikRandell1977": "LIT-059-ORLIKRANDELL1977",
+    "high:SebastianiThom1971": "LIT-059-SEBASTIANITHOM1971",
+    "high:Steenbrink1977": "LIT-059-STEENBRINK1977",
+    "high:Witt1937": "LIT-059-WITT1937",
+    "high:Hatcher2002": "LIT-059-HATCHER2002",
+    "high:Sampaio2026": "LIT-059-SAMPAIO2026",
+    "high:Sampaio2025Milnor": "LIT-059-SAMPAIO2025MILNOR",
+    "high:BudurEtAl2022ContactLoci": "LIT-059-BUDURETAL2022CONTACTLOCI",
+    "high:StacksProject": "LIT-058-STACKSPROJECT",
+    "high:Yau1988": "LIT-059-YAU1988",
+    "high:Jacobowitz1962": "LIT-059-JACOBOWITZ1962",
+    "high:OpenAIMuConstant2026": "P-fbba4579fd09c2ed",
+    "four:Zariski1932": "LIT-059-ZARISKI1932",
+    "four:Zariski1965": "LIT-059-ZARISKI1965",
+    "four:Zariski1971": "LIT-059-ZARISKI1971",
+    "four:Milnor1968": "LIT-059-MILNOR1968",
+    "four:Levine1970": "LIT-059-LEVINE1970",
+    "four:Durfee1974": "LIT-059-DURFEE1974",
+    "four:Kato1974": "LIT-059-KATO1974",
+    "four:Sakamoto1974": "LIT-059-SAKAMOTO1974",
+    "four:LeRamanujam1976": "LIT-059-LERAMANUJAM1976",
+    "four:KauffmanNeumann1977": "LIT-059-KAUFFMANNEUMANN1977",
+    "four:EisenbudNeumann1985": "LIT-059-EISENBUDNEUMANN1985",
+    "four:DuBoisMichel1994": "LIT-059-DUBOISMICHEL1994",
+    "four:Nemethi1995": "LIT-059-NEMETHI1995",
+    "four:DuBoisHunault1996": "LIT-059-DUBOISHUNAULT1996",
+    "four:Saeki1999": "LIT-059-SAEKI1999",
+    "four:ArtalEtAl2002": "LIT-059-ARTALETAL2002",
+    "four:KoikeParusinski2010": "LIT-059-KOIKEPARUSINSKI2010",
+    "four:Platonov1969": "LIT-059-PLATONOV1969",
+    "four:Platonov1970": "LIT-059-PLATONOV1970",
+    "four:Rapinchuk2014": "LIT-059-RAPINCHUK2014",
+    "four:Milne2022": "LIT-059-MILNE2022",
+    "four:BobadillaPelka2024": "LIT-059-BOBADILLAPELKA2024",
+    "four:AlanisLopezEtAl2022": "LIT-059-ALANISLOPEZETAL2022",
+    "four:OpenAI2026Multiplicity23": "P-b37600a212e7ade9",
+    "four:Massey2015LeCycles": "LIT-059-MASSEY2015LECYCLES",
+    "four:Nemethi1999SeifertInfinity": "LIT-059-NEMETHI1999SEIFERTINFINITY",
+    "four:Conrad2014Reductive": "LIT-059-CONRAD2014REDUCTIVE",
+    "four:Greuel1986": "LIT-059-GREUEL1986",
+    "four:OShea1987": "LIT-059-OSHEA1987",
+    "four:McLean2019": "LIT-059-MCLEAN2019"
+  },
+  "external_root_work_count": 53,
+  "new_literature_nodes": 52,
+  "reused_literature_id": "LIT-058-STACKSPROJECT",
+  "reused_identity_scope": "Sameonlinework/authors/title/URL/accessdate2026-09-24;new00ND/02JNtagsremainunread;noexistingverificationtransferred. PriorotherStacksIDsnotmerged.",
+  "bibliography_aliases": {
+    "BobadillaPelka2022": "BobadillaPelka2024:both sourceentries identify same DOI,title,authors and authorv5;keys do not imply different works."
+  },
+  "historical_selected_keys": [
+    "four:BobadillaPelka2024",
+    "four:Kato1974",
+    "four:Levine1970",
+    "four:Massey2015LeCycles",
+    "four:Rapinchuk2014",
+    "high:BobadillaPelka2022",
+    "high:Levine1970",
+    "high:Rapinchuk2014"
+  ],
+  "historical_evidence": "data/provenance/readings/F-059-history.json",
+  "formal_evidence": "data/provenance/readings/F-059-formal.json",
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "scientific_experiments": [],
+  "domain_attempts": [
+    [
+      "computer algebra",
+      "near",
+      "Exact finite relation andchain certificates can be audited;old integerkernel/factorization andordinarydegree routines already perform these local jobs. No implemented end-to-end topology consumer."
+    ],
+    [
+      "geometric learning",
+      "far",
+      "A representation retaining onlyambienttopology mayloseanalyticmultiplicity,conditionally onthefulltheorem. Realpointclouds do notsupply certifiedcomplexgerms orambientmaps."
+    ],
+    [
+      "materials defects",
+      "far",
+      "Topologicaldefectclass versuslocalanalyticorder is a possible diagnostic;physicalmetric/energy andrealfield assumptions aremissing."
+    ],
+    [
+      "biological morphology",
+      "far",
+      "Shapeclass versuslocalbranchorders suggestlossy-feature questions;specimens are not complexisolatedhypersurfacegerms."
+    ],
+    [
+      "finance",
+      "bold",
+      "Localcongruencechecks versusglobalintegrality are a structural analogy;financialconstraints lackthe provenSpin/SU/noncompact hypotheses."
+    ],
+    [
+      "transport",
+      "far",
+      "Patchwisecompatible flowcertificates mayneedglobalintegergluing;ordinarynetworkflow/Smithnormalformstrongbaselines andconcreteconsumer missing."
+    ],
+    [
+      "energy",
+      "far",
+      "Modularlocalgridstatecertificates suggestresiduebookkeeping;the algebraicgroupandtopology assumptions do notfollow for physicalnetworks."
+    ],
+    [
+      "language",
+      "bold",
+      "Equivalentcoarserepresentations mayhidefinefeatures;no literalholomorphicfunction orindependenttaskjudge hasbeen identified."
+    ],
+    [
+      "art",
+      "far",
+      "Topologicallyequivalentcomplexshapes canhave differentequationorders;realrenderings do notcertifycomplexambienthomeomorphisms ordesignbenefits."
+    ],
+    [
+      "formal verification",
+      "near",
+      "The chainalgebra module andunverifiedtopology bridge form an explicit proof-obligation example;metadata QA orbuildingthealgebraalone cannotvalidate the main theorem."
+    ]
+  ],
+  "cross_family_comparisons": [
+    {
+      "family": "F-058",
+      "comparison": "Finitejet/exactanalyticgerm semantics inexistingAPP05801 are strongeranddifferent fromambienttopologicalequivalence. Thiscounterexample cannot replace its originalexact-output consumer orremove its hypotheses."
+    },
+    {
+      "family": "F-064",
+      "comparison": "Citedmu-constantfamilies andtheirrighttriviality concernonefamily,not an arbitraryequivalentpair;thecurrentF059papers do notmakeF064bodyread orverified."
+    },
+    {
+      "family": "F-255",
+      "comparison": "Separatereal/integral/globaldata andactualone-mapcompatibility areusefulsharedqualification questions. F255outputcoverage maps are not automatically an integralSeifertisometry problem."
+    }
+  ],
+  "gaps": [
+    "Alltwo current manuscripts24TeX/Bib5601lines plus61includedrankcode and227supplementaryvalidator staticallyread;51sourcebindings include8classicalbackgroundinputs andonealiasnotextra. Not51new projecttheorems.",
+    "Only high:seed:chain selectedsourceB afteractual400lineunregisteredLeanmodulecomparison;other50sourceC includingBOTHmains. Mainexistence,Seifert/local-global/topologicalbridges not identifiedasformalproofs. No build/Comparator/humanreview;allcompletechainsunknown.",
+    "Fiveof53externalrootworks checked onlyinselectedconvertedtextscopes;48otheroriginalroots,unreadparts ofthosefiveandrecursivehistoricalproofs unqualified. Kato handle-index glyph ambiguous;RapinchukPDFheader2013/sourcecitation2014 retained. Nofulloriginalproofaudit.",
+    "Highdimensional2/3andC4analytic4/5areindependentarguments. C4notassertedright-equivalent/positive-weightpolynomials;notreatedC3case. Neitherambienttopology impliesbiLipschitz/contactomorphic/analytic equivalence norarbitrarypair impliesmu-constantfamily.",
+    "Exactfullintegrallatticewithmod4gluing,operatorintertwining,determinant/spinornorm andactualnoncompactgroups required. Abstractrealforms,integralmonodromymodules ordifferentlocalmaps cannotbe identifiedwithout the sourcebridges.",
+    "No arithmeticprogramor witnessvalidation executed. Defaultexplicitvalidatoroutputinsideupstream mustbeoverriddenif separatelyregisteredlater. Rank868and849rowwitness are sourceassertions/inputmetadata,not localresults ormainproofacceptance.",
+    "No admittednewconsumer,finitewitnessheight/runtime orengineeringgain. Ten domains/threecrossfamily comparisons areexploration,not13cards;oldfiniteintegerlinearalgebra/ordinarydegree/familyinvariance mayalready suffice. No newcandidate/check/run/human/secondprovider/pilot/GitHubpush."
+  ],
+  "external_body_republication": false
+}

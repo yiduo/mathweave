@@ -1,0 +1,57 @@
+{
+  "at": "2026-10-27T04:17:21.624987+00:00",
+  "stage": "registration_and_auxiliary_static_review_only",
+  "specification_version": 2,
+  "specification_sha256": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+  "v1_archive_roundtrip": true,
+  "v2_archive_roundtrip": true,
+  "fixtures_and_original_success_criteria_unchanged": true,
+  "resource_caps_not_relaxed": true,
+  "rss_machinefield_added_but_code_still_pending": true,
+  "two_actual_same_provider_isolated_static_reviews": true,
+  "independent_provider_or_human_review": false,
+  "target_run_outputs": 0,
+  "runner_implemented": false,
+  "helper_members": [
+    {
+      "path": "defender.md",
+      "sha256": "2d083157e4c33bcde87ae5a820a8f930dcfd3d43e17e79be883f02bd52af29c0",
+      "bytes": 7758
+    },
+    {
+      "path": "freeze.py",
+      "sha256": "f6e18195cd9b388bb8aa85278bb4885fe06b20f4174ef0331d624388a7163537",
+      "bytes": 9366
+    },
+    {
+      "path": "registration-v2.json",
+      "sha256": "83061baee71fb47de133e12a90d03ea1ba394dc489de5a6a0d28017400e284ab",
+      "bytes": 1110
+    },
+    {
+      "path": "registration.json",
+      "sha256": "58b271dd2e7a94569ef17194eff120cfc12e3f9e1ba42140d0830e838e954b58",
+      "bytes": 3024
+    },
+    {
+      "path": "revise_spec.py",
+      "sha256": "8f8fb8061643f5568eb2de71ddeb09ad2477b8aabaf2e8cd6fd77c42b4bf306a",
+      "bytes": 9326
+    },
+    {
+      "path": "skeptic.md",
+      "sha256": "80469c46ee967680a7883cbcbb2e6f87fea084819a39b7dc81be494e6e9e8c00",
+      "bytes": 8471
+    },
+    {
+      "path": "start.json",
+      "sha256": "718898843101c8d70f82fd061725b776bfa79207110ca7451689f0d61f77bbe4",
+      "bytes": 1148
+    }
+  ],
+  "compressed_sha256": "107b6e5278a5c86c80f458bbe71559bc6b487ada08717e73da08211e874d3b48",
+  "decompressed_sha256": "c007954f4f131c1dbe2fabc1222f41b33e41b838eb7e2cd25b66cf42e311b409",
+  "compressed_bytes": 17672,
+  "scientific_credit_added": false,
+  "temp_root_removed": true
+}

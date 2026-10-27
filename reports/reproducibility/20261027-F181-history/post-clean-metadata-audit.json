@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-27T10:37:03.241455+00:00",
+  "post_clean_changed_files": [
+    "docs/roadmap.md",
+    "reports/F181-historical-scope-followup.md",
+    "reports/reproducibility/20261027-F181-history/partial-checkpoint.json",
+    "reports/retrospectives/045-old-method-sufficiency-and-history-scope.md",
+    "state/backlog.json",
+    "state/checkpoint.json",
+    "state/status.md"
+  ],
+  "all_changes_are_declared_closure_or_planning_metadata": true,
+  "scientific_and_canonical_inputs_unchanged_after_clean": true,
+  "final_helper_archive_reopened_all_member_hashes_equal": true,
+  "state_metrics_backlog_next_selection_consistent": true,
+  "last_completed": "WP-128",
+  "next": "WP-129",
+  "global_retrospective": "045",
+  "next_body_read_credit": 0,
+  "goal": "active_incomplete",
+  "process_handles_terminal": true,
+  "official_math_unchanged": true,
+  "github_write": false,
+  "scope": "Later closure metadata was not claimed to be part of the earlier clean copy;all scientific and canonical inputs identical."
+}

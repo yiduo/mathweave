@@ -1,0 +1,31 @@
+{
+  "id": "WP-128",
+  "priority": 1,
+  "status": "ready",
+  "parent_task": "WP-006",
+  "objective": "Reduce the seven explicit unqualified F181 original historical roots,prioritizing source-used Aharoni-Haxell/Lovasz matching/covering and local-expansion cycle interfaces;read exact original text scopes,version them andupdate canonical lineage without full-proof credit.",
+  "selection_reason": "After actualAPP149externalcheck,theoldbaselinealreadycatchesallfiniteerrors;stop knownEulergrid. RestoreM2historicaldepth following code/spec andnumerical packages;F181 has explicitseven-rootgap andonlyfourselectedoriginals. Source-usedconditions may change transferreadiness more than anotherfinitecontrol.",
+  "inputs": [
+    "data/provenance/readings/F-181.json",
+    "data/provenance/readings/F-181-history.json",
+    "LIT-181-AH2000",
+    "LIT-181-LOVASZ1968",
+    "LIT-181-KRIVELEVICH2019",
+    "LIT-181-BKS2012",
+    "LIT-181-PYBER1985",
+    "LIT-181-KKS2015",
+    "LIT-181-AABC2025"
+  ],
+  "resource_limit": "Oneboundedprimary-sourcepackage,sevenrootsmaximum;normalTLS originalauthors/institutions/publisher/arXiv,3MiBperartifact/16MiBtotalnewdownloadcap. Analyzeconvertedtextonly;no largeOCR/Lean/solverinstall,nocorpuscopy. Do not repeatknown403sameURLblindly;use genuinealternateprimarysource andpreservefailures.",
+  "acceptance": "Read actualsource use andoriginalstatement/necessaryproofrange for eachclaimedqualification;pin version/hash/page/text lines,compare exactobjects/constants/degree/matching assumptions andoldcoverage. Keepunread/failedroots explicit;do notmergejournal/arXivwithoutversioncomparison. Versionupdatedliterature/analysis/affecteddependencies andfullgraph/source/FK/impact/export/core/clean/compression checks. No newcandidateorinitialcreditforbibliography orselectedrootreading. Mandatoryglobal045afterpackage.",
+  "stop_or_redirect": "No metadata-only promotion,no wholelineage/fullfamily/proof/humancredit fromselectedscope. Do notturn numericalF149supportinto mathacceptance orraiseoldinputs/caps. Useboundedalternatives,keepunresolvedprimary access asgaps;not endlessretries.",
+  "depends_on": [
+    "WP-127"
+  ],
+  "created_at": "2026-10-27T10:10:12.701019+00:00",
+  "next_action": "ReadsourceF181original-use locators for sevenunqualifiedroots;first boundedprimary discovery forAH2000/Lovasz1968 andKrivelevich2019 before any originalscopecredit.",
+  "body_read_credit": 0,
+  "new_initial_checks": 0,
+  "github_push": false,
+  "retrospective_due": "Global045mandatoryafterWP128thirdsubstantivepackagebeyond044."
+}

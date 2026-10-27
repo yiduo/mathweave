@@ -1,0 +1,59 @@
+{
+  "at": "2026-10-27T09:05:01.762370+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "work_package": "WP-125",
+  "selected_actual_files": [
+    {
+      "path": "math/lean/OAI/Algebra/PolynomialChains/Real.lean",
+      "sha256": "4a81c994dfbc74b70f90711feeb91d87639c6cdda7b22aa9ba3987551a591d9c",
+      "actual_ranges_read": [
+        [
+          1,
+          400
+        ]
+      ],
+      "full_file_read": true
+    }
+  ],
+  "discovery": "No matchingF059registryentry/docs/Comparatorchallengeidentified. Targeted local source search found the unregistered MultiplicityCounterexample namespace inPolynomialChains.Real;absence of catalogue links wasnot treated as absence of all Lean source.",
+  "search_scope": [
+    "math/lean/docs/059.md and59.md absent",
+    "Pinnedformalization.yaml searched forsource titles/PolynomialChains/MultiplicityCounterexample;no matchingentry",
+    "Targeted OAI source text forSeifert/ambiently-homeomorphic/Zariski-multiplicity foundPolynomialChains.Real only;not an exhaustive semantic absence proof"
+  ],
+  "comparisons": [
+    {
+      "item": "Completing one positive weight to an isolated chain",
+      "natural": "high:seed:chain,oddD and0<c<D/2,positiveweights<1/2,monomialdegrees>=3,isolatedcriticalpoint,andtail deletion preservesremainingweights.",
+      "Lean": "exists_chain_data,exists_real_chain,critical_locus/real_chain_isolated,eval_scale/real_chain_weighted,monomial_degrees andtail_decomposition inliteral multivariate polynomialmodel.",
+      "assessment": "Selected output statically matches;Lean existence allows anynaturalD with2c<D,so source oddD is a restricted case. Tail identity compares literal chain polynomials;not a formal proof of full multiplicity counterexamples. Selected sourceB for this lemma only;no build/human review."
+    },
+    {
+      "item": "Two main counterexample theorems",
+      "natural": "High dimension orders2/3 with ambient/right equivalence;independentC4convergent germs orders4/5 withambient equivalence.",
+      "Lean": "AmbientlyHomeomorphicAtOrigin,IsReduced,orderAtOrigin andcriticalpointdefinitions exist. Selectedmodule proves chains andpure-power squarefreeness;noexistence theorem of unequal-multiplicity homeomorphic pairs orSeifert/local-global/topological classification bridge was identified.",
+      "assessment": "Definitions andpartialalgebra do not prove either main theorem. Both mainsandother49namedbindings remain sourceC;fullchainsunknown. No formal source promotion from the module name."
+    }
+  ],
+  "source_B_bindings": [
+    "high:seed:chain"
+  ],
+  "source_C_bindings_count": 50,
+  "static_index": {
+    "path": "data/graph/lean_indices/F-059-chain.json.gz",
+    "sha256": "9d13e13c33264d076bf1dbea4bd56d73eb8e80bd754530dfd01ae38cbc7d3770",
+    "local_files": 1,
+    "declarations": 30,
+    "lexical_placeholders": 0,
+    "lexical_axioms": 0,
+    "external_modules_not_present": [
+      "Mathlib"
+    ]
+  },
+  "local_build": "not_run",
+  "comparator": "not_run",
+  "human_spec_review": null,
+  "complete_dependency_proof_review": false,
+  "provider": "OpenAI",
+  "exact_backend": "unknown"
+}

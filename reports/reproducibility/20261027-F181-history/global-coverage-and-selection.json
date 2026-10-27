@@ -1,0 +1,1502 @@
+{
+  "at": "2026-10-27T10:33:10.189858+00:00",
+  "subjects": {
+    "Number theory": {
+      "families": 31,
+      "actually_read": 4
+    },
+    "Algebraic and complex geometry": {
+      "families": 36,
+      "actually_read": 5
+    },
+    "Real and complex analysis": {
+      "families": 16,
+      "actually_read": 2
+    },
+    "Convex and metric geometry": {
+      "families": 15,
+      "actually_read": 3
+    },
+    "Theoretical computer science": {
+      "families": 40,
+      "actually_read": 12
+    },
+    "Dynamical systems and ergodic theory": {
+      "families": 12,
+      "actually_read": 2
+    },
+    "Combinatorics": {
+      "families": 37,
+      "actually_read": 5
+    },
+    "Algebra": {
+      "families": 18,
+      "actually_read": 4
+    },
+    "Probability and statistical mechanics": {
+      "families": 29,
+      "actually_read": 4
+    },
+    "Mathematical logic": {
+      "families": 6,
+      "actually_read": 2
+    },
+    "Group theory": {
+      "families": 14,
+      "actually_read": 2
+    },
+    "Mathematical physics": {
+      "families": 25,
+      "actually_read": 3
+    },
+    "Operator algebras": {
+      "families": 19,
+      "actually_read": 3
+    },
+    "Topology": {
+      "families": 18,
+      "actually_read": 3
+    },
+    "Functional analysis": {
+      "families": 11,
+      "actually_read": 2
+    },
+    "Differential geometry": {
+      "families": 29,
+      "actually_read": 4
+    },
+    "Partial differential equations": {
+      "families": 16,
+      "actually_read": 4
+    }
+  },
+  "read_family_count": 64,
+  "unread_family_count": 308,
+  "candidates_compared": [
+    {
+      "family": "F-271",
+      "manuscript_id": "P-9669b6997ff4be58",
+      "source_title": "Bloch's Law for Finite-Range Heisenberg Ferromagnets in Three Dimensions",
+      "readme": "preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/main.tex",
+          "sha256": "ef550484ff8b97f6fd84cd58d0e1557ebfce64b0e86ab603ec3248ac183e6857",
+          "lines": 61
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/references.tex",
+          "sha256": "2e517746c3728e34000c274146684f14e34b7be1ae2dbc6a147be7bf0c67370b",
+          "lines": 117
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/01-introduction.tex",
+          "sha256": "9c6a45a7a4d564f6cf007d0f742fb1c15c35bcdc74bac0e7ab16ae5b81c0aaaf",
+          "lines": 210
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+          "sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+          "lines": 719
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+          "sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+          "lines": 532
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+          "sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+          "lines": 565
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex",
+          "sha256": "d7f2b758dfb463aa85a9fe0e42a70060e38cee74c153f1add263d3e188976ebf",
+          "lines": 214
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex",
+          "sha256": "2fdc054ec16f47aba3baf9dfba9e984a18305084cfef883844a75f8a429fe826",
+          "lines": 411
+        },
+        {
+          "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/07-pressure.tex",
+          "sha256": "5a6dc9ce689d5b2b97e19e2c50130de6e31a105c4f2326b6ec3fd03bbea3a876",
+          "lines": 194
+        }
+      ],
+      "file_count": 9,
+      "lines": 3023,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-271",
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "source_title": "The first lattice correction to Bloch's law",
+      "readme": "preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/isolated-surgery.tex",
+          "sha256": "0b627ae2b20ae2b6d5a50c4466234a64aee56fc5dcad50c85455a518b8b8fd65",
+          "lines": 44
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/figures/period-averaging.tex",
+          "sha256": "1282d13b211ee5477c2e66d8f574f114e9f2d1460a49a0f987c868d92eae61c6",
+          "lines": 32
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+          "sha256": "fbf731b46c34d504c261a9d0000ea78be35f5671005a1b42048db1e6fa389109",
+          "lines": 70
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/references.tex",
+          "sha256": "8cdd4fd894c8c9c584dbef7edd7946e59026fc9a511185747a45cdfaffa71285",
+          "lines": 98
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+          "sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+          "lines": 156
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+          "sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+          "lines": 198
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+          "sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+          "lines": 552
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+          "sha256": "975dfb3e30cd608a57aa0c6022c99415ca652f01c2ecb3e8383f4fed258cd0f8",
+          "lines": 150
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex",
+          "sha256": "bffeec3003069cfaed0cd70b7d86316553965293ff598e607ff8a8c697fc3fa3",
+          "lines": 239
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+          "sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+          "lines": 315
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+          "sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+          "lines": 337
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+          "sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+          "lines": 485
+        },
+        {
+          "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex",
+          "sha256": "8d54b4b6539b582b35f82f39df514f08a1cf51f745e33a7e55e2cab01fe63267",
+          "lines": 300
+        }
+      ],
+      "file_count": 13,
+      "lines": 2976,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-271",
+      "manuscript_id": "P-580339d5b914b270",
+      "source_title": "The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet",
+      "readme": "preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/holes-comparison.tex",
+          "sha256": "c8f38972063ec5594eda1d393eec191e509a5374032e3a5306546449c181a16c",
+          "lines": 72
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/figures/sparse-ghost.tex",
+          "sha256": "ecb7afa94c7921de4aa6853d50aef2c5cf58998484e6e567396bf3a678ab5211",
+          "lines": 19
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+          "sha256": "6c7da97d60e212a9107cf86f0ac6f31df739627808f97a2efc946886d01f40c1",
+          "lines": 74
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/references.bib",
+          "sha256": "676322b6fd917d96ff2a9bc3fa5606eece253006667862875a9ee343de60c6df",
+          "lines": 275
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex",
+          "sha256": "1df7a37b7ecc61d7f3360ddda6a12cc090ceb730564272439af4e98e4bbd0031",
+          "lines": 223
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+          "sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+          "lines": 480
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+          "sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+          "lines": 693
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+          "sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+          "lines": 734
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+          "sha256": "93774be096bc16bdcba9b3738015ca30be8b628f3fe2dd2d964b9cadfec05578",
+          "lines": 281
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+          "sha256": "6defda8ed4ce36097f3470ac5fb8cd388d9aa4ccdfcbd6e22ce0a655881031ee",
+          "lines": 276
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+          "sha256": "a8dc4f7a4a0a244dc1eb74987f23be185aa393a53586ffd2299bc4d9ea3ad6ed",
+          "lines": 560
+        },
+        {
+          "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/08-global-spin.tex",
+          "sha256": "30e8c17b2bbcb921f9065045a24d11181807667680d13b1d4398de48c76d58b2",
+          "lines": 138
+        }
+      ],
+      "file_count": 12,
+      "lines": 3825,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-271",
+      "manuscript_id": "P-addb934e37307c35",
+      "source_title": "Spontaneous magnetization in the quantum Heisenberg ferromagnet",
+      "readme": "preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/exposure-first-moment.tex",
+          "sha256": "d60d5d325cd39991e9c0e4c2144a974a618cb66dd908e60afb0cdbe1499eb50b",
+          "lines": 38
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/figures/hull-routing.tex",
+          "sha256": "a651b014cb45d60640d575755c1b80bcfd31eff1343caedaa3710c86bde5fdb0",
+          "lines": 91
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/main.tex",
+          "sha256": "970ec4b38b0b0c8ba89366b11905479d7a7f0c6d08c89143c96280dbcee769c8",
+          "lines": 63
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/references.bib",
+          "sha256": "28d3be1c184912728a605d2d5a829af057d3e06f419a80dfce521b46650e5af2",
+          "lines": 382
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/00-introduction.tex",
+          "sha256": "bf59b3ae4f0fb26d6af16b612c68af35ce3d4c4823268ca5cb521562c64185ed",
+          "lines": 295
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+          "sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+          "lines": 397
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+          "sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+          "lines": 443
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+          "sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+          "lines": 644
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+          "sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+          "lines": 499
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+          "sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+          "lines": 418
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+          "sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+          "lines": 612
+        },
+        {
+          "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+          "sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+          "lines": 493
+        }
+      ],
+      "file_count": 12,
+      "lines": 4375,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-280",
+      "manuscript_id": "P-3ca87c88dd6d6adb",
+      "source_title": "Strongly rational unitary vertex operator algebras and conformal nets",
+      "readme": "preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/01-preliminaries.tex",
+          "sha256": "2ba6802781b954580d26a0923d29e19033942fee8f2eb67a0e5ab70137f87951",
+          "lines": 88
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/02-energy.tex",
+          "sha256": "b416fc1ba95d17577cdb2af60dbb8b8a526024290b0b0c650436af7f6dc25c5a",
+          "lines": 589
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/03-annuli.tex",
+          "sha256": "347c5438ab59f95c7ea039713fe0aeeb72c67f2af5fa289fbb49f2a2b61d7998",
+          "lines": 582
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/04-integration.tex",
+          "sha256": "2c67ab144c8864f24682eb890f449539faa5df10ae874fe0201888c07abd0100",
+          "lines": 318
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/05-fusion.tex",
+          "sha256": "fa74513a5558df884d5c16fed2009191b297c9ccb20989ceb89a83058e04cf90",
+          "lines": 425
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/06-unitarity.tex",
+          "sha256": "5c05eb4a32025e4b3017faefb6396d8bc08fd81fc787ad73e75c7c9af2b588a9",
+          "lines": 505
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/07-comparison.tex",
+          "sha256": "e32867bfd6e15fb627dd6a8e896a187107f731d539ce422b47bc0be0af81bbc1",
+          "lines": 193
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/08-exhaustion.tex",
+          "sha256": "670089f8d2f72754f7aeb2676a8b7d4b08877f00932dcd2f5de0effb58a1921e",
+          "lines": 327
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/main.tex",
+          "sha256": "6e45cc68696929204a6e7b64394a0430fa6c0f33b2f5d1d696be1cc2a189ca68",
+          "lines": 150
+        },
+        {
+          "path": "math/preprints/Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026/build/references.tex",
+          "sha256": "66ffa9707b280f7a5fdf9a0f1ee70ced30dc8c14ccd9678e834b5b0f6e9ee9eb",
+          "lines": 256
+        }
+      ],
+      "file_count": 10,
+      "lines": 3433,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-269",
+      "manuscript_id": "P-fd6c2cbbfad1f459",
+      "source_title": "Uniform Stability of the Spherical Laughlin Gap",
+      "readme": "preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/appendices/retained-blocks.tex",
+          "sha256": "6a7c20318969e233b5cb26ff72df1027e7eadb6901664a074342a76411e24b27",
+          "lines": 752
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/bibliography.tex",
+          "sha256": "c2bb074097ba72ecd3f6ce4fa51dab032a70d7eb582e65f0e6dc918378ddeea4",
+          "lines": 141
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/paper.tex",
+          "sha256": "07418fb959b902358a8b688ff08c4b0c34f40c92efe0a162f783128e8a653aa2",
+          "lines": 50
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/01-introduction.tex",
+          "sha256": "fcc0b6b26ca3ab45d0e455bb4b84d8beb08e5f16662834c513205e61adf9089a",
+          "lines": 220
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/02-preliminaries.tex",
+          "sha256": "62c2f79f4b82525110457026ff82ea249a65d058c3bc08f167f94c3182cd734b",
+          "lines": 197
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/03-locality.tex",
+          "sha256": "aabc17e4e31988cbd2835386adb09f1c4c6f4eb6238afcf5274301e719c9a375",
+          "lines": 1048
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/04-pinning.tex",
+          "sha256": "b45bcb3b179d1a6029a22dbf153ab3928467059fd0cff8122cbd9f3b92624506",
+          "lines": 666
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/05-flags.tex",
+          "sha256": "0658b7e34477a6c4be7ad9cefdee0717b93643a4c815069ee744aa464ee8233e",
+          "lines": 706
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/06-charge.tex",
+          "sha256": "9db52ccc8d35ccce2a576506c0ff62555f2b2990093636375686c336cedb03f9",
+          "lines": 606
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/07-energy.tex",
+          "sha256": "fec0459d72046a5649c02e2e2ee140253006d604f95acfc98198c8bf8efbdb02",
+          "lines": 462
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/sections/08-stability.tex",
+          "sha256": "030424307a981f70a320ef84f866e4c5251371fbd4b8a00434a0fd05da98c9df",
+          "lines": 269
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcore.code.tex",
+          "sha256": "62d57ec37b0dea5c1d8fd302e0a13dbfdad525329b012219ce42f52efba3dc37",
+          "lines": 33
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex",
+          "sha256": "a11fced8ce8299fb87ca2d915bdb372a89ea52fde2927dcfa2a3d4ceb84a5d92",
+          "lines": 1011
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex",
+          "sha256": "10fb9204a25bebd3fa7311558f07158f5cd48e3e92abb316672f6b1f569329e7",
+          "lines": 357
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex",
+          "sha256": "f836c16aab54424a9a9e4cef72151cd5e6b78795688f4142f96c46b2046f18d5",
+          "lines": 162
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex",
+          "sha256": "12034865e6976addd84638ebfb5eafc99f276134b18588e016a064e6b7543ce8",
+          "lines": 150
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex",
+          "sha256": "bad1caf6cfdc13d9bb818625e57e55b84960e63e35ae913aaa0f767b9b99b739",
+          "lines": 161
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex",
+          "sha256": "459a6340f4e992dc5ca0fd535db34eb4911ad21f612ee594420895c6463fb1a5",
+          "lines": 29
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex",
+          "sha256": "383900b633f78da794da6226578d4ad47500903a1c12c670b0172d3c9bdc874c",
+          "lines": 997
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex",
+          "sha256": "60faf04cc2cb14ddaf704314ad8857541bb423fd85b869bc5c2001acf3860c6c",
+          "lines": 417
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex",
+          "sha256": "f0f70904fd5fee82c2275db9d52b252bb795335843e5c9cb8b2b93a46c00a0ba",
+          "lines": 510
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex",
+          "sha256": "8a385ba99972d26fd8d13c13516f2170924c8ee708df9945e40bdacb32d7da39",
+          "lines": 197
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex",
+          "sha256": "425f46202848be027eff9b149cf80cfc1064be3c09842bb76a5d97037d5b4253",
+          "lines": 724
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorequick.code.tex",
+          "sha256": "92925e2bc4994c6edc5c239e86a8d748fa01f6ee45ca785a08487b3d36a51add",
+          "lines": 67
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex",
+          "sha256": "ebc3e6f49deff18e32354c069b16099f5e1120c24f81bb693ec555af6b49920a",
+          "lines": 83
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex",
+          "sha256": "9e3da97aa106dd911fb881c04235140e7b747b1d826a4d8194347c8307c8e1c5",
+          "lines": 496
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex",
+          "sha256": "8feff73e2904c3df331a9bd65abc2be53b96fdbe960c0903c545fea4834ea0fe",
+          "lines": 700
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex",
+          "sha256": "f39acd778739237f73a2aea068d3bf273344666aef26b7a9f39db888670230ce",
+          "lines": 503
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex",
+          "sha256": "cbd3e66d98ce8f2a0e04f6440493ce545afe44dd35d3ee1cb81f837472796d98",
+          "lines": 146
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex",
+          "sha256": "aaad58474ca87ab7eb80f95dd47fc2288c2b54fce40db8137c1627f99ed857ad",
+          "lines": 205
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex",
+          "sha256": "f57539c123a27b207ac2d133635ba611bf9d9451faa0cee7a108fc451333a825",
+          "lines": 371
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex",
+          "sha256": "750243a54d056ae278628a16eced45c1b36f6ff681086d8b771e8c5326f6bc30",
+          "lines": 121
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.logic.CDH.code.tex",
+          "sha256": "174ed5ea48779fa26935a07a093b116fbe78798459d539ad983f9e7ae39bdb39",
+          "lines": 20
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.logic.IEC.code.tex",
+          "sha256": "28321a34d106661139d5c8b050abc1b5487922ec6beabcaf1ad134176c1ee4b8",
+          "lines": 59
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.logic.US.code.tex",
+          "sha256": "846e1ff34781e23946b69c291f661bedf34c2721bbb96dc09332efe7f2e00baa",
+          "lines": 49
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.logic.code.tex",
+          "sha256": "5120167ccd1ad44bdbeab9b2073817710b139be0cbb843123c22f17223d13a34",
+          "lines": 31
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.3d.code.tex",
+          "sha256": "837446c936756c04dc19e8b637bdf0e216175562262e335538bc45bbb58e56ec",
+          "lines": 61
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.barcharts.code.tex",
+          "sha256": "a967b54169fedc602270e93f209fc7fa9d7942d40d8711c4f00e608dd34dc7df",
+          "lines": 35
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.code.tex",
+          "sha256": "fa1f542ac9240fd6e5728ef0cd8d908a27cdb9ffeb9be3e47fdd74429f46d6bd",
+          "lines": 2355
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.formats.functions.code.tex",
+          "sha256": "4044ffa07827e146c97cf1176405272e01052e45b3ca877c401b12efc00bd103",
+          "lines": 8
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.polar.code.tex",
+          "sha256": "2d34486e5b9a41730f5a97db822b90062a33a8d5ef5e7190d657f82d4a4084fc",
+          "lines": 527
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/datavisualization/tikzlibrarydatavisualization.sparklines.code.tex",
+          "sha256": "41de0f5e8798fa3246c197926cb8accf0656f3221085b50dd4757c84ba644d47",
+          "lines": 26
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.code.tex",
+          "sha256": "df6f6537f5b51bed1a563cab3a53b4ef4e37c50db33882b94aa09a025d30bf3d",
+          "lines": 2275
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
+          "sha256": "ef27fba1e206d45b7774515b0be98e5ccac7b6d0d9b9aa5bf9ce6e40e7b97dbe",
+          "lines": 72
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex",
+          "sha256": "768695c04c75e5edfcbe7305b77ff2c89424633211952280416eb2f30ad67a3f",
+          "lines": 1265
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex",
+          "sha256": "d3623afbb3ae3a0d7f0d121daf9a714c9f19895c98aa873a697b763400a99413",
+          "lines": 97
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex",
+          "sha256": "c08ae717160a5f247691170ce69b0b091a04291b1aebf8b05b873681ed443051",
+          "lines": 89
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryanimations.code.tex",
+          "sha256": "8c8e031911756e4250851765d95981e7fb15478e9f2d3e5fdbb087e31ac0c3b7",
+          "lines": 790
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex",
+          "sha256": "99296e5f21ba7b01cd8c6971e29adb673b174ab4076ca47f22a357db24abda18",
+          "lines": 6
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex",
+          "sha256": "6999b8460cd2e97cba234c4ab66f641a3a701aa93ca7143092302d8237a4932a",
+          "lines": 95
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybabel.code.tex",
+          "sha256": "e23077d88a70557b3671b0cba54d2ea25a00b3ee67e2029944cfe30ea4096020",
+          "lines": 9
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex",
+          "sha256": "5bcedff7f75dd6ac3d7cd49e0babbc082a792c3da8f3afa64e4ab25ccefea9b3",
+          "lines": 134
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex",
+          "sha256": "be747b867f71738492370066905f2dae66fe48cac8d9c0e9d921aa528d9e1641",
+          "lines": 7
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex",
+          "sha256": "f74f30594dd5130deba624ab8e193e4fc352e5ed48d4467cf41c1d29c5aa6768",
+          "lines": 455
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalendar.code.tex",
+          "sha256": "29e82f8b1745257ac573a18b2bb26e74b8f96c0b40055bc1b3ab165805f410b5",
+          "lines": 398
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarychains.code.tex",
+          "sha256": "385fef4cf1e0f31be24602bb6d4765284b39ba4cfdb250d32ca9c944b69eeeb9",
+          "lines": 198
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex",
+          "sha256": "bd24978e131176ba35946cbe519620aa3ed138aa57c7022c782cd60951e9829a",
+          "lines": 173
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.footprints.code.tex",
+          "sha256": "f44f66888cb705c6005a0e308bee60e72e76e0fbd301c302ec02562beb3d7aca",
+          "lines": 5
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.fractals.code.tex",
+          "sha256": "8e1c79f9dd1f9d52d69bbdd8996bee07957844d7bba181db3423622ff9d2bcd8",
+          "lines": 5
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex",
+          "sha256": "386d196bd0fc6dc061a019dd78617e180773e9c51ba98260c1b7c6a942c9d44f",
+          "lines": 22
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex",
+          "sha256": "74cf3f88f287d0d04b57fbff65af90fa7c3fa010124ef5c76843608e6bb6ec71",
+          "lines": 5
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex",
+          "sha256": "d85ac008eaea2765a003ce781d932e6b1a2b9dd1b920953910c91ab097ac9012",
+          "lines": 25
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.shapes.code.tex",
+          "sha256": "3f02e804162f3dc0526e06f2d4571b2ee55ce5cc67fb0f50646ef3a58a4c27a2",
+          "lines": 5
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.text.code.tex",
+          "sha256": "ed4e0e9310a717b7315ca2c2f3f5d0960d829f40aa4a1c9b704f5c47d1af1513",
+          "lines": 596
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryer.code.tex",
+          "sha256": "770e596fa782e8b113a908ac8074877d5d1ba3daa62667c079b07489459526a2",
+          "lines": 29
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex",
+          "sha256": "6c6a74094e427bf3c7ce79d5e9268023473a0d84af078ba361f4f06a4fcb6e22",
+          "lines": 36
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex",
+          "sha256": "a0ddcd670df4c919998a19fc9652852737baa93815ad5932d257f5a6e307dbe2",
+          "lines": 118
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfixedpointarithmetic.code.tex",
+          "sha256": "f8de15e6462280a9bc685e394066ec378c3cf6b9be55991daae6f27f10b5e3d1",
+          "lines": 2
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfolding.code.tex",
+          "sha256": "0ceed26946c6f64f59c0a581e3726b3b64577ea08fe36b40ad1d42d50e72e8b8",
+          "lines": 2409
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfpu.code.tex",
+          "sha256": "f465d758b493f2bb48e53f13f950203af19a91446f6e526036c735aff2d136b4",
+          "lines": 2
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex",
+          "sha256": "680f810728bf23343b8e72e58a6b66cf2e5a298ff4a06084517873193aa9ca31",
+          "lines": 127
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarylindenmayersystems.code.tex",
+          "sha256": "d30291202e61001d19d24476376ad5b11dd7fde55329f5750ef0014959b9b16f",
+          "lines": 73
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymath.code.tex",
+          "sha256": "aa689d76079c195095a4f079788dc2f31f23b2377021624d1c74c5fbb0ece7b7",
+          "lines": 722
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex",
+          "sha256": "24092e92fc204e44a1ed1d4617b6b057bcc06ebaa6e8bcbcf38e27b5f103547e",
+          "lines": 130
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymindmap.code.tex",
+          "sha256": "fb7568442ddba39865d9285f715a6ebc2ef14ac7f9121bee2786a65097a18eb3",
+          "lines": 396
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex",
+          "sha256": "7abf3aff827637851e625e07e6969bb67f3a697bc3584dc4525c54a561ee931c",
+          "lines": 23
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.meta.code.tex",
+          "sha256": "2b72e058f0d871de8c333d48c208372d69e6813d22696a279d3809f7da02d03b",
+          "lines": 86
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryperspective.code.tex",
+          "sha256": "04c33f3841ff72d4b346a796becd07ab2eb08c10deb9421f7b5f7a6d4eccac2e",
+          "lines": 94
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypetri.code.tex",
+          "sha256": "d76e1d5b73b8b8403947caf7d1e62d8e9ffb5e9c36ca77f43c424e6c3ebac554",
+          "lines": 125
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplothandlers.code.tex",
+          "sha256": "59d5a66ef9e6ce0ab4f011032ce11d3a7c9dc7b060429410c48490a56dd20cc4",
+          "lines": 6
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex",
+          "sha256": "6b2d3ac3dcc57ec79d599fa37372f361be990c101c13329f7d04539be714c663",
+          "lines": 6
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex",
+          "sha256": "191aa1f30fb6228279c196435b69c94bc4e4aed6567ee027c30630499784f713",
+          "lines": 107
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex",
+          "sha256": "47268fd9fc2d84e34677649dd2423783e0e6b5de3d1c8963b3e3f4d64b13e08b",
+          "lines": 82
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryrdf.code.tex",
+          "sha256": "5f9f8c17acde500d6f11db2881e46cda0bb7ae641af0b8c2254a679a1d6c6d43",
+          "lines": 257
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryscopes.code.tex",
+          "sha256": "e9f45a7857828a89bc01c8b1f8450a19f4ee2413f108bf95b635ea7c97f75c89",
+          "lines": 32
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadings.code.tex",
+          "sha256": "b534b5934d56c138ac5021a37013e155fad5f833f3610deca5d5e53ea3d04d78",
+          "lines": 13
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex",
+          "sha256": "19e871978abf6e207809e9c114934858189f4c4fc91dfacccd9ee262688329f7",
+          "lines": 121
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex",
+          "sha256": "ce34a499bca1caa19b35e2cfcecdedb0eed53267cca046c2ec650c4fbbf1520e",
+          "lines": 8
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex",
+          "sha256": "108bff9ebb8ecf331c2d6c5b6a3958f903f6292bfc7bf7ae4c9dfc6fbbd6bf48",
+          "lines": 27
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
+          "sha256": "aa71320a187e0ae4630295bc63d8a4eab1b1857f7f33f296d1585302b69fbb4e",
+          "lines": 11
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.gates.logic.IEC.code.tex",
+          "sha256": "8e71d041995592fdbd090a4f77f51d5095738a96821250b0bb3d4b9e7ed1cd20",
+          "lines": 30
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.gates.logic.US.code.tex",
+          "sha256": "08cdf17bfd915825834a5cf67620597bf95879315eec5dbc41f035035eb34398",
+          "lines": 32
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
+          "sha256": "0a6724211f0fc1312385e8c0064569dd38cc24f7cb09bb4ee86da27e41cdf2b9",
+          "lines": 6
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex",
+          "sha256": "af6f2a995c0fa5723fe7c9dcb6332517ee0e063aa8f86f998fdabfa839e360fa",
+          "lines": 6
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex",
+          "sha256": "f6082a8feaaa793ff831fc62499ddbdd7f51279e2a633ff083a5ef81b62f21dd",
+          "lines": 28
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex",
+          "sha256": "4aaeef1f5b7de028925027dd0dfec100e399ba6374265cdd2a3446e39e6e795f",
+          "lines": 9
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarysnakes.code.tex",
+          "sha256": "8d675dd01d0650ce480b27746e9c621b15f865b0b943c8aa169b03fd3039f404",
+          "lines": 68
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryspy.code.tex",
+          "sha256": "9e85a1e9931dc0af37df3a22d710a504e0188f00caee0730a7ae376a456d12bd",
+          "lines": 125
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarysvg.path.code.tex",
+          "sha256": "433ef6b0823e9cad696e8bd2424b85cfaba3a69b771b789878166ab8f9612930",
+          "lines": 25
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarythrough.code.tex",
+          "sha256": "fa1e80f097db1fa5e8cb8b1a0dabaf1488bccf041ebefc8156bd7feca6d68b1f",
+          "lines": 27
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex",
+          "sha256": "7197ebe34adda381bb7f7c696e777e14b837e5f4b8df4b91f67dbf0c53f60a33",
+          "lines": 347
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytrees.code.tex",
+          "sha256": "f2b99cd469300903dbfc0f3f239e5117ae2bcb3955e4ca9c10e113fe282d5e0a",
+          "lines": 92
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryturtle.code.tex",
+          "sha256": "1dfecb1a5f4c807129e4b75a6e0c40e2bddfcacf941670264107f028c7c76319",
+          "lines": 65
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryviews.code.tex",
+          "sha256": "129e18f689ce6042c2bc49acda24200bf5103b4be88a35590acc8adf9443fb49",
+          "lines": 37
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex",
+          "sha256": "1679b318c3d03ece32017f92e40b7d4c5d6f97becd4647e0bdace2702dc5eafb",
+          "lines": 5119
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/experimental/tikzlibrarygraphdrawing.evolving.code.tex",
+          "sha256": "1ece4f2598a57346064510af9ffcd793fa534e75fa8213395f710c1d44f00a7e",
+          "lines": 13
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.circular.code.tex",
+          "sha256": "d105b048b1d64a5a04f6d14d2db99e7559513e1c8bfd00cf646267576453e31e",
+          "lines": 7
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.code.tex",
+          "sha256": "9cb7d39acff359ee68a48e8a55998945034c968e11594d8a327567e02542bdb5",
+          "lines": 631
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.examples.code.tex",
+          "sha256": "774b92a6bdc27e7947d8a3e15ca10365cebb910293a48408c45b438769e93479",
+          "lines": 9
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.force.code.tex",
+          "sha256": "84d576817e58af2264fa51f499a76ddea4291a11718de6616ac3ef7077eae3b1",
+          "lines": 82
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.layered.code.tex",
+          "sha256": "49075440ce5d5938e4d6a6012e3a39897d8e4cde3b526e0815d74acee12acd11",
+          "lines": 9
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.trees.code.tex",
+          "sha256": "fee4306f1e4d4544af75c38f52ed7201f540ad23341cbebc88ac0bf16bd46cc3",
+          "lines": 10
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/graphdrawing/tex/tikzlibrarygraphdrawing.code.tex",
+          "sha256": "3ca6b539ef1498f2b82687f48ac83de7e44991fd038d2ae8c16e9ccb355d66f5",
+          "lines": 224
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/datavisualization/pgflibrarydatavisualization.barcharts.code.tex",
+          "sha256": "36e6b88efe805ccd4501bff021a698387422939b2f2b51670ec086381484499a",
+          "lines": 118
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/datavisualization/pgflibrarydatavisualization.formats.functions.code.tex",
+          "sha256": "6517d2942c43b0c43de4079b31f9d425df08a14067524d0f3fb58dadf09db91e",
+          "lines": 130
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/datavisualization/pgflibrarydatavisualization.polar.code.tex",
+          "sha256": "c3ab31336359c40add4b150225eadc0b9315e4a39afbb25d81b5a90d204f34b7",
+          "lines": 144
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.footprints.code.tex",
+          "sha256": "27a7ac1d69a433dec320f5ef1e34c061a8967ac1d6c4ea750d51f135a85a9fad",
+          "lines": 181
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.fractals.code.tex",
+          "sha256": "ebac656426195fc68a7224043b2563d53cfcd70daa6665f3aaf29c0b6c2cfef7",
+          "lines": 57
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex",
+          "sha256": "d358b1fd584b59be4bf265515450757cebfe8a9e2d4593e28954947202ad6c5f",
+          "lines": 160
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex",
+          "sha256": "52fd8442019aee7698deab4511a662c0996da24a2a04ba36885759893cdee0b3",
+          "lines": 242
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex",
+          "sha256": "46f1c93ea85451e1c5138a0a7f63c24d839152dffb782b428c9af720c5858a91",
+          "lines": 203
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.shapes.code.tex",
+          "sha256": "60e849f3fb1ca18b75a7fad7caf0ea5e256269dfe2d73aff4ace38abf0076222",
+          "lines": 353
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.text.code.tex",
+          "sha256": "e739694292c22c151432273ccf978c8cc458359d53e6454d9c50eff224d084e8",
+          "lines": 328
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/luamath/pgflibraryluamath.code.tex",
+          "sha256": "9fa3baf2713f9020fca30f1415e0ca4b459d89191edf1c8caebd1fca93e835fc",
+          "lines": 365
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryarrows.code.tex",
+          "sha256": "b0f4e42aecfbaef355101d153da610ce378e84e8a366d0399710b60e0aa30593",
+          "lines": 898
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex",
+          "sha256": "5990f6c80421a26ea7b6c78cb0ef55f7d0f70d97e9f9ed3e11115a171611ba2e",
+          "lines": 1436
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryarrows.spaced.code.tex",
+          "sha256": "f26128c308a28d6312664519f4181d7445cc7e6ee57a3415308d0923fe438221",
+          "lines": 78
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex",
+          "sha256": "452136cf504606a7106dc48d71f908ec31cc7aa2da7f08dc71d5867629614189",
+          "lines": 263
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
+          "sha256": "53c4d5f08248064151a6ab21c5663f3ab1a8b9ff5cf114721eae87ac01ab47c3",
+          "lines": 47
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryfixedpointarithmetic.code.tex",
+          "sha256": "020e8c091c4b6a2603d1656cc2c8b2356d1f588862e1c26f86d94e79d3fa4c10",
+          "lines": 562
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryfpu.code.tex",
+          "sha256": "41b6d21b801ab3d3fd7e751249036c89d53286aa02802eaa3bd706b42590aa8d",
+          "lines": 1961
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryintersections.code.tex",
+          "sha256": "061fdfe50c14898ae159b330fa110f6da522dd7f3a912d93a3986922275f1643",
+          "lines": 899
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarylindenmayersystems.code.tex",
+          "sha256": "23b15b565c804aaea06a7bf8f8d2d55af916341b2d58e9e8211466b91e922060",
+          "lines": 213
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex",
+          "sha256": "9371c9e7a7b40fbe96901b71a5f777ee558845d3f9a130dccb9761a434098afe",
+          "lines": 246
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarypatterns.meta.code.tex",
+          "sha256": "28bb82967fa0889b60931f8a298796902d01916a64d1cbc35990ab90e9db2c75",
+          "lines": 429
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex",
+          "sha256": "51d4b2227243a42a135e84ef41a72f7fdec820874986c78b3d080b513595934b",
+          "lines": 773
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex",
+          "sha256": "c9ea4209dfd25a56149d50a844239dc02a26a17fbf83d85c709b0d90c8e9af46",
+          "lines": 412
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryprofiler.code.tex",
+          "sha256": "1f15cca94d1a5f6b50297de017b4503cf3fd8fcff16787811ae0a3e452b0a098",
+          "lines": 427
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibraryshadings.code.tex",
+          "sha256": "b66a50cd85f6544eb0327b53a34c770f702b8445ec64a2792e3b73750f22bf9d",
+          "lines": 351
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarysnakes.code.tex",
+          "sha256": "629ffd9534c280fcaf7a9f27afed9db12356c57c58d91c31cd99fe835932d884",
+          "lines": 8
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarysvg.path.code.tex",
+          "sha256": "2ea505bbc9d86244221f6bf1b0b0c333872a903e5a14f6b92a3d3018ebf2b758",
+          "lines": 735
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/pgflibrarytimelines.code.tex",
+          "sha256": "f2724c960575a211c90ce8cd6641136b13a46dffb5bdff11422c79c909a32e84",
+          "lines": 124
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex",
+          "sha256": "904a5d29a042e68972ef77c6d5a734d5a40be4378f4ecbdd55328a301136d1e0",
+          "lines": 596
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex",
+          "sha256": "d6ece76f9e013826e3f98235eb77605ff50252722805a5db5a60eecebaae9107",
+          "lines": 146
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.logic.IEC.code.tex",
+          "sha256": "6bcf247a856b3d0b185c5de3ca87f4c31f1451a09ba7e88f9b19f1d45cee41e8",
+          "lines": 686
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.logic.US.code.tex",
+          "sha256": "9e0a9706e2fa69bd9d6eb3db13d05e5dc15f171fd4856c5c70a0e99e8ff5b259",
+          "lines": 2378
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.logic.code.tex",
+          "sha256": "2e57a36668e5e29008636cf7eff1e7424bd848b5d99231ef893676fbf4dc8db7",
+          "lines": 87
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex",
+          "sha256": "7039238cdccb9c7429a252c705175cab2c2ad03083cae92f56d5126687a38b75",
+          "lines": 2200
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex",
+          "sha256": "6749d3586f4345dd1e1d01de4d9b30ba4af44dc0b8560deb0c984cecbaf37bcf",
+          "lines": 799
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.code.tex",
+          "sha256": "ebad8aa71732dd287785673ab13bb74a7cb697874ea13b58f84bf3f8918bcdb5",
+          "lines": 10
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex",
+          "sha256": "da928988984603af7bb5b4d43ffcd00b98d2dd31aef0ead29ba798371e3611f0",
+          "lines": 3521
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex",
+          "sha256": "ee8dd6cbf60bb8b0867c4e00160c3130035260f16b7afe25a1b7959219071855",
+          "lines": 1045
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex",
+          "sha256": "07d7393e600ba5bc02e2c73a8f39bc951faac14eefb305b5efc90e34b5e33577",
+          "lines": 1206
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex",
+          "sha256": "16c7c880af1fde0771a8a394f0f1fad91d636b17706608dd36675ab6148c3ae2",
+          "lines": 2259
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfint.code.tex",
+          "sha256": "6a43128b3115f7ab12251d8ee932236e2e8ea81b82ff98257693db459e33dfaa",
+          "lines": 94
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmath.code.tex",
+          "sha256": "7183c17864e4164c851f54b0ae3b318f370a9620b0c289af9fcfb8df0cd67433",
+          "lines": 27
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathcalc.code.tex",
+          "sha256": "29e81aa852601db8defe02adb6390d12772af475b21325e58a5bc086fca32631",
+          "lines": 353
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfloat.code.tex",
+          "sha256": "744474c7ba12c9593fe7640ab5755efba5e9f7d7ec4b2c58a385699ca0ca7681",
+          "lines": 2156
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.base.code.tex",
+          "sha256": "c4964718457ab4418dbd1162e0750e79451659528fff4335a48c030e62a5bc37",
+          "lines": 211
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex",
+          "sha256": "7ceb585534bda04cfe2e090404cf1d5bb73fec6b52c042c69d26a61b35b430ad",
+          "lines": 726
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.code.tex",
+          "sha256": "de219325563ce470e7076c8a7fd815201b52b0ef52ece89fc66ecd3f88b1d60e",
+          "lines": 235
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex",
+          "sha256": "ae09124af66f2c8b2c7dbbe55715a4d6887f3880e5e35c7ac04c4f3823b63dbc",
+          "lines": 148
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex",
+          "sha256": "258f98ccd15efceb603eced1c16f0ae82a55bd3529e3916076dd842feabf7634",
+          "lines": 112
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex",
+          "sha256": "3f48d247bc99906c45c7f8e0729d6b0cc0c21a58517564ec3fac2daebf4a4dfd",
+          "lines": 292
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.random.code.tex",
+          "sha256": "7fe1c2683faa4c75e23052312628a55932d9fddd08601ba594be95ace7a90794",
+          "lines": 168
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.round.code.tex",
+          "sha256": "8224e9355f5c67fc375f34797b6cac927f9b04f29a8654c6070350ea178fc688",
+          "lines": 99
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex",
+          "sha256": "85ddc93c9a3b2764bbf8c0d8d354fa81eb35e99e638797aa77d68fb314afc0be",
+          "lines": 1463
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathode.code.tex",
+          "sha256": "071daf3429ef0f4340641541cc201bd9c352919a8bbb1f8ebc0210bea954dd42",
+          "lines": 100
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathparser.code.tex",
+          "sha256": "beb83f19825f4c40b964a00d01640e8be6893a1c578cf6496413877a7f630013",
+          "lines": 859
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/math/pgfmathutil.code.tex",
+          "sha256": "fe1864b4b90ae599c624312b15db27a9656ec10195dc730c2a055cd141cad0f0",
+          "lines": 209
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduleanimations.code.tex",
+          "sha256": "2ff02a873f7841adcf5302a8ebdfec6ffa01a9cf9021210b8aca3cc2d5b7f821",
+          "lines": 808
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmodulebending.code.tex",
+          "sha256": "e34f489f124ff33353ecd3fbc8b2c4ab0fb5537eba1cae7b0cf5f91fd9a4b1b6",
+          "lines": 305
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduledatavisualization.code.tex",
+          "sha256": "48f1e5ba143127351b840f7d9dd26d9ccc4c2a088362eb06159940e06c9c3dde",
+          "lines": 1909
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduledecorations.code.tex",
+          "sha256": "1431f27a3ab5783af2700b26ddc08dd9edcda4106260777107586051bba328c7",
+          "lines": 1449
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmodulematrix.code.tex",
+          "sha256": "12cb9f1b51b2da5d729c6ed9aa3ffa6ee4225365eba6dd6d33712abd22d26575",
+          "lines": 422
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex",
+          "sha256": "2b96f007106ac1c8e760c726201e4c5a6920b7d8cc181e48837463bacdf558b1",
+          "lines": 232
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduleoo.code.tex",
+          "sha256": "f4f0288a0ac1291089444ba3e83d71b0972e9811cdecca91568fc2df1c168eba",
+          "lines": 530
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduleparser.code.tex",
+          "sha256": "912deb737661815ad03e9ce33942a73e0e3d9b0ffb6ffe4627312494b1181282",
+          "lines": 658
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduleplot.code.tex",
+          "sha256": "f7f71dd3727f471950cdf7ee1660241c8d981bdd861607dd9ff425dd57cb9e95",
+          "lines": 338
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmoduleshapes.code.tex",
+          "sha256": "f4a22e53a6a5c02aab271676d8180a1a8a1a091bb8e30d74a97061c4c2e74722",
+          "lines": 925
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmodulesnakes.code.tex",
+          "sha256": "c611c46c9895f6a50042171e3899b994c473970ea20d7962ea177f2c367a246f",
+          "lines": 190
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/modules/pgfmodulesorting.code.tex",
+          "sha256": "151deefec7272e483e0522d55f643e561ced80ed1eba064eeeb5da7bd5ca4b7c",
+          "lines": 37
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/pgf.revision.tex",
+          "sha256": "ac54ea0a31097f28b4e37b09fa17985728d589c10640cf220d7e959f63b9e731",
+          "lines": 4
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/systemlayer/pgfsys.code.tex",
+          "sha256": "682385ce7a12c85eefb1ebe45db4cae10e69fac7dac68ec272ae52d26935b9a4",
+          "lines": 805
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/systemlayer/pgfsysanimations.code.tex",
+          "sha256": "8ee2d5947114cfd1afba0b65b1e018ff6d9a637db6f70a3859de136339e6662d",
+          "lines": 1568
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex",
+          "sha256": "fd22ac23c376c81b2b1690cb44f9a826e0cdfd6650ff8f5be6d5a8cf500c9c38",
+          "lines": 48
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex",
+          "sha256": "e7f3d1d2f97faa8a20f9b9a01e0eb6a7715d7f62698d9e814a470df1402bb77a",
+          "lines": 141
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfcalendar.code.tex",
+          "sha256": "67c7ddad3f6da9dbe2f239b0db1959689705091fadd6d5c147d7719c9fb0e48d",
+          "lines": 462
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfexternal.tex",
+          "sha256": "37e19168ce43b5da91141379d5790795f17961f4465a66fb5e15be7476b8620f",
+          "lines": 3
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfexternalwithdepth.tex",
+          "sha256": "7d09a934a0c34746fed048fcc437b282f56ec7b8f06a9d7e4754012affbf0fb1",
+          "lines": 14
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgffor.code.tex",
+          "sha256": "86c14fc7fcd50ee0818770b2fda4032bfa66ad2f2f3991770717aa6424c6db1c",
+          "lines": 720
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfkeys.code.tex",
+          "sha256": "07f3f2c6214ed4ec38aeb650430c727c2aa8cd938207d0992143bd70d9eeadc5",
+          "lines": 873
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex",
+          "sha256": "cc3ead0aff779f0d61c5240608aa4f51fd688e3ab1a83a4182d6861c30a4602d",
+          "lines": 571
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfrcs.code.tex",
+          "sha256": "09297ae3d1a90b2cd911ff20472b60ecf22b8ba462e97b70fb8102bce44aa364",
+          "lines": 121
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfutil-common-lists.tex",
+          "sha256": "45622d125fb684fdf3da53a07fdd6cb8b7cb4aa39c4e1620a02a5eb02bb8b63a",
+          "lines": 129
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/generic/pgf/utilities/pgfutil-common.tex",
+          "sha256": "71468fc034307027f2997f97a55a14beb5ce48ad7a4fb319b3eb4246ae927a62",
+          "lines": 623
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/latex/pgf/doc/pgfmanual-en-macros.tex",
+          "sha256": "690d8da43b4e0ee1f757ac65a4ac5a36460cac7edcf3f0f81b58f24f8e740fac",
+          "lines": 1834
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/latex/pgf/doc/pgfmanual.code.tex",
+          "sha256": "e0baf29dda965acd0d8c04ee01842d9df02d211d31257fa202f24018a4d213bc",
+          "lines": 21
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/latex/pgf/doc/pgfmanual.pdflinks.code.tex",
+          "sha256": "b160cda7554c2da496f8e6aee0ab07d7a7b18f6539b676a48d6af24a8ea27e08",
+          "lines": 285
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/latex/pgf/doc/pgfmanual.prettyprinter.code.tex",
+          "sha256": "2323eb8658c0dec7f248e2ec36a86eae85253e73b8da6b76b55d7eedce30d31b",
+          "lines": 719
+        },
+        {
+          "path": "math/preprints/Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026/build/tools/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex",
+          "sha256": "25d1f7f7a4a587aa6399fa080eebbb2323345f6b7975adfcd47b9a0b7bd54a5a",
+          "lines": 63
+        }
+      ],
+      "file_count": 201,
+      "lines": 85632,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    },
+    {
+      "family": "F-269",
+      "manuscript_id": "P-197b798dcbf07bcf",
+      "source_title": "A Fock-space inequality and the Laughlin spectral gap",
+      "readme": "preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/README.md",
+      "files": [
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/figures/relative-transfer.tex",
+          "sha256": "e2fedf3d6d7292abb4701afda4ae3d56382af943acdc296723304ca041c2f6a8",
+          "lines": 13
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/main.tex",
+          "sha256": "5f89ad7c3bf6860b27af121b5fbd6adf46fdb1f066a21c2fb258f8d7a8d1ada5",
+          "lines": 109
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/references.bib",
+          "sha256": "c8a07d651d00f0983a2acd00ce5478c73b1546cd5166dc698c403f341a3ae341",
+          "lines": 329
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/01-introduction.tex",
+          "sha256": "24a96abec7534a93d049495f5322d145b76f1b556e72d7613518da522d492a0a",
+          "lines": 200
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/02-operators.tex",
+          "sha256": "0ddf21a0c3d7056844ac0874182ecd9ef67f58bb3a2fccd92169727efa0a331e",
+          "lines": 60
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/03-spin.tex",
+          "sha256": "73734849efe93172b9930899d6b05f54d8f4e18989180ac449e09f5a8c11bdb8",
+          "lines": 106
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/04-comparison.tex",
+          "sha256": "3ed5f4078a0d551b33d1db4cb35ae3e9abdaf24627cb2c44c75e609b3f71f39a",
+          "lines": 172
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/05-transfer.tex",
+          "sha256": "9f4b50a2a0369b58423359020fc4f62c953cc44a0e52a38a520aded1fd2654e6",
+          "lines": 232
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/06-gap.tex",
+          "sha256": "2cb86b7a8136afc22639dbe2be903d372d935b9e7a25b805704ebbab6a1b8b03",
+          "lines": 154
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/07-plane.tex",
+          "sha256": "f7a4f708caf4810fba1a6c0d49767c67d9f75d7ae4925b897221d9bf1c604808",
+          "lines": 86
+        },
+        {
+          "path": "math/preprints/A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026/build/sections/08-arithmetic.tex",
+          "sha256": "0c15dc1a8eaf213b503584920028290880b238be4e569a9df8c8b0e3f6a69a66",
+          "lines": 152
+        }
+      ],
+      "file_count": 11,
+      "lines": 1613,
+      "body_read_credit": 0,
+      "scope": "Raw recursive TeX/Bib inventory,not include-closure reading or accepted contents"
+    }
+  ],
+  "selection_only_no_new_reading_credit": true
+}

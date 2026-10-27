@@ -1,0 +1,465 @@
+{
+  "at": "2026-10-27T10:27:12.498239+00:00",
+  "generation": "GEN-20261027-125",
+  "work_package": "WP-128",
+  "base_commit": "c9259abf9e3b423f7d8a2bc7c6d05aeb84a47df6",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "scope": "Four additional original selected statement/proof scopes;one partial original convention scope;two original-body gaps. Only converted text analyzed;no source proof acceptance,new application or human/provider credit.",
+  "rows": [
+    {
+      "key": "BKS2012",
+      "requested_url": "https://arxiv.org/pdf/1009.3721v1",
+      "at": "2026-10-27T10:13:33.126164+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/1009.3721v1",
+      "bytes": 175711,
+      "sha256": "3e3413e86519818d469809aeec843a76c051f8078aecd1d71dad5b07d7592c9a",
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "text_bytes": 39981,
+      "text_sha256": "2c246a42baa57a6490f51abc125435dd9ba88c8f17b5ed0d520873458160052d",
+      "text_lines": 627,
+      "version_observation": "arXiv1009.3721v1, footer20Sep2010; generated title23Oct2018; cited journal2012. No byte-equivalence to journal asserted.",
+      "actual_selected_LF_ranges_read": [
+        [
+          1,
+          9
+        ],
+        [
+          92,
+          110
+        ],
+        [
+          281,
+          346
+        ]
+      ],
+      "line_number_convention": "LF-separated lines as nl -ba; original fetch text_lines uses Python splitlines and also splits form-feeds",
+      "LF_line_count": 615,
+      "selected_scope_qualified": true,
+      "full_original_proof_review": false,
+      "findings": {
+        "locator": "arXivv1 pp7-8 Claim2.2/Lemma2.3, actual statement and selected full proof; model definitions pp2-3",
+        "input": "Directed bipartite graph with equal parts t; every A,B in opposite parts of size k has an arc in each direction.",
+        "output": "Directed path of edge length at least2t-4k+3; DFS stack contains at least2t-4k+4 vertices.",
+        "scope": "DFS S/T equality and alternating even stack give balanced opposite intersections; no S-to-T arc bounds each by k-1. Claim2.2 supplies one-direction existence from regular bi-density. The lemma needs both directions.",
+        "cannot_transfer": "A directed path is not an undirected simple cycle. No general digraph resilience or whole main proof review; not a mandatory proof input to the self-contained F181 lemma."
+      },
+      "PDF_page_ranges": [
+        {
+          "LF_lines": [
+            1,
+            9
+          ],
+          "PDF_pages": [
+            1,
+            1
+          ]
+        },
+        {
+          "LF_lines": [
+            92,
+            110
+          ],
+          "PDF_pages": [
+            2,
+            3
+          ]
+        },
+        {
+          "LF_lines": [
+            281,
+            346
+          ],
+          "PDF_pages": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "key": "KKS2015",
+      "requested_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing-random-graphs.pdf",
+      "at": "2026-10-27T10:13:34.415226+00:00",
+      "status": 200,
+      "final_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing-random-graphs.pdf",
+      "bytes": 321960,
+      "sha256": "73b79b32017bba33af4002f706e8f41dd37f7ffde8cb46a0361790c2613eb489",
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "text_bytes": 50628,
+      "text_sha256": "a0f64b4fe7bc43bdba968c0ceff134a9d889421424c72ee64e8497ecb7df2cda",
+      "text_lines": 869,
+      "version_observation": "Author-hosted published CPC(2015)24:857-872, DOI10.1017/S0963548314000844; online29Dec2014/copyright2014 separately observed.",
+      "actual_selected_LF_ranges_read": [
+        [
+          34,
+          173
+        ]
+      ],
+      "line_number_convention": "LF-separated lines as nl -ba; original fetch text_lines uses Python splitlines and also splits form-feeds",
+      "LF_line_count": 853,
+      "selected_scope_qualified": true,
+      "full_original_proof_review": false,
+      "findings": {
+        "locator": "Published pp857-859 Theorem1.1,Corollary1.2,definitions and proof outline; main theorem proof not read",
+        "input": "G(n,p) with independent edges,p=omega(loglog(n)/n); high probability as n tends to infinity.",
+        "output": "Edge partition into odd(G)/2+np/2+o(n) cycles and single edges. The n/4+np/2+o(n) corollary also needs p<1-omega(1/n).",
+        "scope": "Odd-degree lower bound and cycle-size bound motivate the count. Euler means all degrees even, connectivity not required; log is natural. Outline separates sparse/intermediate/dense ranges.",
+        "cannot_transfer": "No deterministic arbitrary finite graph guarantee,effective n0,or implementation runtime. Do not replace odd(G)/2 by n/4 arbitrarily near p=1."
+      },
+      "PDF_page_ranges": [
+        {
+          "LF_lines": [
+            34,
+            173
+          ],
+          "PDF_pages": [
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AABC2025",
+      "requested_url": "https://arxiv.org/pdf/2509.01901v2",
+      "at": "2026-10-27T10:13:36.602484+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2509.01901v2",
+      "bytes": 336834,
+      "sha256": "473aa03893c8b1b113db0126d7ae5a637a0d10e178914e76634ba2a36b9e7bfd",
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "text_bytes": 45952,
+      "text_sha256": "64c21f9bf79890e9ab29c4010e471fda862331ccab63053274bf9ec75f6d8406",
+      "text_lines": 591,
+      "version_observation": "arXiv2509.01901v2,7Sep2025; only this version read.",
+      "actual_selected_LF_ranges_read": [
+        [
+          1,
+          19
+        ],
+        [
+          20,
+          186
+        ],
+        [
+          437,
+          470
+        ]
+      ],
+      "line_number_convention": "LF-separated lines as nl -ba; original fetch text_lines uses Python splitlines and also splits form-feeds",
+      "LF_line_count": 580,
+      "selected_scope_qualified": true,
+      "full_original_proof_review": false,
+      "findings": {
+        "locator": "arXivv2 pp1-4 definitions,Theorems1.3/1.5/1.7 and selected1.3 proof; pp9-10 Theorem5.1 and selected1.7 proof",
+        "input": "Finite simple graphs; source use of1.3 has positive order n and maximum degree<=4;1.7 source uses graphs containing a cycle.",
+        "output": "Theorem1.3 f_ce<=n-1 for maxdegree<=4; Theorem1.7 g_ce<=n-2 for a graph that is not a tree. f_ce partitions cycles/edges; g_ce covers and may repeat edges.",
+        "scope": "Non-tree includes disconnected forests with at least two components. Here Eulerian means connected and even. Theorem1.5 counts 2-regular parts, each may have many cycle components. Selected1.3 and1.7 proofs read, not accepted or fully recursively audited.",
+        "cannot_transfer": "Overlap cover is not edge partition; a 2-regular subgraph need not be one simple cycle. Source positive-order qualification retained. Theorem1.7 invokes Fan and3.1; original Fan and full3.1 proof remain outside this reading."
+      },
+      "PDF_page_ranges": [
+        {
+          "LF_lines": [
+            1,
+            19
+          ],
+          "PDF_pages": [
+            1,
+            1
+          ]
+        },
+        {
+          "LF_lines": [
+            20,
+            186
+          ],
+          "PDF_pages": [
+            1,
+            4
+          ]
+        },
+        {
+          "LF_lines": [
+            437,
+            470
+          ],
+          "PDF_pages": [
+            9,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Krivelevich2019",
+      "requested_url": "https://arxiv.org/pdf/1609.06851v2",
+      "at": "2026-10-27T10:16:15.294354+00:00",
+      "reason": "AuthorPDFnormalTLSremoteclosed;useexactobservedarXivv2primaryversion.",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/1609.06851v2",
+      "bytes": 194789,
+      "sha256": "63ed65efcaf5fc67cbe75fbf81c53cec7e9166db303b80eff1b3a1711c03f0a9",
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "text_bytes": 48929,
+      "text_sha256": "99e666c8ba7a2e752cae7964462c966fc1f6e84dfa0c88fc21f379bb0b7d91c0",
+      "text_lines": 774,
+      "version_observation": "arXiv1609.06851v2,footer18May2017; generated title5Aug2018; bibliography journal2019. AuthorPDF disconnected; journal/author/arXiv bytes not equated.",
+      "actual_selected_LF_ranges_read": [
+        [
+          1,
+          80
+        ],
+        [
+          225,
+          278
+        ],
+        [
+          324,
+          343
+        ]
+      ],
+      "line_number_convention": "LF-separated lines as nl -ba; original fetch text_lines uses Python splitlines and also splits form-feeds",
+      "LF_line_count": 760,
+      "selected_scope_qualified": true,
+      "full_original_proof_review": false,
+      "findings": {
+        "locator": "arXivv2 p2 Theorem1;pp5-7 Propositions2.1/2.2 and DFS;pp7-8 full selected Theorem1 proof",
+        "input": "Integers k>0,t>=2;undirected graph order>k;external neighborhood>=t for EVERY W with k/2<=|W|<=k.",
+        "output": "A simple cycle of length at least t+1.",
+        "scope": "Choose child subtrees of total size k/2..k;DFS non-tree edges have ancestor endpoints;neighbors lie on one ancestor path,whose farthest neighbor closes a long simple cycle.",
+        "cannot_transfer": "External neighborhood convention differs from F181 N(U) before subtracting U. No claim about general cycle decomposition,finite C,fast optimization,or applications sections not read."
+      },
+      "PDF_page_ranges": [
+        {
+          "LF_lines": [
+            1,
+            80
+          ],
+          "PDF_pages": [
+            1,
+            2
+          ]
+        },
+        {
+          "LF_lines": [
+            225,
+            278
+          ],
+          "PDF_pages": [
+            5,
+            7
+          ]
+        },
+        {
+          "LF_lines": [
+            324,
+            343
+          ],
+          "PDF_pages": [
+            7,
+            8
+          ]
+        }
+      ]
+    }
+  ],
+  "partial_original": {
+    "key": "Lovasz1968",
+    "url": "https://www.researchgate.net/profile/Laszlo-Lovasz/publication/268652766_On_covering_of_graphs/links/5e1465b7299bf10bc3967731/On-covering-of-graphs.pdf",
+    "access": "Author-uploaded primary PDF served as cached web-converted text; prior direct403 not blindly repeated",
+    "web_locator": "PDFpage0 lines36-65; readable conventions36-43; theorem numerical formula56 OCR damaged",
+    "partial_original_domain_scope_checked": true,
+    "selected_scope_qualified": false,
+    "raw_PDF_sha256": null,
+    "text_sha256": null,
+    "short_quote": "Disjoint means always edge-disjoint and path means simple path.",
+    "finding": "Finite undirected graphs without loops/multiple edges; disjoint means edge-disjoint,paths simple. Exact floor(n/2) formula remains unreadable in original conversion; BM/AABC restatements do not repair this original-byte/transcription gap.",
+    "full_original_proof_review": false
+  },
+  "unqualified_originals": [
+    {
+      "key": "AH2000",
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/1097-0118%28200010%2935%3A2%3C83%3A%3AAID-JGT2%3E3.0.CO%3B2-V",
+      "observed_final_kind": "Publisher abstract HTML,not original body",
+      "original_body_checked": false,
+      "selected_scope_qualified": false,
+      "gap": "Exact original uniform/rank/indexed hypergraph conditions and proof remain unqualified. Source bounded-rank theorem and BM Theorem6 were read separately; private fresh padding per edge occurrence is a source deduction,not original AH proof review."
+    },
+    {
+      "key": "Pyber1985",
+      "url": "https://link.springer.com/content/pdf/10.1007/BF02579444.pdf",
+      "original_body_checked": false,
+      "selected_scope_qualified": false,
+      "gap": "Publisher body unavailable;author home1102bytes200 led to genuine pub.html,which returned403. No repeated identical denied route. Later original AABC/KKS citations are restatements,not Pyber original review."
+    }
+  ],
+  "attempt_receipts": {
+    "fetch-receipt.json": {
+      "rows": [
+        {
+          "key": "Krivelevich2019",
+          "requested_url": "https://www.math.tau.ac.il/~krivelev/long_cycles_expanders.pdf",
+          "at": "2026-10-27T10:13:27.838408+00:00",
+          "failure": "RemoteDisconnected('Remote end closed connection without response')"
+        },
+        {
+          "key": "BKS2012",
+          "requested_url": "https://arxiv.org/pdf/1009.3721v1",
+          "at": "2026-10-27T10:13:33.126164+00:00",
+          "status": 200,
+          "final_url": "https://arxiv.org/pdf/1009.3721v1",
+          "bytes": 175711,
+          "sha256": "3e3413e86519818d469809aeec843a76c051f8078aecd1d71dad5b07d7592c9a",
+          "conversion_exit": 0,
+          "conversion_stderr": "",
+          "text_bytes": 39981,
+          "text_sha256": "2c246a42baa57a6490f51abc125435dd9ba88c8f17b5ed0d520873458160052d",
+          "text_lines": 627
+        },
+        {
+          "key": "KKS2015",
+          "requested_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing-random-graphs.pdf",
+          "at": "2026-10-27T10:13:34.415226+00:00",
+          "status": 200,
+          "final_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing-random-graphs.pdf",
+          "bytes": 321960,
+          "sha256": "73b79b32017bba33af4002f706e8f41dd37f7ffde8cb46a0361790c2613eb489",
+          "conversion_exit": 0,
+          "conversion_stderr": "",
+          "text_bytes": 50628,
+          "text_sha256": "a0f64b4fe7bc43bdba968c0ceff134a9d889421424c72ee64e8497ecb7df2cda",
+          "text_lines": 869
+        },
+        {
+          "key": "AABC2025",
+          "requested_url": "https://arxiv.org/pdf/2509.01901v2",
+          "at": "2026-10-27T10:13:36.602484+00:00",
+          "status": 200,
+          "final_url": "https://arxiv.org/pdf/2509.01901v2",
+          "bytes": 336834,
+          "sha256": "473aa03893c8b1b113db0126d7ae5a637a0d10e178914e76634ba2a36b9e7bfd",
+          "conversion_exit": 0,
+          "conversion_stderr": "",
+          "text_bytes": 45952,
+          "text_sha256": "64c21f9bf79890e9ab29c4010e471fda862331ccab63053274bf9ec75f6d8406",
+          "text_lines": 591
+        }
+      ],
+      "total_pdf_bytes": 834505,
+      "normal_TLS": true,
+      "bodies_for_temporary_text_analysis_only": true
+    },
+    "alternative-fetch-receipt.json": {
+      "rows": [
+        {
+          "key": "Krivelevich2019",
+          "requested_url": "https://arxiv.org/pdf/1609.06851v2",
+          "at": "2026-10-27T10:16:15.294354+00:00",
+          "reason": "AuthorPDFnormalTLSremoteclosed;useexactobservedarXivv2primaryversion.",
+          "status": 200,
+          "final_url": "https://arxiv.org/pdf/1609.06851v2",
+          "bytes": 194789,
+          "sha256": "63ed65efcaf5fc67cbe75fbf81c53cec7e9166db303b80eff1b3a1711c03f0a9",
+          "conversion_exit": 0,
+          "conversion_stderr": "",
+          "text_bytes": 48929,
+          "text_sha256": "99e666c8ba7a2e752cae7964462c966fc1f6e84dfa0c88fc21f379bb0b7d91c0",
+          "text_lines": 774
+        }
+      ]
+    },
+    "primary-discovery.json": {
+      "rows": [
+        {
+          "key": "Haxell",
+          "url": "https://math.uwaterloo.ca/~pehaxell/",
+          "at": "2026-10-27T10:18:50.376006+00:00",
+          "failure": "<HTTPError 403: 'Forbidden'>"
+        },
+        {
+          "key": "Lovasz",
+          "url": "https://web.cs.elte.hu/~lovasz/",
+          "at": "2026-10-27T10:18:51.718452+00:00",
+          "failure": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+        },
+        {
+          "key": "Pyber",
+          "url": "https://www.renyi.hu/~pyber/",
+          "at": "2026-10-27T10:19:11.723691+00:00",
+          "status": 200,
+          "final_url": "https://www.renyi.hu/~pyber/",
+          "bytes": 1102,
+          "sha256": "be3da9334791002bf479b8a226eb9ee53170ac699973a17e2d628017dbf26c52",
+          "links": [
+            {
+              "href": "pub.html",
+              "label": "List of publications"
+            }
+          ]
+        }
+      ]
+    },
+    "Pyber-publications-receipt.json": {
+      "url": "https://www.renyi.hu/~pyber/pub.html",
+      "scope": "Observedauthorpublicationlistlink;discoveryonly",
+      "failure": "<HTTPError 403: 'Forbidden'>"
+    }
+  },
+  "static_old_method_comparison": {
+    "kind": "Static old-method scope inclusion,not a new mathematical discovery or numerical experiment",
+    "source_claim_id": "CLM-181-LEM-SPLIT-VERTEX-EXPANSION",
+    "old_literature_id": "LIT-181-KRIVELEVICH2019",
+    "substitution": [
+      "u sufficiently large;alpha=(1/32)/log2(u)^2;0<alpha<=1",
+      "k=floor(u/2)>0; t=ceil(alpha*k/2)>=2;u>k",
+      "For k/2<=|W|<=k,source expansion gives integer external degree>=alpha|W|>=alpha*k/2, hence>=ceil(alpha*k/2)=t",
+      "Old Theorem1 yields cyclelength>=ceil(alpha*k/2)+1;for u>=3,k>=u/3,so bound>alpha*u/6>alpha^2*u/100"
+    ],
+    "conclusion": "The already-cited old criterion is stronger on this selected long-cycle interface. Preserve source literal weaker lemma and sourceC;do not promote wholeCn theorem,constructive cost,or complete proof chain.",
+    "dependency_semantics": "Old criterion is historical comparison,not mandatory dependency of the self-contained source DFS/bypass proof."
+  },
+  "new_selected_original_count": 4,
+  "previous_selected_original_count": 4,
+  "current_selected_original_count": 8,
+  "root_count": 11,
+  "remaining_unqualified_root_ids": [
+    "LIT-181-AH2000",
+    "LIT-181-LOVASZ1968",
+    "LIT-181-PYBER1985"
+  ],
+  "full_lineage_complete": false,
+  "full_original_proof_review": false,
+  "third_party_republication": false,
+  "downloaded_original_PDF_bytes": 1029294,
+  "converted_text_bytes": 185490,
+  "per_artifact_cap": 3145728,
+  "total_new_download_cap": 16777216,
+  "source_use_ranges": [
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "LF_lines": [
+        1,
+        147
+      ]
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "LF_lines": [
+        50,
+        150
+      ]
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "LF_lines": [
+        65,
+        115
+      ]
+    }
+  ]
+}

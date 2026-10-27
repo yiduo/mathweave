@@ -1,0 +1,35 @@
+{
+  "experiment": "EXP-149-001",
+  "run_id": "EXP-149-001-e334ac2404104e6a",
+  "implementation_freeze_commit": "8a71a29f39828b0e7c41b279105869c19c8e5135",
+  "all41inputs_match_prefreeze_hashes": true,
+  "all72rows_audited": true,
+  "exact_transitions_audited": 401,
+  "negative_cases": 27,
+  "nonlinear_multilinkage_negative_cases": 18,
+  "guard_and_old_baseline_agree_all": true,
+  "conditional_source_not_math_acceptance": true,
+  "new2026gain": false,
+  "full_attempt_progress_members_verified": 545,
+  "attempt_id": "EXP-149-001-20261027T095719303641Z-dd72897c",
+  "original_resources_qualified": true,
+  "runtime_measurement": {
+    "elapsed_seconds": 0.7342097499640658,
+    "peak_traced_python_bytes": 1448932,
+    "process_peak_rss_bytes": 41107456,
+    "stage_runtime_metrics": {
+      "calculation_started": 851870.283940791,
+      "source_qualification_seconds": 0.0055291695753112435,
+      "old_polynomial_setup_seconds": 0.016997460508719087,
+      "reference_production_seconds": 0.022342162672430277,
+      "independent_reference_verification_seconds": 0.033650629571639,
+      "reaction_euler_seconds": 0.10486169974319637,
+      "old_expanded_euler_seconds": 0.08505132154095918,
+      "finite_lower_seconds": 0.0024229605915024877,
+      "report_seconds": 0.0029661732260137796,
+      "old_report_seconds": 0.0023009161232039332,
+      "calculation_seconds": 0.7335400419542566
+    }
+  },
+  "scope": "Third post-output raw-data audit recomputes every finite transition,whole-input coverage,scope labels and hashes. This audits the frozen finite experiment,not source theorem validity or general effectiveness."
+}

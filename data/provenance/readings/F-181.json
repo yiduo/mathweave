@@ -1,0 +1,732 @@
+{
+  "family_id": "F-181",
+  "work_package": "WP-122",
+  "generation_id": "GEN-20261027-119",
+  "at": "2026-10-27T07:41:09.285928+00:00",
+  "base_commit": "c28ccb840fbacc3cbc6615952d756be5a72208ec",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-aa4a9f7b64d5fc71"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/figures/lifting.tex",
+      "sha256": "309c5fe9a03e3005ff0b95ba9d954e920e29279912e208ca4c7d3323546dc716",
+      "ranges": [
+        [
+          1,
+          49
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "sha256": "4be805d7086ac702c41861ac3cc8cad418b38c41ab79eb1d5a21cbba542273ff",
+      "ranges": [
+        [
+          1,
+          260
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "sha256": "e155aa090eba1765ae010b071d9c0bb0cefb71dce043249be7aacde338d8168b",
+      "ranges": [
+        [
+          1,
+          134
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "sha256": "5a6040518312eee24e94e0c00a1485fbfdcc632d922c7ad1d12ffc338858e23f",
+      "ranges": [
+        [
+          1,
+          453
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+      "sha256": "5407ef1592a207455dafd15ba526791b6ed2016e60ffa8e5e230ad2f92ca6833",
+      "ranges": [
+        [
+          1,
+          471
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+      "ranges": [
+        [
+          1,
+          455
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+      "sha256": "6004936793c01bba515c698726fd2b5fd9f01dd396a6675ebd5e23032fdfb5a9",
+      "ranges": [
+        [
+          1,
+          244
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "sha256": "b30ce3a520e2a8ce165c76e6f389313163339271b8a60e4e7315fa29de15b250",
+      "ranges": [
+        [
+          1,
+          353
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "actual_read_ranges": "All nine TeX/Bib files,2566lines plusREADME;converted historical text only,noPDFpixelanalysis",
+  "source_sections": [
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/figures/lifting.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+    "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex"
+  ],
+  "source_tex_lines": 2566,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+      "read": true
+    },
+    {
+      "source": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "target": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/figures/lifting.tex",
+      "read": true
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-181-THM-MAIN",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "thm:main",
+      "kind": "theorem",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "sha256": "4be805d7086ac702c41861ac3cc8cad418b38c41ab79eb1d5a21cbba542273ff",
+      "statement_lines": [
+        62,
+        67
+      ],
+      "statement_tex": "There is an absolute constant \\(C>0\\) such that, for every finite\nsimple undirected graph \\(G\\) with \\(n\\) vertices, \\(E(G)\\) has a\npartition into at most \\(Cn\\) parts, each of which is the edge set of\na cycle or consists of a single edge.",
+      "summary": "一般简单图的线性环与单边分解",
+      "conditions": "One absolute C>0 works for every finite simple undirected graph,including zero order/edgeless/isolates;simple cycles length>=3 and singleton edges partition exactly. Vertices may overlap,edges never do. Neither optimal C nor running time is supplied.",
+      "source_claim_grade": "B",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-COR-EULERIAN-CYCLES",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "cor:eulerian-cycles",
+      "kind": "corollary",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "sha256": "4be805d7086ac702c41861ac3cc8cad418b38c41ab79eb1d5a21cbba542273ff",
+      "statement_lines": [
+        117,
+        131
+      ],
+      "statement_tex": "Every finite simple undirected Eulerian graph on \\(n\\) vertices has an\nedge partition into at most \\(Cn\\) cycles, with \\(C\\) from \\Cref{thm:main}.\n\nFor every fixed \\(\\delta,p>0\\), there exist \\(\\eps>0\\) and an integer\n\\(n_0\\ge1\\) such that every finite simple undirected Eulerian graph \\(G\\)\non \\(n\\ge n_0\\) vertices has an edge partition into at most\n\\(\\Delta(G)/2+\\delta n\\) cycles, provided that every partition\n\\(V(G)=A\\mathbin{\\dot\\cup}B\\) with \\(|A|,|B|\\ge\\eps n\\) satisfies\n\\[\n e_G(A,B)\\ge p|A||B|.\n\\]\nHere \\(\\Delta(G)\\) denotes the maximum degree, and \\(e_G(A,B)\\)\nis the number of edges joining \\(A\\) to \\(B\\).",
+      "summary": "Eulerian环分解与大割准随机推论",
+      "conditions": "Eulerian means every degree even,not necessarily connected. First O(n)cycle-only conclusion uses parity of residual singles. Second: for every fixed delta,p>0 there exist epsilon>0,n0;all partition cuts with both sides>=epsilon*n have >=p|A||B| edges;then <=Delta/2+delta*n cycles. Selected corollary not claimed covered by formal Main.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-PAIR-FOLDING",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:pair-folding",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "sha256": "5a6040518312eee24e94e0c00a1485fbfdcc632d922c7ad1d12ffc338858e23f",
+      "statement_lines": [
+        19,
+        42
+      ],
+      "statement_tex": "Let $J$ be a finite simple graph and let $X_1,\\ldots,X_t$ be pairwise\ndisjoint subsets of its vertex set.  Suppose that $a\\ge1$, that\n$m_i=\\abs{X_i}\\ge\\max\\{8,a^2\\}$ for every $i$, and that\n\\begin{align}\n d_J(x)&\\le a &&\\text{for every }x\\in\\bigcup_i X_i,\\label{eq:fold-degree}\\\\\n d_i(v):=\\abs{N_J(v)\\cap X_i}&\\le a\n     &&\\text{for every }v\\in V(J)\\text{ and every }i.\n     \\label{eq:fold-neighbors}\n\\end{align}\nThere are pairings within the $X_i$, each leaving exactly $m_i\\bmod2$\nvertices unpaired, and a set $E_{\\rm err}\\subseteq E(J)$ with\n\\[\n \\abs{E_{\\rm err}}\\le 2\\sum_i m_i,\n\\]\nsuch that identifying each pair in $J-E_{\\rm err}$ gives a simple graph\n$Q$.  Every edge of $Q$ has exactly one retained original edge as its\nrepresentative.  Retaining all quotient vertices, including isolated ones,\nwe have\n\\begin{equation}\\label{eq:fold-order}\n \\abs{V(Q)}=\\abs{V(J)}-\\sum_i\\floor{m_i/2}.\n\\end{equation}\nThe assertion also holds when the family of folding sets is empty.",
+      "summary": "双负载约束下的随机配对清理",
+      "conditions": "Disjoint Xi,mi>=max(8,a^2),a>=1;degrees of active vertices<=a AND every vertex has<=a neighbors in every Xi. Pair within each Xi leaving parity singleton;delete <=2sum mi original edges to get simple quotient retaining unique representatives,order |V|-sum floor(mi/2). Degree condition alone insufficient(Kma). Expected collision bound332/245 sum a^2;existence,not every pairing or high probability promise.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-BATCH-RESOLUTION",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:batch-resolution",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "sha256": "5a6040518312eee24e94e0c00a1485fbfdcc632d922c7ad1d12ffc338858e23f",
+      "statement_lines": [
+        166,
+        221
+      ],
+      "statement_tex": "For every sufficiently large real $D$, set\n\\[\n a=D^{0.01},\\qquad L_0=D^{0.03},\\qquad\n B_0=D^{0.30},\\qquad \\sigma=D^{0.90}.\n\\]\nLet $Y$ be a finite vertex set.  Let $\\mathcal W$ be a finite indexed\nfamily of subsets $W\\subseteq Y$, with $\\abs W\\le B_0$, and let $J_W$\nbe a simple graph on $W$ for each index.  Suppose these graphs have\npairwise disjoint edge sets, and let $F=F(Y)$ be their union, taken on\n$Y$.\n\nLet $\\mathcal R$ be a family of simple graphs on pairwise disjoint vertex\nsubsets of $Y$.  Suppose that each $R\\in\\mathcal R$ has order\n$\\sigma\\le r_R\\le D^{1.02}$, that\n$E(R)\\cap E(F)=\\varnothing$, and that its edges are partitioned into\ntwo spanning graphs $P_R,T_R$, both of cut expansion at least\n$\\sigma/4$.  Call $P_R$ the router.\n\nFor some pairs $(W,R)$ let an active set\n$X_{W,R}\\subseteq W\\cap V(R)$ be specified, satisfying\n\\begin{equation}\\label{eq:batch-active-hypotheses}\n \\abs{X_{W,R}}\\ge L_0,\n \\qquad d_F(x)\\le a\\quad(x\\in X_{W,R}).\n\\end{equation}\nSums over $(W,R)$ below include only active sets, and write\n$\\Sigma_Y=\\sum_{W,R}\\abs{X_{W,R}}$.\n\nThere are finite simple quotient graphs $Q_W$, with all quotient vertices\nretained, whose orders satisfy\n\\begin{align}\n q_W&=\\abs W-\\sum_{R:\\,(W,R)\\text{ active}}\n                 \\floor{\\abs{X_{W,R}}/2}\\notag\\\\\n &\\le\\abs W-\\frac13\n            \\sum_{R:\\,(W,R)\\text{ active}}\\abs{X_{W,R}}\n \\le B_0,\\label{eq:batch-quotient-order}\\\\\n \\sum_W q_W&\\le\\sum_W\\abs W-\\frac13\\Sigma_Y.\n \\label{eq:batch-total-order}\n\\end{align}\nFor every choice of cycle-and-edge partitions of these $Q_W$, having\n$t_W$ parts, there are sets $U_R\\subseteq E(P_R)$ and a cycle-and-edge\npartition of\n\\[\n E(F)\\mathbin{\\dot\\cup}\\mathop{\\dot\\bigcup}_{R\\in\\mathcal R}U_R\n\\]\nwith at most\n\\begin{equation}\\label{eq:batch-parts}\n \\sum_W t_W+8\\Sigma_Y\n\\end{equation}\nparts.  The graphs $R'=R-U_R$, kept on $V(R)$, contain the untouched\nspanning graphs $T_R$, so each still has a spanning subgraph of cut\nexpansion at least $\\sigma/4$.  The completed parts and these remaining\ngraphs together partition\n$E(F)\\mathbin{\\dot\\cup}\\mathop{\\dot\\bigcup}_{R\\in\\mathcal R}E(R)$.\nAll thresholds in this lemma are absolute.",
+      "summary": "全批次共享负载的折叠与环提升",
+      "conditions": "For sufficiently largeD,a=D^.01,L0=D^.03,B0=D^.30,sigma=D^.90. Edge-disjoint Jw may overlap vertices;active sets>=L0 with degree<=a in full unionF(Y),not separately eachbatch. Disjoint pieces have two edge-disjoint spanning expanders sigma/4. Quotients chosen before arbitrary quotient partitions;lift eachpart with <=8Sigma extra parts;routers consumed once,untouched spanning reserve retained.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-PREFIX-CHOICE",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:prefix-choice",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+      "sha256": "5407ef1592a207455dafd15ba526791b6ed2016e60ffa8e5e230ad2f92ca6833",
+      "statement_lines": [
+        19,
+        26
+      ],
+      "statement_tex": "Let \\((S_j)_{j\\ge0}\\) be a nonnegative, finitely supported sequence\nwhich is not identically zero. There is an index \\(i\\) with\n\\(S_i>0\\) such that\n\\begin{equation}\\label{eq:prefix-charge}\n \\sum_{j=0}^{i+K}S_j\\le P_0S_i.\n\\end{equation}",
+      "summary": "有限层序列的窗口前缀付费",
+      "conditions": "Nonnegative finitely supported nonzero sequence;K=200,P0=804;exists positiveSi with sum j=0..i+K Sj<=P0 Si. Argument not for arbitrary infinite sequence without finite support.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-PROP-INDUCTION-BOUND",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "prop:induction-bound",
+      "kind": "proposition",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+      "sha256": "5407ef1592a207455dafd15ba526791b6ed2016e60ffa8e5e230ad2f92ca6833",
+      "statement_lines": [
+        55,
+        59
+      ],
+      "statement_tex": "There is an absolute constant \\(C\\) such that every finite simple\ngraph on \\(n\\ge1\\) vertices has an edge partition into at most\n\\(C\\phi(n)n\\) simple cycles and single edges.",
+      "summary": "带势函数的加强线性归纳界",
+      "conditions": "For n>=1 bound C*phi(n)*n,phi(1)=1/2,phi(n)=max(1/2,1-1/sqrt(log2 n)). Fix theta=.95,K200,P0804,eta1/80400,then common Dstar satisfying all eventual requirements,then C>=max(7A2,4T(Dstar));does not give practical finite numerical cutoff or linear time.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-THM-LOVASZ",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "thm:lovasz",
+      "kind": "theorem",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "statement_lines": [
+        52,
+        55
+      ],
+      "statement_tex": "The edges of a finite simple graph on \\(n\\) vertices can be\npartitioned into at most \\(\\floor{n/2}\\) paths and cycles.",
+      "summary": "Lovasz路径与环的floor(n/2)分解输入",
+      "conditions": "Finite simple graph;edge-disjoint paths/cycles. Original Lovasz PDF transport403;actual BM2024 Theorem21 independently read,not original Lovasz proof acceptance.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-COR-ENDPOINT-PATHS",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "cor:endpoint-paths",
+      "kind": "corollary",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "statement_lines": [
+        61,
+        66
+      ],
+      "statement_tex": "Every finite simple graph on \\(n\\) vertices has an edge\npartition into paths such that each vertex is an endpoint of at\nmost two paths. In particular, the partition has at most \\(n\\)\npaths.",
+      "summary": "每个顶点端点负载至多二的路径分解",
+      "conditions": "All graph edges partitioned into positive-length simple paths;endpoint occurrences <=2 per vertex,therefore <=n paths. Add v0 to even-degree vertices including isolates,then delete v0 and discard edgeless remnants.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-THM-AHARONI-HAXELL",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "thm:aharoni-haxell",
+      "kind": "theorem",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "statement_lines": [
+        106,
+        116
+      ],
+      "statement_tex": "Let \\(s\\) be a positive integer and let\n\\((\\mathcal H_i)_{i\\in J}\\) be a finite indexed family of\nhypergraphs on a common ground set. Suppose every edge is\nnonempty and has size at most \\(s\\). If, for every nonempty\n\\(I\\subseteq J\\), the union\n\\(\\bigcup_{i\\in I}\\mathcal H_i\\) has a matching of size\nstrictly greater than \\(s(|I|-1)\\), then there are edges\n\\(E_i\\in\\mathcal H_i\\), one for each \\(i\\in J\\), that are\npairwise disjoint.",
+      "summary": "有界秩超图Hall充分条件",
+      "conditions": "Finite indexed nonempty hyperedges of size<=positive integer s;for every nonempty I union matching size strictly>s(|I|-1),then choose pairwise disjoint representatives. BM2024 Theorem6 checked;AH publisher metadata only,full original theorem/proof not read.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-CHERNOFF",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:chernoff",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "statement_lines": [
+        131,
+        138
+      ],
+      "statement_tex": "If \\(X\\) is binomial with mean \\(\\mu\\), then\n\\[\n \\Pr(X\\le\\mu/2)\\le e^{-\\mu/8},\n \\qquad\n \\Pr(X\\ge2\\mu)\\le e^{-\\mu/3}.\n\\]",
+      "summary": "二项尾界常数",
+      "conditions": "Independent Bernoulli sum mean mu;lower half-tail <=exp(-mu/8),upper double-tail <=exp(-mu/3);does not transfer to arbitrarily dependent indicators.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-EDGE-SPLIT",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:edge-split",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+      "statement_lines": [
+        19,
+        25
+      ],
+      "statement_tex": "Fix $c>0$ and a positive integer $l$.  For all sufficiently large $D$,\nif an $r$-vertex graph $P$ has cut expansion at least\n$h_0\\ge cD^{0.90}$ and $D^{0.90}\\le r\\le D^{1.02}$, then its edge set\ncan be partitioned into $l$ spanning subgraphs, each with cut expansion\nat least $h_0/(2l)$.",
+      "summary": "扩张边集拆为多个保扩张生成子图",
+      "conditions": "Fix c>0 and positive integer l before sufficiently large D;D^.90<=r<=D^1.02 and h0>=cD^.90. Independent l-class edge sampling gives each class cut expansion>=h0/(2l). Existence/high probability,not finite certified runtime.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-VERTEX-SAMPLING",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:vertex-sampling",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+      "statement_lines": [
+        57,
+        72
+      ],
+      "statement_tex": "Fix $c'>0$ and $p\\in(0,1)$.  Let $P$ have order\n$D^{0.90}\\le r\\le D^{1.02}$ and cut expansion at least\n$h=c'D^{0.90}$.  Select each vertex independently with probability $p$\nto form $V'$.  With probability $1-o(1)$ as $D\\to\\infty$, all of the\nfollowing hold:\n\\begin{equation}\\label{eq:residue-sampling-properties}\n\\begin{gathered}\n  |V'|\\le2pr,\\qquad\n  |N_P(v)\\cap V'|\\ge ph/2\\quad(v\\in V(P)),\\\\\n  P[V']\\text{ has cut expansion at least }\\tau=D^{0.74}.\n\\end{gathered}\n\\end{equation}\nThe error term is uniform over the stated graphs and orders, with\n$c'$ and $p$ fixed.",
+      "summary": "固定比例顶点采样的保扩张见证",
+      "conditions": "Fixed cprime>0,p in(0,1),h=cprime D^.90,orders D^.90..D^1.02. With probability1-o(1),size<=2pr,all vertices sampled neighbor count>=ph/2,and sampled induced cut expansion>=D^.74. Uniform eventual bounds;not arbitrary finite expansion graph preservation or arbitrary p(D). Neighborhood witness family and extra auxiliary sample do not assert independent cuts.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-SMALL-RESIDUE",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:small-residue",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+      "statement_lines": [
+        282,
+        292
+      ],
+      "statement_tex": "Fix $\\eta>0$ and $c>0$.  For all sufficiently large $D$, let $G$ be\nan $r$-vertex graph with\n$D^{0.90}\\le r\\le D^{1.02}$ containing a spanning subgraph of cut\nexpansion at least $cD^{0.90}$.  Then $E(G)$ has a partition into at\nmost $9r$ completed parts, each a simple cycle or a single edge,\nand the edge sets of at most three residual simple graphs.  The\nresidual graphs have pairwise disjoint vertex sets contained in\n$V(G)$, their total order is at most $\\eta r$, and each has order\nstrictly less than $r$.",
+      "summary": "三小蓄水池闭路与小总阶残图",
+      "conditions": "Fixed eta,c>0 before D sufficiently large;graph containing spanning expander cD^.90 in order range. Complete <=9r cycles/singles and at most3 disjoint-vertex residual graphs,total order<=eta*r,each<r. p=min(eta/12,1/12);reserved internal/outside assigned edges exact,not all remaining induced reservoir edges.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-ROUTING",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:routing",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+      "sha256": "6004936793c01bba515c698726fd2b5fd9f01dd396a6675ebd5e23032fdfb5a9",
+      "statement_lines": [
+        14,
+        40
+      ],
+      "statement_tex": "Let $P$ be a graph of order $r\\ge 2$ with cut expansion $h>0$, and put\n\\begin{equation}\\label{eq:routing-radii}\n  g=\\ceil{8(r/h)\\log(2r)},\\qquad\n  \\ell=2g\\bigl(1+\\ceil{\\log r}\\bigr).\n\\end{equation}\nLet $\\mathcal D$ be a finite set of demands, where demand $p$ has distinct\nendvertices $x_p,y_p\\in V(P)$.  Suppose that each vertex occurs as an\nendvertex in at most $k$ demands, where $k\\ge 1$.  Partition $\\mathcal D$\ninto teams of size at most $b$, where $b\\ge 1$, and give each demand a set\n$Z_p\\subseteq V(P)$ of at most $z$ vertices, where $z\\ge 0$.\nIf\n\\begin{equation}\\label{eq:routing-condition}\n  h\\ge 64\\bigl(\\ell^2(k+b)+z\\bigr),\n\\end{equation}\nthen there are simple $x_p$--$y_p$ paths $Q_p$ in $P$, one for each\n$p\\in\\mathcal D$, with the following properties:\n\\begin{enumerate}[label=\\textup{(\\roman*)}]\n  \\item each $Q_p$ has length at most $\\ell$ and no internal vertex in $Z_p$;\n  \\item the paths $Q_p$ are pairwise edge-disjoint;\n  \\item the internal vertex sets of paths in the same team are pairwise\n    disjoint.\n\\end{enumerate}\nThe sets $Z_p$ may contain $x_p$ or $y_p$: their restrictions concern only\ninternal vertices.  If a route must also avoid another demand's endvertices\ninternally, those vertices may be included in its set $Z_p$.",
+      "summary": "含队组内部不交约束的短路径路由",
+      "conditions": "Finite simple P,r>=2,cut expansion h>0;g=ceil(8(r/h)log2(2r)),ell=2g(1+ceil(log2 r));distinct demand endpoints,endpoint load<=k>=1,team size<=b>=1,forbidden set size<=z>=0. Require h>=64(ell^2(k+b)+z). Routes simple length<=ell,globally edge-disjoint,same-team interiors vertex-disjoint;forbidden restrictions internal only. Existence via all candidate paths and hypergraph matching is not efficient constructive implementation.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-SCALE-SPLIT",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:scale-split",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "sha256": "b30ce3a520e2a8ce165c76e6f389313163339271b8a60e4e7315fa29de15b250",
+      "statement_lines": [
+        15,
+        56
+      ],
+      "statement_tex": "There are absolute constants $D_{\\mathrm{sp}}$ and $C_0$ such that, for\nevery real $D\\ge D_{\\mathrm{sp}}$, every graph $G$ on a nonempty vertex\nset of order $N$ and with average degree at most $D$ admits the following\ntwo successive operations.  One may take $C_0=2$.\n\\begin{enumerate}[label=\\textup{(\\roman*)}]\n\\item\\label{item:scale-boxes}\nRemove a family $\\mathcal C$ of edge-disjoint cycles, each of length at\nleast $D^{1.01}$, where\n\\begin{equation}\\label{eq:scale-cycle-cost}\n  \\abs{\\mathcal C}\\le \\frac{N}{2D^{0.01}}.\n\\end{equation}\nPartition the remaining edges into graphs $G_Y$ on an indexed family\n$\\mathcal Y$ of vertex sets, called boxes.  These satisfy\n\\begin{equation}\\label{eq:scale-box-order}\n\\begin{gathered}\n  \\bigcup_{Y\\in\\mathcal Y}Y=V(G),\\qquad\n  1\\le \\abs Y\\le D^{1.02},\\\\\n  \\sum_{Y\\in\\mathcal Y}\\abs Y\n    \\le \\left(1+\\frac{C_0}{\\log D}\\right)N.\n\\end{gathered}\n\\end{equation}\nThe graphs $G_Y$ contain only their assigned edges; their vertex sets\nmay overlap.\n\n\\item\\label{item:scale-expanders}\nPut $\\sigma=D^{0.90}$.  For each box $Y$, partition $E(G_Y)$ into\nthe edge sets of a family $\\mathcal R_Y$ of graphs $R$ and a graph $H_Y$.\nThe vertex sets of the graphs in $\\mathcal R_Y$ are pairwise disjoint\nsubsets of $Y$.  Each $R$ has cut expansion at least $\\sigma$ and order\n\\begin{equation}\\label{eq:scale-piece-order}\n  \\sigma\\le \\abs{V(R)}\\le D^{1.02}.\n\\end{equation}\nThe residual graph $H_Y$ is taken on all of $Y$, including isolated\nvertices, and satisfies\n\\begin{equation}\\label{eq:scale-residual-degree}\n  \\frac{2\\abs{E(H_Y)}}{\\abs Y}\\le D^{0.95}.\n\\end{equation}\n\\end{enumerate}\nThus the cycles in $\\mathcal C$, the pieces $R$, and the residual graphs\n$H_Y$ together partition $E(G)$.",
+      "summary": "有重叠盒子的分尺度拆解",
+      "conditions": "Nonempty orderN,average degree<=D>=absolute Dsp;longcycles>=D^1.01 number<=N/(2D^.01). Indexed boxes cover vertices,orders1..D^1.02,total<=N(1+2/log2 D). Disjoint expanding pieces within each box,cut expansionD^.90;residual on all box vertices average degree<=D^.95. Assigned edge partition not induced-subgraph duplication.",
+      "source_claim_grade": "C",
+      "aliases": []
+    },
+    {
+      "id": "CLM-181-LEM-SPLIT-VERTEX-EXPANSION",
+      "manuscript_id": "P-aa4a9f7b64d5fc71",
+      "label": "lem:split-vertex-expansion",
+      "kind": "lemma",
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "sha256": "b30ce3a520e2a8ce165c76e6f389313163339271b8a60e4e7315fa29de15b250",
+      "statement_lines": [
+        70,
+        82
+      ],
+      "statement_tex": "Fix $\\eps=1/32$.  For every sufficiently large integer $u$, put\n$\\alpha=\\eps/\\log^2 u$.  If a graph $H$ of order $u$ satisfies\n\\begin{equation}\\label{eq:split-vertex-expansion}\n  \\abs{N_H(U)\\setminus U}\\ge\\alpha\\abs U\n  \\qquad\\left(0<\\abs U\\le\\frac u2\\right),\n\\end{equation}\nthen $H$ contains a simple cycle of length greater than\n\\begin{equation}\\label{eq:split-long-cycle-length}\n  q(u)=\\frac{\\alpha^2u}{100}\n      =\\frac{\\eps^2u}{100\\log^4u}.\n\\end{equation}",
+      "summary": "顶点扩张推出长简单环",
+      "conditions": "Sufficiently large integeru,eps=1/32,alpha=eps/log2(u)^2;every nonempty subset<=u/2 has external neighbors>=alpha|U|. Then simple cycle length>alpha^2*u/100. DFS balance/bypass proof does not give maximum cycle or general longest-cycle oracle.",
+      "source_claim_grade": "C",
+      "aliases": []
+    }
+  ],
+  "methods": [
+    [
+      "EDGE-LEDGER",
+      "唯一分配的边集账本",
+      "Indexed edge-assigned subgraphs with possibly overlapping vertex sets",
+      "Exact cover and disjointness preserved across split/reserve/quotient/lift",
+      "lem:scale-split",
+      "Vertex overlap is allowed;do not take all induced edges or discard isolated vertices/order multiplicity."
+    ],
+    [
+      "ENDPOINT-PATHS",
+      "受控端点的旧路径分解",
+      "Finite simple graph",
+      "Positive paths with endpoint load<=2",
+      "cor:endpoint-paths",
+      "Old result;not novel from2026 or guarantee fixed endpoint demands."
+    ],
+    [
+      "TEAM-TOKENS",
+      "按团队标记的路由资源",
+      "Candidate simple paths,graph-edge resources and(v,team) tokens",
+      "Edge-disjoint routes and within-team interior disjointness",
+      "lem:routing",
+      "Need exact expansion/load/length/forbidden inequality;all-path hypergraphs may be enormous."
+    ],
+    [
+      "EDGE-RESERVES",
+      "保留独立扩张边资源",
+      "Fixed l and sufficiently dense cut expansion",
+      "l spanning edge-disjoint expanders h0/(2l)",
+      "lem:edge-split",
+      "Not every random outcome;certify actual expansion/parameters."
+    ],
+    [
+      "SAMPLED-WITNESS",
+      "小邻域并见证族核查",
+      "D^.90..D^1.02 graph withh=cprimeD^.90,fixedsamplingp",
+      "Uniform high-probability sampled expansion D^.74",
+      "lem:vertex-sampling",
+      "Asymptotic threshold and cut verification;not practical sparsification guarantee for arbitrary graph."
+    ],
+    [
+      "THREE-RESERVOIRS",
+      "三小池闭路与小残图",
+      "Expander-spanning graph at qualified scale,eta fixed",
+      "<=9r completed parts plus residualtotalorder<=eta r",
+      "lem:small-residue",
+      "Consume reserved edges exactly once;may addpathlength,does not preserve route latency/capacity."
+    ],
+    [
+      "SPARSE-CUT-POTENTIAL",
+      "重叠拆分势函数",
+      "Cycle-free-above-threshold graph and sparse external neighborhood",
+      "Small boxes withinverse-logorderoverhead",
+      "lem:scale-split",
+      "Existential sparsecut/longcycle choices and huge scales;not linear-time preprocessing."
+    ],
+    [
+      "PAIR-COLLISIONS",
+      "双负载配对碰撞预算",
+      "Disjoint folding sets with active degree and neighbor-count bounds",
+      "Simplequotient,<=2sum mi discarded edges,unique representatives",
+      "lem:pair-folding",
+      "Without outside neighbor bound Kma fails;random expectation not per-run assurance."
+    ],
+    [
+      "HEAVY-TRIMMING",
+      "重邻居边的路径修剪",
+      "Bipartite active-heavy edge sets and oldendpoint partition",
+      "Trim heavy ends,close positive remnants,<=6sum|X|parts",
+      "lem:batch-resolution",
+      "Endpoint<=2 bound may be lost;use global incident-edge injection for finalload."
+    ],
+    [
+      "SIMPLE-CYCLE-LIFT",
+      "商图环的简单性恢复",
+      "Unique original representatives plusswitchpaths",
+      "Exactly one simplecycle perquotientcycle",
+      "lem:batch-resolution",
+      "Switch interiors avoid allrepresentative endpoints and are pairwise disjoint percycle;edge disjoint alone insufficient."
+    ],
+    [
+      "PREFIX-BUDGET",
+      "有限尺度前缀预算",
+      "Nonnegative finite-support scale masses",
+      "Positive layer pays for200stepwindowprefix within804factor",
+      "lem:prefix-choice",
+      "No inference of time or infinite-horizon guarantee."
+    ],
+    [
+      "ORDER-POTENTIAL",
+      "递归阶势函数吸收重叠",
+      "Strictly smallerquotients q<=D^.30 and residualordersmall",
+      "phi(n)gain absorbs O(n/logD)orderoverlap",
+      "prop:induction-bound",
+      "Constants/C/Dstar chosen in order;piececount bound not runtime or storage bound."
+    ]
+  ],
+  "domain_attempts": [
+    [
+      "network telemetry",
+      "Cycles as edge-test groups",
+      "Need actual physical undirected simple topology,cycle witnesses,probe cost and latencies;O(n)groups alone not walltime or network performance."
+    ],
+    [
+      "transport inspection",
+      "Edge-disjoint closed inspection circuits plus individual edges",
+      "Travel connectivity,repeat travel,vehiclecapacity/directions not supplied;Chinese-postman old baseline may suffice."
+    ],
+    [
+      "scientific computing",
+      "Sparse matrixgraph split into cycle-supported blocks",
+      "Graphsimple/unweighted abstraction doesnot guarantee numericalconditioning or linear solver gain;old sparse routines baseline."
+    ],
+    [
+      "data compression",
+      "Encode edges through cycle list",
+      "Output still lists up to all m edges unless encoding/bitcost specified;linearpieces not linearbits."
+    ],
+    [
+      "distributed computing",
+      "Partition messages into cycles",
+      "Vertex sharing can create contention;teams only constrain internalroute use,not universal simultaneous scheduling."
+    ],
+    [
+      "molecular structure",
+      "Decompose molecularbond graph",
+      "Real bonds have types,weights,geometricconstraints;cyclepartition not unique chemicalrings or energy predictor."
+    ],
+    [
+      "finance",
+      "Cycleflow accounting",
+      "Directed weighted flows require balanced circulation;simple undirectededgepartition doesnot provide clearing or capital savings."
+    ],
+    [
+      "language",
+      "Cycle structure in cooccurrence graphs",
+      "Semantic validity and weighted directedtokens missing;only speculative mapping,no accepted connection."
+    ],
+    [
+      "art and generative design",
+      "Loop-plus-stroke drawing representation",
+      "Repeatedvertices allowed globally;strokecontinuity/styleobjective not controlled;old Euleriantrail drawing strongbaseline."
+    ],
+    [
+      "energy networks",
+      "Cycle-based inspection or sensor routes",
+      "Operational feasibility,capacities and safety authorization absent;retain generic public routing gap only,no deployment claim."
+    ]
+  ],
+  "cross_family_attempts": [
+    {
+      "family": "F-178",
+      "existing_method": "PART-178-REPAIR",
+      "comparison": "A spectralexpander construction is not automatically an F181cut-expansion/runtime certificate;requires translating exact parameters and reservable edge sets."
+    },
+    {
+      "family": "F-238",
+      "existing_method": "PART-238-COMP-DEPENDENT-HALF-REPAIR",
+      "comparison": "Both preserve resource assignment through dependent choices;shuffle probability laws and graphdecomposition teams are different domains,not a joint theorem."
+    }
+  ],
+  "historical_references_by_key": {
+    "AH2000": "LIT-181-AH2000",
+    "BM2024": "LIT-181-BM2024",
+    "CFS2014": "LIT-181-CFS2014",
+    "EGP1966": "LIT-181-EGP1966",
+    "Lovasz1968": "LIT-181-LOVASZ1968",
+    "Krivelevich2019": "LIT-181-KRIVELEVICH2019",
+    "BKS2012": "LIT-181-BKS2012",
+    "Pyber1985": "LIT-181-PYBER1985",
+    "KKS2015": "LIT-181-KKS2015",
+    "GGKO2021": "LIT-181-GGKO2021",
+    "AABC2025": "LIT-181-AABC2025"
+  },
+  "bibliography_entries_by_key": {
+    "AH2000": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{AH2000,\n  author = {Aharoni, Ron and Haxell, Penny},\n  title = {{Hall}'s theorem for hypergraphs},\n  journal = {Journal of Graph Theory},\n  volume = {35},\n  number = {2},\n  year = {2000},\n  pages = {83--88},\n  doi = {10.1002/1097-0118(200010)35:2<83::AID-JGT2>3.0.CO;2-V},\n  url = {https://doi.org/10.1002/1097-0118(200010)35:2%3C83::AID-JGT2%3E3.0.CO;2-V}\n}",
+      "lines": [
+        1,
+        11
+      ]
+    },
+    "BM2024": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{BM2024,\n  author = {Buci\\'c, Matija and Montgomery, Richard},\n  title = {Towards the {Erd\\H{o}s--Gallai} cycle decomposition conjecture},\n  journal = {Advances in Mathematics},\n  volume = {437},\n  year = {2024},\n  pages = {109434},\n  doi = {10.1016/j.aim.2023.109434},\n  eprint = {2211.07689},\n  archivePrefix = {arXiv},\n  primaryClass = {math.CO},\n  url = {https://arxiv.org/abs/2211.07689v2},\n  note = {Theorem numbering refers to arXiv:2211.07689v2, 14 November 2023}\n}",
+      "lines": [
+        13,
+        26
+      ]
+    },
+    "CFS2014": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{CFS2014,\n  author = {Conlon, David and Fox, Jacob and Sudakov, Benny},\n  title = {Cycle packing},\n  journal = {Random Structures \\& Algorithms},\n  volume = {45},\n  number = {4},\n  year = {2014},\n  pages = {608--626},\n  doi = {10.1002/rsa.20574},\n  eprint = {1310.0632},\n  archivePrefix = {arXiv},\n  primaryClass = {math.CO},\n  url = {https://people.math.ethz.ch/~sudakovb/cycle-packing.pdf}\n}",
+      "lines": [
+        28,
+        41
+      ]
+    },
+    "EGP1966": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{EGP1966,\n  author = {Erd\\H{o}s, Paul and Goodman, A. W. and P\\'osa, Louis},\n  title = {The representation of a graph by set intersections},\n  journal = {Canadian Journal of Mathematics},\n  volume = {18},\n  year = {1966},\n  pages = {106--112},\n  doi = {10.4153/CJM-1966-014-3},\n  url = {https://www.renyi.hu/~p_erdos/1966-21.pdf}\n}",
+      "lines": [
+        43,
+        52
+      ]
+    },
+    "Lovasz1968": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@incollection{Lovasz1968,\n  author = {Lov\\'asz, L\\'aszl\\'o},\n  title = {On covering of graphs},\n  booktitle = {Theory of Graphs (Proceedings of the Colloquium, Tihany, 1966)},\n  editor = {Erd\\H{o}s, P. and Katona, G.},\n  publisher = {Academic Press; Akad\\'emiai Kiad\\'o},\n  address = {New York--London; Budapest},\n  year = {1968},\n  pages = {231--236},\n  url = {https://www.researchgate.net/profile/Laszlo-Lovasz/publication/268652766_On_covering_of_graphs/links/5e1465b7299bf10bc3967731/On-covering-of-graphs.pdf}\n}",
+      "lines": [
+        54,
+        64
+      ]
+    },
+    "Krivelevich2019": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{Krivelevich2019,\n  author = {Krivelevich, Michael},\n  title = {Long cycles in locally expanding graphs, with applications},\n  journal = {Combinatorica},\n  volume = {39},\n  number = {1},\n  year = {2019},\n  pages = {135--151},\n  doi = {10.1007/s00493-017-3701-1},\n  eprint = {1609.06851},\n  archivePrefix = {arXiv},\n  primaryClass = {math.CO},\n  url = {https://www.math.tau.ac.il/~krivelev/long_cycles_expanders.pdf}\n}",
+      "lines": [
+        66,
+        79
+      ]
+    },
+    "BKS2012": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{BKS2012,\n  author = {Ben-Eliezer, Ido and Krivelevich, Michael and Sudakov, Benny},\n  title = {Long cycles in subgraphs of (pseudo)random directed graphs},\n  journal = {Journal of Graph Theory},\n  volume = {70},\n  number = {3},\n  year = {2012},\n  pages = {284--296},\n  doi = {10.1002/jgt.20616},\n  eprint = {1009.3721},\n  archivePrefix = {arXiv},\n  primaryClass = {math.CO},\n  url = {https://arxiv.org/abs/1009.3721}\n}",
+      "lines": [
+        81,
+        94
+      ]
+    },
+    "Pyber1985": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{Pyber1985,\n  author = {Pyber, L\\'aszl\\'o},\n  title = {An {Erd\\H{o}s--Gallai} conjecture},\n  journal = {Combinatorica},\n  volume = {5},\n  number = {1},\n  year = {1985},\n  pages = {67--79},\n  doi = {10.1007/BF02579444},\n  url = {https://doi.org/10.1007/BF02579444}\n}",
+      "lines": [
+        96,
+        106
+      ]
+    },
+    "KKS2015": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{KKS2015,\n  author = {Kor{\\'a}ndi, D{\\'a}niel and Krivelevich, Michael and Sudakov, Benny},\n  title = {Decomposing random graphs into few cycles and edges},\n  journal = {Combinatorics, Probability and Computing},\n  volume = {24}, number = {6}, year = {2015}, pages = {857--872},\n  doi = {10.1017/S0963548314000844},\n  url = {https://people.math.ethz.ch/~sudakovb/cycle-packing-random-graphs.pdf}\n}",
+      "lines": [
+        108,
+        115
+      ]
+    },
+    "GGKO2021": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@article{GGKO2021,\n  author = {Gir{\\~a}o, Ant{\\'o}nio and Granet, Bertille and K{\\\"u}hn, Daniela and Osthus, Deryk},\n  title = {Path and cycle decompositions of dense graphs},\n  journal = {Journal of the London Mathematical Society},\n  volume = {104}, number = {3}, year = {2021}, pages = {1085--1134},\n  doi = {10.1112/jlms.12455},\n  url = {https://web.mat.bham.ac.uk/D.Osthus/path_cycle_dec_dense.pdf}\n}",
+      "lines": [
+        116,
+        123
+      ]
+    },
+    "AABC2025": {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "entry": "@misc{AABC2025,\n  author = {Akbari, Saieed and Aloni, Jonny and Beikmohammadi, Arash and Clow, Alexander},\n  title = {Tight Bounds for Cycle-Edge Decompositions and Covers},\n  year = {2025},\n  eprint = {2509.01901},\n  archivePrefix = {arXiv},\n  primaryClass = {math.CO},\n  url = {https://arxiv.org/abs/2509.01901v2},\n  note = {arXiv:2509.01901v2, 7 September 2025}\n}",
+      "lines": [
+        125,
+        134
+      ]
+    }
+  },
+  "historical_external_work_count": 11,
+  "historical_selected_originals": "data/provenance/readings/F-181-history.json",
+  "unread_or_unqualified_original_root_ids": [
+    "LIT-181-AH2000",
+    "LIT-181-LOVASZ1968",
+    "LIT-181-KRIVELEVICH2019",
+    "LIT-181-BKS2012",
+    "LIT-181-PYBER1985",
+    "LIT-181-KKS2015",
+    "LIT-181-AABC2025"
+  ],
+  "formal_status": "data/provenance/readings/F-181-formal.json",
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "gaps": [
+    "Current single manuscript fully read and16namedbindings/12contracts curated;full family versions,recursive historical proofs and human review not complete.",
+    "Four of11 primary historical originals checked only in selected converted-text scopes;seven original roots remain unqualified. AH publisher metadata and BM statement are not AH original-body review;Lovasz local403 remains a gap.",
+    "Only main Cn existence endpoint sourceB after actual definition/signature comparison. Eulerian corollary andother15source statements C,all dependency chains unknown;34files1270declarations staticindex is not mathematical reading/build/Comparator/human approval.",
+    "No concrete finite C,Dstar or running-time claim inferred. Noncomputable Nat.find/existential formal model is no executable construction. All-path hypergraph and maximal-long-cycle/sparse-cut searches lack a practical cost certificate.",
+    "Finite simple undirected unweighted edge sets,not directed flows,multigraph demands,capacitated links orarbitrarycyclescover. Pairfolding andcyclelifting conditions cannotbe dropped.",
+    "Ten domains/two crossfamily attempts are exploration records,not12cards. No new candidate,initial check,simulation or numerical run. Oldmethod sufficiency for qualifieddense/randomgraph classes retained.",
+    "No true human grading/specification,second provider,pilot or new GitHub publication. Current selectedOpenAI exactbackend unknown."
+  ],
+  "third_party_acquired_bytes": 3088053,
+  "third_party_republication": false,
+  "dependencies_installed": false,
+  "github_push": false
+}

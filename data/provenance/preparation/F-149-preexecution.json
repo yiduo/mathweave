@@ -1,0 +1,97 @@
+{
+  "at": "2026-10-27T09:47:08.144408+00:00",
+  "work_package": "WP-126",
+  "generation": "GEN-20261027-123",
+  "base_commit": "0107505b276aeafbdfc545dc121b2d4f37af4f3c",
+  "connection_id": "APP-149-01",
+  "original_plan_unchanged_sha256": "4879c080ef3a2a64bd101cf171fde54fa918ce7677b8d52b9cbc303946167e0d",
+  "original_card_version": 1,
+  "target_outputs": 0,
+  "frozen_input_cases": 72,
+  "frozen_input_meaning": "Allmodels/rates/scales/steps/initials specified beforetarget;notyetGitimplementationfreeze.",
+  "new_initial_checks": 0,
+  "new_candidates": 0,
+  "actual_auxiliary_review": "SamecurrentOpenAIsessiontwoexplicitnonisolatedviewpointsinreviewpacket;notdelegate/provider/humanreview. Exactbackendunknown.",
+  "reference_qualification": "Staticordinarydifferentialinequalityandcompactcontinuationreviewplusseparateexpandedpolynomialverifier. No human/Leanproofacceptance;finite-timeonly,not numericaltrajectoryorpermanencecertificate.",
+  "scientific_implementation_executed": false,
+  "software_controls": "7UNITtests passed on distinctcontrolmodels;notEXP149targetfixtures or externalapplicationvalidation.",
+  "source_model_recovery": "Twoactualsourceintroductions,originalpendingplan andselectedComparator recheckedinWP126v1. Same sourceB/C split andwholeunknown retained.",
+  "preexecution_corrections": [
+    "Initialimplementationassignednegativeflagswithoutindependentoldreportclassification;replacedwithactualseven-claimreportvsindependentlycomputedoldoracle.",
+    "Addedper-referenceandper-stepcompressedprogresssoexceptionscannoterasealreadycomputedtransitions.",
+    "Separatedreference/arithmeticconflict(inconclusive)fromvalid-reportmisclassification(adverse).",
+    "Measuredruntimeclocksonlyinmanifest,notdeterministicraw/summary;genericenginefeatureonlyactivatedbyexplicitretain_runtime_metrics flag."
+  ],
+  "pinned_files": [
+    {
+      "path": "experiments/specs/EXP-149-001.json",
+      "sha256": "be0f5ad3248158dcee3e5ed0473c634fba8e0e4c900cc8061b53361270344927",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "experiments/plans/APP-149-01-review-packet-v2.md",
+      "sha256": "a5b136224c2ed3239a2f134c53c1ff99d5f8c6ddd86c07f2ebbac9c5b7c9bda3",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "experiments/preparation/WP-126-source-reference-v1.json",
+      "sha256": "228a205388f618dada2de7afed0d5e24afb31c184333271a41ce9afc6bb07796",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "src/ai_value/mass_action_guard.py",
+      "sha256": "a2f3620d2f0a66969d15f88615621192700239a35372873d699d7a49c3c800d9",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "src/ai_value/mass_action_reference.py",
+      "sha256": "5655bc9d322c7f9afd5070bc6468093a8ee27f21a6aae4cab8a20c009d516093",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "src/ai_value/experiments.py",
+      "sha256": "91726e69c09c9243a14e2b14cdbb7d868437eae6bad77c094911836f21e639f4",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "tests/test_mass_action.py",
+      "sha256": "ea765b936bea41857ada8b2305bed8e61d57e569fe4902a04c15fcab2c388be3",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "scripts/run_experiment_attempt.py",
+      "sha256": "ec8e44bd2b8c6ba1c0d280cc2a805ee5de7adb16299c92c9b1a740d1061cc441",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "scripts/replay_run.py",
+      "sha256": "0be7912a418d7a037ec7106b7ae45d469d3250912e09702c78f2e37160badd53",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    },
+    {
+      "path": "scripts/measure_experiment_worker.py",
+      "sha256": "e4597efdf3a4831e05b8553f2bd95d7c6f1602d0fe5ec968c4c40f56bf45e230",
+      "commit": null,
+      "locator": "Pre-outputimplementation/spec/sourcebinding;actualsoftwarecontrolsnotresearchacceptance"
+    }
+  ],
+  "source_upstream_read_only": true,
+  "new_solver_dependencies": 0,
+  "human_review": null,
+  "second_provider": null,
+  "full_family_or_history_complete": false,
+  "pending": [
+    "Fullcurrentgraph/impact/export/core/clean/archiveQA",
+    "Localcommitofallactualspec/implementationbeforefirsttarget;verifyGitblobhashes atattempt",
+    "Firsttargetexecution andstrictarchivedsource replay in subsequentWP127;no initialcreditbeforeactualexternalresult"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "at": "2026-10-27T04:57:30.943571+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "comparison": {
+    "subjects": {
+      "Differential geometry": [
+        3,
+        29
+      ],
+      "Combinatorics": [
+        4,
+        37
+      ],
+      "Algebraic and complex geometry": [
+        4,
+        36
+      ]
+    },
+    "source_inventory_only": {
+      "F-335": [
+        {
+          "manuscript": "P-d70ea1fa615d9ee5",
+          "files": 9,
+          "lines": 6746,
+          "bytes": 317966,
+          "readme": "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/README.md",
+          "source_paths": [
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/main.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/references.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/01-introduction.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/05-degree.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/06-transfer.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/04-entropy.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/03-graphs.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/sections/02-reduction-detector.tex",
+            "math/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/build/figures/resolution.tex"
+          ]
+        },
+        {
+          "manuscript": "P-e13146f0a1d57e20",
+          "files": 12,
+          "lines": 2989,
+          "bytes": 143166,
+          "readme": "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/README.md",
+          "source_paths": [
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/main.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/01-introduction.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/07-obstruction.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/08-proof.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/05-graph-existence.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/04-graph-calculus.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/06-shortening.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/02-reductions.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/sections/03-comparison.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/figures/direction-splitting.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/figures/degree-triad.tex",
+            "math/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/build/references.bib"
+          ]
+        }
+      ],
+      "F-337": [
+        {
+          "manuscript": "P-9808a190babfbe20",
+          "files": 15,
+          "lines": 3432,
+          "bytes": 141930,
+          "readme": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/README.md",
+          "source_paths": [
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+            "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib"
+          ]
+        },
+        {
+          "manuscript": "P-85565211ca1088a3",
+          "files": 13,
+          "lines": 3981,
+          "bytes": 158983,
+          "readme": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/README.md",
+          "source_paths": [
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+            "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib"
+          ]
+        }
+      ]
+    },
+    "F238": "Six of twelve source manuscript bodies remain unread; the existing6/12-manuscript partial draft and227bindings do not count as completion. Consider as depth alternative; rotate now to the lowest-covered subject.",
+    "decision": "Select F337 next for lowest-covered subject and two complementary geometric statement regimes; inventory and README only,zero body credit. Global042 follows WP119."
+  },
+  "selected_family": "F-337",
+  "manuscript_ids": [
+    "P-9808a190babfbe20",
+    "P-85565211ca1088a3"
+  ],
+  "inventory": [
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "5ed4ca5eba8871b808b5d7864c1c5a6c83f36bd2981c23705b9cd535312d64d9",
+      "lines": 49
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "sha256": "492e3c156252d3e66031f27f56168b4b9ec11b967124f942d691f3c891248c55",
+      "lines": 98
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "lines": 387
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "lines": 285
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+      "sha256": "9e4c0a491ec7ada78ef3f900ee8b05a3ca97d419dcc281cf0bc1c585f52ad4c5",
+      "lines": 311
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "lines": 270
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "lines": 329
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "lines": 498
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+      "sha256": "588ff569e8389bba6a9693b07b2493d7503453cf4e8f53b895f40192871ea681",
+      "lines": 60
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "lines": 427
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "sha256": "a34692b120898a82b84f44a8d82c30cf73e94d95e15d7555f982419e16e1090d",
+      "lines": 228
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "sha256": "42e4c0ecc652b7d4033398088fe802650325b97e7a150b67c3b43203cd76d270",
+      "lines": 128
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+      "sha256": "653acb45af305dfe2022374980644eb884b17dccf3768a3058cce4c5255d7d75",
+      "lines": 29
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+      "sha256": "8b9076a40929bdca40337ff0e8c6f5473398fe065cad62b28acc75a291746df9",
+      "lines": 22
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+      "sha256": "79ceda5a7bb5e5bc49bfa51a66f8d1582b4ab1c80f67f0c375db487881247a4d",
+      "lines": 311
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+      "sha256": "cffae890f8594d7c68b3e2ec8c134dbaf0452b7e9a3723e4b9af758460ae06dd",
+      "lines": 48
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "06e6e4af617b02b95087bc2181e9c3bbb283c263fe41dff29ad975f4dfe88cea",
+      "lines": 51
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "sha256": "00dfcdd71966e4d943b9d962ef4d16237dbcc37912efb36f488081fcafaa957e",
+      "lines": 33
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "56120889c1239e9d8e71fd49afc750e4f2091fd4adba3dd6f06b571b3404773f",
+      "lines": 223
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "lines": 633
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "sha256": "95249ade66b678e6e03ad67afd11d9ed2e9578b52b0c5e6081b5e03abf67dcb9",
+      "lines": 76
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "lines": 506
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "sha256": "c1ab8678e44b155eb464104f7127f8c950a0c255a1077a3dcf3e5ae55024ef48",
+      "lines": 363
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+      "sha256": "a2525c6f081656c143a0a0d9903bcd5b2aa6c42f5674d37615e9ed2465932239",
+      "lines": 252
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "lines": 678
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "lines": 677
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+      "sha256": "357d933a9e4e151bae44b28ef0742ca589ecb9490c2d153f28d83c8ce085c887",
+      "lines": 54
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+      "sha256": "34a02268beab190af78e7b9f53834be372ed88d2643aca46425382a4899b70b1",
+      "lines": 387
+    }
+  ],
+  "actual_body_lines_read": 0,
+  "actual_readme_files": 2,
+  "family_reading_credit_added": false,
+  "reason": "Lowest-covered subject3/29;two complementary smooth-manifold/equality and CAT(0)/integral-current regimes. CompareF3359735lines andF238sixunreadcompanions;rotation counters current familiar calibration/consumer concentration. No application admitted by metadata."
+}

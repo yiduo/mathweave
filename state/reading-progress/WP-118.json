@@ -1,0 +1,30 @@
+{
+  "work_package": "WP-118",
+  "status": "completed_selected_primary_historical_scopes",
+  "base_commit": "3ea7af2",
+  "started_at": "2026-10-27T04:46:12.505507+00:00",
+  "actual_source_scopes_reread": [
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "lines": [
+        181,
+        263
+      ],
+      "scope": "Existing source application of Traverso3.6 and Stacks056S/0AG0/0BE9/00KV;no new family reading credit"
+    }
+  ],
+  "primary_originals_actually_read": [
+    "Traverso1970 selected390/592converted lines,with formula-extraction limitations",
+    "Stacks056S/0AG0/0BE9/00KV statements and displayed proof text"
+  ],
+  "canonical_credit_added": true,
+  "new_initial_checks": 0,
+  "new_scientific_experiments": 0,
+  "next_action": "Start first manuscript main/intro actual source reading,then allmodules,figures andbibliography;continue secondmanuscript beforequalifying draft. Currentbody0/7413.",
+  "running_processes": [],
+  "canonical_generation_id": "GEN-20261027-115",
+  "new_family_reading_credit": 0,
+  "completed_at": "2026-10-27T04:57:30.943571+00:00",
+  "quality_evidence": "reports/reproducibility/20261027-F047-Picard-history/quality.json.gz",
+  "storage_evidence": "reports/reproducibility/20261027-F047-Picard-history/storage.json"
+}

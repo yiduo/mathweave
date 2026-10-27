@@ -1,0 +1,36 @@
+{
+  "at": "2026-10-27T05:57:09.408463+00:00",
+  "generation_id": "GEN-20261027-117",
+  "work_package": "WP-120",
+  "base_commit": "f7d3a96fb0b52051e7653e7e868d7e0e2695ae70",
+  "family_id": "F-337",
+  "source_fragment": {
+    "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+    "lines": [
+      100,
+      123
+    ],
+    "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+    "scope": "StandalonejointC1scalarargumentonly;sourceH/PDE/chordconclusionsnottransferred."
+  },
+  "actual_backend_source_scope": "data/provenance/readings/F-337-AD-preparation.json",
+  "actual_auxiliary_opinions": "data/provenance/reviews/APP-337-01-pre-target-v1.json.gz",
+  "plan": "experiments/plans/MAP-337-001.json",
+  "executable_spec": "experiments/specs/EXP-337-001.json",
+  "spec_sha256": "656da292dfda3c8125a2ab3c4cf1eaed4d71508d505e671b383661079b661b81",
+  "packet_v2": "experiments/plans/APP-337-01-review-packet-v2.md",
+  "packet_v2_sha256": "91083506a038f02c71fcd43dfcbe6649ae772f8a30a572c2594ed15ca15a3f4a",
+  "actual_backend_imported": false,
+  "target_outputs_observed": false,
+  "new_candidates": 1,
+  "new_initial_checks": 0,
+  "new_scientific_runs": 0,
+  "software_error_controls": "Fouractualsoftware-onlycontrols:tamperedartifact,liveprocesssetup/calculation/archivephasewatchdogtimeouts withcompressedpartialprogress;noADimport/targetfixtures",
+  "implementation_state": "Preparedbeforetarget;localimplementationfreezecommitandrunreceiptareseparatefutureevidence,notassumedcompletehere.",
+  "inference_boundary": "Positivecalibrationisnotincrementalapplicationvalue,noractualconsumer/librarycontractdefect;oldcorrectbranchbaselinemustremain.",
+  "gaps": [
+    "Nohuman/provideracceptance",
+    "Fullmathematicaldependencychainunknown",
+    "Noactualtargetoutputs/replay/resourcesyet"
+  ]
+}

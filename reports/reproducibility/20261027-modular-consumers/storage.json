@@ -1,0 +1,111 @@
+{
+  "at": "2026-10-27T03:16:06.288333+00:00",
+  "work_package": "WP-114",
+  "third_party_temporary_sources_hash_verified": [
+    {
+      "project": "sage",
+      "path": "COPYING.txt",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/COPYING.txt",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "bytes": 61366,
+      "sha256": "c7fe308343eafd6ca2926eaa9ddb430098d7267cb87b30a5c3e328f6b3d56ac8",
+      "removed": true
+    },
+    {
+      "project": "sage",
+      "path": "src/sage/rings/polynomial/multi_polynomial_ideal.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/rings/polynomial/multi_polynomial_ideal.py",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "bytes": 233107,
+      "sha256": "3aee3a8119c11f72c028e08c480e1f8cf971b041a7cbb3a939dc505ca1b75e19",
+      "removed": true
+    },
+    {
+      "project": "sage",
+      "path": "src/sage/libs/singular/function.pyx",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/libs/singular/function.pyx",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "bytes": 61924,
+      "sha256": "1a7d396183ee48da127542dbf8eadd570cc16d89487f4f1066bfef2cc4be3617",
+      "removed": true
+    },
+    {
+      "project": "singular",
+      "path": "COPYING",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/COPYING",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "bytes": 5654,
+      "sha256": "53d2a2b37105ad8ca4fe5d1450d592e8ee1367955ff8cb9c27995a405353e29b",
+      "removed": true
+    },
+    {
+      "project": "singular",
+      "path": "Singular/LIB/modstd.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/modstd.lib",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "bytes": 26938,
+      "sha256": "3ea16b46a2e52252e51ddb0725eec626e8e053ebef321f9942b91f97cfa50a6c",
+      "removed": true
+    },
+    {
+      "project": "singular",
+      "path": "Singular/LIB/modular.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/modular.lib",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "bytes": 15413,
+      "sha256": "fad2ab76ebd68378c6a141c028f051572c6264ece7f8ffa925a57759b956044a",
+      "removed": true
+    },
+    {
+      "project": "singular",
+      "path": "Singular/LIB/moddiq.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/moddiq.lib",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "bytes": 9423,
+      "sha256": "8b5f6fa5c63f871d25ab8dceef816192ead3158dcd850e65704eec27b01c8e8c",
+      "removed": true
+    },
+    {
+      "project": "sympy",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/LICENSE",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "bytes": 7885,
+      "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+      "removed": true
+    },
+    {
+      "project": "sympy",
+      "path": "sympy/polys/modulargcd.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/sympy/polys/modulargcd.py",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "bytes": 54637,
+      "sha256": "b6d49193211cd0c2e19ce2d53ac1273b3e43f7e24284bd0ae0cf56cd979f9338",
+      "removed": true
+    },
+    {
+      "project": "sympy",
+      "path": "sympy/polys/rings.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/sympy/polys/rings.py",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "bytes": 96258,
+      "sha256": "79e686e920eb9347189e1f734aa7c4ce58e392a70c9a558e2cc9460e8ab5eebb",
+      "removed": true
+    }
+  ],
+  "third_party_body_bytes_removed": 572605,
+  "third_party_bodies_republished": false,
+  "own_helper_members_verified": 24,
+  "helper_compressed_sha256": "feb038f1b5d0a3c65aa77be54f2bec87fd867ed9d97e2352544ea93dd3c7f55a",
+  "helper_decompressed_sha256": "4f57d45127d37507477f763aa3ad317e17ffafed57a9648d44f7735b1910d247",
+  "helper_archive_bytes": 139212,
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 2063,
+  "clean_bytes": 79467389,
+  "clean_copy_hashes_verified": true,
+  "new_scientific_experiments": 0,
+  "scope": "Ownsnapshot/log/metadata roundtripverified;actualselectedthirdpartysoftwarebodies removedafterhashcheck. No newconsumeradmission,application efficacy orformalreview.",
+  "work_root_removed": true,
+  "removed_at": "2026-10-27T03:16:06.333059+00:00"
+}

@@ -1,0 +1,959 @@
+{
+  "id": "EXP-276-001",
+  "version": 2,
+  "connection_id": "APP-276-01",
+  "registered_at": "2026-10-27T04:16:00.419858+00:00",
+  "status_at_registration": "preregistered_after_isolated_auxiliary_static_review_pending_implementation_execution",
+  "hypothesis": "Retain APP27601 originalprediction:atleastone frozeninterior sameencoder phasepairHolevo minus fixedPauliX receiver mutualinformation exceeds0.01bit/use;allindependent state/probability/scalar/precision andendpoint/reflection controls agree. This is nonblind synthetic receiverconstraint calibration,not new2026numericalvalue,proof ofadditivity orhardwarebenefit.",
+  "input": {
+    "kind": "fully specified representative synthetic qubit-channel/receiver audit;no physical device claims",
+    "exposure": "Originalsource/formulas,oldbaseline andqualitative/analyticalcase reasoning known beforeexecution;notblinddiscovery. No targetrunner oroptimizeroutputs produced beforethisregistration.",
+    "source_scopes": [
+      {
+        "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/paper.tex",
+        "sha256": "c25bd71e406cca4f77e1424f33c23aa1e1e56ecbdafedf2ad2c4dac0f0a1c24b",
+        "actual_read_ranges": [
+          [
+            1,
+            346
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      },
+      {
+        "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/holevo.tex",
+        "sha256": "1f910c0e6bafac96ef5bbab0d62ee5034c4ba5ef64033c6dfcf40feef9a7430e",
+        "actual_read_ranges": [
+          [
+            1,
+            69
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      },
+      {
+        "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/special.tex",
+        "sha256": "ef9e0122760b79dc2f7dfb120d1ab6914ecc9760cbbdae03089e7709c987b0c1",
+        "actual_read_ranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      },
+      {
+        "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/output.tex",
+        "sha256": "d78c9e8b7d4a9623db2e23241fc20f047f6ad976f6d9ab4bc8fbd9ba98d2c542",
+        "actual_read_ranges": [
+          [
+            1,
+            58
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      },
+      {
+        "path": "math/lean/OAI/InformationTheory/AmplitudeDamping/Model.lean",
+        "sha256": "709ab56f351cb6ebee2497f58ecfb722c4828d60cf3d6cd68f9358d8d7551f08",
+        "actual_read_ranges": [
+          [
+            1,
+            112
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      },
+      {
+        "path": "math/lean/docs/276.md",
+        "sha256": "34d51d11d25cf4d1108b3914cfcb7d13a9df63a0cb3dd82071406f07c0640a99",
+        "actual_read_ranges": [
+          [
+            1,
+            15
+          ]
+        ],
+        "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+      }
+    ],
+    "source_ids": [
+      "CLM-276-THM-MAIN",
+      "PART-276-SCALAR",
+      "PART-276-SYMMETRY"
+    ],
+    "gamma_convention": "damping strength",
+    "nu_convention": "stationary excitedstate population",
+    "encoding": "Equiprobable phi+/phi-=(sqrt(1-p),+/-sqrt(p)),fixed samepforquantum/classicalcomparison",
+    "receiver": "Projectors |+><+| and |-><-| independently ononeoutput;nooptimizedsingle-sitePOVM orcollectivedecoderimplementation",
+    "units": "bits perchanneluse;rawstateentropy mayalsoexportnats with explicitdivisionbyln2",
+    "grid": [
+      "0",
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "fixtures": [
+      {
+        "gamma": "0",
+        "nu": "0",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "0",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "0",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "0",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "0",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/4",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/4",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/4",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/2",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/2",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/2",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/2",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1/2",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "3/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "3/4",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "3/4",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "3/4",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "3/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "0",
+        "nu": "1",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "0",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "0",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "0",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "0",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "0",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/2",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/2",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/2",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/2",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1/2",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "3/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "3/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "3/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "3/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "3/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/4",
+        "nu": "1",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "0",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "0",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "0",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "0",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "0",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/2",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/2",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/2",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/2",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1/2",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "3/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "3/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "3/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "3/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "3/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1/2",
+        "nu": "1",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "0",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "0",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "0",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "0",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "0",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/2",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/2",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/2",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/2",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1/2",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "3/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "3/4",
+        "p": "1/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "3/4",
+        "p": "1/2",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "3/4",
+        "p": "3/4",
+        "stratum": "interior"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "3/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "3/4",
+        "nu": "1",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "0",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "0",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "0",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "0",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "0",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/4",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/4",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/4",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/2",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/2",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/2",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/2",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1/2",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "3/4",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "3/4",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "3/4",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "3/4",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "3/4",
+        "p": "1",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1",
+        "p": "0",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1",
+        "p": "1/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1",
+        "p": "1/2",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1",
+        "p": "3/4",
+        "stratum": "boundary"
+      },
+      {
+        "gamma": "1",
+        "nu": "1",
+        "p": "1",
+        "stratum": "boundary"
+      }
+    ],
+    "fixture_count": 125,
+    "interior_count": 27,
+    "randomness": "none;exhaustivefrozenproductgrid,noparameterselectionafteroutputs",
+    "decimal_precision": 70,
+    "cross_precision": 100
+  },
+  "baseline": "Naive syntheticreport labels SAME-ENCODER phasepairHolevo as achievedbyfixedXreceiver. Honestoldbaseline evaluates theactual2x2 conditionalmeasurementprobabilities andclassicalMI. Oldone-shotHolevoformulasalreadygivecomparison;incrementalcomputationalbenefitof2026theoremisnotclaimed. Do notuseoptimizedpvalue astheprimarysameencodercomparison.",
+  "judge": {
+    "matrix_oracle": "Independently formfour explicit Krausoperators fromsource,checksumK* K=I,formbothinputdensitymatrices,computeoutputs bymatrixmultiplication;diagonalizeactual2x2 outputs/average tocomputeHolevo;traceprojectoroutput givesconditionalprobabilities andjoint-distributionMI.",
+    "scalar_oracle": "IndependentDecimal channelpopulation t=(1-gamma)p+gamma nu,coherence +/-sqrt((1-gamma)p(1-p));outputdeterminant v=gamma nu(1-nu)+gamma(1-gamma)(p-nu)^2;Holevo=h2(t)-h2((1+sqrt(1-4v))/2);fixedX MI=1-h2(1/2-sqrt((1-gamma)p(1-p))).",
+    "crosscheck": "Repeat scalarentropies/square roots at70and100Decimaldigits;compareindependentfloatmatrixandDecimal scalars for EVERY fixture;outputs0log0 endpoints handledexplicitly. Never replaceactualKrausoutputs bytargetscalarvalues.",
+    "measurement_scope": "Finiteone-shot calculation,nottheoremverification or anoptimizedreceivercapacity oracle."
+  },
+  "optimization_benchmark": {
+    "purpose": "Fulfill originalplan scalaroptimization comparatorseparately fromprimaryfixedencoderprediction",
+    "parameter_pairs": "All25frozen(gamma,nu)pairs;never feedoptimizedpbackinto125primaryfixtures",
+    "algorithm": "Deterministic96-step golden-section search on[0,1],alsoevaluatebothendpoints;separate float/Decimal70/100 versions. Tie handling deterministic;compareobjectivevalues,notargmaxlocationsforflatregimes.",
+    "output": "Approximate scalarmaximum andcandidatep,iterationcount,andindependentmatrixcheckatcandidate;not a certifiedcontinuousglobaloptimum orfinitecode. Numericaloptimizationonly,sourceconcavityknownbutnotlocallyproved.",
+    "accuracy": "ScalarobjectivevaluesfromfloatandDecimaloptimizers within1e-10;matrix/scalaratcandidate within1e-10;maximumnotbelowanyfrozen-gridvalue bymorethan1e-10.",
+    "deterministic_rules": {
+      "initial": "a=0,b=1,r=(sqrt(5)-1)/2,c=b-r*(b-a),d=a+r*(b-a);evaluateboth",
+      "update": "Exactly96iterations. If f(c)>=f(d),keep[a,d]withd=c;otherwise keep[c,b]withc=d. Evaluateone newpoint periteration;equal values keepleft interval. No earlyterminationonfloatstagnation.",
+      "final_candidates": [
+        "0",
+        "1",
+        "a",
+        "b",
+        "c",
+        "d",
+        "(a+b)/2"
+      ],
+      "tie_break": "Choosehighestobjectivevalue;exacttieschooselowestp. Recordowncandidatep/value/iterationsforeachfloat/Decimal70/100 search;comparevalues,notargmaxlocations.",
+      "matrix_checks": "Independently evaluateKrausmatrixatfinalcandidateofEACHsearch,withoutaddingthemto125primaryfixtures."
+    }
+  },
+  "controls": {
+    "replacement": "gamma=1:bothsameencoderHolevoandfixedXMIare0forallnu,p",
+    "identical_labels": "p=0or1:bothinformationvalues0forallgamma,nu",
+    "identity": "gamma=0:phasepairHolevo=h2(p);fixedXMIasclassicalformula;both1onlyatp=1/2,notforallp",
+    "unital_matched": "nu=1/2 andp=1/2:Holevo=fixedXMI=1-h2((1-sqrt(1-gamma))/2);noequalityclaimedforotherp",
+    "reflection": "ForEVERYfixture,matching(gamma,1-nu,1-p)musthaveequalHolevo/fixedXMI",
+    "holevo_dominance": "All125sameencoderHolevo>=actualfixedXMIwithin1e-10;thisfinitecheckdoesnotproveHolevobound",
+    "old_baseline": "HonestoldclassicalconditionalprobabilitiesmustagreewithfixedXformula;naivelabelisoveroptimisticonatleastonegap>0.01case. Oldbaselinezeroerrorisallowedandexpected,notnewmathbenefit."
+  },
+  "success": {
+    "cases": 125,
+    "interior_cases": 27,
+    "interior_gap_threshold_bits": "0.01",
+    "interior_gap_exceedances_min": 1,
+    "matrix_scalar_absolute_disagreement_max": "1e-10",
+    "matrix_receiver_probability_disagreement_max": "1e-12",
+    "decimal70_100_absolute_disagreement_max": "1e-45",
+    "control_absolute_residual_max": "1e-10",
+    "state_trace_or_normalization_residual_max": "1e-12",
+    "negative_state_or_probability_allowance": "1e-12",
+    "optimization_objective_disagreement_max": "1e-10",
+    "all_required_controls": true
+  },
+  "numeric_policy": "Tinyfloatnegative eigenvalues/probabilities within1e-12mayclip toendpoint onlywithallclamps/counts/rawvaluesrecorded;largerviolations fail. Decimalendpoint safeguard up to1e-60 at70digits recordedseparately;never hidefailures bytolerancechange. No fixture/tolerance/grid/iteration tuning aftertargetoutputs.",
+  "failure": "Anyrequiredcontrol/oracle/precision/state/resource mismatch,missingfixtureorabsenceofafrozeninteriorgapabove0.01 fails originalprediction;retain raw adverse outputs andimplementationfailures. No formalrejection withoutrealreviewers.",
+  "metrics": [
+    "sameencoderHolevo_bits",
+    "actualfixedXMI_bits",
+    "gap_bits",
+    "naiveversushonestoldbaselineoverclaim",
+    "fullstate/probability/entropy/oracle/controlresiduals",
+    "numericclamps",
+    "independentprecisioncomparison",
+    "separateapproximateoptimization",
+    "wallseconds",
+    "tracemallocpeakbytes",
+    "processpeakRSSbytes"
+  ],
+  "limits": "Explicitlysynthetic fixedprojectiveXreceiver;notoptimalindividualPOVM,hardware,finitecode,unrestrictedmany-usecapacityvalidation ornewone-shotformula. Anycapacityinterpretationremainsconditionalonoriginalsourceandhistorygrades. Sameproviderisolatedrolesareauxiliaryonly;humans/secondprovidermissing.",
+  "resource_limit_seconds": 60,
+  "resource_limit_mb": 64,
+  "memory_scope": "BothtracedPythonallocationpeak andprocesspeakRSS mustnotexceed64MiB;recordOSunitconversion (Darwinbytes,LinuxKiB). Resourcefailuresretainedwithoutincreasingcapsafteroutputs.",
+  "storage": "Allraw/summary/source snapshots gzip withroundtrip/memberSHA256 validation beforeplaintext removal;retain failures andimmutablefingerprints.",
+  "auxiliary_review": "Frozenidenticalspecification forisolatedskeptic/defender beforeimplementation/targetoutputs;requesterrorsandlimits,notendorsement. No mathematicalspecification humanreview inferred.",
+  "prior_version_archive": "experiments/specs/history/EXP-276-001-v1.json.gz",
+  "prior_version_sha256": "235bc5e0b2c57c7cfbb80b4c5789c316fb8dd12de85f771c8679bc35f0de6c19",
+  "revision_reason": "Before anytargetrunner/optimizeroutputs:bothisolatedroles foundRSSfield/manifest andfailure-retention interfacegaps;fixed deterministicarithmetic/optimizer interpretation. Original125fixtures,27interior,0.01threshold and60s/double64MiB budgets unchanged.",
+  "resource_limit_rss_mb": 64,
+  "threshold_classification": {
+    "threshold_bits": "0.01",
+    "arithmetic_safety_margin_bits": "1e-10",
+    "exceedance": "A frozeninteriorcasecountsonlyifmatrixgap,Decimal70gapandDecimal100gapALL exceed0.01+1e-10,andalloracle/precision/statechecks pass. No optimizedpinserted into fixtures.",
+    "uncertain": "Anycasewithin[0.01-1e-10,0.01+1e-10]onanypath cannotcountasexceedance;exportnumericuncertaintywithoutclaimingrigorousintervalproof.",
+    "global_success": "Atleastoneeligibleinteriorexceedance AND allrequiredcontrols/oracles/state/optimizer/resourcechecks;otherwiseadverse/inconclusiveasappropriate. Resourcefailure cannotbeoverriddenbypositivegap."
+  },
+  "numeric_boundary_policy": {
+    "matrix": "CheckKrauscompleteness,input/output/average traces,Hermiticity,bothactualeigenvalues,andallconditional/jointprobabilities beforeentropy. Bothlower0andupper1overruns anddiscriminants arechecked.",
+    "float": "Atmost1e-12endpointoverrunmaycliponlytothecorrespondingendpoint;recordobject,originalvalue,clippedvalue,reason. Anygreateroverrun fails. No renormalization of states/probabilities tohide trace/masserrors.",
+    "decimal": "v mustlie[0,1/4],radicand[0,1],probabilities[0,1];endpointonlysafeguardup to1e-60at70digits,recordrawandclippedvalues;largerviolationsfail.",
+    "entropy": "Computeactualmatrixentropyfrombothactualeigenvalues;handle0log0directly. Do notforce1-lambdaunlessitistheindependentscalarpath. Preservebits/nats conversion andrawresiduals.",
+    "independence": "FloatKraus/matrix/projector andDecimal population/determinant/formulapaths do notsharestate-generation orclippinghelpers thatcoulderasecommondiagnostics;70/100isprecisioncheckonly."
+  },
+  "baseline_labels": {
+    "primary_same_encoder_naive": "ArtificialsameencoderHolevolabel incorrectlymarkedachievedbyfixedXreceiver;primaryhypothesiscomparesSAMEp.",
+    "original_optimized_naive": "Also reportoriginalplan overclaimlabel usingtheseparatelycomputedapproximateoptimizedscalarbenchmarkagainstfixedreceiveratoriginalp. This hasdifferentencoderchoiceandisreportedseparately,neverusedtoreplacetheprimarysameencoderthreshold. Notacertifiedcontinuouscapacity.",
+    "honest_old": "DirectconditionalprobabilityMIatSAMEp;exactagreementallowszeroincremental2026benefit anddoesnotprovearealconsumerhadtheartificialnaivemistake."
+  },
+  "execution_protocol": {
+    "fresh_process": "Executeonlythrougha newCLIworkerchildprocess afterfrozenimplementation;processRSSislifecyclehighwater,notanalgorithm-onlyincrement.",
+    "resource_scope": "60secondalgorithmcap coversall125fixtures,bothoracles,70/100precision,allcontrols andall25three-version96-stepoptimizations. Recordprocessstartup/frameworkandarchive/compressioncost separately;do notlabelrunnertimecompleteend-to-endcost. Double64MiB limits remain mandatory.",
+    "manifest": "Forstandard-libraryandoptionalpaths alike,whenRSSrequested exportmeasuredrawRSS,OSunitconversion,bytes,scopeandlimit;resource_envelope_met gatesfinalmanifest AND card/resultpromotion evenifmathematicalsummarypasses. Preserveoldsciencepayloads.",
+    "attempt_retention": "Beforetargetexecutioncreateimmutableattemptmetadata withspec/source hashes andcompressedsource snapshot. Capture completeworkerstdout/stderr/traceback/exitstatus andtimings evenonexception/signal. Preserveeachcompletedfixture/optimizerdiagnostic asstandalone gzip progressrows underattemptstorage;verifyroundtrip/hashes. A runnerexceptionmaynoterasecompletedrows. Noautomaticretrytoreplacesolefailure.",
+    "storage": "Onnormalcompletionorfailure retainattempt/source/outputevidence,compressallraw/summary/progress/logs,verifygzip/memberSHA256 beforedeletingplaintext. Keepcorrupt/interruptedpayloadsasevidencewithhoneststatus,notclaimedvalidroundtrip.",
+    "implementation_gate": "ImplementRSSmanifest/resourcegate andattempt/progressfailure-retention path,plusmeaningfulsoftware-onlyresource/error tests,beforeanytargetrun. Unitchecks donotproveapplicationefficacy."
+  },
+  "auxiliary_review_evidence": "data/provenance/reviews/APP-276-01-pre-execution.json.gz"
+}

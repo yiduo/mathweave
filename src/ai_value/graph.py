@@ -67,12 +67,14 @@ def load(root: Path) -> tuple[dict[str, dict], list[dict]]:
     derived_edges.extend(source_edges)
     for node in nodes:
         if node["kind"] == "connection" or node["properties"].get("component_run_ids"):
-            for run_id in node["properties"].get("run_ids", []) + node["properties"].get("component_run_ids", []):
+            diagnostic = node["properties"].get("diagnostic_run_ids", [])
+            for run_id in node["properties"].get("run_ids", []) + node["properties"].get("component_run_ids", []) + diagnostic:
                 run_node_id = "RUN-" + run_id.upper()
                 manifest_path = root / "experiments/runs" / run_id / "manifest.json"
                 manifest = json.loads(manifest_path.read_text())
                 derived_nodes[run_node_id] = {"id": run_node_id, "kind": "experiment_run", "properties": manifest}
-                relation(node["id"], "externally_checked_by" if node['kind']=='connection' else 'component_checked_by', run_node_id, str(manifest_path.relative_to(root)))
+                relation(node["id"], "diagnostic_execution" if run_id in diagnostic else
+                         "externally_checked_by" if node['kind']=='connection' else 'component_checked_by', run_node_id, str(manifest_path.relative_to(root)))
                 derived_edges[-1]["evidence_status"] = "experiment_observation"
     # Stage progress is projected from actual research records; registration alone
     # leaves all stages not_started, and a partial claim never completes a family.
@@ -85,7 +87,9 @@ def load(root: Path) -> tuple[dict[str, dict], list[dict]]:
         for stage, present in (("2", any(e["source"] in claim_ids and e["relation"] == "historical_context" for e in explicit_edges)),
                                ("3", any(e["target"] in claim_ids and e["relation"] == "depends_on" for e in explicit_edges)),
                                ("4", any(fid in n["properties"].get("family_ids", []) for n in nodes if n["kind"] in {"connection", "exploration"})),
-                               ("5", any(fid in n["properties"].get("family_ids", []) and n["properties"].get("run_ids") for n in nodes if n["kind"] == "connection"))):
+                               ("5", any(fid in n["properties"].get("family_ids", []) and
+                                         (n["properties"].get("run_ids") or n["properties"].get("diagnostic_run_ids"))
+                                         for n in nodes if n["kind"] == "connection"))):
             if present:
                 family["properties"]["stages"][stage] = "in_progress"
     combined = corpus + nodes + list(derived_nodes.values())
@@ -191,10 +195,22 @@ def review_sample(ids: list[str], fraction: float, seed: int) -> list[str]:
     return sorted(random.Random(seed).sample(sorted(ids), math.ceil(len(ids)*fraction)))
 
 
+def diagnostic_execution_ids(research):
+    if any(node['properties'].get('diagnostic_run_ids') and node['kind'] != 'connection' for node in research):
+        raise ValueError('Diagnostic run references must belong to a connection')
+    diagnostic = {run for node in research for run in node['properties'].get('diagnostic_run_ids', [])}
+    counted = {run for node in research for key in ('run_ids', 'component_run_ids')
+               for run in node['properties'].get(key, [])}
+    if diagnostic & counted:
+        raise ValueError('Diagnostic execution cannot also count as a qualified check or component')
+    return diagnostic
+
+
 def validate(root: Path) -> dict:
     nodes, edges = load(root)
     validate_alternative_routes(nodes)
     research = [n for n in nodes.values() if n["kind"] in KINDS]
+    diagnostic_ids = diagnostic_execution_ids(research)
     schema = json.loads((root / "schemas/graph-node.schema.json").read_text())
     # Clean-checkout checks can validate citations against the pinned complete
     # checksum manifest without downloading 3 GB. This is not a fresh content check.
@@ -323,6 +339,10 @@ def validate(root: Path) -> dict:
                     raise ValueError("Experiment belongs to a different hypothesis")
                 if props["application_result"] == "通过" and manifest["result"] != "passes_preregistered_prediction":
                     raise ValueError("Supported application result needs a supporting preregistered run")
+                if props["application_result"] == "通过":
+                    from .attempts import within_frozen_resources
+                    if not within_frozen_resources(manifest, run_spec):
+                        raise ValueError("Supported application result needs a run within its frozen resource envelope")
                 for name, expected in manifest["outputs"].items():
                     if digest(folder / name) != expected:
                         raise ValueError("Experiment evidence changed")
@@ -332,6 +352,14 @@ def validate(root: Path) -> dict:
             if props["theoretical_grade"] != grade:
                 raise ValueError("Card overstates dependency grade")
             human_gate(node, reviews, grade=grade)
+            for run_id in props.get('diagnostic_run_ids', []):
+                folder = root/'experiments/runs'/run_id
+                manifest = json.loads((folder/'manifest.json').read_text())
+                if json.loads((folder/'spec.json').read_text())['connection_id'] != node['id']:
+                    raise ValueError('Diagnostic execution belongs to another connection')
+                for name, expected in manifest['outputs'].items():
+                    if digest(folder/name) != expected:
+                        raise ValueError('Diagnostic execution evidence changed')
     for edge in edges:
         if edge["id"] in seen_edges or edge["source"] not in nodes or edge["target"] not in nodes:
             raise ValueError("Duplicate or dangling graph edge")
@@ -341,6 +369,7 @@ def validate(root: Path) -> dict:
     cards = [n for n in research if n["kind"] == "connection"]
     return {"nodes": len(nodes), "research_nodes": len(research), "edges": len(edges),
             "citations_checked": source_count, "candidate_connections": len(cards),
+            "diagnostic_executions_not_initial_checks": len(diagnostic_ids),
             "externally_checked_cards": sum(bool(n["properties"]["run_ids"]) for n in cards),
             "effective_leads": sum(n["properties"]["application_result"] == "通过" for n in cards),
             "distinct_validation_hypotheses": len({n["properties"]["dedup_key"] for n in cards if n["properties"]["run_ids"]}),

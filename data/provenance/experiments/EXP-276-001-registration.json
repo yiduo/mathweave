@@ -1,0 +1,81 @@
+{
+  "at": "2026-10-27T04:09:32.698235+00:00",
+  "work_package": "WP-117",
+  "specification": "/Users/smzdm/projects/ai_paper/experiments/specs/EXP-276-001.json",
+  "sha256": "235bc5e0b2c57c7cfbb80b4c5789c316fb8dd12de85f771c8679bc35f0de6c19",
+  "fixtures": 125,
+  "interior": 27,
+  "optimizer_pairs": 25,
+  "target_run_outputs_observed": false,
+  "runner_implemented": false,
+  "original_plan_sha256": "c2666e6b49674d8eecf26033e179253566da7e039c0a09859d3b50881493d5d7",
+  "original_card_prediction_preserved": true,
+  "source_scopes": [
+    {
+      "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/paper.tex",
+      "sha256": "c25bd71e406cca4f77e1424f33c23aa1e1e56ecbdafedf2ad2c4dac0f0a1c24b",
+      "actual_read_ranges": [
+        [
+          1,
+          346
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    },
+    {
+      "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/holevo.tex",
+      "sha256": "1f910c0e6bafac96ef5bbab0d62ee5034c4ba5ef64033c6dfcf40feef9a7430e",
+      "actual_read_ranges": [
+        [
+          1,
+          69
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    },
+    {
+      "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/special.tex",
+      "sha256": "ef9e0122760b79dc2f7dfb120d1ab6914ecc9760cbbdae03089e7709c987b0c1",
+      "actual_read_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    },
+    {
+      "path": "math/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/build/sections/output.tex",
+      "sha256": "d78c9e8b7d4a9623db2e23241fc20f047f6ad976f6d9ab4bc8fbd9ba98d2c542",
+      "actual_read_ranges": [
+        [
+          1,
+          58
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/AmplitudeDamping/Model.lean",
+      "sha256": "709ab56f351cb6ebee2497f58ecfb722c4828d60cf3d6cd68f9358d8d7551f08",
+      "actual_read_ranges": [
+        [
+          1,
+          112
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    },
+    {
+      "path": "math/lean/docs/276.md",
+      "sha256": "34d51d11d25cf4d1108b3914cfcb7d13a9df63a0cb3dd82071406f07c0640a99",
+      "actual_read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "scope": "Actual parameter/encoding/unit/selectedscope rereading;not new family coverage or proof audit"
+    }
+  ]
+}

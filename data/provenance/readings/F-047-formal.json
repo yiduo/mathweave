@@ -1,0 +1,124 @@
+{
+  "family_id": "F-047",
+  "recorded_at": "2026-10-27T03:39:32.791389+00:00",
+  "selected_files_actually_read": [
+    {
+      "path": "math/lean/docs/047.md",
+      "sha256": "133fd3537a8cd213bf611b4bd2c7f71853aecd506adb8686dd1049e8b85324aa",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 17
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ComplexCancellation.json",
+      "sha256": "d6387837a006e069413a5529bd5ce1e1bf8a1f4dc959fe40a4f8dba5ccab3465",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 14
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ComplexCancellation.lean",
+      "sha256": "1c25be0bb2a81b32b787856546194c82dd11947efe765742d3d9c4b915f6f428",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 32
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "actual_read_scope": "lines1090-1115 only",
+      "whole_file_read": false,
+      "lines": 1783
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/Model.lean",
+      "sha256": "16cd931adbfa58f3192e2049d55582e5efda1785316c214d04ae69782fce5413",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 29
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/Main.lean",
+      "sha256": "95f52f319d7203e69f28b31eff7e8337ba28065e2368e160b57954db3de06354",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 38
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/Cylinder.lean",
+      "sha256": "aa71cb1e494d56e89688a8f8322305d08614cbedfb4c202a050655d839a2a5ea",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 189
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/Dimension.lean",
+      "sha256": "f092ebb78919362ae7a247e69dfd8dacbd438597ff881b2b82d9497be1cee3bd",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 49
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/EquivariantLift.lean",
+      "sha256": "0dba4a35081665e4f6bf906ecbccb76abb2e2b6b60fff961aed8b48983c7122d",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 54
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/PositiveObstruction.lean",
+      "sha256": "68858ddb798443712c6c6c492f776b1ce6ceaaa616e270d43d264635bb217dc3",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 40
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/CylinderMaps.lean",
+      "sha256": "8aaa5280d0a1a523889c8df755abcb1ca9766d930c110783f1d6fe5f3cc04fb8",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 110
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/TorsorEuler.lean",
+      "sha256": "85778035022f33c7ad94309a1a15b32017a2ce1b6d33215e71e6c98c88ba7b52",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 81
+    },
+    {
+      "path": "math/lean/OAI/Algebra/AffineCancellation/BundleGrading.lean",
+      "sha256": "342d68cc28fecd3bccf78355aa33db8a314a8e336500b1cbcbc6cb7b2281e2cc",
+      "actual_read_scope": "whole file actually read",
+      "whole_file_read": true,
+      "lines": 57
+    }
+  ],
+  "scope": "Model/Main same complex scalar-preserving finite type domain,dim4,cylinder≅C^[5],not C^[4]; actual stabilization equivalence/Dimension read. Only thm:main and prop:stabilization sourceB;15 other named results sourceC in this qualification,not an assertion that no support Lean exists.",
+  "natural_vs_formal": "Natural proof uses unique normalized lift of D0 preserving valuation. Actual EquivariantLift produces nonzero invariant replica cD (c≠0),fiberEuler commuting LND E;Main then takes highest valuation component preserving positive invariant. Replica route proves selected obstruction without asserting general normalized line-bundle theorem.",
+  "excluded_from_selected_scope": [
+    "Ambient stable-coordinate corollary",
+    "General line-bundle linearization and homogeneous lift",
+    "Smooth nontrivial A3-fibrations as scheme statements"
+  ],
+  "registration": {
+    "file": "math/lean/formalization.yaml",
+    "lines": [
+      1105,
+      1107
+    ],
+    "present": true
+  },
+  "static_index": "data/graph/lean_indices/F-047.json.gz",
+  "static_index_sha256": "6c050adc0d15c1c9c50117680b132769ddad163cd3b2158aa82cab4bd5376b1b",
+  "indexed_files": 55,
+  "indexed_lines": 5573,
+  "lexical_declarations": 660,
+  "lexical_placeholder_tokens": 0,
+  "local_build": false,
+  "comparator_run": false,
+  "human_spec_review": false,
+  "full_proof_or_axiom_audit": false,
+  "exact_backend_model": "unknown",
+  "challenge_placeholder": "Comparator challenge sorry is an intentional statement placeholder;not actual solution proof failure or a successful build."
+}

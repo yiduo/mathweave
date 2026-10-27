@@ -1,0 +1,541 @@
+{
+  "at": "2026-10-27T08:30:57.404948+00:00",
+  "work_package": "WP-124",
+  "generation_id": "GEN-20261027-121",
+  "family_id": "F-238",
+  "manuscript_id": "P-2a0250a8d5ca112d",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "base_commit": "cf4927ddb86212f1e09aaf36be18276f1ea70e3d",
+  "status": "full_current_manuscript_source_decomposition_draft",
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "sha256": "1654f49ccc867888e4e1e145e8dce6d1e20ae1b25faa8f440c8dabc844aa4453",
+      "ranges": [
+        [
+          1,
+          56
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex",
+      "sha256": "5c70eb70e6a0858e0c8d1012c82d545385156969f67b37026e1fcb3cc52bd1bf",
+      "ranges": [
+        [
+          1,
+          234
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/02-preliminaries.tex",
+      "sha256": "8a761fc1d42c53e6ae554123954adc3a4f3a39f07a4fa479de9fee0a2a9f8b61",
+      "ranges": [
+        [
+          1,
+          102
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex",
+      "sha256": "36c2a5898812bf18293c31c8240c15c37a26c5bd2f26d703ddddbdd06a73d65d",
+      "ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/07-analytic.tex",
+      "sha256": "15cc5678f8761e34ded3e012ac1881c6412c6bc6d78b0ec5fa6de68701e3ba70",
+      "ranges": [
+        [
+          1,
+          73
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/figures/trajectory.tex",
+      "sha256": "1b5a568f0c705b10fd0db8640ea03441915394b407989ded6a7f97fc6dffdb19",
+      "ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "sha256": "b5dd211b0f256e76ed44e47dcb48b8c030ef422ae4f977883e826cf96cb89392",
+      "ranges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/04-sparse.tex",
+      "sha256": "1835687020707de34a75cb10aafa83004b5d1bc33a28c0f2f6e5c3d68f0b31d7",
+      "ranges": [
+        [
+          1,
+          388
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/05-density.tex",
+      "sha256": "eb91bac1d28aa5dd6dece81bb185a946727bc02d36e6519e7b1ab29021554875",
+      "ranges": [
+        [
+          1,
+          182
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/06-induction.tex",
+      "sha256": "431917fdfc611d5fcceeb9ad61a8010d72403a3fe37739f8bb2704255bd51e72",
+      "ranges": [
+        [
+          1,
+          448
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "source_files_total": 10,
+  "source_lines_total": 1791,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/02-preliminaries.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/04-sparse.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/05-density.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/06-induction.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/07-analytic.tex"
+    },
+    {
+      "source": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex",
+      "target": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/figures/trajectory.tex"
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-238-ANALYTIC-THM-BINARY",
+      "label": "thm:binary",
+      "aliases": [],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        54,
+        64
+      ],
+      "statement_tex": "There are absolute constants \\(g>0\\) and \\(d_0\\) such that, for \\(d\\ge d_0\\)\nand every \\(\\lambda\\vdash 2^d\\),\n\\[\n \\|K_\\lambda\\|_{\\op}\\le D_\\lambda^{-g}.\n\\]\nThe sign representation is annihilated. There is an absolute positive integer \\(w\\)\nsuch that the law after \\(w\\) independent sweeps converges to uniform in\ntotal variation as \\(d\\to\\infty\\), uniformly over deterministic initial\ndecks.",
+      "summary": "二进制通行的表示维数收缩与固定次数渐近混合",
+      "conditions": "Exists absolute g>0,d0 andpositiveintegerw;forall d>=d0/all irreducibleunitarylambda ofS_(2^d),opnorm<=D^-g. Signaveragezero. Fixedw independent sweeps TV→0 asd→infinity uniformlyoverdeterministicdecks. No explicit finite cutoff,tolerance/workload/runtime gain.",
+      "source_claim_grade": "B"
+    },
+    {
+      "id": "CLM-238-ANALYTIC-PROP-SUPPORT",
+      "label": "prop:support",
+      "aliases": [],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        68,
+        79
+      ],
+      "statement_tex": "For every integer \\(t\\ge0\\),\n\\[\n \\|q_d^{*t}-U_N\\|_{\\TV}\\ge1-\\frac{2^{tN/2}}{N!}.\n\\]\nConsequently,\n\\[\n t_{\\rm mix}(d)\\ge\n \\left\\lceil\\frac2N\\log_2\\!\\left(\\frac{3N!}{4}\\right)\\right\\rceil\n =2d-O(1).\n\\]",
+      "summary": "物理洗牌的随机位支持障碍",
+      "conditions": "Positiveintegerd,N=2^d,tinteger>=0;TV>=1-2^(tN/2)/N!. AtTV<=1/4, t>=ceil((2/N)log2(3N!/4))=2d-O1. OnephysicalstepusesN/2fairbits;not a fullmixingupper bound orindependenceofcards.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-238-ANALYTIC-THM-CONDITIONAL",
+      "label": "thm:conditional",
+      "aliases": [
+        "ac:main"
+      ],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex",
+      "statement_lines": [
+        137,
+        156
+      ],
+      "statement_tex": "There\\label{thm:conditional}\\label{ac:main} are a power of two \\(R\\ge2\\), a positive integer \\(q\\), and \\(z_*>0\\) such\nthat every grid and every family \\(\\mathcal H\\) of prescribed disjoint\ntrajectories defined above satisfy, for every \\(z\\in[0,z_*]\\) and every\n\\(\\lambda\\vdash s-h\\),\n\\begin{equation}\n \\log T_\\lambda^{\\mathcal H}\\ \\le\\\n -c(s)F(\\lambda)+e(s)h\\log s-C(\\mathcal H).\n \\label{ac:eq:15}\n\\end{equation}\nHere a zero moment gives \\(-\\infty\\). Use parameters\n\\[\n a=\\frac1{100},\\quad c_0=e_0=\\frac a{100},\\qquad\n c(s)=c_0+\\frac1{\\sqrt{\\log s}},\\qquad\n e(s)=e_0-\\frac1{\\sqrt{\\log s}}.\n\\]\nThe empty diagram has dimension one. If \\(h=s\\), the remaining bijection is\nthe unique empty bijection and its moment is one. The assertion also includes\nthe one-dimensional trivial representation for every \\(h\\).",
+      "summary": "保留无放回轨迹势的条件Schatten矩估计",
+      "conditions": "Exists fixed power2R>=2,positiveintegerq,zStar>0;all b>=1 orderedgridswithpowers2line[R,R²],all feasible layer-disjointH ofhpaths andall lambda partition(s-h),all realz∈[0,zStar]. log unnormalized2qmoment<=-c(s)logD+e(s)hlogs-C(H),a=.01,c0=e0=a/100,c=c0+1/sqrtlogs,e=e0-1/sqrtlogs. Includesempty/trivial/one-dimensional types andlog0=-infinity. Aliasac:main not another theorem.",
+      "source_claim_grade": "B"
+    },
+    {
+      "id": "CLM-238-ANALYTIC-LEM-SPARSE",
+      "label": "lem:sparse",
+      "aliases": [],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/04-sparse.tex",
+      "statement_lines": [
+        9,
+        25
+      ],
+      "statement_tex": "For every \\(0<\\theta<1\\) and \\(K_0\\ge1\\), there are \\(\\rho>0\\) and \\(R_0\\)\nsuch that, for each power of two \\(R\\ge R_0\\), one can choose\n\\(z_{\\rm sp}(R)>0\\) with the following property. For every allowed grid and\nprescribed family \\(\\mathcal H\\), suppose that the integer \\(k\\ge1\\) satisfies\n\\begin{equation}\n h\\le K_0 k,\\qquad h+k\\le s^{1-\\theta},\n \\label{ac:eq:5}\n\\end{equation}\nand let \\(\\lambda\\vdash M=s-h\\) satisfy\n\\(\\lambda_1=M-k\\) or \\(\\lambda'_1=M-k\\). Then, for every\n\\(z\\in[0,z_{\\rm sp}(R)]\\),\n\\begin{equation}\n \\|K_\\lambda^{\\mathcal H}\\|_{\\rm op}\\le s^{-\\rho k}.\n \\label{ac:eq:6}\n\\end{equation}",
+      "summary": "小首行或首列缺口下的条件稀疏收缩",
+      "conditions": "Foralltheta∈(0,1),K0>=1 existuniformrho>0,R0;eachpower2R>=R0admitszsp(R)>0. k>=1,h<=K0k,h+k<=s^(1-theta),lambda firstrow orfirstcolumn=s-h-k. opnorm<=s^-rho*k forrealz∈[0,zsp(R)]. Auxiliary endpointarraysarewithreplacement countingdevices;not conditionalcardindependence. Shared stage-line gamma factors groupedbeforemoments.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-238-ANALYTIC-LEM-DENSITY",
+      "label": "lem:density",
+      "aliases": [],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/05-density.tex",
+      "statement_lines": [
+        19,
+        33
+      ],
+      "statement_tex": "Let \\(P_\\alpha\\) be the isotypic projection for \\(\\alpha\\vdash l\\) in this\nsigned tensor representation. The types present are precisely those in the\n\\((p,p)\\)-hook: all their boxes lie in the first \\(p\\) rows or the first\n\\(p\\) columns. For every such type there is a probability distribution\n\\(\\mu_\\alpha\\) on even densities such that, in positive semidefinite order,\n\\begin{equation}\n P_\\alpha\\preceq\n \\exp\\{F(\\alpha)+O(p^2\\log(s+1))\\}\n \\mathbb E_{r\\sim\\mu_\\alpha}r^{\\otimes l}.\n \\label{ac:eq:13}\n\\end{equation}\nIts multiplicity is at most \\(\\exp(O(p^2\\log(s+1)))\\), and the number of\ntypes present is at most \\((s+1)^{2p}\\). All constants are absolute.",
+      "summary": "带符号hook类型的正张量密度支配",
+      "conditions": "pinteger1..s,l<=s,V=E⊕O eachdim p;odd-odd interchange negative. Hook=firstp rowsORfirstp columns(alpha_(p+1)<=p),notp×p square. EvenPSDtrace1blockdiagdensity law givesPalpha<=exp(Falpha+O(p²log(s+1))) E r^⊗l. Multiplicity<=expO,presenttypes<=(s+1)^2p;includesl0/zeroeigenvalues bycontinuity. Olderordinarypostselection doesnot directly provegradedclaim.",
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-238-ANALYTIC-LEM-OVERLAP",
+      "label": "lem:overlap",
+      "aliases": [],
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/06-induction.tex",
+      "statement_lines": [
+        190,
+        200
+      ],
+      "statement_tex": "For the row and column type lists on the free junction sites and the full\nhook type \\(\\gamma\\) defined above,\n\\begin{equation}\n \\log\\|P_\\beta^C P_\\gamma P_\\alpha^R\\|_{\\rm op}^2\n \\le F_R+F_C-F(\\gamma)+h'\n       +O((s_1+s_2)p^2\\log(s+1)).\n \\label{ac:eq:19}\n\\end{equation}\nHere a zero norm has logarithm \\(-\\infty\\), and the constant is absolute.",
+      "summary": "含空位接合面上的行列等型投影重叠",
+      "conditions": "All localrow/column typesonfixedfreejunctionboardandfullhookgamma underinductionsetup:logopnorm(PbetaC Pgamma PalphaR)^2<=FR+FC-Fgamma+hprime+O((s1+s2)p²log(s+1)),log0=-infinity. OrdinaryHS/trace,multiplicitiesandemptyrows retained;trace1regularization givesDgamma^-1. Not an arbitrary pair of partlyuniform marginals.",
+      "source_claim_grade": "C"
+    }
+  ],
+  "canonical_result_ids": {
+    "thm:binary": "CLM-238-ANALYTIC-THM-BINARY",
+    "prop:support": "CLM-238-ANALYTIC-PROP-SUPPORT",
+    "thm:conditional": "CLM-238-ANALYTIC-THM-CONDITIONAL",
+    "lem:sparse": "CLM-238-ANALYTIC-LEM-SPARSE",
+    "lem:density": "CLM-238-ANALYTIC-LEM-DENSITY",
+    "lem:overlap": "CLM-238-ANALYTIC-LEM-OVERLAP"
+  },
+  "aliases_not_extra_results": {
+    "ac:main": "thm:conditional"
+  },
+  "method_contracts": [
+    [
+      "CONDITIONAL-LINE-LAW",
+      "固定可行路径下的独立线法则",
+      "Orderedpowers2grid andfixedinjective assignments atEVERYboundary",
+      "Residualstage-linechoices stay independent,eachis aconditionalbijection",
+      "03-paths.tex",
+      4,
+      61,
+      "SmallrealzwithhalfU<=L<=2U;feasibilitypositive;notindependentcards orarbitraryfuture/adaptiveobservations."
+    ],
+    [
+      "WITHOUT-REPLACEMENT-COST",
+      "新增路径的无放回势差",
+      "C(H)=sumlineslog(m^hL/(m)_hL),additionaldistinguishablet-injectionx,y",
+      "pH(x,y)<=s^-t exp(C(Hplus)-C(H)+(log4)tb)",
+      "03-paths.tex",
+      63,
+      125,
+      "Positiveplacementprobability impliesaugmentedlayerdisjointpaths;0<=C<=bh;do not replacefallingfactorialswith iidm^-t."
+    ],
+    [
+      "SPARSE-ALTERNATION",
+      "交替放置核消去低阶类型",
+      "Actualconditionalplacement kernels forallsubsets ofklabels",
+      "Proper-subsetranges vanish on firstrowM-k type;HS boundsoperator",
+      "04-sparse.tex",
+      25,
+      93,
+      "Branching/order/injections retained;independentwithreplacementendpointarrays are onlyauxiliarycounting."
+    ],
+    [
+      "SHARED-LINE-MOMENTS",
+      "共享线因子的Gamma矩合并",
+      "Finitelymanycoordinates atz0;oneinversegamma variable per stage-line",
+      "Exactuniformfactorialratio andcontrolledgroupedmoments",
+      "04-sparse.tex",
+      166,
+      388,
+      "Same-lineparticle factors aredependent;groupBEFOREmoments. Invalidassignmentsdiscarded beforefactorials;commonpositivezinterval onlyafterfixedR/strictslack."
+    ],
+    [
+      "SIGNED-DENSITY",
+      "带符号hook正密度零件",
+      "Gradedsymmetricgroupaction withp-dimensionaleven/oddparts",
+      "PSDmixturedominatesfullisotypicprojection withDalpha andpolynomialoverhead",
+      "05-density.tex",
+      9,
+      182,
+      "Traceone,blockdiagonal,allmultiplicities,firstp rowsORcolumns;Pieri/SchurWeyl/historyproofclosure unreviewed."
+    ],
+    [
+      "ROW-COLUMN-OVERLAP",
+      "带空位行列接合面比较",
+      "Fixedfreeboard,fullhookgamma,row/columnisotypicprojections",
+      "DimensiongainDgamma^-1 withmissingcellcostexp(hprime)",
+      "06-induction.tex",
+      105,
+      268,
+      "Conditionalrowcolumnindependencecomesfromexactfixedpaths;averages includeemptyrows,regularization beforeinverse;not marginalindependence."
+    ],
+    [
+      "HOOK-RESERVE",
+      "当前网格的统一hook储备",
+      "InductionhypothesisONLYonfewercoordinates;allaugmentedpathfamiliesHprime",
+      "logTgamma<=-chatFgamma+ehathprime logs-C(Hprime)+s^.9",
+      "06-induction.tex",
+      78,
+      305,
+      "p=floor s^.01;chat=c+1/(20sqrtlogs),ehat=e-1/(20sqrtlogs). NOlowerboundFgamma;mustholdforallHprime,not justoriginalH orhighdimension."
+    ],
+    [
+      "CYCLIC-POTENTIAL",
+      "循环迹内抵消新增轨迹势",
+      "Inducedrepresentationfibers indexorderedk-injections andactualconditionalblockkernels",
+      "Retainsoriginal-C(H),netcount s^-k(M)_k<=1",
+      "06-induction.tex",
+      308,
+      448,
+      "2qforward/adjointedges retainforwardpotentials;use1/(2q)probabilityfraction beforeHoelder,rowANDcolumnstochasticity,allmultiplicities;notindependentcopiesofcards."
+    ],
+    [
+      "PARAMETER-ORDER",
+      "统一尺度与非循环归纳",
+      "theta=a/16,K0=10/e0 thenrho thenq>=ceil2/rho thenR thenzStar",
+      "Alllargeandsparsecaseswithonecommonfixedscale",
+      "06-induction.tex",
+      4,
+      76,
+      "Rlarge makesallowancepositive,basecasefinitecontinuity;childcoordinatecountstrictlysmaller. Not an effectivepracticalR/q certificate."
+    ],
+    [
+      "UNCONDITIONED-POLYNOMIAL",
+      "无条件算子多项式的复圆盘控制",
+      "Hempty productoflineaverages inrepresentationlambda",
+      "Norm<=D^-a0onsmallrealsegment and<=1onfixedcomplexdiskradiusr>1",
+      "07-analytic.tex",
+      4,
+      22,
+      "Finiteallowedlines+strictnontrivialgapkappa<1 andarbitrarymultiplicities. Complexparametersarematrices,notconditionalprobabilitylaws;cannotapplyatgeneralH."
+    ],
+    [
+      "SLIT-TRANSFER",
+      "裂隙域次调和解析转移",
+      "Scalarcoefficients oftheUNCONDITIONEDmatrixpolynomial,smallsegmentanddiskbounds",
+      "Atz1 opnorm<=D^-g withabsoluteg>0",
+      "07-analytic.tex",
+      24,
+      42,
+      "Boundarylimsup oncircle,bothslitbanksandendpoints includingzero coefficients;g independentgridafterfixedR/q. Not an effectivefiniteerrorcertificate orconditional-H transfer."
+    ],
+    [
+      "FOURIER-TV",
+      "全置换Fourier能量到TV",
+      "Unconditionedbinaryconvolutionpowerw,signcancelled,ordinarymatrixFouriertransform",
+      "TV²<=1/4 sum_nontriv,nonsign D^(2-2gw)→0forfixedsufficientw",
+      "07-analytic.tex",
+      44,
+      73,
+      "UseMM*andunnormalizedHS,oldDS L1 convertedtohalfL1;dimensiontailestimatesandfixedw beforedlimit. No worstobservedtrace guarantee."
+    ],
+    [
+      "PHYSICAL-CLOCK",
+      "坐标旋转与物理时钟",
+      "PhysicalThorpstep withfreshfairpaircoins anddeterministicrotation",
+      "dphysicalsteps exactlyonebinarycoordinatesweep",
+      "01-introduction.tex",
+      12,
+      43,
+      "Exactprocessidentification in naturalsource;selectedformalbinaryendpointdoesnotcoverphysicalrotationbridge. No runtimeorhardwarebenefit."
+    ],
+    [
+      "SUPPORT-BUDGET",
+      "随机位数量的支持下界",
+      "AtmosttN/2freshfairbits determinea permutation",
+      "SupporttestTV>=1-2^(tN/2)/N!",
+      "01-introduction.tex",
+      70,
+      94,
+      "Necessarylowerboundonly;not a sufficientmixingcriterion norproofone-carduniformitygivesjointuniformity."
+    ]
+  ],
+  "section_scope_notes": [
+    "Conditional theorem realnearuniformz only;analyticbinarytransfer explicitlyHempty.",
+    "Slotdisjointness atalllayers,positivefixedpathconditioning andwholebijectiontarget;cardindependence excluded.",
+    "Ordinaryunnormalizedtrace/HS;sourceDSfullL1 andprojecthalfL1 distinguished.",
+    "AllaugmentedHprimehookreserve andforwardpotentials retainedthrough2qcyclictrace;nohiddeninductiononcurrentb.",
+    "No effectivefiniteR/q/g/w/d0 orengineeringtolerance;physicalclockCseparatefrombinaryformalendpoint.",
+    "Sixbindingsincludingonealias,not sevenresults;two selectedsourceB/fourC,allproofchainsunknown.",
+    "Fourfreshoriginalselectedscopes/tworeusedoldbounds;10remainingrootkeysandunreadparts/recursiveproofs notfullhistory."
+  ],
+  "bibliography_entries_by_key": {
+    "Morris2009": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{Morris2009,\n author={Morris, Ben},\n title={Improved mixing time bounds for the {Thorp} shuffle and {$L$}-reversal chain},\n journal={Annals of Probability}, volume={37}, number={2},\n pages={453--477}, year={2009}, doi={10.1214/08-AOP409},\n note={\\href{https://arxiv.org/abs/0802.0339v1}{Author version: arXiv:0802.0339v1}, 4 February 2008}}",
+      "line": 1
+    },
+    "Morris2013": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{Morris2013,\n author={Morris, Ben}, title={Improved mixing time bounds for the {Thorp} shuffle},\n journal={Combinatorics, Probability and Computing}, volume={22},\n number={1}, pages={118--132}, year={2013}, doi={10.1017/S0963548312000478},\n note={\\href{https://arxiv.org/abs/0912.2759v1}{Author version: arXiv:0912.2759v1}, 14 December 2009}}",
+      "line": 8
+    },
+    "Sagan2001": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@book{Sagan2001,author={Sagan, Bruce E.},title={The Symmetric Group: Representations, Combinatorial Algorithms, and Symmetric Functions},edition={2nd},series={Graduate Texts in Mathematics},volume={203},publisher={Springer},year={2001},doi={10.1007/978-1-4757-6804-6}}",
+      "line": 14
+    },
+    "Stanley1999": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@book{Stanley1999,author={Stanley, Richard P.},title={Enumerative Combinatorics, Volume 2},publisher={Cambridge University Press},year={1999}}",
+      "line": 16
+    },
+    "VershikOkounkov2005": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{VershikOkounkov2005,\n author={Vershik, Anatoly M. and Okounkov, Andrei Yu.},\n title={A new approach to the representation theory of the symmetric groups. {II}},\n year={2005}, journal={Journal of Mathematical Sciences}, volume={131},\n pages={5471--5494}, doi={10.1007/s10958-005-0421-7},\n note={Theorem 5.8, p. 22, and Corollary 7.1, p. 24, refer to \\href{https://arxiv.org/abs/math/0503040v3}{arXiv:math/0503040v3}, 20 April 2005}}",
+      "line": 18
+    },
+    "Morris2008": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{Morris2008,\n author={Morris, Ben}, title={The mixing time of the {Thorp} shuffle},\n journal={SIAM Journal on Computing}, volume={38}, number={2},\n pages={484--504}, year={2008}, doi={10.1137/050636231},\n note={\\href{https://arxiv.org/abs/math/0507307v1}{Author version: arXiv:math/0507307v1}, 15 July 2005}}",
+      "line": 25
+    },
+    "hmr2014": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@inproceedings{hmr2014,\n author={Hoang, Viet Tung and Morris, Ben and Rogaway, Phillip},\n title={An enciphering scheme based on a card shuffle},\n booktitle={Advances in Cryptology---CRYPTO 2012},\n series={Lecture Notes in Computer Science}, volume={7417},\n pages={1--13}, publisher={Springer}, year={2012},\n doi={10.1007/978-3-642-32009-5_1},\n note={Theorem numbering follows \\href{https://arxiv.org/abs/1208.1176v2}{arXiv:1208.1176v2}, 21 November 2014}}",
+      "line": 31
+    },
+    "mrs": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@inproceedings{mrs,\n author={Morris, Ben and Rogaway, Phillip and Stegers, Till},\n title={How to encipher messages on a small domain: deterministic encryption and the {Thorp} shuffle},\n booktitle={Advances in Cryptology---CRYPTO 2009},\n series={Lecture Notes in Computer Science}, volume={5677},\n pages={286--302}, publisher={Springer}, year={2009},\n doi={10.1007/978-3-642-03356-8_17},\n note={\\href{https://web.cs.ucdavis.edu/~rogaway/papers/thorp.pdf}{Conference text}; theorem numbering follows this version}}",
+      "line": 40
+    },
+    "MontenegroTetali2006": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{MontenegroTetali2006,\n author={Montenegro, Ravi and Tetali, Prasad},\n title={Mathematical aspects of mixing times in {Markov} chains},\n journal={Foundations and Trends in Theoretical Computer Science},\n volume={1}, number={3}, pages={237--354}, year={2006},\n doi={10.1561/0400000003},\n note={\\href{https://www.stat.berkeley.edu/~aldous/260-FMIE/Papers/montenegro_tetali.pdf}{Full text}, Section 6.4}}",
+      "line": 49
+    },
+    "Demailly2012": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@misc{Demailly2012,\n author={Demailly, Jean-Pierre},\n title={Complex Analytic and Differential Geometry},\n year={2012},\n note={\\href{https://www-fourier.univ-grenoble-alpes.fr/~demailly/manuscripts/agbook.pdf}{Author's text}, version of 21 June 2012. Chapter I, Section 4.C.1, Theorem (4.14), p. 34; Example (5.12), p. 41}}",
+      "line": 57
+    },
+    "DiaconisShahshahani1981": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{DiaconisShahshahani1981,\n author={Diaconis, Persi and Shahshahani, Mehrdad},\n title={Generating a random permutation with random transpositions},\n journal={Zeitschrift f{\\\"u}r Wahrscheinlichkeitstheorie und Verwandte Gebiete},\n volume={57}, pages={159--179}, year={1981},\n doi={10.1007/BF00535487}}",
+      "line": 63
+    },
+    "BereleRegev1983": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{BereleRegev1983,\n author={Berele, Allan and Regev, Amitai},\n title={Hook {Young} diagrams, combinatorics and representations of {Lie} superalgebras},\n journal={Bulletin of the American Mathematical Society (New Series)},\n volume={8}, number={2}, pages={337--339}, year={1983},\n doi={10.1090/S0273-0979-1983-15110-8},\n note={Hook Theorem, pp. 337--338}}",
+      "line": 70
+    },
+    "ChristandlKonigRenner2009": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{ChristandlKonigRenner2009,\n author={Christandl, Matthias and K{\\\"o}nig, Robert and Renner, Renato},\n title={Postselection technique for quantum channels with applications to quantum cryptography},\n journal={Physical Review Letters}, volume={102}, number={2},\n pages={020504}, year={2009}, doi={10.1103/PhysRevLett.102.020504},\n note={\\href{https://arxiv.org/abs/0809.3019v1}{Author version: arXiv:0809.3019v1}, 17 September 2008; Lemma 2 and proof of Theorem 1}}",
+      "line": 78
+    },
+    "CzumajVocking2014": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@inproceedings{CzumajVocking2014,\n author={Czumaj, Artur and V{\\\"o}cking, Berthold},\n title={{Thorp} shuffling, butterflies, and non-{Markovian} couplings},\n booktitle={Automata, Languages, and Programming},\n series={Lecture Notes in Computer Science}, volume={8572},\n pages={344--355}, publisher={Springer}, year={2014},\n doi={10.1007/978-3-662-43948-7_29}}",
+      "line": 85
+    },
+    "Czumaj2015": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@inproceedings{Czumaj2015,\n author={Czumaj, Artur},\n title={Random permutations using switching networks},\n booktitle={Proceedings of the Forty-Seventh Annual ACM Symposium on Theory of Computing},\n pages={703--712}, publisher={ACM}, year={2015},\n doi={10.1145/2746539.2746629},\n note={\\href{https://www.dcs.warwick.ac.uk/~czumaj/PUBLICATIONS/CONFERENCES/Czumaj-STOC-2015-703-712.pdf}{Author's conference text}, Section 1.5, p. 705}}",
+      "line": 93
+    },
+    "Thorp1973": {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "entry": "@article{Thorp1973,\n author={Thorp, Edward O.},\n title={Nonrandom shuffling with applications to the game of {Faro}},\n journal={Journal of the American Statistical Association},\n volume={68}, number={344}, pages={842--847}, year={1973},\n doi={10.1080/01621459.1973.10481434}}",
+      "line": 101
+    }
+  },
+  "bibliography_keys": {
+    "Morris2009": "LIT-238-9DB965FBBC",
+    "Morris2013": "LIT-238-9CD198B10C",
+    "Sagan2001": "LIT-238-E975AAB7D6",
+    "Stanley1999": "LIT-238-4E13AC1DB2",
+    "VershikOkounkov2005": "LIT-238-B736EB37BF",
+    "Morris2008": "LIT-238-BE3BF33CD8",
+    "hmr2014": "LIT-238-23372BEA1E",
+    "mrs": "LIT-238-FAE783EF81",
+    "MontenegroTetali2006": "LIT-238-2940B6A45B",
+    "Demailly2012": "LIT-058-DEMAILLY2012",
+    "DiaconisShahshahani1981": "LIT-238-A3BAC570AC",
+    "BereleRegev1983": "LIT-238-ANALYTIC-BERELE-REGEV-1983",
+    "ChristandlKonigRenner2009": "LIT-238-ANALYTIC-CHRISTANDL-KONIG-RENNER-2009",
+    "CzumajVocking2014": "LIT-238-ACA7026C59",
+    "Czumaj2015": "LIT-238-COMPANIONS-66ADB6D3EE",
+    "Thorp1973": "LIT-238-E4A8F13028"
+  },
+  "historical_selected_keys": [
+    "BereleRegev1983",
+    "ChristandlKonigRenner2009",
+    "Demailly2012",
+    "DiaconisShahshahani1981",
+    "Morris2009",
+    "Morris2013"
+  ],
+  "historical_evidence": "data/provenance/readings/F-238-analytic-history.json",
+  "formal_evidence": "data/provenance/readings/F-238-analytic-formal.json",
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "scientific_experiments": [],
+  "gaps": [
+    "Seven of12currentmanuscripts read/decomposed,233namedbindings;five othercurrent bodies unread. Fullfamily/history/sixstages stillincomplete.",
+    "Fourfreshoriginalselectedscopes andtwooldselectedbounds reused;10otherrootkeysandunreadparts/recursiveproofs notqualified. BR1983announcementdefersfullproof;convertedhookformula degraded;nofalseclaimof1987proofreading.",
+    "Onlyselectedconditional/binaryendpoints sourceB;fournewnamedresultsC,allcompletechainsunknown. No Leanbuild/Comparator/humanproof/specaudit. Thetwoindiceshave226distinctlocalfileswith0sharedpaths;externalMathlibstillunbuilt.",
+    "Analytictransfer appliesHemptyonly;conditionalnearuniformmomenttheorem doesnotextendtoarbitraryH atz1 orcomplexprobabilitylaw. No perobservedtrace guarantee.",
+    "FixedR/q/g/w/d0exist;no effectivefiniteengineeringcutoff/tolerance orwalltimebenefit. Physicalrotationclock/support propositionremain sourceC.",
+    "ExistingAPP23801/02predictions/plans/runids andstatusunchanged. No newcandidate,initialcheck,targetrun,human/secondproviderreview orGitHubpush."
+  ],
+  "external_body_republication": false,
+  "draft_corrections": [
+    {
+      "at": "2026-10-27T08:34:46.586639+00:00",
+      "reason": "Actual static index sets have zero shared local paths;correct earlier unsupported overlapdescription. No mathematical result/grade/applicationcount changes.",
+      "prior_archive": "data/graph/history/GEN-20261027-121-draft-correction-before.json.gz"
+    }
+  ]
+}

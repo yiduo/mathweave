@@ -1,0 +1,31 @@
+{
+  "generation": "GEN-20261027-117",
+  "base_commit": "f7d3a96fb0b52051e7653e7e868d7e0e2695ae70",
+  "old_records": 5399,
+  "new_records": 7,
+  "new_edges": 11,
+  "new_candidates": 1,
+  "new_checks": 0,
+  "new_scientific_runs": 0,
+  "new_record_ids": [
+    "LIT-337-AUTOGRAD-191",
+    "CLM-337-SCALAR-C1-JOIN",
+    "PART-337-SCALAR-BRANCH-CONTRACT",
+    "REVIEW-337-SKEPTIC-PRE-TARGET",
+    "REVIEW-337-DEFENDER-PRE-TARGET",
+    "APP-337-01",
+    "GEN-20261027-117"
+  ],
+  "initial_validation": {
+    "nodes": 8568,
+    "research_nodes": 5402,
+    "edges": 24800,
+    "citations_checked": 9405,
+    "candidate_connections": 47,
+    "externally_checked_cards": 14,
+    "effective_leads": 6,
+    "distinct_validation_hypotheses": 14,
+    "human_grading_records": 0,
+    "pilots": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "at": "2026-10-27T02:53:04.671118+00:00",
+  "work_package": "WP-113",
+  "third_party_temporary_sources_hash_verified": [
+    {
+      "work": "Reuss2015PowerFree",
+      "url": "https://arxiv.org/html/1307.2802v1",
+      "bytes": 476829,
+      "sha256": "0bea862b4d4449c6dfe0ba55b1f1bca916ff26155349a861c1bffde546927571",
+      "removed": true
+    },
+    {
+      "work": "Xiao2017PowerFree",
+      "url": "https://arxiv.org/html/1505.05587v2",
+      "bytes": 1134577,
+      "sha256": "18f8d52a999f0763bfa1b9f12ab7d8f5c87502b9f3eea9c1002bef4fa6a7c2fd",
+      "removed": true
+    },
+    {
+      "work": "HeathBrown2013Powerfree",
+      "url": "https://arxiv.org/html/1103.2028v1",
+      "bytes": 284874,
+      "sha256": "9d5bb07a255e395d4300104de5851a3f59f832aab4fde1ffd2e97ec948682224",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-00NQ",
+      "url": "https://stacks.math.columbia.edu/tag/00NQ",
+      "bytes": 14315,
+      "sha256": "28e8c01c12a52b05820c32d5a1dfc3f5f8d4e79776d2507b5588bcee0f4ffeac",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-02JN",
+      "url": "https://stacks.math.columbia.edu/tag/02JN",
+      "bytes": 14863,
+      "sha256": "0488618047b529d02e314be2bb30efe0c0f33d714cc740109b0714f193410aaa",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-00NB",
+      "url": "https://stacks.math.columbia.edu/tag/00NB",
+      "bytes": 13898,
+      "sha256": "43e3b5aa0c0cf572447324b56253620bf5f2920f44c1453e622d0bca27669a5a",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-00NA",
+      "url": "https://stacks.math.columbia.edu/tag/00NA",
+      "bytes": 14069,
+      "sha256": "e95750018d0f6ca189ef1df7666f7b294d934470a77b803cec11f620a225f3c7",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-031Q",
+      "url": "https://stacks.math.columbia.edu/tag/031Q",
+      "bytes": 18263,
+      "sha256": "2ea1d6254bd264b9ba91b59f39ea5131dd5aa9321ae0dccd51f809aa356bff46",
+      "removed": true
+    },
+    {
+      "work": "stacks-project-031R",
+      "url": "https://stacks.math.columbia.edu/tag/031R",
+      "bytes": 22180,
+      "sha256": "4dd8af1a72e6438e8483e35de013bc5f4b89e1112fcb0dc51eeee05eb1768574",
+      "removed": true
+    }
+  ],
+  "third_party_body_bytes_removed": 1993868,
+  "third_party_bodies_republished": false,
+  "own_helper_members_verified": 46,
+  "helper_compressed_sha256": "99f7f74f6826571515df8e8294e9743ceb2f878881ac097757f76a4f82ba9e73",
+  "helper_decompressed_sha256": "c200931204d201368d65998ee56e923576a21f559c42731c34d3a902428a5f81",
+  "helper_archive_bytes": 216744,
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_files": 2049,
+  "clean_bytes": 78746035,
+  "clean_copy_hashes_verified": true,
+  "new_scientific_experiments": 0,
+  "actual_existing_representative_replays": 2,
+  "scope": "Own metadata,derivations,code,roles andlogs compressed withmember/decompressed hashes;upstream notduplicated,third-party fullHTML bodies removed after qualification. No new efficacy or formal/human review.",
+  "work_root_removed": true,
+  "removed_at": "2026-10-27T02:53:04.751197+00:00"
+}

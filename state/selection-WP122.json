@@ -1,0 +1,239 @@
+{
+  "scope": "Metadata/sourceinventoryandactualREADMEonly;no manuscriptbodyreadcredit",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "candidates": [
+    {
+      "family_id": "F-181",
+      "title": "The Erdős–Gallai cycle-decomposition conjecture.",
+      "subject": "Combinatorics",
+      "manuscript_ids": [
+        "P-aa4a9f7b64d5fc71"
+      ],
+      "files": 9,
+      "lines": 2566,
+      "inventory": [
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/figures/lifting.tex",
+          "sha256": "309c5fe9a03e3005ff0b95ba9d954e920e29279912e208ca4c7d3323546dc716",
+          "lines": 49
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+          "sha256": "4be805d7086ac702c41861ac3cc8cad418b38c41ab79eb1d5a21cbba542273ff",
+          "lines": 260
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+          "sha256": "e155aa090eba1765ae010b071d9c0bb0cefb71dce043249be7aacde338d8168b",
+          "lines": 134
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+          "sha256": "5a6040518312eee24e94e0c00a1485fbfdcc632d922c7ad1d12ffc338858e23f",
+          "lines": 453
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+          "sha256": "5407ef1592a207455dafd15ba526791b6ed2016e60ffa8e5e230ad2f92ca6833",
+          "lines": 471
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+          "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+          "lines": 147
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+          "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+          "lines": 455
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+          "sha256": "6004936793c01bba515c698726fd2b5fd9f01dd396a6675ebd5e23032fdfb5a9",
+          "lines": 244
+        },
+        {
+          "manuscript_id": "P-aa4a9f7b64d5fc71",
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+          "sha256": "b30ce3a520e2a8ce165c76e6f389313163339271b8a60e4e7315fa29de15b250",
+          "lines": 353
+        }
+      ],
+      "actual_readme_files": [
+        {
+          "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/README.md",
+          "sha256": "f208ef943ff70a9de34472b796600ef85f62d5ddae4768d555a35ec916b3ef97",
+          "lines": 20
+        }
+      ],
+      "body_reading_credit": 0
+    },
+    {
+      "family_id": "F-188",
+      "title": "The sharp terminal leave in random triangle removal.",
+      "subject": "Combinatorics",
+      "manuscript_ids": [
+        "P-3d59f13f48c769b7"
+      ],
+      "files": 10,
+      "lines": 1914,
+      "inventory": [
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/coupling.tex",
+          "sha256": "dfad4804b7f89cb059ae629362b3eec1493ceec636566901ebaf9ef62839a117",
+          "lines": 238
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/introduction.tex",
+          "sha256": "20c38225ddad95148117481b1992b3df583ea517709e23584b7860b0afcc0351",
+          "lines": 145
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/moments.tex",
+          "sha256": "e4e2f5e6323885d7baecb5aad864f5d125d29c59d5275a6bfa3353a510b85d1a",
+          "lines": 85
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/paper.tex",
+          "sha256": "03a86ec263368a5b2180264d6f16cac0bcee6c8bba2d0190ba9adaac5ac66b26",
+          "lines": 27
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/preamble.tex",
+          "sha256": "d617f7ccd5491bd57bd337849583b0947ee82cfc876491d315e91fd4ade43e7d",
+          "lines": 33
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/prefix.tex",
+          "sha256": "e7a2aedbb49e258b9e2a1d9d097ad715f7bd1c8a50cacb7ede363efe4cbc70cf",
+          "lines": 214
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/queries.tex",
+          "sha256": "09439cf6d6dc783ae709a4b0c087a3d99307e587e94e9ead5f6ff9b830f8c6fc",
+          "lines": 261
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/references.bib",
+          "sha256": "59ca1bebb946d4ad7690ac2285631c63b7ba1958e995a419503cb7f481500150",
+          "lines": 121
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/stability.tex",
+          "sha256": "839d99067f2ccc569403f328256f6e972e37163e918b939b40f8b8c77b5a73d3",
+          "lines": 394
+        },
+        {
+          "manuscript_id": "P-3d59f13f48c769b7",
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/build/witnesses.tex",
+          "sha256": "63f10f3c395b5076d77879a832990ab4d1c3ef707e3683acc07a2736075e5e68",
+          "lines": 396
+        }
+      ],
+      "actual_readme_files": [
+        {
+          "path": "math/preprints/The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026/README.md",
+          "sha256": "dea215e665d302e1d1c9e2b33816ff7cb171d1495e654aa3e692fd5d31ee4c6d",
+          "lines": 18
+        }
+      ],
+      "body_reading_credit": 0
+    },
+    {
+      "family_id": "F-192",
+      "title": "Boolean functions violate the square-root degree bound by arbitrary factors.",
+      "subject": "Combinatorics",
+      "manuscript_ids": [
+        "P-2d51b23708e7ed92"
+      ],
+      "files": 9,
+      "lines": 1714,
+      "inventory": [
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/bibliography.tex",
+          "sha256": "2012645afaefb7cef9a4aa7fc3a6aec21d4badc9b475daffe1c0a3de7bf4f846",
+          "lines": 55
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/main.tex",
+          "sha256": "ae1bd3a69ed7430aa2c9d7ccba100281c99422a0df55eda6bab2ae6fe3535cd5",
+          "lines": 47
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/00-introduction.tex",
+          "sha256": "c1af2a21b1c43449234a2e525cfd77c6580681a7a7386356f9cf0e7036b703c3",
+          "lines": 158
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/01-observations.tex",
+          "sha256": "8e12855dbf6275d197ba61d4acbf0d3e1aabdd079ba83ca2d022a40475328fc0",
+          "lines": 130
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/02-reporting.tex",
+          "sha256": "57ea4c0606a60b04dce3b5669a858dc0f9b9cbb79c90b2b5bd230a4e9cb7352b",
+          "lines": 268
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/03-alternatives.tex",
+          "sha256": "4d998ab33a8064f6a3187eb64635ef183effc602229ab6fc9bc3a573cb9919ac",
+          "lines": 210
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/04-mean-cost.tex",
+          "sha256": "0476277015aef0f1d74b4e79de49b452888f142d8ffc072df8ee1467b4700fbe",
+          "lines": 310
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/05-weighted.tex",
+          "sha256": "a537b9e0c7b4ad10925bf5f951cdbc390dfe2baf857fd5c7c02ce5606f68f040",
+          "lines": 266
+        },
+        {
+          "manuscript_id": "P-2d51b23708e7ed92",
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/build/sections/06-small-width.tex",
+          "sha256": "69e971694cdd748ff681fd969254e86569395ae150b687a343d6a237139e4871",
+          "lines": 270
+        }
+      ],
+      "actual_readme_files": [
+        {
+          "path": "math/preprints/Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026/README.md",
+          "sha256": "a4fa1fcc486012abb41863cb4ebdb2fab2481fd29b4ad09064f2fa55e053f265",
+          "lines": 17
+        }
+      ],
+      "body_reading_credit": 0
+    }
+  ],
+  "selected_family": "F-181",
+  "selected_work_package": "WP-122",
+  "selected_at": "2026-10-27T07:32:44.087634+00:00",
+  "reason": "Combinatorics has only four of 37 families read. Compare finite graph decomposition witnesses and number of pieces with exact edge coverage and total construction cost; linear piece count is not assumed linear-time computation. F188 random-removal finite/asymptotic bridge and F192 Boolean degree interfaces remain alternatives. F181 is not the shortest source.",
+  "zero_hypothesis": "Old cycle/edge decomposition and ordinary witness validation may already suffice; no new application gain follows from the title or a small graph demonstration."
+}

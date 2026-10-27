@@ -1,0 +1,52 @@
+{
+  "at": "2026-10-27T04:50:59.867194+00:00",
+  "generation": "GEN-20261027-115",
+  "base_commit": "3ea7af251370e8ca5a28727b2211570346513966",
+  "new_records": [
+    "GEN-20261027-115",
+    "CLM-047-TRAVERSO-PICARD-STATEMENT",
+    "CLM-047-STACKS-056S",
+    "CLM-047-STACKS-0AG0",
+    "CLM-047-STACKS-0BE9",
+    "CLM-047-STACKS-00KV",
+    "PART-047-PICARD-TRAVERSO-ROUTE",
+    "PART-047-PICARD-DIVISOR-ROUTE",
+    "CLM-047-REGULAR-PICARD-INVARIANCE"
+  ],
+  "updated_records": {
+    "LIT-047-TRAVERSO": [
+      1,
+      2
+    ],
+    "LIT-047-STACKS": [
+      1,
+      2
+    ],
+    "ANALYSIS-F-047": [
+      1,
+      2
+    ],
+    "CLM-047-PROP-LINEARIZATION": [
+      1,
+      2
+    ]
+  },
+  "old_canonical_rows_preserved_bytewise": 5262,
+  "new_explicit_edges": 14,
+  "original_primary_works": 2,
+  "selected_original_mathematical_documents": 5,
+  "body_bytes": 1119546,
+  "new_candidates": 0,
+  "new_checks": 0,
+  "new_scientific_runs": 0,
+  "full_history_closure": false,
+  "new_record_scope_repair": {
+    "id": "CLM-047-TRAVERSO-PICARD-STATEMENT",
+    "versions": [
+      1,
+      2
+    ],
+    "prior_archive": "data/graph/history/CLM-047-TRAVERSO-PICARD-STATEMENT-v1.json.gz",
+    "reason": "Explicit nonempty variable set for converse; single-variable application unchanged"
+  }
+}

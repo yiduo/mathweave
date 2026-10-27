@@ -1,0 +1,366 @@
+{
+  "work_package": "WP-119",
+  "status": "complete_current_source_draft_not_full_family",
+  "started_at": "2026-10-27T04:58:09.577154+00:00",
+  "base_commit": "b7dcf98",
+  "family_id": "F-337",
+  "selection": "data/provenance/selections/WP-119-F337.json",
+  "source_total_files": 28,
+  "source_total_lines": 7413,
+  "actual_source_ranges": [
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/main.tex",
+      "sha256": "492e3c156252d3e66031f27f56168b4b9ec11b967124f942d691f3c891248c55",
+      "ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "97f1c12bc707399c00911539386b2386d94ba71eb4d5c5bea1bb5b9e8da054d2",
+      "ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/02-maps.tex",
+      "sha256": "753f168360f2c932922eba92ab29a6c996c359fbe928c58bfb971c881d0c38d2",
+      "ranges": [
+        [
+          1,
+          270
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/03-sobolev.tex",
+      "sha256": "5a82f6464a65d234ec434178f456455376cad6a9fe290dde60ff8c8fde1f6e1b",
+      "ranges": [
+        [
+          1,
+          387
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04-profile.tex",
+      "sha256": "de5a273795c8622f2cef1745a6b424649f1fc92ce2187c04d7a40ddda6952271",
+      "ranges": [
+        [
+          1,
+          329
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/04a-bv-calculus.tex",
+      "sha256": "42e4c0ecc652b7d4033398088fe802650325b97e7a150b67c3b43203cd76d270",
+      "ranges": [
+        [
+          1,
+          128
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "5ed4ca5eba8871b808b5d7864c1c5a6c83f36bd2981c23705b9cd535312d64d9",
+      "ranges": [
+        [
+          1,
+          49
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/08-rigidity.tex",
+      "sha256": "9e4c0a491ec7ada78ef3f900ee8b05a3ca97d419dcc281cf0bc1c585f52ad4c5",
+      "ranges": [
+        [
+          1,
+          311
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/07-equality-regularity.tex",
+      "sha256": "f9ef7365e06fc08b2af6eecf04e30d80a3df2204031a42e48807c35b5bc23b75",
+      "ranges": [
+        [
+          1,
+          498
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/09-consequences.tex",
+      "sha256": "588ff569e8389bba6a9693b07b2493d7503453cf4e8f53b895f40192871ea681",
+      "ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/05-comparison.tex",
+      "sha256": "3070f07d411d1a1875124a866e3be2611a40b9d707fdf18d0a8d913b72bea161",
+      "ranges": [
+        [
+          1,
+          427
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/sections/06-dimensions.tex",
+      "sha256": "a34692b120898a82b84f44a8d82c30cf73e94d95e15d7555f982419e16e1090d",
+      "ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/confined-boundary.tex",
+      "sha256": "653acb45af305dfe2022374980644eb884b17dccf3768a3058cce4c5255d7d75",
+      "ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/figures/offset-sphere.tex",
+      "sha256": "8b9076a40929bdca40337ff0e8c6f5473398fe065cad62b28acc75a291746df9",
+      "ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/build/references.bib",
+      "sha256": "79ceda5a7bb5e5bc49bfa51a66f8d1582b4ab1c80f67f0c375db487881247a4d",
+      "ranges": [
+        [
+          1,
+          311
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/macros.tex",
+      "sha256": "cffae890f8594d7c68b3e2ec8c134dbaf0452b7e9a3723e4b9af758460ae06dd",
+      "ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/glyph-mappings.tex",
+      "sha256": "06e6e4af617b02b95087bc2181e9c3bbb283c263fe41dff29ad975f4dfe88cea",
+      "ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/main.tex",
+      "sha256": "00dfcdd71966e4d943b9d962ef4d16237dbcc37912efb36f488081fcafaa957e",
+      "ranges": [
+        [
+          1,
+          33
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "56120889c1239e9d8e71fd49afc750e4f2091fd4adba3dd6f06b571b3404773f",
+      "ranges": [
+        [
+          1,
+          223
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/02-currents.tex",
+      "sha256": "bd03bdf31ffded07cbefca56ee544d1e449523796030840c57a3ccc56dc1fff6",
+      "ranges": [
+        [
+          1,
+          633
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/08-classical.tex",
+      "sha256": "95249ade66b678e6e03ad67afd11d9ed2e9578b52b0c5e6081b5e03abf67dcb9",
+      "ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+      "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+      "ranges": [
+        [
+          1,
+          506
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/03-radial.tex",
+      "sha256": "c1ab8678e44b155eb464104f7127f8c950a0c255a1077a3dcf3e5ae55024ef48",
+      "ranges": [
+        [
+          1,
+          363
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/07-conclusion.tex",
+      "sha256": "a2525c6f081656c143a0a0d9903bcd5b2aa6c42f5674d37615e9ed2465932239",
+      "ranges": [
+        [
+          1,
+          252
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/05-minimizer.tex",
+      "sha256": "4968ff75e99c96dca00bd81fd6d84fe5930d408d63c3ed417c3a2e1d0ffdf544",
+      "ranges": [
+        [
+          1,
+          678
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/04-sobolev.tex",
+      "sha256": "5399d1a691da1809bf699ec1e3cbe90f247699d411b74e2c7f4531f5f3e8c179",
+      "ranges": [
+        [
+          1,
+          677
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/figures/radial-variation.tex",
+      "sha256": "357d933a9e4e151bae44b28ef0742ca589ecb9490c2d153f28d83c8ce085c887",
+      "ranges": [
+        [
+          1,
+          54
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/references.bib",
+      "sha256": "34a02268beab190af78e7b9f53834be372ed88d2643aca46425382a4899b70b1",
+      "ranges": [
+        [
+          1,
+          387
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "actual_source_lines_read": 7413,
+  "canonical_credit_added": true,
+  "scientific_runs": [],
+  "next_action": "WP120ready;do not repeatcompletedWP119curation/source downloads;global042complete.",
+  "running_processes": [],
+  "updated_at": "2026-10-27T05:33:19.994604+00:00",
+  "notes": [
+    "Source main theorem:complete simplyconnected smoothn>=2,sectionalcurvature<=kappa<=0;finitevolume+fullambientfiniteperimeter,includingunboundedsets. Equality specificallyboundedpositivevolumeandroundEuclideanmetriconregion,notflatambientoutside.",
+    "Spectral/torsion corollary requiresnonempty smoothrelativelycompactdomain,Dirichletp-Laplacian1<p<infty andsourcequotientnormalization;not automaticallya discretizedmesh certificate.",
+    "Actualcomparisonmaps useexp/log,Hessianandpolarcomparison,scale/center andsignedmean-curvature convention. Balancingrequirescompactly supportedNONATOMICprobability;an empirical pointcloud isatomic andnot admitted bythis statement. Brouwerexistence givesnoimplementedsolverorcomplexity guarantee.",
+    "These are source claims andscope notes;proof/formal/history andsecondmanuscript notyetread,canonicalfamilycoverageunchanged.",
+    "Nested04aBV128 confirmed in04-profile line29 andread fully;confined-boundaryfigure referencedline202 notyetread.",
+    "Sharp hypersurface Sobolev usesm=n-1>=3,Lipschitzcompactinterior/H10 tests andsignedh squared potentialm(h^2-b^2);criticalconstantYm. Subthresholdattainment is a contradiction tool,not a constructive solver orattainment at thecriticalthreshold. Compact-component pointcutoffneedsm>2.",
+    "ConfinedprofileminimizesFULLambientperimeter,includingwallcontact. BVcompactness/lowersemicontinuity andsmoothflowJacobian/firstvariation explicitlyread;existence/uniformvolume-adjustmentconstantsnotalgorithmiccomplexityguarantees.",
+    "Regularity cites onlyunconditionalpartsGhomiSpruck7.2(i)(ii),notassumingtotalcurvatureconclusion. Singularsetdim<=n-8,awayfromconfiningboundary,C11collar. At differentiabilityvolumesIprime>0,freeh=Iprime/m andcontact0<=h<=h0viaonesidedvariations. No applications/newverifiedtheoremclaimed.",
+    "Firstall15source/Bibfiles3432linesnowread,includingbothTikZfigure sources and311bibliographylines;noPDFreading.",
+    "Sourcecomparison05:deletion+fixedpatchvolume-repair givesarea-growth,dimension/capacitycutoffs justifyconstantSobolevtest;positiveprofileODEintegratesviaWb(I)withoutassumingprofileendpointlimit. Dimensions2/3 classicalsmoothinputs,strictBVapproximation,finite-volumecoarea cutoff andmetricrescaling explicitlyseparate.",
+    "Equality07/08:almostminimizerusesalreadyprovedcomparison,quasiperimeterexponent1>1-1/n;C1alpha weakgraph upgradedC11 viadifferencequotients/energy+frozen-coefficientoscillation. SignedCMCuniformacrosscomponents,compactperimetersupport not arbitrarytopologicalboundary.",
+    "Rigidityseparatesn>=4spectral/barycentermoments,n=2periodicWirtinger andn=3puncture/offsettangent-sphere;BVphase andmetricdomination+volumeidentityrecoverwholeballmetric. Noquantitativenearequalitystability orambientflatnessoutside.",
+    "Spectral/torsioncorollaryusesNobiliViolo exactrearrangement andDirichletmembership;exactp-torsionquotientnormalization retained. Notdiscretizedsolver ormesherrorcertificate.",
+    "Secondintro:properCAT(0),compactlysupportedAKintegralncycles n>=2,arbitraryintegermultiplicity/ambientdimension;attainedcompact(n+1)-currentfillwithsharpEuclideanmasscoefficient. Noprescribedtopology/parametrization forfilling,notloopn=1extension.",
+    "OldAlmgrenEuclideansharpbound andWengergeneralEuclidean-exponentbound alreadyexist;newcoefficientclaiminsingularproperCAT0requiresfullactualproof/historyscope,not Euclideanballnumericaldemo.",
+    "Secondall13source/Bibfiles3981linesactuallyread;fullfamilycurrentbodiescompletebuthistory/version/formalqualificationnotcomplete.",
+    "WholecurrentnormalityvsBorelchartrestriction carefullyseparated;compactconvexballproperness,coarseWengercone+weakfillingcontinuity precedehypotheticalpositiveextremizer. ExactchartEuclideanmass usesCAT0parallelogram+twopointmetricdifferentiation,integermultiplicitylowerdensity>=omega.",
+    "Radialtwo-pointquadraticform hasexactdeterminant butis onlyanuppermajorantofactualmapmass. n=2inverse-squarecutoffbase;sharpn-1inductiononlyforboundariesofalmosteveryintegralsuperlevel.",
+    "Intrinsiccoarea keepschartgradient andusescountablescalarmasstests;distributionfunctions mayhaveatoms/singularparts,generalizedinverse rearrangement accountsforthem. AlmostSobolevCeps depends onhypotheticalextremizer,notuniversalalgorithmcost.",
+    "Closedgradient/compactness derivedfromwholeweightedcycle identities thenlocalizationoftotalvariationmeasures,notintegrationbypartsonchartrestrictions. Allfinitepower moments,notL-infinity orstrictpositivity.",
+    "Fractionalv^beta neednotbelongSobolevspace;onlyactualtwo-variablecompositesprovedC1throughzeros. Chordtransformupperboundandoppositeaverage requirehypotheticalextremizer andnormalizedcriticalminimizer;notunconditionalinequalitiesforarbitrarypointclouds/weights.",
+    "CAT0variance oldSturm inputdistinguishedfromnewcontradiction;allcenterderivativeexceptionalsetsnotjointlychosen,averagingBoreldistance/valuekernelavoidsunmeasurability.",
+    "Classicaldomaincorollary usescompacttopdimensionalcycleconstancyinconnectednoncompactorientedmanifold,thereforefillingequalsdomain. Noarbitrarytopologicalextension oralgorithmicfilling supplied;Euclidean sharpconstantalreadyAlmgrenbaseline."
+  ],
+  "selected_formal_receipt": "data/provenance/readings/F-337-formal.json",
+  "historical_selection": {
+    "original_work_cap": 4,
+    "byte_cap": 8388608,
+    "selected": [
+      "Duda2007 originaltwo-pointmetricdifferentiation",
+      "Wenger2005Iso v1 coarseoldfillingbaseline",
+      "GhomiSpruck2022 v7 unconditionalLemma7.2 andconditional7.1",
+      "NobiliViolo2025 v2 actualrearrangementDirichletinterface"
+    ],
+    "all_other_origins_unreviewed": true
+  },
+  "canonical_generation": "GEN-20261027-116",
+  "selected_history_receipt": "data/provenance/readings/F-337-history.json",
+  "completed_at": "2026-10-27T05:35:19.819016+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "at": "2026-10-27T04:16:00.419858+00:00",
+  "work_package": "WP-117",
+  "version": 2,
+  "specification": "/Users/smzdm/projects/ai_paper/experiments/specs/EXP-276-001.json",
+  "sha256": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+  "prior_version_archive": "experiments/specs/history/EXP-276-001-v1.json.gz",
+  "prior_version_sha256": "235bc5e0b2c57c7cfbb80b4c5789c316fb8dd12de85f771c8679bc35f0de6c19",
+  "auxiliary_review_evidence": "/Users/smzdm/projects/ai_paper/data/provenance/reviews/APP-276-01-pre-execution.json.gz",
+  "review_roles": "Actualsame-providerisolatedstaticonly;not independentvendor/humans",
+  "fixtures_unchanged": true,
+  "original_prediction_and_threshold_preserved": true,
+  "resources_not_relaxed": true,
+  "target_runner_outputs_observed": false,
+  "runner_implemented": false,
+  "required_before_execution": [
+    "RSSmachinefield andhonestnonoptionalmanifest/resultgate",
+    "Failureattempt/source/stdout/stderr/progressretention",
+    "Exactdeterministicnumeric/optimizer rules",
+    "Independentmatrix/Decimalimplementations andsoftwarechecks"
+  ]
+}

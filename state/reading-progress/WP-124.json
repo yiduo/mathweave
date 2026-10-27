@@ -1,0 +1,157 @@
+{
+  "work_package": "WP-124",
+  "at": "2026-10-27T08:16:15.646273+00:00",
+  "status": "complete_current_manuscript_source_decomposition_not_fullfamily",
+  "manuscript_id": "P-2a0250a8d5ca112d",
+  "family_id": "F-238",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_source_ranges": [
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/main.tex",
+      "sha256": "1654f49ccc867888e4e1e145e8dce6d1e20ae1b25faa8f440c8dabc844aa4453",
+      "ranges": [
+        [
+          1,
+          56
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/01-introduction.tex",
+      "sha256": "5c70eb70e6a0858e0c8d1012c82d545385156969f67b37026e1fcb3cc52bd1bf",
+      "ranges": [
+        [
+          1,
+          234
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/02-preliminaries.tex",
+      "sha256": "8a761fc1d42c53e6ae554123954adc3a4f3a39f07a4fa479de9fee0a2a9f8b61",
+      "ranges": [
+        [
+          1,
+          102
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/03-paths.tex",
+      "sha256": "36c2a5898812bf18293c31c8240c15c37a26c5bd2f26d703ddddbdd06a73d65d",
+      "ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/07-analytic.tex",
+      "sha256": "15cc5678f8761e34ded3e012ac1881c6412c6bc6d78b0ec5fa6de68701e3ba70",
+      "ranges": [
+        [
+          1,
+          73
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/figures/trajectory.tex",
+      "sha256": "1b5a568f0c705b10fd0db8640ea03441915394b407989ded6a7f97fc6dffdb19",
+      "ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/references.bib",
+      "sha256": "b5dd211b0f256e76ed44e47dcb48b8c030ef422ae4f977883e826cf96cb89392",
+      "ranges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/04-sparse.tex",
+      "sha256": "1835687020707de34a75cb10aafa83004b5d1bc33a28c0f2f6e5c3d68f0b31d7",
+      "ranges": [
+        [
+          1,
+          388
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/05-density.tex",
+      "sha256": "eb91bac1d28aa5dd6dece81bb185a946727bc02d36e6519e7b1ab29021554875",
+      "ranges": [
+        [
+          1,
+          182
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026/build/sections/06-induction.tex",
+      "sha256": "431917fdfc611d5fcceeb9ad61a8010d72403a3fe37739f8bb2704255bd51e72",
+      "ranges": [
+        [
+          1,
+          448
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "actual_source_lines_read": 1791,
+  "canonical_credit_added": true,
+  "full_manuscript_read": true,
+  "canonical_family_read_count": 7,
+  "source_observations_pending_full_proof_scope": [
+    {
+      "locator": "03-paths.tex4-55,137-165",
+      "observation": "Conditionalmoment theorem stateseveryfeasiblelayer-disjointprescribedtrajectoryfamily,butline lawsarenear-uniform mixtures onasmallrealzintervalwithfixedpowersoftwo[R,R^2]. Conditionalremaininglinechoicesindependentafterexactassignmentconditioning;remainingobjectentirebijection,notindependentcards."
+    },
+    {
+      "locator": "03-paths.tex63-125",
+      "observation": "Without-replacementpotential C(H)=sumline log(m^hL/(m)_hL);additionalplacementbound uses C(Hplus)-C(H),not simply iidm^-t. Preserveexactinjection/layer/stagelineconditions."
+    },
+    {
+      "locator": "07-analytic.tex4-42",
+      "observation": "Complexanalyticparameterandtransfer explicitly apply to UNCONDITIONED matrixpolynomial,Hempty. Do notextend arbitraryconditionalH boundtoz1 orcomplexconditionalprobabilitylaws."
+    },
+    {
+      "locator": "01-introduction.tex54-95;07-analytic.tex44-73",
+      "observation": "Binaryconsequence fixedsweepcountasdtendsinfinity andphysicalcostdstepspersweep;positiveconstants/cutoffsexist,not afinitetolerance orper-traceengineeringcertificate. Onlystatementandanalyticsectionreadsofar,threecoreproofmodulesunread."
+    }
+  ],
+  "remaining_source_paths": [],
+  "formal_or_history_credit": "Fourfreshselectedoriginalscopes/twoexistingoldbounds;twoactualstaticformalendpointcomparisons. No completeproof/history/human/providercredit.",
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "target_runs": 0,
+  "provider": "OpenAI",
+  "exact_backend": "unknown",
+  "human_review": null,
+  "second_provider_review": null,
+  "updated_at": "2026-10-27T08:43:23.090114+00:00",
+  "canonical_generation": "GEN-20261027-121",
+  "canonical_named_bindings": 233,
+  "quality_evidence": "reports/reproducibility/20261027-F238-analytic",
+  "next_work_package": "WP-125",
+  "earlier_partial_observation_note": "The observation sayingthreecoremodulesunread records the earlier630-line stage;all10files1791lines have sincebeenread andcanonicalized. Seeimmutablecurrentledgerforqualifiedscope."
+}

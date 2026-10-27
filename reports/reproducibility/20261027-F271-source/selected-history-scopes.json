@@ -1,0 +1,231 @@
+{
+  "at": "2026-10-27T11:04:21.942379+00:00",
+  "family_id": "F-271",
+  "work_package": "WP-129",
+  "status": "selected_history_read_pending_canonical_curation",
+  "primary_acquisition": {
+    "at": "2026-10-27T11:00:13.027582+00:00",
+    "normal_TLS": true,
+    "max_pdf_bytes": 3145728,
+    "total_limit_bytes": 16777216,
+    "analysis_format": "converted text only",
+    "items": [
+      {
+        "key": "GL2014",
+        "url": "https://arxiv.org/pdf/1111.2445v1",
+        "resolved_url": "https://arxiv.org/pdf/1111.2445v1",
+        "pdf_bytes": 338609,
+        "pdf_sha256": "9b624142fad945ce02a778fc58e1d1aaab108d11e6e7bfba2c03d972ef929fb0",
+        "text_bytes": 94837,
+        "text_sha256": "49b7ed50193a7ea29294a6077b9d35e8342c37f1495a0d4a10f401f30d1fbf3e",
+        "text_lines": 1591,
+        "conversion": "pdftotext -layout",
+        "conversion_stderr": "",
+        "status": "selected_original_scope_read_pending_canonical_curation",
+        "local_pdf": "/private/tmp/ai-paper-WP129-history/GL2014.pdf",
+        "local_text": "/private/tmp/ai-paper-WP129-history/GL2014.txt",
+        "text_ranges_read": [
+          [
+            55,
+            380
+          ]
+        ],
+        "printed_pages": "Selected Section 2, printed pages 2-7",
+        "selected_statements": [
+          "Stationary irreducible countable-state generator and adjoint setup (2.1)-(2.2)",
+          "Definition 2.1 of capacity, equilibrium potentials (2.5), finite-complement energy identity (2.6)",
+          "Lemma 2.3 symmetry and exhaustion (selected proof)",
+          "Theorem 2.4 nonreversible inf-sup Dirichlet principle (2.9), statement and following finite-singleton reduction",
+          "Lemmas 2.5-2.6 symmetric capacity comparison and sector condition; finite flow definitions (2.12)-(2.14)"
+        ],
+        "verified_scope": "Nonreversible potential theory is an established baseline. The original assumes an irreducible continuous-time Markov chain on a countable space with stationary measure mu; its adjoint and energy use L2(mu). The inf-sup statement requires B complement finite. A sector constant is an additional hypothesis for an upper capacity comparison.",
+        "comparison_to_F271": "The lattice-correction finite lemma instead begins with a finite doubly substochastic discrete-time U, killed coordinates and possible inaccessible closed classes. Its forward/adjoint residual and bounded-test energy estimate is a distinct specified interface. Do not import irreducibility, a stationary measure, certain absorption or the sector comparison without checking them. Classical direct finite harmonic linear algebra remains an old-method baseline; no new algorithmic gain has been tested.",
+        "remaining": "Theorem 2.4 proof in Section 3, flow minimization in Section 4 and complete recurrence results not read. No journal/preprint whole-text equivalence or recursive proof acceptance.",
+        "content_checked": true,
+        "source_revision": "arXiv:1111.2445v1",
+        "text_line_convention": "1-based Unix LF lines as emitted by sed, retaining page-break characters",
+        "selected_not_full_paper": true
+      },
+      {
+        "key": "CGS2015",
+        "url": "https://arxiv.org/pdf/1312.7873v2",
+        "resolved_url": "https://arxiv.org/pdf/1312.7873v2",
+        "pdf_bytes": 367836,
+        "pdf_sha256": "003969311fc357c1e5d2158ff89b94a78c784b6210a905db123679e4b4561116",
+        "text_bytes": 112324,
+        "text_sha256": "fb992cc53267f60cf17550a26b1ed2bfe0488f1faa9bc7522a7459bad5cfa201",
+        "text_lines": 1798,
+        "conversion": "pdftotext -layout",
+        "conversion_stderr": "",
+        "status": "selected_original_scope_read_pending_canonical_curation",
+        "local_pdf": "/private/tmp/ai-paper-WP129-history/CGS2015.pdf",
+        "local_text": "/private/tmp/ai-paper-WP129-history/CGS2015.txt",
+        "text_ranges_read": [
+          [
+            87,
+            175
+          ]
+        ],
+        "printed_pages": "Printed pages 3-4",
+        "selected_statements": [
+          "Nearest-neighbor cubic-lattice spin-S Hamiltonian with constant ground-state energy shift (2.1)",
+          "Thermodynamic free energy (2.2)-(2.3)",
+          "Theorem 2.1 leading free-energy asymptotic (2.4) and stated spin-uniformity condition",
+          "Quasi-long-range-order consequence (2.6)-(2.8) and discussion of beta^(5/4) length scale"
+        ],
+        "verified_scope": "For fixed S>=1/2 in Z3, thermodynamic free energy times beta^(5/2) S^(3/2) tends to -zeta(5/2)/(8 pi^(3/2)). The source also states a restricted uniformity condition as beta S grows and a finite length-scale correlation consequence. Its Hamiltonian includes the constant bond ground-state shift.",
+        "comparison_to_F271": "This is the old rigorous free-energy spin-wave baseline, not a field-derivative Bloch magnetization theorem. A low-temperature asymptotic only at zero field cannot simply be differentiated with respect to an unexamined field. F271 finite-range and magnetization claims require their separate order of limits and pin/pressure arguments. The source itself distinguishes finite length-scale order from infinite-range order.",
+        "remaining": "Sections 3-5 proof and Appendix B not read here; explicit error constants/bounds not qualified from the abstract alone. arXiv v2 uploaded 2019 has printed December 9, 2014 body header and association to 2015 journal article; no byte/whole-text equivalence assertion.",
+        "content_checked": true,
+        "source_revision": "arXiv:1312.7873v2",
+        "text_line_convention": "1-based Unix LF lines as emitted by sed, retaining page-break characters",
+        "selected_not_full_paper": true
+      },
+      {
+        "key": "BFU2020",
+        "url": "https://arxiv.org/pdf/1811.12834v2",
+        "resolved_url": "https://arxiv.org/pdf/1811.12834v2",
+        "pdf_bytes": 922600,
+        "pdf_sha256": "a79d0e2e188beff344c85850396c74e923c1715d1cac0d2f4d4e52de2cb62bef",
+        "text_bytes": 142723,
+        "text_sha256": "431e9fbce396f704ee57360a4d125021fccaa53b0640b3558032e1d6683a5a52",
+        "text_lines": 2143,
+        "conversion": "pdftotext -layout",
+        "conversion_stderr": "",
+        "status": "selected_original_scope_read_pending_canonical_curation",
+        "local_pdf": "/private/tmp/ai-paper-WP129-history/BFU2020.pdf",
+        "local_text": "/private/tmp/ai-paper-WP129-history/BFU2020.txt",
+        "text_ranges_read": [
+          [
+            206,
+            390
+          ]
+        ],
+        "printed_pages": "Printed pages 4-6",
+        "selected_statements": [
+          "Complete-graph Heisenberg Hamiltonian (2.3) with coupling 2/n and anisotropy Delta",
+          "Interchange model (2.5)-(2.9) and spin-1/2-only equivalence remark",
+          "Definitions eta, g_beta, mstar and critical inverse temperature (2.10)-(2.17)",
+          "Theorem 2.1 isotropic complete-graph magnetization generating function",
+          "Following symmetry-breaking discussion and explicit unresolved limiting-extremal-state issues"
+        ],
+        "verified_scope": "The isotropic complete graph with mean-field normalization 2/n, Delta=1 and arbitrary positive half-integer S has the limiting one-component generating function sinh(h mstar)/(h mstar) for complex h. The critical inverse temperature in this model is 3/[2 S(S+1)]. The interchange identification holds at spin 1/2 and is not general-spin equality.",
+        "comparison_to_F271": "The functional form predates the F271 nearest-neighbor torus claim. Coupling normalization, graph geometry, mstar and its threshold differ; this does not validate the nearest-neighbor spherical law or supply its beta0. Rotational invariance alone cannot remove different-radius mixtures. The follow-up discussion explicitly calls some extremality/limit issues expectations, not parts of Theorem 2.1.",
+        "remaining": "Proof Section 4 and other models/exponents/Poisson-Dirichlet results not read. No journal/preprint whole-text equivalence or complete state classification inferred.",
+        "content_checked": true,
+        "source_revision": "arXiv:1811.12834v2",
+        "text_line_convention": "1-based Unix LF lines as emitted by sed, retaining page-break characters",
+        "selected_not_full_paper": true
+      }
+    ]
+  },
+  "selected_originals_newly_read": 5,
+  "prior_selected_scope_reused": [
+    {
+      "id": "LIT-238-REVEALED-87930BF1BA",
+      "canonical_version": 1,
+      "canonical_record_sha256": "a7c7bab40c7321d87fbb86d615fff6cce3d791c9ad51138c024100ea56479e6f",
+      "source_revision": "arXiv:0707.2340v2",
+      "selected_scope": "Previously checked Theorems 4.9 and 4.20: strongly Rayleigh implies CNA+ and partial symmetrization preserves stability. Reuse only matching selected scope, not full BBL proof closure.",
+      "new_original_read_this_turn": false
+    }
+  ],
+  "selected_originals_do_not_mean_complete_history": true,
+  "full_history_complete": false,
+  "complete_family": false,
+  "canonical_credit_added": false,
+  "independent_mathematical_proof_audit": false,
+  "human_review": false,
+  "second_provider_review": false,
+  "new_application_run": false,
+  "remaining_selected_routes": [
+    "Asano/Ruelle zero-free trace antecedents if needed",
+    "Remaining historical roots and recursive dependencies"
+  ],
+  "analysis_format": "Converted text only. Third-party full bodies are hashed then removed; not republished.",
+  "additional_primary_acquisition": {
+    "at": "2026-10-27T11:03:07.201412+00:00",
+    "normal_TLS": true,
+    "max_pdf_bytes": 3145728,
+    "total_limit_bytes": 16777216,
+    "analysis_format": "converted text only",
+    "items": [
+      {
+        "key": "NOS2006",
+        "url": "https://arxiv.org/pdf/math-ph/0603064v1",
+        "resolved_url": "https://arxiv.org/pdf/math-ph/0603064v1",
+        "pdf_bytes": 176694,
+        "pdf_sha256": "d956ebb18b1d999f4121be6a01bf4c82429d10d3ffffeaea7d37cbdb31398698",
+        "text_bytes": 38132,
+        "text_sha256": "3218387a302841d036e94a1b844acd1240709a8143cb33566ba6df0862d3582b",
+        "text_lines": 557,
+        "conversion": "pdftotext -layout",
+        "conversion_stderr": "",
+        "status": "selected_original_scope_read_pending_canonical_curation",
+        "local_pdf": "/private/tmp/ai-paper-WP129-extra-history/NOS2006.pdf",
+        "local_text": "/private/tmp/ai-paper-WP129-extra-history/NOS2006.txt",
+        "text_ranges_read": [
+          [
+            40,
+            320
+          ]
+        ],
+        "printed_pages": "Selected printed pages 1-6",
+        "source_revision": "arXiv:math-ph/0603064v1",
+        "selected_statements": [
+          "Finite-dimensional site algebra and norm-completed local observable algebra",
+          "Uniformly integrable spatial F and convolution condition (1.3)-(1.4), interaction norm (1.7)",
+          "Theorem 2.1 Lieb-Robinson commutator bound with selected proof",
+          "Localization (2.19)-(2.23)",
+          "Theorem 2.2 norm-limit dynamics along arbitrary increasing exhaustive finite volumes, with selected Cauchy proof"
+        ],
+        "verified_scope": "For interactions in Ba on the metric lattice and the stated F summability/convolution assumptions, finite-volume dynamics converges in operator norm for every quasilocal observable, uniformly for compact times and independently of exhaustion, to a strongly continuous automorphism group. Fixed finite-dimensional spins with bounded finite-range interactions on Zd fit the setup after checking the interaction norm.",
+        "comparison_to_F271": "This is an established norm-dynamics baseline, distinct from constructing a low-temperature ordered KMS state. Lieb-Robinson locality controls observables and finite-region dynamics; it alone does not prove spontaneous magnetization, Bloch coefficients, spherical radius or a useful hardware error budget. Pure exponential F fails the convolution condition cited in the text; a polynomial factor is used. The source specifies an exhaustion, not arbitrary volume rearrangements without boundary control.",
+        "remaining": "Appendix A norm-preservation proof and referenced general algebra extension in Bratteli-Robinson not fully read. Quoted Section 3 theorem begins at the tail of the selected range but is not separately qualified. PDF identifies arXiv v1 while its body prints February 7, 2008; preserve URL, hash and observed date without inventing version equivalence.",
+        "content_checked": true,
+        "selected_not_full_paper": true,
+        "text_line_convention": "1-based Unix LF sed lines retaining page breaks"
+      },
+      {
+        "key": "DLM2020",
+        "url": "https://arxiv.org/pdf/1912.04533v3",
+        "resolved_url": "https://arxiv.org/pdf/1912.04533v3",
+        "pdf_bytes": 633197,
+        "pdf_sha256": "109c0ad5b6444ce7b4ab6e78eab765f341c4361ff36632b3f4b595d4d3beee1a",
+        "text_bytes": 100477,
+        "text_sha256": "f54499e79c307468e2615936048fe397138441a9325c9b3414a8bcd42903bb24",
+        "text_lines": 1514,
+        "conversion": "pdftotext -layout",
+        "conversion_stderr": "",
+        "status": "selected_original_scope_read_pending_canonical_curation",
+        "local_pdf": "/private/tmp/ai-paper-WP129-extra-history/DLM2020.pdf",
+        "local_text": "/private/tmp/ai-paper-WP129-extra-history/DLM2020.txt",
+        "text_ranges_read": [
+          [
+            406,
+            475
+          ],
+          [
+            827,
+            905
+          ]
+        ],
+        "printed_pages": "Section 4, printed pages 8-9; Appendix B, printed pages 16-17",
+        "source_revision": "arXiv:1912.04533v3",
+        "selected_statements": [
+          "Definition 4 determinant preservation for all square minors",
+          "Example 2 rank-one scalar random matrices",
+          "Lemma 4 closure under independent addition and multiplication",
+          "Appendix B adjugate expectation identity and full selected proof of Lemma 4",
+          "Lemmas 5-6 statements read but their proofs not read"
+        ],
+        "verified_scope": "Determinant preservation means expectation commutes with every square minor, not only the whole determinant. Scalar multiples of a fixed rank-one matrix are determinant preserving. Independent determinant-preserving matrices are closed under sums and products; the selected proof uses adjugate minors, fixed rank-one updates, conditioning and Cauchy-Binet.",
+        "comparison_to_F271": "An independent Bernoulli transposition has the form I+s(T-I) with rank-one T-I, so the old rank-one and closure mechanism explains the admissible unconditioned exterior moments. This does not establish that conditioning on all cycles hitting pins preserves the property. The unnormalized next-pin identity plus its positive-probability Schur complement remains the specific F271 bridge to a conditional hitting first moment. No equality of full paths or arbitrary dependent products follows.",
+        "remaining": "Applications to surrogate regression, MSE formulas, all empirical claims and Lemmas 5-6 proofs are not qualified here. Poisson sampling has extra conditions and is not interchangeable with fixed sample size. The arXiv v3 association to the 2020 proceedings citation is bibliographic, not a whole-text equivalence claim.",
+        "content_checked": true,
+        "selected_not_full_paper": true,
+        "text_line_convention": "1-based Unix LF sed lines retaining page breaks"
+      }
+    ]
+  }
+}

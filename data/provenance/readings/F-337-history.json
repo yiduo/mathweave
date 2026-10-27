@@ -1,0 +1,169 @@
+{
+  "at": "2026-10-27T05:07:54.663741+00:00",
+  "scope": "Selected primary original statement checks only; full originals and recursive proofs not inferred",
+  "rows": [
+    {
+      "key": "Duda2007",
+      "url": "https://ems.press/content/serial-article-files/35596",
+      "requested_at": "2026-10-27T05:07:44.444747+00:00",
+      "status": 200,
+      "final_url": "https://ems.press/content/serial-article-files/35596",
+      "content_type": "application/pdf",
+      "bytes": 221313,
+      "sha256": "18e581e5d74397df512eeb6b4fba2b77ec691232ba4496fe78e5422406506bd1",
+      "temporary_pdf": "/private/tmp/ai-paper-WP119/Duda2007.pdf",
+      "temporary_text": "/private/tmp/ai-paper-WP119/Duda2007.txt",
+      "text_sha256": "0d0c6db51cc924484b751a73b09c263cb81e45c1f08f523b1f52cd870f6b1806",
+      "text_lines": 1072,
+      "text_bytes": 61843,
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP119/Duda2007.pdf",
+        "/private/tmp/ai-paper-WP119/Duda2007.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "actually_read_selected_text_scope": {
+        "ranges": [
+          [
+            52,
+            141
+          ]
+        ],
+        "locator": "Journalp343 Definition(1.3) andTheorem1.1,selectedcontext",
+        "statement": "Lipschitz maps from finite-dimensional Rn to an arbitrary Banach space are two-moving-point metrically differentiable almost everywhere in the stated Definition1.3 sense.",
+        "match": "The source embeds Y in ell-infinity andextendscoordinates beforeusingthis;the extension isonlyfordifferentiation,CAT0comparisonsremainonoriginalimagepoints.",
+        "limit": "Kirchheimoriginalproof andequivalenceofallBoreldomainstepsnotchecked."
+      }
+    },
+    {
+      "key": "Wenger2005Iso",
+      "url": "https://arxiv.org/pdf/math/0306089v1",
+      "requested_at": "2026-10-27T05:07:44.445209+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/math/0306089v1",
+      "content_type": "application/pdf",
+      "bytes": 188578,
+      "sha256": "59c631d3fe14a7aa21fc42c3811f4ca52f205806e51ece9a70f2fff223d85ed0",
+      "temporary_pdf": "/private/tmp/ai-paper-WP119/Wenger2005Iso.pdf",
+      "temporary_text": "/private/tmp/ai-paper-WP119/Wenger2005Iso.txt",
+      "text_sha256": "a9680f70a99e1e41da34b5fdccc5ed0740b83a19c6d7f39fe4b7dcacb0ce7757",
+      "text_lines": 601,
+      "text_bytes": 38389,
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP119/Wenger2005Iso.pdf",
+        "/private/tmp/ai-paper-WP119/Wenger2005Iso.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "actually_read_selected_text_scope": {
+        "ranges": [
+          [
+            35,
+            105
+          ],
+          [
+            209,
+            270
+          ]
+        ],
+        "locator": "arXivmath/0306089v1 p2Definition1.1,Theorem1.2,Corollary1.4 andselectedcurrentdefinitions p5",
+        "statement": "Complete cone-inequalityspaces withlower-dimensional Euclidean exponent input admit currentfillingbounds;convexbicombing yieldsdimension/gamma constants. Constants explicitlycomputable butnonoptimal,evenEuclidean.",
+        "match": "CompactCAT0Y iscomplete withconvexgeodesicbicombing;oldfillingexistence/exponentalreadyavailable,notnewmethodclaim.",
+        "limit": "Originalrecursiveproof andactualK_n numericalconstantnotcomputed;do notcalloldconstantsnoncomputable."
+      }
+    },
+    {
+      "key": "GhomiSpruck2022",
+      "url": "https://arxiv.org/pdf/1908.09814v7",
+      "requested_at": "2026-10-27T05:07:44.445306+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/1908.09814v7",
+      "content_type": "application/pdf",
+      "bytes": 1963350,
+      "sha256": "1e6265a52e56d5e9f79ac13cb126ef9007820f6b3f061d1efb68e16ef08cc558",
+      "temporary_pdf": "/private/tmp/ai-paper-WP119/GhomiSpruck2022.pdf",
+      "temporary_text": "/private/tmp/ai-paper-WP119/GhomiSpruck2022.txt",
+      "text_sha256": "45d73d068e3d54b8bd8a798ecdcddb018e51e16f07cc3658da14d575c29432b0",
+      "text_lines": 2742,
+      "text_bytes": 177800,
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP119/GhomiSpruck2022.pdf",
+        "/private/tmp/ai-paper-WP119/GhomiSpruck2022.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "actually_read_selected_text_scope": {
+        "ranges": [
+          [
+            1635,
+            1713
+          ]
+        ],
+        "locator": "arXiv1908.09814v7 printedpp34-36,Theorem7.1 andLemma7.2(i)(ii),selectedproof",
+        "statement": "Theorem7.1 assumes a total-curvature inequality. Lemma7.2(i)(ii) supplyinteriorsingulardim<=n-8 andC11 obstaclecollar/curvaturebound;their displayedproof usesregularityinputswithoutthetotal-curvatureconclusion.",
+        "match": "F337first04-profile usesselectedunconditionalregularityparts,notTheorem7.1 asalreadyunrestrictedproof.",
+        "limit": "UnderlyingGonzalez/Massari/Tamanini,StredulinskyZiemer/Morgan proofchainsunreviewed;notfullpaper."
+      }
+    },
+    {
+      "key": "NobiliViolo2025",
+      "url": "https://arxiv.org/pdf/2409.14182v2",
+      "requested_at": "2026-10-27T05:07:44.445385+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2409.14182v2",
+      "content_type": "application/pdf",
+      "bytes": 851348,
+      "sha256": "16d6a5e2a7fd94da82b66a2ea024c8d84a2043d4c98ae14b47b8f73d557b9728",
+      "temporary_pdf": "/private/tmp/ai-paper-WP119/NobiliViolo2025.pdf",
+      "temporary_text": "/private/tmp/ai-paper-WP119/NobiliViolo2025.txt",
+      "text_sha256": "45041aa98b6541ad02501ac94c53f2111eae7ecb258e6c96bbe1f641611f514d",
+      "text_lines": 2863,
+      "text_bytes": 217584,
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP119/NobiliViolo2025.pdf",
+        "/private/tmp/ai-paper-WP119/NobiliViolo2025.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "actually_read_selected_text_scope": {
+        "ranges": [
+          [
+            105,
+            153
+          ],
+          [
+            365,
+            410
+          ],
+          [
+            705,
+            748
+          ],
+          [
+            2106,
+            2182
+          ]
+        ],
+        "locator": "arXiv2409.14182v2 Theorem1.1,Lemma3.1,Theorem1.6 andSection7.1radialconstruction,selectedcontext",
+        "statement": "Weighted-intervalrearrangement requires a support-neighborhood relative-perimeterprofilebound andp>1;preservesdistributions andcontrolsweightedpenergy. Radialweighted-EuclideanFaberKrahnisanapplication,notanidentificationwithgeneralRiemannianmetric.",
+        "match": "F337extendscompacttesttoglobalM,usesallambientperimeterwithC1 andmodelareadensity;provesmodelradialDirichletmembership separately.",
+        "limit": "Otherassumptions,completeproof/equalityrigidity andrecursiveBVidentificationnotfullychecked;not a numericalmeshcertificate."
+      }
+    }
+  ],
+  "bytes": 3224589,
+  "web_transport_failure": "Duda EMS web-tool timeout; directofficial TLS attempted separately,no inference of missing source.",
+  "selection_original_cap": 4,
+  "selection_byte_cap": 8388608,
+  "converted_text_only": true,
+  "full_original_proof_review": false,
+  "full_lineage_complete": false
+}

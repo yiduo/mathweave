@@ -1,0 +1,386 @@
+{
+  "id": "EXP-149-001",
+  "version": 1,
+  "registered_at": "2026-10-27T09:42:00.261159+00:00",
+  "connection_id": "APP-149-01",
+  "family_id": "F-149",
+  "parent_plan": "experiments/plans/MAP-149-001.json",
+  "status_at_registration": "preregistered_before_target_outputs;implementation_not_yet_committed",
+  "hypothesis": "在预先固定的弱可逆质量作用合成例中，存在连续模型符合源文前提但显式Euler产生负坐标的步长；分开两类证书可标出全部此类错误保证，并对满足逐步非负条件的对照不误标为已证长期数值永久性。",
+  "operationalization": "Preserve original existentialnegative-step/claim-separation prediction. Also require a negative event in nonlinear multilinkage stratum,so scalar/linear controls alone cannot fulfill this package. No trajectory-accuracy or new integrator-speed target added.",
+  "input": {
+    "kind": "Explicit synthetic nonlinear reaction-network finite-report stress pack;not biochemical measurements,not blind discovery.",
+    "models": [
+      {
+        "id": "three_species_exchange",
+        "stratum": "nonlinear_multilinkage",
+        "species": [
+          "A",
+          "B",
+          "C"
+        ],
+        "conservation_weights": [
+          "1",
+          "1",
+          "1"
+        ],
+        "reactions": [
+          {
+            "source": [
+              1,
+              1,
+              0
+            ],
+            "target": [
+              0,
+              2,
+              0
+            ],
+            "rate": "1"
+          },
+          {
+            "source": [
+              0,
+              2,
+              0
+            ],
+            "target": [
+              1,
+              1,
+              0
+            ],
+            "rate": "2"
+          },
+          {
+            "source": [
+              0,
+              1,
+              1
+            ],
+            "target": [
+              0,
+              0,
+              2
+            ],
+            "rate": "3"
+          },
+          {
+            "source": [
+              0,
+              0,
+              2
+            ],
+            "target": [
+              0,
+              1,
+              1
+            ],
+            "rate": "1"
+          },
+          {
+            "source": [
+              1,
+              0,
+              1
+            ],
+            "target": [
+              2,
+              0,
+              0
+            ],
+            "rate": "2"
+          },
+          {
+            "source": [
+              2,
+              0,
+              0
+            ],
+            "target": [
+              1,
+              0,
+              1
+            ],
+            "rate": "5"
+          }
+        ],
+        "initial_states": [
+          [
+            "1/3",
+            "1/3",
+            "1/3"
+          ],
+          [
+            "1/10",
+            "2/10",
+            "7/10"
+          ],
+          [
+            "7/10",
+            "2/10",
+            "1/10"
+          ]
+        ],
+        "old_scope": "Three reversible linkage classes. No claim of being outside old strong-endotactic/low-stoichiometric-dimension results;independent old conservation/loss reference suffices for finite-time positivity. No2026noveltycredit."
+      },
+      {
+        "id": "weighted_multimerization",
+        "stratum": "nonlinear_multilinkage",
+        "species": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "conservation_weights": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reactions": [
+          {
+            "source": [
+              2,
+              0,
+              0,
+              0
+            ],
+            "target": [
+              0,
+              1,
+              0,
+              0
+            ],
+            "rate": "1"
+          },
+          {
+            "source": [
+              0,
+              1,
+              0,
+              0
+            ],
+            "target": [
+              2,
+              0,
+              0,
+              0
+            ],
+            "rate": "3"
+          },
+          {
+            "source": [
+              1,
+              1,
+              0,
+              0
+            ],
+            "target": [
+              0,
+              0,
+              1,
+              0
+            ],
+            "rate": "2"
+          },
+          {
+            "source": [
+              0,
+              0,
+              1,
+              0
+            ],
+            "target": [
+              1,
+              1,
+              0,
+              0
+            ],
+            "rate": "1"
+          },
+          {
+            "source": [
+              1,
+              0,
+              1,
+              0
+            ],
+            "target": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "rate": "4"
+          },
+          {
+            "source": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "target": [
+              1,
+              0,
+              1,
+              0
+            ],
+            "rate": "1"
+          }
+        ],
+        "initial_states": [
+          [
+            "1/10",
+            "1/10",
+            "1/10",
+            "1/10"
+          ],
+          [
+            "1/2",
+            "1/20",
+            "1/20",
+            "1/20"
+          ],
+          [
+            "1/20",
+            "1/20",
+            "1/20",
+            "1/5"
+          ]
+        ],
+        "old_scope": "Reversible weighted-conservative assembly control. No claim outside historical deficiency-zero/complex-balance theory;old elementary finite-time reference suffices. Old theorem classification not independently proof-audited."
+      },
+      {
+        "id": "scalar_logistic",
+        "stratum": "old_nonlinear_unbounded_class_control",
+        "species": [
+          "A"
+        ],
+        "reactions": [
+          {
+            "source": [
+              1
+            ],
+            "target": [
+              2
+            ],
+            "rate": "2"
+          },
+          {
+            "source": [
+              2
+            ],
+            "target": [
+              1
+            ],
+            "rate": "1"
+          }
+        ],
+        "initial_states": [
+          [
+            "1/8"
+          ],
+          [
+            "1"
+          ],
+          [
+            "3"
+          ]
+        ],
+        "old_scope": "Classical one-species single-linkage logistic ODE;positive stoichiometric class unbounded buteach trajectory has elementary invariant interval. Zero2026incrementalcredit."
+      }
+    ],
+    "rate_scales": [
+      "1",
+      "8"
+    ],
+    "steps": [
+      "1/256",
+      "1/32",
+      "1/4",
+      "2"
+    ],
+    "steps_per_case": 8,
+    "rational_lower_exponent_cap": 4096,
+    "report_claims": [
+      "conditional_continuous_permanence",
+      "finite_continuous_positive",
+      "finite_euler_nonnegative",
+      "finite_euler_positive",
+      "eventual_numerical_permanence",
+      "uniform_initial_burnin",
+      "arbitrary_step_from_continuous_theorem"
+    ],
+    "order": "Listedmodels,scale,step,thenlistedinitial;all72casesretained. No parameterselectionafteroutputs. StopeachEulertraceatfirstnonpositivecoordinate;neverpropagate negativeconcentrations throughmassaction.",
+    "report_requests": "Everycase requests same sevenclaimkinds;finiteEulerdecisionsuseallvisitedupdates. Sourcepermanenceisconditionalonunacceptedsourceproof;noeffectiveK_P/epsilon_P oruniformburnin supplied.",
+    "arithmetic": "ExactFraction rational parsing,fluxes,updates,weightedmassandfinitebound,no float tolerance. Measured clocks stored in manifestonly."
+  },
+  "reference": {
+    "conservative": "Positiveweightsw,M=w dotx0,m_i=M/w_i. Checkentirereactionconservation;lossK fromseparatechannels. Independentexpandedpolynomial groupscoefficientvectors,checks w dotcoeff=0 andnegativecoefficientscontainx_i,computesindependentnetlossKprime<=offeredK. Thus f_i>=-K_i x_i onnonnegativecompactsimplex. Positivityandcompactcontinuationgiveglobalpositivefinite-timereference.",
+    "lower": "x_i(t)>=x_i0 exp(-K_i t)>=x_i0/3^ceil(K_i t)>0;classicale<3. Actualrationalt=step*visitedsteps. Cap4096frozen;exceedanceisjudgefailure,nocapraise.",
+    "logistic": "Independentpolynomialmustexactlya*x-b*x² witha,b>0. Verifyinitial-dependentclosedinterval[min(x0,a/b),max(x0,a/b)];uniqueODEneverleavesbyelementarysign/uniqueness. No generalunbounded-classreferenceinferred.",
+    "scope": "Analytic finite-time nonlinear certificate,not numerical trajectory enclosure,errorestimate,asymptoticpersistenceproof orclass-uniformabsorbingregion. Genericmassboundderivation usesstandardold calculus. No reliance onF149proof tovalidate finiteODEreference.",
+    "shared_failure_modes": "OneOpenAIsession designedbothpaths;Fractionengine,inputinterpretationandclassiccalculusshared. Independentalgorithmorganizationsarenotindependenthuman/providerreview."
+  },
+  "baseline": {
+    "strong_old": "Exact actual per-coordinate update via independentlyexpandedpolynomial andordinaryfinite-step positivitycheck;explicit noeventualclaimwithoutnumericalproof. Fullpolynomialsetup andallsteps charged. Honestoldreportoraclecomputes truthlabels separately.",
+    "false_guarantee": "Unqualifiedsource-implies-arbitrary-Eulerstep claim is a diagnosticerrorcategory only;not the solecomparator or a newmethod benefit.",
+    "zero_hypothesis": "Old finite algebra/continuousbarriers already suffice. Samefiniteguarddecisions establish no2026increment;performance advantage is neitherpredicted norinferred.",
+    "cost": "Allinputqualification,sourceconditionalbookkeeping,referenceconstruction/verification,bothEulerpaths,bothreports,progresscompression charged tototal60s/64MiB. Runtime-onlyperstageclockssavedinmanifest,wholeCLIpeakRSS separatelycapped128MiB;no perrouteisolatedmemory orspeedclaim."
+  },
+  "success": {
+    "fixtures": 72,
+    "reference_valid_all": true,
+    "exact_reaction_expanded_updates_all": true,
+    "weighted_conservation_all": true,
+    "all_report_claims_match_independent_old_judge": true,
+    "negative_euler_events_minimum": 1,
+    "nonlinear_multilinkage_negative_events_minimum": 1,
+    "eventual_numerical_permanence_claims": 0
+  },
+  "failure_policy": {
+    "reference_exception_missing_conflict": "inconclusive,noinitialcheckcredit;retainallotherrawrowsandnullvalidatedaggregates",
+    "valid_false_classification_or_no_negative_event": "adverseoriginalprediction,pendinghumanreview,notformalrejection",
+    "resource_timeout_archive_replay_failure": "preservepartialprogress/source/logs,do notpromote orautoincreasecaps"
+  },
+  "metrics": [
+    "All72whole-inputmodel/scale/step/initial IDs",
+    "EveryvisitedexactEulerupdateviareactionandindependentexpandedpolynomial",
+    "Weakreversibility,positivefixedrates,positiveinitialandreferencequalification",
+    "Finiteanalyticreferencecertificate andpositivelower,nevercomputedpermanentregion",
+    "Sevenreportlabels versusindependentoldoracle,strictpositiveversusnonnegative separated",
+    "Allnegativeevents includingnonlinearmultilinkage",
+    "Fulltotalelapsed/tracemalloc/RSS plusruntime-onlystageclockobservations",
+    "Old-methodzero-increment andallfailures retained"
+  ],
+  "resource_limit_seconds": 60,
+  "resource_limit_mb": 64,
+  "resource_limit_rss_mb": 128,
+  "phase_watchdog": {
+    "setup_seconds": 30,
+    "archive_seconds": 30,
+    "poll_seconds": 0.1,
+    "meaning": "Freshsupervisorwithwholeworkerwait4RSS;enforcecompletedsetup/calculation/archivecaps,includingfailurepaths. No newexternal runtime."
+  },
+  "retain_runtime_metrics": true,
+  "additional_source_paths": [
+    "scripts/run_experiment_attempt.py",
+    "scripts/measure_experiment_worker.py",
+    "scripts/replay_run.py",
+    "experiments/plans/APP-149-01-review-packet-v2.md",
+    "experiments/preparation/WP-126-source-reference-v1.json",
+    "tests/test_mass_action.py"
+  ],
+  "implementation_freeze": "Separatelocalcommitofexecutable spec,allactualimplementation/fixtures/reviewpacket beforeanytargetcall;verifyGitblobhashes atfirstattempt. No freezecreditfromthisJSONalone.",
+  "replay": "Actual archivedsources inisolateddirectory;raw/summary exactcompleteJSONequality withnofieldexclusions. Measuredruntimeclocksliveonlyinmanifestandreplayresourcesindependentlypass.",
+  "storage": "gzipraw/summary/source/progress/logs andverifyuncompressedSHAandmembersbeforeplaintextcleanup;upstreammathnotcopied.",
+  "limitations": [
+    "A synthetic finiteworkflowtest,not newmathematics,sourceproofaudit,biologyaccuracyorproductionbenchmark.",
+    "No asserted improvement overthehonestoldcoordinateguard oroverold coveredpermanencecases.",
+    "No humanmathreview,independentsecondprovider,Leanbuild orComparatorexecution.",
+    "Fixtureselectionandreferencepreparation are exposedpre-experimentmodelreasoning,notblinddiscovery."
+  ],
+  "formal_rejection": false
+}

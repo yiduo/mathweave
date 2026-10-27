@@ -232,3 +232,16 @@ see qesource/LICENSE inside the archive. They were read as selected
 interfaces and examples, not installed or executed. External REDLOG,
 RAGlib and paper fulltexts are referenced by exact reading scope and
 available URL/revision/hash, and are not redistributed here.
+
+
+Selected Autograd 1.9.1 implementation scopes (2026-10-27):
+Six unmodified wheel members, including the complete original MIT license,
+are retained in data/provenance/tools/autograd-selected-1.9.1-20261027.tar.gz.
+Source: HIPS/autograd, official PyPI wheel autograd-1.9.1-py3-none-any.whl,
+SHA256 b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a.
+Copyright (c) 2025 by the President and Fellows of Harvard University.
+These materials retain the MIT terms in the archive member
+autograd-1.9.1.dist-info/licenses/license.txt;they are not relicensed by
+this project. Only ranges in data/provenance/readings/F-337-AD-preparation.json
+were read;retaining a full file is not a full code audit,execution,
+actual software-defect finding orapplication validation.

@@ -1,0 +1,230 @@
+{
+  "at": "2026-10-27T10:35:58.870542+00:00",
+  "helpers_archive_sha256": "ba6dd27f47c6a641482b4d5026244347b45c0862e4eca652ff48954b89c9db4a",
+  "archive_bytes": 209215,
+  "uncompressed_tar_bytes": 348160,
+  "verified_member_count": 39,
+  "members": {
+    "primary-discovery.json": {
+      "bytes": 849,
+      "sha256": "0a297247626a5cb7517003874225231331bbdcc9be44986e15c08562a20ee333"
+    },
+    "curate.py": {
+      "bytes": 18849,
+      "sha256": "ee98f0b20814d86a0b298269316dee21f9d12d1a7a0fa5d2729ccde77befb3e6"
+    },
+    "fetch_primary.py": {
+      "bytes": 1564,
+      "sha256": "d9d6481e4b089c8cd3e2cbe2f6211f8df0cdee5c0f4ec141595e3d0d126c4246"
+    },
+    "prev-quality.py": {
+      "bytes": 6943,
+      "sha256": "d7361636f460062dc3b4a81ec807ce75921a14704697e62f4fcdbc8db70504ce"
+    },
+    "prev-clean_check.py": {
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    "core.log": {
+      "bytes": 15992,
+      "sha256": "6d723a9fe37778a7f895476f90036140ac95f3f5f0855127180eb70ee2760d5f"
+    },
+    "close.py": {
+      "bytes": 12040,
+      "sha256": "071edade600e70037860f455d6ddac5f561cc95f406d513183729b69f6d40c78"
+    },
+    "fetch_alternative.py": {
+      "bytes": 1248,
+      "sha256": "4ae13f411b6c911d211f89cd8b8f9687bddfa413ada477581433f0c5e1ac5c74"
+    },
+    "Pyber-publications-receipt.json": {
+      "bytes": 159,
+      "sha256": "621253e6bdcc4bb5b896a0c7097d2a4fb509c790a69881d56a794db32ba58132"
+    },
+    "replay-F149.json": {
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    "replay-F325.json": {
+      "bytes": 568,
+      "sha256": "94bce7fe7d92c4ea5a4adc64c953bb60821cfd5c3ec3cce67f1996f3275dec7e"
+    },
+    "replay-F149.log": {
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    "curation.log": {
+      "bytes": 693,
+      "sha256": "8f1e48e814e70f178457852ba439d4a53a6c8e06190d0fd903f1ea4a662c0166"
+    },
+    "prepare_closure.py": {
+      "bytes": 6448,
+      "sha256": "fca9f27cce5b1764386da9d072a67e4b57888ff0cb26b9d0c164d2a5a905256e"
+    },
+    "prev-close.py": {
+      "bytes": 15127,
+      "sha256": "7f2f70c007f72dd4be13ef4b12feaf14814408c11fd2c2f67055d51e667f68df"
+    },
+    "clean.log": {
+      "bytes": 405,
+      "sha256": "4fd5ec4106d29465542853543de9e9c3e9c2b9daf7780a3db73bf0d5049129bd"
+    },
+    "clean-core.log": {
+      "bytes": 15992,
+      "sha256": "081ea4c12ad23c53f5ecc56610b4c2af9bf3b6de39c661771292690944dbc72d"
+    },
+    "fetch.log": {
+      "bytes": 871,
+      "sha256": "1781a3da16ea13843eef94f7aaa38a429dc83724f0f3546946db791335474f24"
+    },
+    "alternative-fetch.log": {
+      "bytes": 540,
+      "sha256": "ffcc513acc5649f6f0c929a4b08ab293de7e1a1aac10b78c5da71fea05140e0e"
+    },
+    "quality.json.gz": {
+      "bytes": 5620,
+      "sha256": "be63732e5128ffd751b08772c354871c4e1035fdf607e0b5450c621e02c48dc0"
+    },
+    "build_report.py": {
+      "bytes": 4160,
+      "sha256": "76fe244867419ecc3aa3e191d6af11bdd29e9c8e8cc2f8646f7beab7f5c6e244"
+    },
+    "quality.log": {
+      "bytes": 1066,
+      "sha256": "c416402c88527ec0b81c30e7b381c26d5fe62b498967c6666465c80c9c7bba1d"
+    },
+    "quality-failed-coverage-shape.log": {
+      "bytes": 375,
+      "sha256": "1fe0205c11e6772676ebe27c63539a49708a04e5fda3b280adbecadb840759ac"
+    },
+    "discover_primary.py": {
+      "bytes": 1132,
+      "sha256": "45b06ac964279f02febb8729993edaa63dad38b272fe07b4f1bd9acf2ff543ab"
+    },
+    "third-party-cleanup-receipt.json": {
+      "bytes": 1887,
+      "sha256": "94ea24330de12886fbf53b1610b95df597fcc0f02ce6e48be73543f46cbe4064"
+    },
+    "alternative-fetch-receipt.json": {
+      "bytes": 646,
+      "sha256": "a5de3ac8de7c9459cd9deb0d06271ce89dcd90db223e9a5241e8915c3f558ab7"
+    },
+    "curation-summary.json": {
+      "bytes": 859,
+      "sha256": "9a872709b42bbfa5a736af395a45a6f4b8a6a895b5cc82b3668152bf0fce33ef"
+    },
+    "clean-check.json.gz": {
+      "bytes": 160222,
+      "sha256": "35a2cd896951269d0d36d8251a58eccdbae20500538a1e88a45c4c9276d396dd"
+    },
+    "clean_check.py": {
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    "quality-failed-coverage-shape.py": {
+      "bytes": 7941,
+      "sha256": "fc16c2c9185754b246fa4461432cd9d60d4631a4355d580f1bdaaa90d567b7be"
+    },
+    "closure.json": {
+      "bytes": 3195,
+      "sha256": "b8220ff2343c455980bc8e383b4155ba32cb9d63fce4098479b1112dadb25221"
+    },
+    "next-selection.json": {
+      "bytes": 3447,
+      "sha256": "91b386864da5cd78b468aa08c19391b11df04727d2cc68542d89d0315b01c69c"
+    },
+    "quality.py": {
+      "bytes": 8008,
+      "sha256": "5bfdced41866aa53a102d079e1ee9c8207f95c7430c58fbefeb17d8dab93315a"
+    },
+    "Pyber-publications.log": {
+      "bytes": 151,
+      "sha256": "1b2e3aab509d1a0a571cc09cf33a197200b8ce54ecf6dc7609cf27ec5d7542dd"
+    },
+    "fetch-receipt.json": {
+      "bytes": 2049,
+      "sha256": "4fb745e35913f80d0c5739d64adcea8e0fb2f65b4579c3440bf2c282e17d0b68"
+    },
+    "fetch-network.log": {
+      "bytes": 1644,
+      "sha256": "3f21754ae41e0daf03e3ea81fd2fa2c7e2ca686d74ffdfefc7a20421c7b1cbc6"
+    },
+    "partial-checkpoint.json": {
+      "bytes": 1230,
+      "sha256": "411c60cb5443da0a379a9c1df21268218de072461c3a4505b28b950212ddbbaa"
+    },
+    "replay-F325.log": {
+      "bytes": 568,
+      "sha256": "94bce7fe7d92c4ea5a4adc64c953bb60821cfd5c3ec3cce67f1996f3275dec7e"
+    },
+    "primary-discovery.log": {
+      "bytes": 655,
+      "sha256": "c54090c70ce9c3d4da62a400eaba0bc6c541d09ac2e846d98079824ec727977b"
+    }
+  },
+  "all_members_roundtrip_verified": true,
+  "third_party_files_hash_verified_before_removal": [
+    {
+      "name": "BKS2012.pdf",
+      "bytes": 175711,
+      "sha256": "3e3413e86519818d469809aeec843a76c051f8078aecd1d71dad5b07d7592c9a",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "BKS2012.txt",
+      "bytes": 39981,
+      "sha256": "2c246a42baa57a6490f51abc125435dd9ba88c8f17b5ed0d520873458160052d",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "KKS2015.pdf",
+      "bytes": 321960,
+      "sha256": "73b79b32017bba33af4002f706e8f41dd37f7ffde8cb46a0361790c2613eb489",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "KKS2015.txt",
+      "bytes": 50628,
+      "sha256": "a0f64b4fe7bc43bdba968c0ceff134a9d889421424c72ee64e8497ecb7df2cda",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "AABC2025.pdf",
+      "bytes": 336834,
+      "sha256": "473aa03893c8b1b113db0126d7ae5a637a0d10e178914e76634ba2a36b9e7bfd",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "AABC2025.txt",
+      "bytes": 45952,
+      "sha256": "64c21f9bf79890e9ab29c4010e471fda862331ccab63053274bf9ec75f6d8406",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "Krivelevich2019.pdf",
+      "bytes": 194789,
+      "sha256": "63ed65efcaf5fc67cbe75fbf81c53cec7e9166db303b80eff1b3a1711c03f0a9",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "Krivelevich2019.txt",
+      "bytes": 48929,
+      "sha256": "99e666c8ba7a2e752cae7964462c966fc1f6e84dfa0c88fc21f379bb0b7d91c0",
+      "removed_after_hash_verification": true
+    },
+    {
+      "name": "Pyber-home.html",
+      "bytes": 1102,
+      "sha256": "be3da9334791002bf479b8a226eb9ee53170ac699973a17e2d628017dbf26c52",
+      "removed_after_hash_verification": true
+    }
+  ],
+  "third_party_bytes_removed": 1215886,
+  "clean_directory_removed": true,
+  "clean_copy_bytes_removed": 93023244,
+  "temporary_root_removed": "/private/tmp/ai-paper-WP128",
+  "third_party_full_text_republished": false,
+  "numerical_source_archives_verified": 18,
+  "source_members_verified": 378,
+  "scope": "Third-party original/text files were hashed then removed,not republished. Own helpers,failed drafts,logs and receipts compressed and verified member-by-member. No raw corpus duplication or dependency installation."
+}

@@ -1,0 +1,184 @@
+{
+  "at": "2026-10-27T07:36:39.091276+00:00",
+  "scope": "Primary original statement scopes only; PDF analyzed only through converted text; downloaded bytes bounded and will be hash-verified before cleanup.",
+  "rows": [
+    {
+      "key": "BM2024",
+      "requested_url": "https://arxiv.org/pdf/2211.07689v2",
+      "at": "2026-10-27T07:36:33.729291+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/2211.07689v2",
+      "content_type": "application/pdf",
+      "bytes": 475679,
+      "sha256": "609d9697be408af76e1026951c2480deae9d35780f18f9ba887da10f38c1dfef",
+      "temporary_pdf": "/private/tmp/ai-paper-WP122/BM2024.pdf",
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP122/BM2024.pdf",
+        "/private/tmp/ai-paper-WP122/BM2024.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "temporary_text": "/private/tmp/ai-paper-WP122/BM2024.txt",
+      "text_bytes": 137982,
+      "text_sha256": "151bb790c29e27418c3d3346a27f2139e8ba5b9256ba66ba121bf9f212339a61",
+      "text_lines": 1737,
+      "actual_selected_ranges_read": [
+        [
+          1,
+          100
+        ],
+        [
+          365,
+          380
+        ],
+        [
+          1380,
+          1410
+        ],
+        [
+          1600,
+          1618
+        ]
+      ],
+      "selected_scope_locator": "arXiv2211.07689v2 Theorem2,Theorem6,Theorem21/Corollary22,Section6 lowerbound",
+      "selected_scope_statement": "O(n logstar n) predecessor;bounded-rank Hall statement and endpoint-load-two corollary;odd-side completebipartite lowerbound. AH/Lovasz original proofs not reviewed.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "CFS2014",
+      "requested_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing.pdf",
+      "at": "2026-10-27T07:36:33.729703+00:00",
+      "status": 200,
+      "final_url": "https://people.math.ethz.ch/~sudakovb/cycle-packing.pdf",
+      "content_type": "application/pdf",
+      "bytes": 186102,
+      "sha256": "f85d566087f21fdc2b5b74c21b4409bf2d6ce2153bc3016533f4c452bc6eecfb",
+      "temporary_pdf": "/private/tmp/ai-paper-WP122/CFS2014.pdf",
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP122/CFS2014.pdf",
+        "/private/tmp/ai-paper-WP122/CFS2014.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "temporary_text": "/private/tmp/ai-paper-WP122/CFS2014.txt",
+      "text_bytes": 64518,
+      "text_sha256": "7c6974a9b8bfd3b44cc7e321b58800f5d11281ac2e58327f81d1da0ed079a9e5",
+      "text_lines": 1050,
+      "actual_selected_ranges_read": [
+        [
+          80,
+          106
+        ],
+        [
+          230,
+          255
+        ],
+        [
+          896,
+          925
+        ]
+      ],
+      "selected_scope_locator": "Publishedpp609-610 Theorems1.2-1.4,Lemma3.1,Lemma6.3",
+      "selected_scope_statement": "Average-degree O(nloglogd),linear-minimum-degree O(c^-12 n),randomgraph asymptoticlinear count;small-side charge and trimmed bipartitepaths areold interfaces.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "GGKO2021",
+      "requested_url": "https://arxiv.org/pdf/1911.05501",
+      "at": "2026-10-27T07:36:33.729796+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/pdf/1911.05501",
+      "content_type": "application/pdf",
+      "bytes": 779610,
+      "sha256": "16b4f72b0a5f8020d48c0067ce9db33c5c9ef69d41a39ab5558f763cb16b4dbd",
+      "temporary_pdf": "/private/tmp/ai-paper-WP122/GGKO2021.pdf",
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP122/GGKO2021.pdf",
+        "/private/tmp/ai-paper-WP122/GGKO2021.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "temporary_text": "/private/tmp/ai-paper-WP122/GGKO2021.txt",
+      "text_bytes": 249316,
+      "text_sha256": "1fca4e3f90d43962bda6d1acf2227aa977d94b7a4376b41754e61eb8bf3987c6",
+      "text_lines": 3229,
+      "actual_selected_ranges_read": [
+        [
+          100,
+          119
+        ],
+        [
+          168,
+          235
+        ],
+        [
+          2920,
+          2971
+        ]
+      ],
+      "selected_scope_locator": "arXiv1911.05501v2 Theorem1.10(iii),Conjecture1.14,Proposition6.3",
+      "selected_scope_statement": "Linearmindegree sufficientlylarge(3/2+delta)n oldbound;weakcut cycle-only Delta/2+delta*n is equivalent to generalErdosGallai withforallepsilonquantifier order,not a previouslyunconditional theorem withoutminimumdegree.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "EGP1966",
+      "requested_url": "https://www.renyi.hu/~p_erdos/1966-21.pdf",
+      "at": "2026-10-27T07:36:35.481830+00:00",
+      "status": 200,
+      "final_url": "https://www.renyi.hu/~p_erdos/1966-21.pdf",
+      "content_type": "application/pdf",
+      "bytes": 1646662,
+      "sha256": "c9f11a74fef7d08ca2af203691c4ebfdb1ff141a4a43d8a22efc519e4d15253f",
+      "temporary_pdf": "/private/tmp/ai-paper-WP122/EGP1966.pdf",
+      "conversion_command": [
+        "/opt/homebrew/bin/pdftotext",
+        "-layout",
+        "/private/tmp/ai-paper-WP122/EGP1966.pdf",
+        "/private/tmp/ai-paper-WP122/EGP1966.txt"
+      ],
+      "conversion_exit": 0,
+      "conversion_stderr": "",
+      "temporary_text": "/private/tmp/ai-paper-WP122/EGP1966.txt",
+      "text_bytes": 18408,
+      "text_sha256": "bf1077cacb9cd91d009995e7c6855579534eba7bed876ac406cc58db9220f6d8",
+      "text_lines": 277,
+      "actual_selected_ranges_read": [
+        [
+          170,
+          203
+        ]
+      ],
+      "selected_scope_locator": "Journalp110 Section5",
+      "selected_scope_statement": "Explicit distinction overlappingcover/edge-disjointcover;Gallai K3,n-3 lowerconstruction and proposedlinear cn bound. Convertedformula punctuation degraded;not a newlycomputed sharp bound.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "Lovasz1968",
+      "requested_url": "https://www.researchgate.net/profile/Laszlo-Lovasz/publication/268652766_On_covering_of_graphs/links/5e1465b7299bf10bc3967731/On-covering-of-graphs.pdf",
+      "at": "2026-10-27T07:36:35.604193+00:00",
+      "failure": "<HTTPError 403: 'Forbidden'>"
+    }
+  ],
+  "full_proof_review": false,
+  "full_lineage_complete": false,
+  "third_party_republication": false,
+  "bytes": 3088053,
+  "selected_original_count": 4,
+  "sandbox_failure_receipt": "Preserved in compressed helper archive;DNS unavailable before authorized network read",
+  "publisher_metadata_only": {
+    "AH2000": {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/1097-0118(200010)35:2%3C83::AID-JGT2%3E3.0.CO;2-V",
+      "original_body_checked": false
+    }
+  },
+  "web_transport_failure": {
+    "GGKO_author_url": "Web timeout before successful arXiv acquisition",
+    "Lovasz_original": "local403;webconvertedtext openingonly,Theorem1 not checked;not original-scope qualified"
+  }
+}

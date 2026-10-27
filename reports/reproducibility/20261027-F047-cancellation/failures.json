@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-27T03:48:56.060347+00:00",
+  "precanonical_lookup_failure": "Attempt looked for corpus family/manuscript IDs in canonical-only JSONL;fixed to graph.load union before mutation. First failure log retained.",
+  "text_conversion_failures": [
+    "bs4 unavailable in existing bundled runtime;no install;replaced with stdlib HTMLParser preserving MathML alttext.",
+    "First selected-excerpt locator rindex selected a later theorem reference;changed to newline-anchored heading before reading. No original reading credit for failed output."
+  ],
+  "system_python_report_failure": "First system Python3.9 invocation emitted Non-UTF-8 SyntaxError. Subsequent byte-level UTF-8 decode passed and bundledPython3.12 executed exact helper successfully;cause not established. No claim of an encoding repair.",
+  "external_source_failures": {
+    "BassConnellWright": "Publisher403 via web and bounded urllib. DuttaLahiri2.17 reproduces compatible statement as secondary evidence;original Theorem3(a) remains unqualified.",
+    "Suslin": "Web extracted statement read,local TLS handshake failed twice;do not repeat this route without changed source/access."
+  },
+  "github_inventory_search": "Singular code-search connector transport failure;Sage generic coordinate excerpts were unrelated. Subsequent broad web search snippets not accepted as pinned source evidence or new application.",
+  "scientific_failure_outputs_modified": false
+}

@@ -1,0 +1,42 @@
+{
+  "generation": "GEN-20261027-113",
+  "base_commit": "011f37b051f71581cb2974b09be1c69dd03d9e42",
+  "old_records": 5248,
+  "new_records": 15,
+  "new_explicit_edges": 20,
+  "new_candidates": 0,
+  "new_application_checks": 0,
+  "new_scientific_experiments": 0,
+  "source_files": 3,
+  "selected_lines": 1687,
+  "source_bytes": 159523,
+  "new_record_ids": [
+    "LIT-047-SINGULAR-ALGEBRA-API",
+    "LIT-047-SINGULAR-BIJECTIVE-CALLER",
+    "LIT-047-SAGE-MORPHISM-API",
+    "CLM-047-CONSUMER-SINGULAR-GRAPH",
+    "CLM-047-CONSUMER-SINGULAR-DOMAIN-SCOPE",
+    "CLM-047-CONSUMER-SAGE-QUOTIENT-GUARD",
+    "CLM-047-CONSUMER-SAGE-GRAPH-INVERSE",
+    "PART-047-CONSUMER-MAP-CERTIFICATE",
+    "PART-047-CONSUMER-SOURCE-RELATION-GUARD",
+    "PART-047-CONSUMER-TYPED-GRAPH",
+    "PART-047-CONSUMER-STABLE-SEMANTICS-GATE",
+    "PROB-047-CONSUMER-EXACT-MAP-BASELINE",
+    "PROB-047-CONSUMER-INCREMENTAL-WORKLOAD",
+    "EXPLORE-F-047-CONSUMERS",
+    "GEN-20261027-113"
+  ],
+  "initial_graph_validation": {
+    "nodes": 8373,
+    "research_nodes": 5259,
+    "edges": 24014,
+    "citations_checked": 9123,
+    "candidate_connections": 46,
+    "externally_checked_cards": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13,
+    "human_grading_records": 0,
+    "pilots": 0
+  }
+}

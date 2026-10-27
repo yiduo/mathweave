@@ -1,0 +1,191 @@
+{
+  "at": "2026-10-27T04:57:30.943571+00:00",
+  "work_package": "WP-118",
+  "third_party_bodies_and_texts_removed_after_hash_verification": [
+    {
+      "path": "Traverso-landing.html",
+      "bytes": 31910,
+      "sha256": "b1277d028bbc82951fd538931c9846f334b44f637fbff3f03c5a1991d7775834",
+      "kind": "primaryHTML"
+    },
+    {
+      "path": "Traverso-landing.txt",
+      "bytes": 2983,
+      "sha256": "455aa535a4a67b0ca809e42a059e65bd41976d71d57e1e06c78cbac6c289fab6",
+      "kind": "converted_text"
+    },
+    {
+      "path": "056S.html",
+      "bytes": 14471,
+      "sha256": "cb5683e695bbbdac2d55d01a78cc46bc0556bf9f3860b716aa048110ec2df881",
+      "kind": "primaryHTML"
+    },
+    {
+      "path": "056S.txt",
+      "bytes": 1791,
+      "sha256": "9bfdf1224ce10d7e409289f4d60e0cb790b9dc93d4dd951b6c00ccb08446f60f",
+      "kind": "converted_text"
+    },
+    {
+      "path": "0AG0.html",
+      "bytes": 15949,
+      "sha256": "785af7cb4e040abda98bcbe4414785a4c2367059925a01b6d5524c44455008b7",
+      "kind": "primaryHTML"
+    },
+    {
+      "path": "0AG0.txt",
+      "bytes": 3285,
+      "sha256": "c85fc17283da4e286fbea725c09de806c5a20a2c53183efe88d645928824faf5",
+      "kind": "converted_text"
+    },
+    {
+      "path": "0BE9.html",
+      "bytes": 15620,
+      "sha256": "4fe3aae52af6662de736ebf47cb6272688c9cd8f5e6983ba88d420de65b159d7",
+      "kind": "primaryHTML"
+    },
+    {
+      "path": "0BE9.txt",
+      "bytes": 3211,
+      "sha256": "509dd71bb81b757464636de0371c57f0dba2a25c73f4e05de2be4bb236a39df0",
+      "kind": "converted_text"
+    },
+    {
+      "path": "00KV.html",
+      "bytes": 16239,
+      "sha256": "66c7246a7535b3a8fb210d84d1d0f30d7f77ad36e3e318b4c01b6f055bb5fab5",
+      "kind": "primaryHTML"
+    },
+    {
+      "path": "00KV.txt",
+      "bytes": 2747,
+      "sha256": "9ef70e32c64ac0b2ace63dd8bdc14bd0139a1a84aa47eb3963cdfc03a24fa431",
+      "kind": "converted_text"
+    },
+    {
+      "path": "Traverso1970.pdf",
+      "bytes": 1025357,
+      "sha256": "afe930a6d659184ad9120700d29ca074bb8371444861ecd7e577fea73881265b",
+      "kind": "primaryPDF"
+    },
+    {
+      "path": "Traverso1970.txt",
+      "bytes": 26665,
+      "sha256": "36544093b0b3ba9f4aa09ad4a09819d29174ae745bb0000696de3f5dac847dbc",
+      "kind": "converted_text"
+    }
+  ],
+  "third_party_original_body_bytes_removed": 1119546,
+  "third_party_full_bodies_republished": false,
+  "own_helper_members_verified": [
+    {
+      "path": "Traverso-acquisition.json",
+      "bytes": 838,
+      "sha256": "070489dccc59e8243d8b963c18be49d4dac436f02a049988a749cc5efe323a62"
+    },
+    {
+      "path": "Traverso-acquisition.log",
+      "bytes": 786,
+      "sha256": "5f9dbdd1ac0fd3cb28c1fabe6e5edd2a437cc5b84dad31469db852199f12e0c7"
+    },
+    {
+      "path": "acquire.py",
+      "bytes": 2267,
+      "sha256": "aceb7e153491b9287f06c5e9202985dc3a8ada1a16c090a64aad04b96fe9f6ad"
+    },
+    {
+      "path": "acquisition.json",
+      "bytes": 4593,
+      "sha256": "a3bb7df6d40ca309e1cf8ead8cc57a96a417320385295ceadc4c34d21087adf8"
+    },
+    {
+      "path": "acquisition.log",
+      "bytes": 3923,
+      "sha256": "fa26aa6ae4ab2cc5df3c4f0abe35a9f1c70b7c9a810323c145f222419f139607"
+    },
+    {
+      "path": "clean-check.json.gz",
+      "bytes": 113558,
+      "sha256": "cdc8623620269ccf0f3f08e754bd29c3490c27a2fc3fbd0dfca73aa1a0be709c"
+    },
+    {
+      "path": "clean-core.log",
+      "bytes": 12480,
+      "sha256": "e86c4c033eb672e61c4b55485d86be9fccaa06273f719151f29f536630468fbd"
+    },
+    {
+      "path": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "0e761c3ff0a018cb2e47e9cb09fc38863603b4ad4c3015bdb1ed35214238b5d5"
+    },
+    {
+      "path": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "path": "core.log",
+      "bytes": 12480,
+      "sha256": "32491ddbcea8cce694d9ea1d1e4768841ec456f2f928d4f0c9f5b228c680c65d"
+    },
+    {
+      "path": "curate.py",
+      "bytes": 17242,
+      "sha256": "3f8f9f5a973b243726154405d2a4c20aec0eaadc82f0c9b3bb5ca5dc404ea33c"
+    },
+    {
+      "path": "curation-summary.json",
+      "bytes": 1286,
+      "sha256": "79c8aebd5dd4ce3e00b9320d312b017fded827d42c8ff2b8db540f7d27aabf56"
+    },
+    {
+      "path": "curation.log",
+      "bytes": 154,
+      "sha256": "ab09b93d927122d14e6ac68eefa600c79ccb7a2e96b096a232bcbe8d2b8ea5bc"
+    },
+    {
+      "path": "fetch_traverso.py",
+      "bytes": 1494,
+      "sha256": "bf01a075d78bca181a64e7b5863ed981d6193e90ffdcbc9f07e3e98dad499656"
+    },
+    {
+      "path": "finalize.py",
+      "bytes": 16308,
+      "sha256": "8a9ecfe6bcf7e30ea0cf92572b175e6fa0d172012397f8522fed02e62112d10c"
+    },
+    {
+      "path": "next-package-comparison.json",
+      "bytes": 8375,
+      "sha256": "aefdb299d9b89ea8bc3104e94a066465042fcf5cba3f67ed3016516ad002032a"
+    },
+    {
+      "path": "quality.json.gz",
+      "bytes": 3720,
+      "sha256": "5a1775d4752555be37ee534c2eeffa0f886ad3ffde6e2019081b5f32bc09718f"
+    },
+    {
+      "path": "quality.log",
+      "bytes": 1313,
+      "sha256": "480f16dbd95901d4d6c8ed15f941f58fcd644ef93fd077134ec4c951b06a0e91"
+    },
+    {
+      "path": "quality.py",
+      "bytes": 7164,
+      "sha256": "e60d6195b347a3030c6904f4baaeef4daa90039597fe6107cc75a32e79c90c08"
+    }
+  ],
+  "helper_compressed_sha256": "b62f5af11f71461841361eebd19c2bc3ff6aef0b5d4e2f4a9ba986cf136d09b6",
+  "helper_decompressed_sha256": "e838b81c1058c723405e7d8ba86acfc70e022a556429c40e7e67cc1dd4a8d244",
+  "helper_archive_bytes": 143559,
+  "clean_core_exit_code": 0,
+  "clean_directory_removed": true,
+  "clean_copy_hashes_verified": true,
+  "clean_files": 2311,
+  "clean_bytes": 82192871,
+  "work_root_removed": true,
+  "source_archive_members_verified": 298,
+  "scientific_archives_verified": 16,
+  "scientific_runs_added": 0,
+  "scope": "Original PDF/HTML and converted text deleted only after per-file hash validation. Own helper/log tar roundtrip and member hashes verified. No math edits,upstreamcopy,install,numerical rerun or GitHub push. Closuremetadata,current English/Chinese progress prose and next-source inventory are added after clean snapshot;canonical graph,scientific evidence andcode unchanged.",
+  "removed_at": "2026-10-27T04:57:32.321201+00:00"
+}

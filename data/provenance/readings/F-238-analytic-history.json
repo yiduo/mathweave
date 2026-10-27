@@ -1,0 +1,142 @@
+{
+  "rows": [
+    {
+      "key": "Demailly2012",
+      "url": "https://www-fourier.univ-grenoble-alpes.fr/~demailly/manuscripts/agbook.pdf",
+      "cap_bytes": 8000000,
+      "at": "2026-10-27T08:24:17.113645+00:00",
+      "final_url": "https://www-fourier.univ-grenoble-alpes.fr/~demailly/manuscripts/agbook.pdf",
+      "http_status": 200,
+      "bytes": 3557990,
+      "sha256": "d7c7654a7417e8322e5dcf8fe8ec818b4c1a18cf280b41f2df5a871b776d89a1",
+      "conversion_exit": 0,
+      "text_bytes": 1462626,
+      "text_sha256": "2848bcb5cf127a07b9b633cd55f86101f04f3aa0d1d60b4fd27efa10005bde27",
+      "text_lines": 25468,
+      "status": "selected_original_scope_checked",
+      "actual_selected_text_ranges_read": [
+        [
+          1,
+          14
+        ],
+        [
+          1680,
+          1760
+        ],
+        [
+          2085,
+          2125
+        ]
+      ],
+      "selected_scope_locator": "Author text21June2012,ChapterI pp33-34Definition4.12,Lemma4.13/MaximumPrinciple4.14 andp41Example5.12",
+      "verified_scope": "Boundary-limsup maximum principle for upper-semicontinuous subharmonic functions and log-modulus of a holomorphic scalar function,including -infinity at zeros. The slit ends and both banks must satisfy limsup;this is not analytic continuation of conditional probability measures.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "BereleRegev1983",
+      "url": "https://www.ams.org/journals/bull/1983-08-02/S0273-0979-1983-15110-8/S0273-0979-1983-15110-8.pdf",
+      "cap_bytes": 1000000,
+      "at": "2026-10-27T08:24:17.114217+00:00",
+      "final_url": "https://www.ams.org/journals/bull/1983-08-02/S0273-0979-1983-15110-8/S0273-0979-1983-15110-8.pdf",
+      "http_status": 200,
+      "bytes": 272083,
+      "sha256": "9d54f4aab48dcf43e5341b0d228323f2e882a7f203a238d1dc029be1ce1e4491",
+      "conversion_exit": 0,
+      "text_bytes": 7333,
+      "text_sha256": "ef6b29bfc89910395ab134297643e95cc3463c5011281aca2874b8b798528702",
+      "text_lines": 132,
+      "status": "selected_original_scope_checked",
+      "actual_selected_text_ranges_read": [
+        [
+          1,
+          132
+        ]
+      ],
+      "selected_scope_locator": "PublishedBulletinAMS8(2)337-339,1983:graded tensor action,HookTheorem and signed semistandard/induction explanation",
+      "verified_scope": "Original three-page announcement describes characteristic-zero graded tensor action,hook support and signed tableaux. It explicitly defers details elsewhere;not the full1987 proof andnot the new signed PSD domination. Extracted set formula is degraded and the hook diagram absent in converted text;the precise alpha_(p+1)<=p condition is separately retained from current source,not claimed as a machine-verified transcription of the scan.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "ChristandlKonigRenner2009",
+      "url": "https://arxiv.org/pdf/0809.3019v1",
+      "cap_bytes": 1000000,
+      "at": "2026-10-27T08:24:17.114399+00:00",
+      "final_url": "https://arxiv.org/pdf/0809.3019v1",
+      "http_status": 200,
+      "bytes": 140286,
+      "sha256": "3dfb069d67a67cf96bee06bc2125870796055ded7420acac5d73c4578b8a9fcd",
+      "conversion_exit": 0,
+      "text_bytes": 27054,
+      "text_sha256": "fa3bd2f134d91724a059eab7cf7037df26afa49f971ec0e32f0dea04ccc634a4",
+      "text_lines": 244,
+      "status": "selected_original_scope_checked",
+      "actual_selected_text_ranges_read": [
+        [
+          70,
+          154
+        ]
+      ],
+      "selected_scope_locator": "arXiv0809.3019v1,17September2008,p2Theorem1/Lemma2andproofs",
+      "verified_scope": "Ordinary symmetric-subspace postselection uses dimension binomial(n+d^2-1,n) and a trace-nonincreasing map after purification. Permutation covariance is required for the channel bound. This is a historical positive-mixture analogy;it doesnot establish the current graded-hook D_alpha*exp(O(p^2log s)) PSD inequality or its constants. No cryptographic application claim added.",
+      "full_original_proof_review": false
+    },
+    {
+      "key": "DiaconisShahshahani1981",
+      "url": "https://www.imo.universite-paris-saclay.fr/~pierre-loic.meliot/symmetric/texts/Diaconis%2C%20Shahshahani%20-%20Generating%20a%20random%20permutation%20with%20random%20transpositions.pdf",
+      "cap_bytes": 2000000,
+      "at": "2026-10-27T08:24:17.114494+00:00",
+      "final_url": "https://www.imo.universite-paris-saclay.fr/~pierre-loic.meliot/symmetric/texts/Diaconis%2C%20Shahshahani%20-%20Generating%20a%20random%20permutation%20with%20random%20transpositions.pdf",
+      "http_status": 200,
+      "bytes": 925947,
+      "sha256": "3b8bbd8293e3de24889ae65defde46e4c7cecbff9e472387984068ff3401a3a4",
+      "conversion_exit": 0,
+      "text_bytes": 49613,
+      "text_sha256": "b273f78e6dc78e135c2be281bcdce56aadc3683e103d0eeed66d0a21bac9d958",
+      "text_lines": 1018,
+      "status": "selected_original_scope_checked",
+      "actual_selected_text_ranges_read": [
+        [
+          27,
+          45
+        ],
+        [
+          145,
+          190
+        ],
+        [
+          418,
+          470
+        ]
+      ],
+      "selected_scope_locator": "Published1981 pp159,162Lemma1/2,168Lemma14proof",
+      "verified_scope": "Their variation is full L1;project TV is halfL1,so its square bound has1/4. General noncentral Fourier energy uses unnormalized Tr(M M*),not scalarcentral eigenvalue powers or M^2. Lemma14 specializes tocentral random transpositions;Lemma2 refers its proof toSerre/HewittRoss,whose full proofs remain unread.",
+      "full_original_proof_review": false
+    }
+  ],
+  "raw_bodies_republished": false,
+  "pdf_analysis": "converted text only",
+  "at": "2026-10-27T08:28:10.362413+00:00",
+  "work_package": "WP-124",
+  "generation_id": "GEN-20261027-121",
+  "newly_checked_original_works": 4,
+  "acquired_pdf_bytes": 4896306,
+  "acquired_text_bytes": 1546626,
+  "complete_original_lineage": false,
+  "pdf_pixel_analysis": false,
+  "web_failures": [
+    "AMS PDF web403 and inaccessible alternate path before successful bounded direct publisher acquisition.",
+    "Demailly web timeout on two institution URLs before successful bounded direct author download."
+  ],
+  "reused_selected_scopes": [
+    {
+      "key": "Morris2009",
+      "canonical_id": "LIT-238-9DB965FBBC",
+      "scope": "Previously qualified arXiv0802.0339v1 selected O(log^4 N) even-deck bound;no new full conditional/path proof review."
+    },
+    {
+      "key": "Morris2013",
+      "canonical_id": "LIT-238-9CD198B10C",
+      "scope": "Previously qualified arXiv0912.2759v1 selected reverse-Thorp entropy contraction/O(d^3);doesnot certify entire Lemma7 exposure proof."
+    }
+  ]
+}

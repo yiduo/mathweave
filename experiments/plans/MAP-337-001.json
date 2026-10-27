@@ -1,0 +1,50 @@
+{
+  "id": "MAP-337-001",
+  "version": 2,
+  "registered_at": "2026-10-27T05:57:09.408463+00:00",
+  "status": "conditional_candidate_preregistered_not_executed",
+  "connection_id": "APP-337-01",
+  "object_mapping": {
+    "scalar_fragment": "F337proof100-123jointC1F1throughzero,restricta=kappa=1",
+    "target": "Syntheticzero-gatedradialfeatureimplementationadmissioninafixedactualreverseADbackend",
+    "scope": "Onecollapsedgraph;notfullgeometric/PDEchordinequalitiesorallsourceequivalentgraphs"
+  },
+  "hypothesis": "Atleastonefractionaln>=5,z0naivedznonfinite/outsidepredeclaredtolerance,whileoldpre-operationbranchmatchesbothgradientsandvaluesonall192,controlsandindependentreferencegatespass.",
+  "external_judges": [
+    "RealpinnedAutograd1.9.1differentiation",
+    "SeparatelyimplementedDecimalanalytic80/120precisionpath",
+    "LiteralvalueDecimal180centereddifferencesatfixed1e-100/1e-90steps;sharedDecimalenginequalified"
+  ],
+  "strong_old_baseline": "CorrectoldPythonbranchbeforeanyfractionaloperation,notepsilon/NaNsuppression",
+  "null": "Oldcalculus/branchalreadysuffices;positivecalibrationcannotestablish2026incrementalapplicationvalue.",
+  "additional_assumptions": [
+    "Actuallyimportedwheelmember/versionbindingmustpass",
+    "Evenrealrreferenceextensionforr0differences",
+    "Nojudgetuning/missingfixtureexclusion",
+    "Allresource/archive/replaygatesrequired"
+  ],
+  "specification": "experiments/specs/EXP-337-001.json",
+  "spec_sha256": "80f79b9f13eb90687660989b5353298ab17dda63d7e91a3897da38bb2d5ba9e0",
+  "review_packet": "experiments/plans/APP-337-01-review-packet-v2.md",
+  "actual_isolated_v1_auxiliary_opinions": "data/provenance/reviews/APP-337-01-pre-target-v1.json.gz",
+  "pending": [
+    "Implementationcommitbeforetargetoutputs",
+    "Actualbackendimport/targetrun",
+    "Strictarchivedsourcereplay",
+    "Realhuman/secondproviderresources"
+  ],
+  "run_ids": [],
+  "exposure": "Nonblindsource/backendstaticinspection;exactselectedOpenAIbackendunknown",
+  "resources": {
+    "target_seconds": 60,
+    "traced_MiB": 64,
+    "RSS_MiB": 128,
+    "new_dependency_bytes_cap": 1048576
+  },
+  "sensitivity": "notcontrolled",
+  "revisit": "Separateexternallymotivatedworkloadandfairincrementaloldmethodcomparisonneededforapplicationvalue;largergridaloneinsufficient.",
+  "updated_at": "2026-10-27T06:27:54.296277+00:00",
+  "prior_version_archive": "experiments/plans/history/MAP-337-001-v1.json.gz",
+  "pre_target_implementation_review": "data/provenance/reviews/APP-337-01-implementation-followup.json.gz",
+  "version_reason": "Beforetargetoutputs,actualimplementationreviewsidentifiedsub-conclusion/resource-replay/terminalphase/RSS/license/runtimebindinggaps. Fixoriginalcontractwithoutchanging192inputs,allnumericaltolerances/steps/predictionor60s/64MiB/128MiBcaps. No target observations."
+}

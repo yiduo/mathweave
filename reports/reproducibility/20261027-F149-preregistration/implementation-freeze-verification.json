@@ -1,0 +1,217 @@
+{
+  "at": "2026-10-27T09:57:18.770660+00:00",
+  "experiment_id": "EXP-149-001",
+  "implementation_freeze_commit": "8a71a29f39828b0e7c41b279105869c19c8e5135",
+  "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "inputs_byte_equal_to_committed_blobs": [
+    {
+      "path": "experiments/specs/EXP-149-001.json",
+      "bytes": 12913,
+      "sha256": "be0f5ad3248158dcee3e5ed0473c634fba8e0e4c900cc8061b53361270344927"
+    },
+    {
+      "path": "src/ai_value/__init__.py",
+      "bytes": 90,
+      "sha256": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781"
+    },
+    {
+      "path": "src/ai_value/ad_composite.py",
+      "bytes": 12986,
+      "sha256": "babe8bc2d13f42017fd762f0c449605884bc6950d8ffb84e981ffcbfeeca811f"
+    },
+    {
+      "path": "src/ai_value/ad_reference.py",
+      "bytes": 3429,
+      "sha256": "6418fd52f868381a9ee9402ed97b11621c89fca3b62118cb71de1927f6e1c24c"
+    },
+    {
+      "path": "src/ai_value/attempts.py",
+      "bytes": 17499,
+      "sha256": "c29e3e5b1596ad4fc9f2f27722ea3f5da8e0d64247f82a0fb1b32b7576de04f1"
+    },
+    {
+      "path": "src/ai_value/betti_budget.py",
+      "bytes": 13410,
+      "sha256": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5"
+    },
+    {
+      "path": "src/ai_value/binary_information.py",
+      "bytes": 15224,
+      "sha256": "3a534f07f829f8944c254b4e98a603e022687f40a52b8b8777f43878bda110c1"
+    },
+    {
+      "path": "src/ai_value/block_budget.py",
+      "bytes": 13628,
+      "sha256": "ad43d1766fc8590275552e64c069c010c1b52cf720111db2e0078faad9844a4b"
+    },
+    {
+      "path": "src/ai_value/bosonic_regression.py",
+      "bytes": 26365,
+      "sha256": "27e371697e7fbae9e19155f55459c45aa9e1c59af069ee970e9a9bbe1fe023dd"
+    },
+    {
+      "path": "src/ai_value/cli.py",
+      "bytes": 2688,
+      "sha256": "d5ffb61f33bed0d427af291a3a9c9353801a363bbe6fac96fe2b9577b47f9502"
+    },
+    {
+      "path": "src/ai_value/component_checks.py",
+      "bytes": 4158,
+      "sha256": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa"
+    },
+    {
+      "path": "src/ai_value/corpus.py",
+      "bytes": 9991,
+      "sha256": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc"
+    },
+    {
+      "path": "src/ai_value/cyclic_chain.py",
+      "bytes": 13164,
+      "sha256": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc"
+    },
+    {
+      "path": "src/ai_value/experiments.py",
+      "bytes": 20286,
+      "sha256": "91726e69c09c9243a14e2b14cdbb7d868437eae6bad77c094911836f21e639f4"
+    },
+    {
+      "path": "src/ai_value/graph.py",
+      "bytes": 24327,
+      "sha256": "303401572c350acf6b8c4f9a463002488f71f827b486317a454157b76c0490a2"
+    },
+    {
+      "path": "src/ai_value/graph_smoothing.py",
+      "bytes": 14754,
+      "sha256": "8cee5a4e380ef295d382e3016cd895b35b72889c71cd1e2d12931982e76afb29"
+    },
+    {
+      "path": "src/ai_value/graph_smoothing_reference.py",
+      "bytes": 3076,
+      "sha256": "4dc7a9d98033e657733240839b4abb615d532f9d82fd7bfdcc88d31427a94235"
+    },
+    {
+      "path": "src/ai_value/knowledge.py",
+      "bytes": 3313,
+      "sha256": "d1a50c26e7672ae55befe59cca762fa3da6fec3c64d750f5293bcb604238c349"
+    },
+    {
+      "path": "src/ai_value/mass_action_guard.py",
+      "bytes": 13682,
+      "sha256": "a2f3620d2f0a66969d15f88615621192700239a35372873d699d7a49c3c800d9"
+    },
+    {
+      "path": "src/ai_value/mass_action_reference.py",
+      "bytes": 5965,
+      "sha256": "5655bc9d322c7f9afd5070bc6468093a8ee27f21a6aae4cab8a20c009d516093"
+    },
+    {
+      "path": "src/ai_value/navigation.py",
+      "bytes": 10886,
+      "sha256": "bcd14e6506af1f7bd4a2ab6a9551d639ada4da1967e3e9d2f81accbf0b32e407"
+    },
+    {
+      "path": "src/ai_value/permutation_audit.py",
+      "bytes": 6588,
+      "sha256": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811"
+    },
+    {
+      "path": "src/ai_value/phase_rounding.py",
+      "bytes": 15547,
+      "sha256": "d0b382a0476a179c0b3fc11e3af1fbc499f95e3296a4be5c7365d6ac2be9fc61"
+    },
+    {
+      "path": "src/ai_value/prefix.py",
+      "bytes": 3008,
+      "sha256": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4"
+    },
+    {
+      "path": "src/ai_value/pressure_audit.py",
+      "bytes": 14496,
+      "sha256": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304"
+    },
+    {
+      "path": "src/ai_value/provenance.py",
+      "bytes": 7081,
+      "sha256": "b5b717177ccc2ebe3f8325ca74ccd3e8a4c26c85434e9582da4b7f246574d4cc"
+    },
+    {
+      "path": "src/ai_value/publication.py",
+      "bytes": 1352,
+      "sha256": "77201dbdcbeb5adc5efe54e59de029c306cbfaa2a4da70c9ef8705514900bc39"
+    },
+    {
+      "path": "src/ai_value/receiver_audit.py",
+      "bytes": 16372,
+      "sha256": "09fa282d050ae4ecd4ab6f698ed0972b1df4297e8ea2fa53d915d74b2b10046e"
+    },
+    {
+      "path": "src/ai_value/reporting.py",
+      "bytes": 12149,
+      "sha256": "30e3f540e40e92688204aead377c91f040698033782c94b6715a757f29859aa2"
+    },
+    {
+      "path": "src/ai_value/source_results.py",
+      "bytes": 3090,
+      "sha256": "4a7471c1368ac68ead2cde65ab18edf935798efa44880d72dc6a52e8216c10f6"
+    },
+    {
+      "path": "src/ai_value/superstring.py",
+      "bytes": 3601,
+      "sha256": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120"
+    },
+    {
+      "path": "src/ai_value/transport.py",
+      "bytes": 6512,
+      "sha256": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d"
+    },
+    {
+      "path": "src/ai_value/versioning.py",
+      "bytes": 3108,
+      "sha256": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c"
+    },
+    {
+      "path": "scripts/run_experiment_attempt.py",
+      "bytes": 654,
+      "sha256": "ec8e44bd2b8c6ba1c0d280cc2a805ee5de7adb16299c92c9b1a740d1061cc441"
+    },
+    {
+      "path": "scripts/measure_experiment_worker.py",
+      "bytes": 1906,
+      "sha256": "e4597efdf3a4831e05b8553f2bd95d7c6f1602d0fe5ec968c4c40f56bf45e230"
+    },
+    {
+      "path": "scripts/replay_run.py",
+      "bytes": 10472,
+      "sha256": "0be7912a418d7a037ec7106b7ae45d469d3250912e09702c78f2e37160badd53"
+    },
+    {
+      "path": "experiments/plans/APP-149-01-review-packet-v2.md",
+      "bytes": 3770,
+      "sha256": "a5b136224c2ed3239a2f134c53c1ff99d5f8c6ddd86c07f2ebbac9c5b7c9bda3"
+    },
+    {
+      "path": "experiments/preparation/WP-126-source-reference-v1.json",
+      "bytes": 6536,
+      "sha256": "228a205388f618dada2de7afed0d5e24afb31c184333271a41ce9afc6bb07796"
+    },
+    {
+      "path": "tests/test_mass_action.py",
+      "bytes": 6206,
+      "sha256": "ea765b936bea41857ada8b2305bed8e61d57e569fe4902a04c15fcab2c388be3"
+    },
+    {
+      "path": "configs/research.json",
+      "bytes": 1934,
+      "sha256": "dc0fe08e94e1f7e24a93cdb96f90bf4432895cdfa82aef555e11dc39ffeeb345"
+    },
+    {
+      "path": "data/corpus/baseline.json",
+      "bytes": 1627,
+      "sha256": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+    }
+  ],
+  "count": 41,
+  "target_outputs_before_verification": 0,
+  "target_execution_allowed_after_this_verification": true,
+  "scope": "ActualGitblob/source/specfreeze,notmathematicalorapplicationacceptance. No human/provider review supplied."
+}

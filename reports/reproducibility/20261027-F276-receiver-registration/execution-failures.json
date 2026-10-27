@@ -1,0 +1,10 @@
+{
+  "at": "2026-10-27T04:45:30.796055+00:00",
+  "first_target_worker_exit": 0,
+  "first_target_completed": true,
+  "target_reruns_for_repair": 0,
+  "strict_isolated_replay": 1,
+  "earlier_software_regression": "Pre-target legacy resource manifest compatibility failure preserved in core-before-run-legacy-resource-failure.log.gz and implementation-v1 receipt; repaired before first target outputs. No frozen old scientific archive or criterion modified.",
+  "closure_helper_assertion": "First closure helper stopped before mutations because it required exact OK line in local core log; local run had 74 passed and optional Node parity skipped. Fresh clean run with existing Node PATH passed all75 without skips; missing local parity then independently run with Node PATH and passed. First focused local parity command omitted PYTHONPATH=src and failed import; its log retained. Corrected focused command with PYTHONPATH=src passed. Preserve failed helper and logs; no numerical rerun or evidence criterion weakened.",
+  "target_failures_deleted": false
+}

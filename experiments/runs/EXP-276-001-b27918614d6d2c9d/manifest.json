@@ -1,0 +1,80 @@
+{
+  "run_id": "EXP-276-001-b27918614d6d2c9d",
+  "experiment_id": "EXP-276-001",
+  "started_utc": "2026-10-27T04:30:51.409198+00:00",
+  "specification_written_utc": "2026-10-27T04:16:00.424794+00:00",
+  "finished_utc": "2026-10-27T04:30:55.035586+00:00",
+  "inputs": {
+    "experiments/specs/EXP-276-001.json": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/attempts.py": "3ec62fd902c4f0bb51b94e2c3800e4059c9d7ea2af6f4da90785c84ab206e43a",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/binary_information.py": "3a534f07f829f8944c254b4e98a603e022687f40a52b8b8777f43878bda110c1",
+    "src/ai_value/block_budget.py": "ad43d1766fc8590275552e64c069c010c1b52cf720111db2e0078faad9844a4b",
+    "src/ai_value/bosonic_regression.py": "27e371697e7fbae9e19155f55459c45aa9e1c59af069ee970e9a9bbe1fe023dd",
+    "src/ai_value/cli.py": "d5ffb61f33bed0d427af291a3a9c9353801a363bbe6fac96fe2b9577b47f9502",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/cyclic_chain.py": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc",
+    "src/ai_value/experiments.py": "f1c25c0c9a6b4b480cafa326d15bd03c6ae95f8750f6f65950dc17a7cbf127e2",
+    "src/ai_value/graph.py": "af04dca47706af7a83cf249ba4e003c8fda30f9014bfa129514236c5ca1f306f",
+    "src/ai_value/graph_smoothing.py": "8cee5a4e380ef295d382e3016cd895b35b72889c71cd1e2d12931982e76afb29",
+    "src/ai_value/graph_smoothing_reference.py": "4dc7a9d98033e657733240839b4abb615d532f9d82fd7bfdcc88d31427a94235",
+    "src/ai_value/knowledge.py": "d1a50c26e7672ae55befe59cca762fa3da6fec3c64d750f5293bcb604238c349",
+    "src/ai_value/navigation.py": "bcd14e6506af1f7bd4a2ab6a9551d639ada4da1967e3e9d2f81accbf0b32e407",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/phase_rounding.py": "d0b382a0476a179c0b3fc11e3af1fbc499f95e3296a4be5c7365d6ac2be9fc61",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/pressure_audit.py": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304",
+    "src/ai_value/provenance.py": "b5b717177ccc2ebe3f8325ca74ccd3e8a4c26c85434e9582da4b7f246574d4cc",
+    "src/ai_value/publication.py": "77201dbdcbeb5adc5efe54e59de029c306cbfaa2a4da70c9ef8705514900bc39",
+    "src/ai_value/receiver_audit.py": "09fa282d050ae4ecd4ab6f698ed0972b1df4297e8ea2fa53d915d74b2b10046e",
+    "src/ai_value/reporting.py": "aa580a9632e8b5681b707dc4c2228c1ad7ab2ac58c75301e320fffb28dcd7fa0",
+    "src/ai_value/source_results.py": "4a7471c1368ac68ead2cde65ab18edf935798efa44880d72dc6a52e8216c10f6",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "configs/research.json": "dc0fe08e94e1f7e24a93cdb96f90bf4432895cdfa82aef555e11dc39ffeeb345",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+    "raw.json.gz": "cf9ae2063f37a24e8e224259afa27b70b3f521caf2761503ce3ff0d64f41a3af",
+    "summary.json.gz": "98e06dd1814c2e09983f1e2700e9251f8cf6b0cbb60d272969ec11ae9528c41c",
+    "inputs.json.gz": "5217ac936aed0aa561b5887a7ad5f3d9b58f6cb35880396ca7394ac7d3452134"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "bd162889f5115a93cc6e4d37aaca20db5153aa9ad9265f0b787013a767f1d848"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "8de0003a8d8bec7b7a2cef9e5bc49738ef76f1fec4ac5e19b7dad4bbeaf3ae51"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-276-001",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 3.537805458996445,
+  "peak_traced_python_bytes": 2653305,
+  "resource_envelope_met": true,
+  "memory_scope": "Python traced allocations AND whole-process lifecycle peak RSS; excludes child processes",
+  "result": "passes_preregistered_prediction",
+  "formal_rejection": false,
+  "process_peak_rss_bytes": 37617664,
+  "process_rss_measurement": {
+    "raw": 37617664,
+    "source_unit": "bytes",
+    "bytes": 37617664,
+    "platform": "darwin",
+    "scope": "whole-process lifecycle high-water; excludes children"
+  },
+  "resource_limit_rss_mb": 64,
+  "archive_compression_seconds": 0.11018562491517514,
+  "rss_measurement_timing": "after payload/source compression, before final manifest serialization"
+}

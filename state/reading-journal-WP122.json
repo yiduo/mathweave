@@ -1,0 +1,133 @@
+{
+  "work_package": "WP-122",
+  "started_at": "2026-10-27T07:33:59.411755+00:00",
+  "base_commit": "c28ccb840fbacc3cbc6615952d756be5a72208ec",
+  "source": "state/selection-WP122.json",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_provider": "OpenAI",
+  "exact_backend": "unknown",
+  "completed_body_ranges": [
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/figures/lifting.tex",
+      "sha256": "309c5fe9a03e3005ff0b95ba9d954e920e29279912e208ca4c7d3323546dc716",
+      "ranges": [
+        [
+          1,
+          49
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/main.tex",
+      "sha256": "4be805d7086ac702c41861ac3cc8cad418b38c41ab79eb1d5a21cbba542273ff",
+      "ranges": [
+        [
+          1,
+          260
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/references.bib",
+      "sha256": "e155aa090eba1765ae010b071d9c0bb0cefb71dce043249be7aacde338d8168b",
+      "ranges": [
+        [
+          1,
+          134
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/folding.tex",
+      "sha256": "5a6040518312eee24e94e0c00a1485fbfdcc632d922c7ad1d12ffc338858e23f",
+      "ranges": [
+        [
+          1,
+          453
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/induction.tex",
+      "sha256": "5407ef1592a207455dafd15ba526791b6ed2016e60ffa8e5e230ad2f92ca6833",
+      "ranges": [
+        [
+          1,
+          471
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "4177ddb26f4fc1779803580769c99875efb9b4caa4ed4c4c2795a4e8d17258f6",
+      "ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/residue.tex",
+      "sha256": "ec194f40bbca1dcf728e2cfb0cb3c074fd09a41b97c70e52a08815280622b3fb",
+      "ranges": [
+        [
+          1,
+          455
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/routing.tex",
+      "sha256": "6004936793c01bba515c698726fd2b5fd9f01dd396a6675ebd5e23032fdfb5a9",
+      "ranges": [
+        [
+          1,
+          244
+        ]
+      ],
+      "complete_file_read": true
+    },
+    {
+      "path": "math/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/build/sections/splitting.tex",
+      "sha256": "b30ce3a520e2a8ce165c76e6f389313163339271b8a60e4e7315fa29de15b250",
+      "ranges": [
+        [
+          1,
+          353
+        ]
+      ],
+      "complete_file_read": true
+    }
+  ],
+  "body_draft_complete": true,
+  "numerical_runs": [],
+  "human_review": null,
+  "second_provider_review": null,
+  "all_current_source_files_read": true,
+  "source_lines_read": 2566,
+  "updated_at": "2026-10-27T07:51:16.669938+00:00",
+  "source_findings": [
+    "Finite simple undirected graphs;edge partition not overlapping cover,cycles simple length>=3;empty partition and isolated vertices handled.",
+    "Absolute C and common sufficiently-large Dstar are fixed by eventual inequalities;linear count not concrete runtime/constructive improvement.",
+    "Routing condition h>=64(ell^2(k+b)+z) with team interiors disjoint and forbidden original endpoints;global endpoint load over all batches.",
+    "Pair folding needs both degree at active vertices and all-vertex neighbor counts into each active set;Kma warning retained;error edges <=2sum|Xi|,unique original representatives.",
+    "Selected source constant choices theta=.95,K=200,P0=804,eta=1/80400;potential max(1/2,1-1/sqrt(log2 n)) absorbs overlaps.",
+    "Lean actual Main/definitions and selected routing statement inspected;full1270declarations not mathematically read;no build/human review."
+  ],
+  "canonical_generation": "GEN-20261027-119",
+  "canonical_credit_added": true,
+  "source_scope_complete": true,
+  "local_quality_closed": true,
+  "retrospective": "043",
+  "canonical_initial_versions_preserved": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false
+}

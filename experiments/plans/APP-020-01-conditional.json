@@ -1,0 +1,45 @@
+{
+  "connection_id": "APP-020-01",
+  "version": 1,
+  "created_at": "2026-10-27T02:38:16.501362+00:00",
+  "status": "conditional_plan_not_preregistered",
+  "scientific_run": false,
+  "actual_consumer_identified": false,
+  "input": "An explicitly specified finite modular interpolation/reconstruction workload must expose the same complete-kernel monotonicity and equality-implies-state-stability property, a bounded full-path rank record, nonzero bounded-height minors, known prime pools and costs. None of these is claimed established for an existing software consumer.",
+  "output": "A prime-batch policy with an independently checked finite failure-risk certificate and total reconstruction cost. This would require a fresh finite error derivation and executable preregistration; the asymptotic source bound alone is not such a certificate.",
+  "falsifiable_prediction": "For an admitted adaptive workload, a deletion-aware variable-size prime policy might reduce unexpected bad-prime restarts or certificate failures at equal total construction/validation cost compared with its strongest old policy. No numerical magnitude, finite threshold or benefit is established, and no executable experiment is registered.",
+  "baselines": [
+    "Fixed input minors may already admit an ordinary bad-prime divisor bound and independent resampling.",
+    "Existing lucky-prime tests, modular rank checks, reconstruction plus exact verification, or deterministic sufficiently large primes may already solve the task.",
+    "Changing prime-block size alone may only increase overhead; full-kernel and patch construction can dominate any savings."
+  ],
+  "entry_gates": [
+    "An inspected nontrivial consumer exposing the same fixed S and nested complete Q-evaluation kernels; ordinary Fp nullspaces do not qualify",
+    "Prove full-record equality implies every subsequent state/patch/minor agrees, with deterministic choices and all fixed-depth failure paths",
+    "Effective finite B0,T0,prime-pool law,nonzero-minor height bounds and bridge from bad fraction to the actual failure/cost event",
+    "Independent exact output judge;freeze strongest old policies,full information and construction costs,holdout,resource cap and meaningful thresholds before numerical outputs"
+  ],
+  "full_cost": [
+    "Representation/acquisition of S",
+    "Complete rational kernels and coefficient growth",
+    "Patch/component and nonzero-minor construction",
+    "Finite certificate and relevant full paths",
+    "Prime generation,modular arithmetic,CRT,reconstruction,restarts and exact output verification",
+    "Wall time,peak memory,storage and all certificate generation/checking"
+  ],
+  "success_threshold": null,
+  "failure_threshold": null,
+  "reason_thresholds_unset": "No actual workload,consumer,finite certificate or independent judge admitted; this is not an executable preregistration.",
+  "controls": [
+    "Fixed minors and independent resampling",
+    "Lucky-prime/modular-rank checks with exact final verification",
+    "Deterministically large primes if feasible",
+    "Same complete-kernel information and equal full-cost allocation for old policies",
+    "All paths rather than success-only conditioning; whole-algorithm failure distinct from expected bad fraction"
+  ],
+  "stop_rule": "Stop before benefit experiments if same-S kernels,stable-state contract,finite nonvacuous risk or full-cost feasibility cannot be established. Retain evidence;no new theorem research or known-formula prime-grid demo.",
+  "revisit_when": "A pinned inspectable workload and finite admission evidence or a lower-cost constructive interface becomes available.",
+  "model_roles": "data/provenance/reviews/APP-020-01-isolated-roles.json.gz",
+  "human_and_second_provider": "missing,deferred not waived",
+  "numerical_data": null
+}

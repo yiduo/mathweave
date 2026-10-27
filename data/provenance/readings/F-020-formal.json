@@ -1,0 +1,128 @@
+{
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_read_files": [
+    {
+      "path": "math/lean/docs/020.md",
+      "sha256": "c8a12f6f4c351e1c5b9ab413acc7bb20afdbf3ba5ceaa354e2edc47dc6ac3bc7",
+      "lines": 15,
+      "actual_read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PowerFreeValues.lean",
+      "sha256": "5e42de8cf6611fb73cab28849edb8b473ab16a047c1fc29ec042463e87a1f2f1",
+      "lines": 46,
+      "actual_read_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PowerFreeValues.json",
+      "sha256": "d47857339c42028297f4f800bb4ad35d38ba3a9949b9e6542189f9dd7f8fac2d",
+      "lines": 14,
+      "actual_read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/NumberTheory/PowerFree/Model.lean",
+      "sha256": "289c3e116534e7340f7a19576bca3086fa3a05f441ec7d0041791537965ebb4e",
+      "lines": 37,
+      "actual_read_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/NumberTheory/PowerFree/Main.lean",
+      "sha256": "45ebf810c864d3b8f0d48c95e1728f11a854ed644b6d943924a50cbf90503d73",
+      "lines": 153,
+      "actual_read_ranges": [
+        [
+          1,
+          153
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/NumberTheory/PowerFree/MediumDegree.lean",
+      "sha256": "ec5facd2488d70c421914c74de13c0af4599c4e5224c9720d705c28274d976ae",
+      "lines": 332,
+      "actual_read_ranges": [
+        [
+          1,
+          34
+        ],
+        [
+          231,
+          290
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/NumberTheory/PowerFree/RadialFibres.lean",
+      "sha256": "b71e7bd15fb6df51d5019a42b57a94bc60f7548474e83a754c5cbc52a0bb173b",
+      "lines": 294,
+      "actual_read_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "lines": 1783,
+      "actual_read_ranges": [
+        [
+          632,
+          648
+        ],
+        [
+          1480,
+          1502
+        ]
+      ],
+      "whole_file_read": false
+    }
+  ],
+  "metadata_search_failure": "Firstpath lean/formalizations/020.md didnotexist;actualscopefile lean/docs/020.md found,not absenceof formalization.",
+  "registration": "formalization.yaml paperentry andPowerFreeValues declaration allDegrees/Main verified",
+  "actual_selected_endpoint_scope": "Natural thm:density andcor:all-degrees match selectedactualModel/Main staticinput/output:Q-irreducibleIntpolynomial,degree>=4,k=d-2,allprime localadmissibility,positiveinputcount,convergentpositiveEulerproduct,littleo per fixedpolynomial. SourceB foronlythesetwo;no localLeanbuild/human.",
+  "not_automatically_covered": [
+    "Simultaneousseparableproducts",
+    "26otherlocalbindings inclsupportand2unlabelledvariants",
+    "Actualrationalparametercertificateexecution",
+    "Entire naturalproofroute andsameconstants",
+    "Complete23klineproof/import/axiomaudit"
+  ],
+  "distinct_formal_route": "Main quarticdyadictail has3/1000,100primebins;currentnaturalparameterproof usesdifferentfixedgrid/margins. Mediumdegree5..8 and>=9 separate. Do notclaim everyproofmethod/constantcorresponds.",
+  "build": "not_run",
+  "Comparator": "not_run",
+  "human_spec_review": null,
+  "complete_dependency_grade": "unknown",
+  "static_index": "data/graph/lean_indices/F-020.json.gz",
+  "index_scope": "63OAIclosurefiles23269lines1165lexicaldeclarations;zero lexicalsorry/admit/axiom,no missingOAIimports. Mathlibnotindexed;notfullproofreading/build/axiomaudit.",
+  "static_index_sha256": "9d2e5c3571dc9064a5bc29cf08c162011de32e913641f42d8c0c9f923954cbff",
+  "recorded_at": "2026-10-27T02:38:16.501362+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "at": "2026-10-27T06:27:54.296277+00:00",
+  "generation_id": "GEN-20261027-117",
+  "work_package": "WP-120",
+  "base_commit": "f7d3a96fb0b52051e7653e7e868d7e0e2695ae70",
+  "family_id": "F-337",
+  "source_fragment": {
+    "path": "math/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/build/sections/06-chords.tex",
+    "lines": [
+      100,
+      123
+    ],
+    "sha256": "867142c7b6bac6c2157ff5dcb8afdbf7696326a0a6638ba5d388a531f5dc2787",
+    "scope": "StandalonejointC1scalarargumentonly;sourceH/PDE/chordconclusionsnottransferred."
+  },
+  "actual_backend_source_scope": "data/provenance/readings/F-337-AD-preparation.json",
+  "actual_auxiliary_opinions": "data/provenance/reviews/APP-337-01-pre-target-v1.json.gz",
+  "plan": "experiments/plans/MAP-337-001.json",
+  "executable_spec": "experiments/specs/EXP-337-001.json",
+  "spec_sha256": "80f79b9f13eb90687660989b5353298ab17dda63d7e91a3897da38bb2d5ba9e0",
+  "packet_v2": "experiments/plans/APP-337-01-review-packet-v2.md",
+  "packet_v2_sha256": "91083506a038f02c71fcd43dfcbe6649ae772f8a30a572c2594ed15ca15a3f4a",
+  "actual_backend_imported": false,
+  "target_outputs_observed": false,
+  "new_candidates": 1,
+  "new_initial_checks": 0,
+  "new_scientific_runs": 0,
+  "software_error_controls": "Fouractualsoftware-onlycontrols:tamperedartifact,liveprocesssetup/calculation/archivephasewatchdogtimeouts withcompressedpartialprogress;noADimport/targetfixtures",
+  "implementation_state": "Pre-targetrepairsimplemented,11protocolcontrolsbeingverified;fullcore/graph/clean/freezecommitstillpending. Target0.",
+  "inference_boundary": "Positivecalibrationisnotincrementalapplicationvalue,noractualconsumer/librarycontractdefect;oldcorrectbranchbaselinemustremain.",
+  "gaps": [
+    "Nohuman/provideracceptance",
+    "Fullmathematicaldependencychainunknown",
+    "Noactualtargetoutputs/replay/resourcesyet"
+  ],
+  "version": 2,
+  "prior_qualification_receipt": {
+    "path": "data/provenance/readings/F-337-AD-specification.json",
+    "sha256": "25ceef3c274ec08c765a15bcb8c1d9d8f26872863da70d2fd299b316708d01ac"
+  },
+  "executable_spec_version": 2,
+  "implementation_followup": "data/provenance/reviews/APP-337-01-implementation-followup.json.gz",
+  "pre_target_repairs": {
+    "phase_history": "Preserveallmonotonicstagesandterminaltime;validatecompletedsetup/calculation/archiveaswellasactivephase. Pollgranularity0.1s;completedstageoverrunstillfails.",
+    "lifecycle_RSS": "Freshsupervisorfork/execsCLIworkerandwait4reapsthisexactPIDafterfinalserialization/stdout. ParentchecksPID,recordswholeCLIworkerRSSandonlythenfinalizesprovisionalrunmanifest. Supervisor/parentandtransitivesharedlibraryhermeticitynotclaimed.",
+    "provisional_run": "Workerresource/resultstatecannotpassuntilparentlifecyclefinalization;cachedfinalizedrundataremainimmutable,cachehitnotnewtargetexecution.",
+    "replay": "Preflightcorruption,resourcefailureordeterministic/runtimebindingmismatchraiseinsidepersistentfailurecontext;source/raw/logsretainedcompressedbeforetempdelete.",
+    "exceptions": "Killandreapdirectworkerorsupervisorprocessgrouponcommunicationfailure/timeout;preserveavailablelogs/partialprogress.",
+    "subconclusions": "Incomplete/invalidjudgesorbackendexceptionsyieldnullvalidatedconjunctsandsufficiency,neveraffirmativetruefromrawallcomparisons. Rawaggregatesareexplicitlyunvalidated."
+  },
+  "numpy_observed_pin": {
+    "path": "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json",
+    "sha256": "cd4cdb108035734cf04d4ea4d4a529b8fb3f489e193bc4907e2ce01a13d52d14",
+    "scope": "Frozenactualinstalledsource/nativebytes,428files;19nativeRECORDmismatchesand0Pythonsource mismatchesexplicit. Notpublisherattestationorhermeticallsharedlibraries. Compareactualbefore/aftertarget."
+  },
+  "license_in_snapshot": {
+    "path": "data/provenance/licenses/autograd-1.9.1-MIT.txt",
+    "sha256": "026a4de32aeee573f5049220bb9f8cd1ad6a3e1bab3cecb7a28b652c2c6d5099",
+    "membership": "FullverbatimoriginalMITtextincludedinhashedtextinputs.json.gz"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "at": "2026-10-27T11:02:23.889140+00:00",
+  "third_party_deleted": [
+    {
+      "filename": "GL2014.pdf",
+      "bytes": 338609,
+      "sha256": "9b624142fad945ce02a778fc58e1d1aaab108d11e6e7bfba2c03d972ef929fb0",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "GL2014.txt",
+      "bytes": 94837,
+      "sha256": "49b7ed50193a7ea29294a6077b9d35e8342c37f1495a0d4a10f401f30d1fbf3e",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "CGS2015.pdf",
+      "bytes": 367836,
+      "sha256": "003969311fc357c1e5d2158ff89b94a78c784b6210a905db123679e4b4561116",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "CGS2015.txt",
+      "bytes": 112324,
+      "sha256": "fb992cc53267f60cf17550a26b1ed2bfe0488f1faa9bc7522a7459bad5cfa201",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "BFU2020.pdf",
+      "bytes": 922600,
+      "sha256": "a79d0e2e188beff344c85850396c74e923c1715d1cac0d2f4d4e52de2cb62bef",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "BFU2020.txt",
+      "bytes": 142723,
+      "sha256": "431e9fbce396f704ee57360a4d125021fccaa53b0640b3558032e1d6683a5a52",
+      "deleted_after_hash": true
+    }
+  ],
+  "own_compressed": [
+    {
+      "path": "reports/reproducibility/20261027-F271-source/history-acquisition-helper.py.gz",
+      "raw_sha256": "c8277d8c3a72feccf35bb96b5515dbb9a862b0801fd4368afc7b6e05f6e39adb",
+      "gzip_sha256": "78bb3dd66c2d7cbc30b9e864c115094f522287fce86a8b0897c7219db53d1d15",
+      "raw_bytes": 1793,
+      "gzip_bytes": 945
+    },
+    {
+      "path": "reports/reproducibility/20261027-F271-source/history-acquisition-raw-receipt.json.gz",
+      "raw_sha256": "ecc4e91c6fa97b8bd9ec7e57929d205db75ffcfa98b1509208014db3462a0491",
+      "gzip_sha256": "81eaf8c767ec1afb3fe34f9b563e10e1e0b4c8513b1e66255be9f17981bf8d15",
+      "raw_bytes": 2148,
+      "gzip_bytes": 736
+    },
+    {
+      "path": "reports/reproducibility/20261027-F271-source/checkpoint-selected-history-helper.py.gz",
+      "raw_sha256": "023a61287f41e21d6c97f78165b79060f5a1e954a597e47e306ff451fcf47829",
+      "gzip_sha256": "7bceb242a3090b765af73647292123a30475933f259193a4f0e84af1d4e53c72",
+      "raw_bytes": 13353,
+      "gzip_bytes": 6221
+    }
+  ],
+  "canonical_science_unchanged": true,
+  "third_party_bytes_deleted": 1978929
+}

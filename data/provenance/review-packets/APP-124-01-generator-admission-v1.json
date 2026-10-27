@@ -1,0 +1,89 @@
+{
+  "at": "2026-10-27T07:56:18.163433+00:00",
+  "work_package": "WP-123",
+  "card": "APP-124-01",
+  "scope": "Pre-target source and resource admission audit,not experiment result or mathematical theorem review.",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "original_plan": "experiments/plans/MAP-124-001.json",
+  "original_plan_sha256": "185b7a76e7e2afc0331e7a96fb774e5a8da40fa76fb09b89245548a50bb97c18",
+  "actual_source_ranges": [
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/descriptions.tex",
+      "sha256": "147e588e1b2f9e3eb89e688316a8394afafdd88fc14d50ee70a6e35262da629e",
+      "actual_read_ranges": [
+        [
+          1,
+          203
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/construction.tex",
+      "sha256": "06a715d2d1d7be615185488fad78760d15b1ab6883592dc68a6ecedac53195c9",
+      "actual_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/lists.tex",
+      "sha256": "74338dbc16a0368ac60223797959713c55aa7f5a3aecc924a8cb9485a2f2bdf1",
+      "actual_read_ranges": [
+        [
+          1,
+          372
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/paper.tex",
+      "sha256": "38f8318c45e578108367b3e35d87575ff0c1c56fb203d68a2d3b24b193eb6e2d",
+      "actual_read_ranges": [
+        [
+          185,
+          210
+        ],
+        [
+          237,
+          405
+        ],
+        [
+          480,
+          541
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/conclusion.tex",
+      "sha256": "917ac952a6a6eb47dbcae5b6ad00e1092f2962948feec46636cfbf1bf1d5e97c",
+      "actual_read_ranges": [
+        [
+          1,
+          13
+        ]
+      ]
+    }
+  ],
+  "frozen_original_target": "At least24DAGs n<=18,chains/antichains/layered/nontrivial;exactmakespan agreement,meanunique states>=25percentfewer,total timeandpeakmemory notworse;10minutes/256MiB proposal.No actualtargetfixtures oroutputsyet.",
+  "proposed_engineering_inferences_to_challenge": [
+    "Source paper312-338 is an executable formula-enumeration and truth-set deduplication prescription. Constructive proof lists/normalization are completeness witnesses,not a free suppliedschedule input.",
+    "Using rankthresholds,each singleton has two leaves,union of any subset has atmost2N leaves. Thus when2N<=10000,semanticF is all subsets;forn<=18,N=3T<=54,this covers the full proposed range. Need checkemptyset/injective ranks/connectives andexplain no contradiction to asymptotic polynomiality withfixedK.",
+    "Literal enumerate-all-formulas includes at least2^10000 leaf labellings using true/false ononefixedbinarytree,mostsemanticduplicates. This is an operation-count warning,not lower bound for every valid optimized generator.",
+    "Explicitly materializing everyN-bittruthvector forN54 costs at least54*2^54bits excluding allmetadata. Symbolic families,lazy search,earlychecks orspecialclasses may avoid this;do not claim universalimplementation impossibility.",
+    "Fair oldsame-modelbaseline can use completed-job ideals ofthe SAMEpaddedposet withtriples/exact reachability. Do notcompare sourceacceptance tableentries witholdsyntacticformula count,orintervaltriple states witholdsubsetstates without definingunits. Saturation alone doesnotrefute25percent targetforallfutureimplementations."
+  ],
+  "proposed_decision": "No literalK10000enumeration orlargepowersetexecution. Distinguish explicitconstructive prescription from admitted practicalimplementation. Originalcardremains待定/noinitialcredit,noformalnegative. One bounded audit thenrotatehistory/depthunlessactualimplementable originalcondition-preserving strategy demonstrated.",
+  "questions": [
+    "Validateorrefuteeachinferenceagainstactualsourceandoriginalplan.",
+    "Find counterexamples,hiddenmodel/cost assumptions or scopeoverclaims.",
+    "Could a concrete affordable source-faithful candidate reasonably be qualified now without reducingoriginalcriteria? Distinguish potentialfromevidence."
+  ],
+  "target_outputs_observed": false,
+  "model_provider": "OpenAI",
+  "exact_backend": "unknown",
+  "human_review": null,
+  "independent_second_provider": null,
+  "roles": "Isolated skeptic anddefender,samepacket,nootherroleopinionexposure;auxiliaryonly"
+}

@@ -1,0 +1,86 @@
+{
+  "at": "2026-10-27T10:51:23.899939+00:00",
+  "files": [
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Heisenberg/Model.lean",
+      "sha256": "3c2407c5b898c917ded7aff4def47dcd6cd7d692a52bee461e59c6fa9c36c61c",
+      "actual_ranges_read": [
+        [
+          1,
+          261
+        ]
+      ],
+      "scope": "Selected actual source definitions/signature andmainproof/metadata text,not fullimportclosure/Leanbuild/Comparator/human acceptance"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Heisenberg/Main.lean",
+      "sha256": "7da9e12ca2a72bb7bf46938aac31dd0ec2c48ecba45eb3f903677cbdbccdc612",
+      "actual_ranges_read": [
+        [
+          1,
+          75
+        ]
+      ],
+      "scope": "Selected actual source definitions/signature andmainproof/metadata text,not fullimportclosure/Leanbuild/Comparator/human acceptance"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Heisenberg.lean",
+      "sha256": "e943ce9c82349d3555fc658b69cb65bdd9968f293b1f0a4e137cf3fb05ab2bce",
+      "actual_ranges_read": [
+        [
+          142,
+          218
+        ]
+      ],
+      "scope": "Selected actual source definitions/signature andmainproof/metadata text,not fullimportclosure/Leanbuild/Comparator/human acceptance"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Heisenberg.json",
+      "sha256": "d0bb6369997304d6e50061cfdfa63acc8ff3d653d9cf21f148c8e3508b6ece95",
+      "actual_ranges_read": [
+        [
+          1,
+          14
+        ]
+      ],
+      "scope": "Selected actual source definitions/signature andmainproof/metadata text,not fullimportclosure/Leanbuild/Comparator/human acceptance"
+    },
+    {
+      "path": "math/lean/docs/271.md",
+      "sha256": "a3f93c62adc355080af9fc64ced806c979f5abd41c7359749b1c55ef8dd5a883",
+      "actual_ranges_read": [
+        [
+          1,
+          17
+        ]
+      ],
+      "scope": "Selected actual source definitions/signature andmainproof/metadata text,not fullimportclosure/Leanbuild/Comparator/human acceptance"
+    }
+  ],
+  "selected_natural_source": "Spontaneous-magnetization...foundation00-introduction13-78 and07-kms",
+  "comparison": "ell positiveinteger represents2S,LevelFin(ell+1),m=k-ell/2,raisingcoefficientsmatchspinS;nearestneighborhamiltonianunorderededgesonce,coupling1;normlimfiniteboxdynamics andexplicitDynamicsConvergesconjunct;positive normalizedboundedcomplexlinearstate,alltranslations,bothKMSstripboundaries withsameomega/dynamics;mainforall d>=3 ell>=1,existspositivebeta0 forallrealbeta>=beta0 existsstatewithreal spinZexpectation>=ell/8=S/4. Selected endpoint static scope matches.",
+  "construction_note": "Natural source uses explicit h_N=N^-1/2;actual Mainproof uses h_n=1/(n+1),existentiallychoosesboxvolumes m_n>=n thenstatesubsequence. Same existence endpoint isnot identicalfinite-volume construction orcomputablerate.",
+  "comparator_note": "Challengecontainsintentional sorry at212;actual solution Main1-75 has proofbody. Challengeplaceholderisnot solutionfailure orbuildsuccess. Comparatorjson selects only spontaneous_magnetization with definition_namesempty,permittedpropext/Quot.sound/Classical.choice;noneactuallyrun.",
+  "pinned_formalization_yaml_name_search": "No271/Heisenbergmatch;staticsearchscopeonly,not proofabsence. Existingcorpusregistrationfalse separatedfromactualdocs/sourcepresence.",
+  "October_manuscripts": "No formalcredit inherited;actual possibleadditionalformalendpoints notsearched/reviewedyet.",
+  "local_Lean_build": false,
+  "Comparator_run": false,
+  "complete_import_proof_or_axiom_audit": false,
+  "human_spec_review": false,
+  "canonical_grade_promotion": false,
+  "complete_dependency_chain": "unknown",
+  "additional_endpoint_search": {
+    "at": "2026-10-27T11:02:23.889140+00:00",
+    "subtree": "math/lean/OAI/MathematicalPhysics/Heisenberg",
+    "lean_files": 128,
+    "terms": [
+      "bloch",
+      "spherical",
+      "lattice_correction",
+      "lattice correction"
+    ],
+    "matching_lines": [],
+    "meaning": "Lexical search only. No matching October endpoint found under these names; not proof of absence under other equivalent definitions. All 128 proof bodies/imports were not read or built."
+  },
+  "docs_title_vs_actual_scope": "docs/271.md heading names Bloch/correction/spherical, but accompanying paper list, scope text, Comparator JSON and actual selected Main endpoint only establish September spontaneous magnetization/dynamics scope. No October formal credit inferred from heading."
+}

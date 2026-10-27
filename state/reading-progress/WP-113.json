@@ -4,7 +4,7 @@
   "manuscript_ids": [
     "P-b048d707c8589e15"
   ],
-  "status": "in_progress",
+  "status": "current_source_draft_qualified_not_full_family",
   "selected_at": "2026-10-26T08:44:40.607148+00:00",
   "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
   "selection": {
@@ -256,13 +256,13 @@
   "source_tex_lines": 3967,
   "bibliography_lines": 345,
   "actual_source_lines_read": 3967,
-  "new_source_decomposition_credit": false,
-  "canonical_credit_added": false,
+  "new_source_decomposition_credit": true,
+  "canonical_credit_added": true,
   "scientific_experiments": [],
-  "next_action": "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+  "next_action": "WP113 closed aftersource qualification/QA/storage andglobal040. ContinueWP114 boundedrealconsumer admission;do notrerun curator or221/325merelyforfingerprint.",
   "started_at": "2026-10-26T08:49:10.030070+00:00",
   "base_commit": "7b5bdf9c0c39abceef9dd5aad5edb801a00b89bf",
-  "updated_at": "2026-10-26T09:26:40.441431+00:00",
+  "updated_at": "2026-10-27T02:53:04.671118+00:00",
   "actual_source_files_read": [
     {
       "path": "math/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/build/figures/proof-flow.tex",
@@ -854,5 +854,21 @@
       "human_review": false,
       "status": "Provisional mapping discussion, not an admitted canonical candidate or executed application check; raw opinions archived."
     }
-  }
+  },
+  "qualification": {
+    "generation": "GEN-20261027-110",
+    "named_bindings": 26,
+    "unlabelled_bindings": 2,
+    "method_contracts": 24,
+    "source_B": 2,
+    "source_C": 26,
+    "dependency_chain_grade": "unknown",
+    "historical_selected_works": 4,
+    "historical_complete": false,
+    "new_candidate": "APP-020-01",
+    "new_application_checks": 0,
+    "scientific_runs": [],
+    "quality_evidence": "reports/reproducibility/20261027-F020-powerfree"
+  },
+  "prior_version_archive": "state/reading-progress/history/WP113-before-canonical-close.json.gz"
 }

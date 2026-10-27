@@ -1,0 +1,119 @@
+{
+  "at": "2026-10-27T08:12:09.149663+00:00",
+  "archive": "reports/reproducibility/20261027-F124-generator-admission/helpers-and-logs.tar.gz",
+  "archive_bytes": 176464,
+  "archive_sha256": "789b92e2da4b1e4204c82c1bf8d0106671f7bfb87d26d20048c0f123ff06e596",
+  "members": [
+    {
+      "path": "F238-remaining-inventory.json",
+      "bytes": 22297,
+      "sha256": "f2e531feee96fbd8250e61e51fe97fed6c961b80c2f6ec95f22c61ca834fec63"
+    },
+    {
+      "path": "clean-check.json.gz",
+      "bytes": 129824,
+      "sha256": "4157284b6fe338d7ca51eda0c8960a11e3182b105c671b9ef3eca5dea771532e"
+    },
+    {
+      "path": "clean-core.log",
+      "bytes": 14756,
+      "sha256": "57d3d6d8cfbfaeaab8f86be8bbca1b2b00ce436d1251359b6ff4b7a21af28e20"
+    },
+    {
+      "path": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "3202db57c352c01053856d8dddd17454b3c7eef6a8a10114501df64ba296be03"
+    },
+    {
+      "path": "close.py",
+      "bytes": 12803,
+      "sha256": "cf266cdfcebd7bbb9e07a7373f460cf6d9faaaa957ea513fb24bafd77a930324"
+    },
+    {
+      "path": "core.log",
+      "bytes": 14756,
+      "sha256": "f6e82a2e4016f8790ea41614976112f462f869efb28f385f024ef35ed1e8c176"
+    },
+    {
+      "path": "curate-attempt1.py",
+      "bytes": 15980,
+      "sha256": "a0b5ed4547334fb2fed0e90823608d23083e6178066133a4c2d1f113e68c27fd"
+    },
+    {
+      "path": "curate.py",
+      "bytes": 15992,
+      "sha256": "148e8f6749982e4afc32f72913658b9ad4313d1a7ab2775e4ed1ea259875b0c1"
+    },
+    {
+      "path": "curation-attempt1.log",
+      "bytes": 1063,
+      "sha256": "3d9dd95c6b39a5e648101ffa088a81bf2554efddd65b708b6275eab08a6048b5"
+    },
+    {
+      "path": "curation-summary.json",
+      "bytes": 717,
+      "sha256": "8552b13a9adc811beebc5c5abdd8d374c7405b76ca10cd18989d63775827c704"
+    },
+    {
+      "path": "curation.log",
+      "bytes": 629,
+      "sha256": "9fe0a82d87b83ef180a35eb05864e4c30600197c40c9f623a834d4b0a0f51792"
+    },
+    {
+      "path": "defender-opinion.json",
+      "bytes": 7476,
+      "sha256": "e94ec0a6dc175a77f5355fb3f16b61465753de8c2655dde798515e5054d8e4c6"
+    },
+    {
+      "path": "failure-notes.json",
+      "bytes": 351,
+      "sha256": "3c9ef78ce85ff1d270f7db54f56d63e5ad95bdae2f9992bfe3d61971eb7bc0c9"
+    },
+    {
+      "path": "next-selection.json",
+      "bytes": 5680,
+      "sha256": "06e4e051d846448f7c27f37612b4ae814cb400dac992815b2b2fdf63c8c5e9db"
+    },
+    {
+      "path": "quality.json.gz",
+      "bytes": 4511,
+      "sha256": "69672c88d2d5e4387225b6273123c59a074ce5f524de5a91b528c736e4c268cc"
+    },
+    {
+      "path": "quality.log",
+      "bytes": 1169,
+      "sha256": "8e7520397c5aa6683392b7882cbcbd4d21c376c2c9cf4a80f2e051b7a0fcfcbe"
+    },
+    {
+      "path": "quality.py",
+      "bytes": 7869,
+      "sha256": "a9e28a5f08a6ef46a8ebd86b87b86e7c49be754d11fdced1fa305ec120329e91"
+    },
+    {
+      "path": "skeptic-opinion.json",
+      "bytes": 6666,
+      "sha256": "e8cd1c8e4af88aab7186a8e63a2e82f77eeaf388fee308d668d7f51e6beb335e"
+    },
+    {
+      "path": "template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "path": "template-quality.py",
+      "bytes": 7194,
+      "sha256": "4b7a7c810c6f73669ddf4689651a02fa8ce65087bc6943e8d0de44abc6b912de"
+    },
+    {
+      "path": "unaccepted-curation-failure.json",
+      "bytes": 141,
+      "sha256": "97235816238607d653fc734722a12a8c4d064e0ad79c9e352d742061e937adcd"
+    }
+  ],
+  "all_members_roundtrip_hash_verified": true,
+  "own_plaintext_bytes_removed": 272040,
+  "third_party_corpus_copied_or_downloaded": false,
+  "clean_copy_removed_after_success": true,
+  "scientific_archives_retained": 17,
+  "new_scientific_runs": 0
+}

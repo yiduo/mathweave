@@ -1,0 +1,34 @@
+{
+  "at": "2026-10-27T07:51:16.669938+00:00",
+  "work_package": "WP-123",
+  "selected_card": "APP-124-01",
+  "source_plan": "experiments/plans/MAP-124-001.json",
+  "plan_sha256": "185b7a76e7e2afc0331e7a96fb774e5a8da40fa76fb09b89245548a50bb97c18",
+  "scope": "Existing read source;new metadata inventory only before renewed constructive audit,no new family reading credit or targetoutputs.",
+  "reason": "33uncheckedcards include a concrete existing small-DAG source-description DP hypothesis. Determine actual generator/invariants/full cost before separate preregistration;do not replace with ordinary subsetDP or reduce K.",
+  "alternatives": [
+    "F181 original AH/Lovasz/other historical roots:substantive M2 work retained for subsequent package",
+    "F238six unread companions:retain depth resource",
+    "F337samegrid/F181fullconstructor:not chosen due evidence/cost described in global043"
+  ],
+  "inventory": [
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/descriptions.tex",
+      "lines": 203,
+      "sha256": "147e588e1b2f9e3eb89e688316a8394afafdd88fc14d50ee70a6e35262da629e",
+      "new_body_read_credit": 0
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/construction.tex",
+      "lines": 239,
+      "sha256": "06a715d2d1d7be615185488fad78760d15b1ab6883592dc68a6ecedac53195c9",
+      "new_body_read_credit": 0
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/lists.tex",
+      "lines": 372,
+      "sha256": "74338dbc16a0368ac60223797959713c55aa7f5a3aecc924a8cb9485a2f2bdf1",
+      "new_body_read_credit": 0
+    }
+  ]
+}

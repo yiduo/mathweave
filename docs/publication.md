@@ -61,3 +61,8 @@ Retain **MathWeave (数学织网)** and the existing public address [yiduo/mathw
 ## 2026-10-26 当前批次：WP112与WP113检查点
 
 用户要求先提交当前进展，集中发布WP112／GEN109及WP113未完成检查点。MathWeave（数学织网）及https://github.com/yiduo/mathweave已完成命名／地址更新，沿用现有仓库，不另建库。F02015TeX3967行与345Bib已实际阅读，形式／四历史原作仅选定范围核对，同供应商角色意见仅辅助；规范入图、完整历史和复盘040待做，数量不增加。官方math、第三方正文和批量本地历史排除。旧21ce7dc仍是已验证公开边界；本批检查、推送、远端回读与CI另行取证，后验收据仅本地保存。
+
+
+## 2026-10-27 owner-requested batch
+
+The owner requested one current progress submission. Retain MathWeave and https://github.com/yiduo/mathweave. Include curated work through WP128 / global045 and unfinished WP129 (four current F271 source bodies, 46 files / 14199 lines, five selected original scopes). No extra canonical coverage, application checks, human review or formal acceptance is granted to the unfinished package. Create a single snapshot commit parented by the current public main, retaining explicit research history artifacts but excluding bulk local commit history, official math and temporary external bodies. Synchronize the Chinese and English entry documents and progress counts. Complete local/clean checks and exact tree audit before push; verify the remote tree and CI separately afterward. Post-push receipts stay local until the next meaningful batch, avoiding an extra metadata-only push.

@@ -1,0 +1,109 @@
+{
+  "at": "2026-10-27T07:32:44.087634+00:00",
+  "archive": "reports/reproducibility/20261027-F337-AD-execution/helpers-and-logs.tar.gz",
+  "archive_bytes": 183817,
+  "archive_sha256": "059cb472447939f64c2590f580bfd7b283c453e161d2f81df065f1853cd754e8",
+  "members": [
+    {
+      "path": "clean-check.json.gz",
+      "bytes": 127572,
+      "sha256": "44e5e692b7470c51611be8f13869903faf160d510ba679abf0a9c2e28815eb9b"
+    },
+    {
+      "path": "clean-core.log",
+      "bytes": 14756,
+      "sha256": "d29a9861706c524c08b36b899eb31bcaf0f6df505650ad39ef971f3b0db1e318"
+    },
+    {
+      "path": "clean-helper.log",
+      "bytes": 405,
+      "sha256": "5062e8a982c9a7481692e9df79aafd0ecbb898d84c985a343ee72292ddc1b63c"
+    },
+    {
+      "path": "clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    },
+    {
+      "path": "close.py",
+      "bytes": 15489,
+      "sha256": "f06a36c3f06186bae068fceffb3641e2ea9a0966962302def94f893968a25177"
+    },
+    {
+      "path": "core.log",
+      "bytes": 14756,
+      "sha256": "10b78936d4050d5da43cf60561e04fa3c654aac154970a0b1da1c93c0eb9311b"
+    },
+    {
+      "path": "curate.py",
+      "bytes": 11304,
+      "sha256": "51aca539a8c833ce44fab515bb3b5843a757a34bc9d09b915a2ee805fb028ddf"
+    },
+    {
+      "path": "curation-summary.json",
+      "bytes": 862,
+      "sha256": "68ba1cc26673d0202683b67b4cdb8c64263b14d20e871f7aa45a04a35b5a4398"
+    },
+    {
+      "path": "curation.log",
+      "bytes": 716,
+      "sha256": "dc28606b36246a4800c947b549383505313a6eab3a609f9cc34ebfca6ea7b3e2"
+    },
+    {
+      "path": "first-attempt.log",
+      "bytes": 59354,
+      "sha256": "bfc96048c09ce523fd30655d24fc57305d2aa3b9f256681ae69695cba03bbc2e"
+    },
+    {
+      "path": "first-target-observation.json.gz",
+      "bytes": 681,
+      "sha256": "6130d5f81e7037d6b0fe826c23f3b290ff40452e33ac85261f329218dfc37f8d"
+    },
+    {
+      "path": "first-target-replay.json",
+      "bytes": 654,
+      "sha256": "63aef9535fd90d487055ed75879f06246d5c6b456e991c6dd7d96bd1075c66a6"
+    },
+    {
+      "path": "first-target-replay.log",
+      "bytes": 654,
+      "sha256": "63aef9535fd90d487055ed75879f06246d5c6b456e991c6dd7d96bd1075c66a6"
+    },
+    {
+      "path": "next-source-comparison.json",
+      "bytes": 10732,
+      "sha256": "2d06b3a40c8e8a1cd395523d03477dd9be060ab56776bfd19b49e36075fd57fa"
+    },
+    {
+      "path": "quality.json.gz",
+      "bytes": 4170,
+      "sha256": "12c1b73f201e54eba1899386ff25d7ccd4e204eecfd818bdb9d0fbfb3bde49d4"
+    },
+    {
+      "path": "quality.log",
+      "bytes": 1223,
+      "sha256": "a2f0a5dd0c4dc46b985014e68a194cd6a473ee9969809c4abd77d1f045c9b362"
+    },
+    {
+      "path": "quality.py",
+      "bytes": 7831,
+      "sha256": "7e93e5a125ad65f535847759f11a4791c35d7634024f976be95e15679f0f60e6"
+    },
+    {
+      "path": "template-quality.py",
+      "bytes": 7933,
+      "sha256": "03a4bf7ca8b21458f948d900d4f924b8669100f3ecb3fb509328db65f435eea9"
+    },
+    {
+      "path": "template-template-template-clean_check.py",
+      "bytes": 1761,
+      "sha256": "17db11d38a94c19f331670221d05ae652fc367a64a633751703ae95980c89498"
+    }
+  ],
+  "all_members_roundtrip_hash_verified": true,
+  "plaintext_own_bytes_removed": 282614,
+  "clean_copy_removed_after_success": true,
+  "tiny_verified_wheel_retained": "/private/tmp/ai-paper-WP120/autograd-1.9.1-py3-none-any.whl",
+  "scientific_outputs_and_attempts_retained_compressed": true,
+  "failure_note": "An earlier patch verification failed before mutation; corrected patch was applied without changing frozen numerical code. No failed scientific data deleted."
+}

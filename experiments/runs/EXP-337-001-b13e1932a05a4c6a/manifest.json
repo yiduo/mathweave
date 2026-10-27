@@ -1,0 +1,1352 @@
+{
+  "run_id": "EXP-337-001-b13e1932a05a4c6a",
+  "experiment_id": "EXP-337-001",
+  "started_utc": "2026-10-27T06:56:45.795546+00:00",
+  "specification_written_utc": "2026-10-27T06:27:54.299075+00:00",
+  "finished_utc": "2026-10-27T06:56:49.824733+00:00",
+  "inputs": {
+    "experiments/specs/EXP-337-001.json": "80f79b9f13eb90687660989b5353298ab17dda63d7e91a3897da38bb2d5ba9e0",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/ad_composite.py": "babe8bc2d13f42017fd762f0c449605884bc6950d8ffb84e981ffcbfeeca811f",
+    "src/ai_value/ad_reference.py": "6418fd52f868381a9ee9402ed97b11621c89fca3b62118cb71de1927f6e1c24c",
+    "src/ai_value/attempts.py": "c29e3e5b1596ad4fc9f2f27722ea3f5da8e0d64247f82a0fb1b32b7576de04f1",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/binary_information.py": "3a534f07f829f8944c254b4e98a603e022687f40a52b8b8777f43878bda110c1",
+    "src/ai_value/block_budget.py": "ad43d1766fc8590275552e64c069c010c1b52cf720111db2e0078faad9844a4b",
+    "src/ai_value/bosonic_regression.py": "27e371697e7fbae9e19155f55459c45aa9e1c59af069ee970e9a9bbe1fe023dd",
+    "src/ai_value/cli.py": "d5ffb61f33bed0d427af291a3a9c9353801a363bbe6fac96fe2b9577b47f9502",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/cyclic_chain.py": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc",
+    "src/ai_value/experiments.py": "b986e94a7110e0f14c6d180da1e97de404303ae4db9e4e092f303a9b42c8be96",
+    "src/ai_value/graph.py": "af04dca47706af7a83cf249ba4e003c8fda30f9014bfa129514236c5ca1f306f",
+    "src/ai_value/graph_smoothing.py": "8cee5a4e380ef295d382e3016cd895b35b72889c71cd1e2d12931982e76afb29",
+    "src/ai_value/graph_smoothing_reference.py": "4dc7a9d98033e657733240839b4abb615d532f9d82fd7bfdcc88d31427a94235",
+    "src/ai_value/knowledge.py": "d1a50c26e7672ae55befe59cca762fa3da6fec3c64d750f5293bcb604238c349",
+    "src/ai_value/navigation.py": "bcd14e6506af1f7bd4a2ab6a9551d639ada4da1967e3e9d2f81accbf0b32e407",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/phase_rounding.py": "d0b382a0476a179c0b3fc11e3af1fbc499f95e3296a4be5c7365d6ac2be9fc61",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/pressure_audit.py": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304",
+    "src/ai_value/provenance.py": "b5b717177ccc2ebe3f8325ca74ccd3e8a4c26c85434e9582da4b7f246574d4cc",
+    "src/ai_value/publication.py": "77201dbdcbeb5adc5efe54e59de029c306cbfaa2a4da70c9ef8705514900bc39",
+    "src/ai_value/receiver_audit.py": "09fa282d050ae4ecd4ab6f698ed0972b1df4297e8ea2fa53d915d74b2b10046e",
+    "src/ai_value/reporting.py": "aa580a9632e8b5681b707dc4c2228c1ad7ab2ac58c75301e320fffb28dcd7fa0",
+    "src/ai_value/source_results.py": "4a7471c1368ac68ead2cde65ab18edf935798efa44880d72dc6a52e8216c10f6",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "experiments/plans/APP-337-01-review-packet-v2.md": "91083506a038f02c71fcd43dfcbe6649ae772f8a30a572c2594ed15ca15a3f4a",
+    "scripts/run_experiment_attempt.py": "ec8e44bd2b8c6ba1c0d280cc2a805ee5de7adb16299c92c9b1a740d1061cc441",
+    "scripts/replay_run.py": "0be7912a418d7a037ec7106b7ae45d469d3250912e09702c78f2e37160badd53",
+    "scripts/measure_experiment_worker.py": "e4597efdf3a4831e05b8553f2bd95d7c6f1602d0fe5ec968c4c40f56bf45e230",
+    "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json": "cd4cdb108035734cf04d4ea4d4a529b8fb3f489e193bc4907e2ce01a13d52d14",
+    "data/provenance/licenses/autograd-1.9.1-MIT.txt": "026a4de32aeee573f5049220bb9f8cd1ad6a3e1bab3cecb7a28b652c2c6d5099",
+    "configs/research.json": "dc0fe08e94e1f7e24a93cdb96f90bf4432895cdfa82aef555e11dc39ffeeb345",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "80f79b9f13eb90687660989b5353298ab17dda63d7e91a3897da38bb2d5ba9e0",
+    "raw.json.gz": "df9cb9a8eb0430f12a0410267dfa1bb1a32c8ed38356b641e26705410b70ba11",
+    "summary.json.gz": "f4cbd1f470afbc813e35d67530381606febfd52de7fdb9feb2a46b79ade8ee6e",
+    "inputs.json.gz": "204f24b190c363ce4e4a6e90005f844f412282e17cb8234de652c30335ea3e09"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "71f1474db504bb0c421a9930fbc9a095eafa363b6fafa830c1f2bdfd62849f56"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "0a223f345e4ac8be40936780ace236fcea30d8919289f385cc862833145987ce"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-337-001",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "dependencies": {
+      "standard_library": true,
+      "numpy": "2.3.5"
+    }
+  },
+  "elapsed_seconds": 0.904506416991353,
+  "peak_traced_python_bytes": 10782282,
+  "resource_envelope_met": true,
+  "memory_scope": "Python traced allocations AND whole-process peak RSS including NumPy/native libraries; not child processes",
+  "result": "prediction_not_supported",
+  "formal_rejection": false,
+  "process_peak_rss_bytes": 56246272,
+  "process_rss_measurement": {
+    "worker_pid": 28250,
+    "worker_exit_code": 0,
+    "raw": 56246272,
+    "source_unit": "bytes",
+    "bytes": 56246272,
+    "platform": "darwin",
+    "measurement": "os.wait4 for this exact terminated worker",
+    "scope": "whole CLI worker lifecycle including final serialization/stdout; excludes supervisor and worker descendants",
+    "worker_exited_monotonic": 841040.64410875
+  },
+  "resource_limit_rss_mb": 128,
+  "archive_compression_seconds": 0.06588137499056756,
+  "optional_dependencies_pinned": true,
+  "stage_runtime_metrics": {
+    "setup_import_identity_seconds": 3.0657580830156803,
+    "calculation_seconds": 0.904506416991353,
+    "runtime_identity": {
+      "autograd": "1.9.1",
+      "numpy": "2.3.5",
+      "numpy_file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/__init__.py",
+      "wheel_path": "/private/tmp/ai-paper-WP120/autograd-1.9.1-py3-none-any.whl",
+      "wheel_sha256": "b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a",
+      "verified_imported_autograd_modules": {
+        "autograd": {
+          "member": "autograd/__init__.py",
+          "sha256": "39db0108eda227a8adcff5fd257dda2a8689a021ae5257d63554138a935c0580"
+        },
+        "autograd.builtins": {
+          "member": "autograd/builtins.py",
+          "sha256": "a2de58d93736e7edb736cd271da5db0132ad3e410a7ff32aa5db8d44b806c824"
+        },
+        "autograd.core": {
+          "member": "autograd/core.py",
+          "sha256": "6a7171fe3fd949439957cdfc856f654970f3665c7fe5100b3920cdeec37c45ff"
+        },
+        "autograd.differential_operators": {
+          "member": "autograd/differential_operators.py",
+          "sha256": "be9a82a4ca00040efff2031bc0f28db102b55ddb7b40cc92e5c7ebf08e56644a"
+        },
+        "autograd.extend": {
+          "member": "autograd/extend.py",
+          "sha256": "3af77fa53d5572e8bc8e7d6d694bae28ffb7b625f2dde34224703d3094dc34c9"
+        },
+        "autograd.numpy": {
+          "member": "autograd/numpy/__init__.py",
+          "sha256": "8b2b920053d5eb232ffa9e4ddf758d6c9c0ae5377e897fec12eb11476f184ef0"
+        },
+        "autograd.numpy.fft": {
+          "member": "autograd/numpy/fft.py",
+          "sha256": "4d1915cb6ce879d83be9ea5602b0bd20525c2cca8262594d83625f30aee32933"
+        },
+        "autograd.numpy.linalg": {
+          "member": "autograd/numpy/linalg.py",
+          "sha256": "3da81406bd886bb3c9439415d98b85b68318930cf4c6d39d0d349c4d6c26e1ef"
+        },
+        "autograd.numpy.numpy_boxes": {
+          "member": "autograd/numpy/numpy_boxes.py",
+          "sha256": "5c30c753e0b1bacd8513e0d840f3ae841dca6ce7b54e2f8a7f5ae0a3da5aa414"
+        },
+        "autograd.numpy.numpy_jvps": {
+          "member": "autograd/numpy/numpy_jvps.py",
+          "sha256": "e69c6ee4483d32f46d93f3f771a0cd7f0cde47050c521dfca9e03f659f849d1f"
+        },
+        "autograd.numpy.numpy_vjps": {
+          "member": "autograd/numpy/numpy_vjps.py",
+          "sha256": "8a6d9fddf7e6dc53e7e90f943b1f45247c2db3f1e968d6ce0b2937641d249fda"
+        },
+        "autograd.numpy.numpy_vspaces": {
+          "member": "autograd/numpy/numpy_vspaces.py",
+          "sha256": "d63ea6bcd8302715b468dbdee5bf9a94b265c578f8c899b31c38ae4df26c1c59"
+        },
+        "autograd.numpy.numpy_wrapper": {
+          "member": "autograd/numpy/numpy_wrapper.py",
+          "sha256": "29173bd93125b35997f01754d8a1b140fae36526e2a680cbe261607fd22299e1"
+        },
+        "autograd.numpy.random": {
+          "member": "autograd/numpy/random.py",
+          "sha256": "68d6e1ad6b6aa1cd364708e8fde6d7e6904e6545bc46563a1cf028fa4ba41869"
+        },
+        "autograd.tracer": {
+          "member": "autograd/tracer.py",
+          "sha256": "43f4fca2c1d308e97d285df9ff028b18c7879d69a9e067195f983772026724f2"
+        },
+        "autograd.util": {
+          "member": "autograd/util.py",
+          "sha256": "e0f5f4df9d6981c9f67e13df95274196ede36a286995b48bf6154a0bc7ef29f9"
+        },
+        "autograd.wrap_util": {
+          "member": "autograd/wrap_util.py",
+          "sha256": "e80e856f513d79af36369753310ca72a5de7c1ad7b83e73dfec63c1076b271eb"
+        }
+      },
+      "numpy_imported_file_hashes": {
+        "numpy": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/__init__.py",
+          "member": "numpy/__init__.py",
+          "sha256": "93924ac4b793328947dfd9eb9355e54eccdfd26a92c8dd52188aed2e52c7eb38"
+        },
+        "numpy.__config__": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/__config__.py",
+          "member": "numpy/__config__.py",
+          "sha256": "ae91af2ea14c5e2e6c24433263cf43bdec95f2db7042c6bee594dc60de1d7622"
+        },
+        "numpy._array_api_info": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_array_api_info.py",
+          "member": "numpy/_array_api_info.py",
+          "sha256": "373252b9ff2fbad8c64aa8aa6a1ab78d12374b1317e17d5cbdae09e9d16fe045"
+        },
+        "numpy._core": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/__init__.py",
+          "member": "numpy/_core/__init__.py",
+          "sha256": "c89d22cb57d793da200859df9425b30412f094a492fb1950582a560a8cda4fa7"
+        },
+        "numpy._core._add_newdocs": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_add_newdocs.py",
+          "member": "numpy/_core/_add_newdocs.py",
+          "sha256": "c922ae3ffe2c54f34b1e9d688e04cc8524568b7775f02701147147903f177fe5"
+        },
+        "numpy._core._add_newdocs_scalars": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_add_newdocs_scalars.py",
+          "member": "numpy/_core/_add_newdocs_scalars.py",
+          "sha256": "67959c2005f2d95b3c9162c2ce0cafc56547d02025f8eeb86052b7b6d6d4ef27"
+        },
+        "numpy._core._asarray": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_asarray.py",
+          "member": "numpy/_core/_asarray.py",
+          "sha256": "7c23472da6823fee486be451fdb22b1f1598df1925726be56621a12480e228b3"
+        },
+        "numpy._core._dtype": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_dtype.py",
+          "member": "numpy/_core/_dtype.py",
+          "sha256": "70ce899e3a072d445608780df15990ca37a28838dcc210792ff7cf30e7b5bae3"
+        },
+        "numpy._core._dtype_ctypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_dtype_ctypes.py",
+          "member": "numpy/_core/_dtype_ctypes.py",
+          "sha256": "28f3e56a40ec3e4b938523abe6a1705b48c9f559e36ef5b811684e6c21d81881"
+        },
+        "numpy._core._exceptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_exceptions.py",
+          "member": "numpy/_core/_exceptions.py",
+          "sha256": "5fc120d61ab5b94f0bf7088ec05a368d1aba4b4be78c27606051e3de1016f42a"
+        },
+        "numpy._core._internal": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_internal.py",
+          "member": "numpy/_core/_internal.py",
+          "sha256": "619ea730654ebdf4c3d67ce4d97a91773f24d395959d81a29636f54e71ef32af"
+        },
+        "numpy._core._machar": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_machar.py",
+          "member": "numpy/_core/_machar.py",
+          "sha256": "6145f6e1761bc5727bf4aad66abdbb1650d829f7a876bfd10a413bc346c44eab"
+        },
+        "numpy._core._methods": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_methods.py",
+          "member": "numpy/_core/_methods.py",
+          "sha256": "e2a8945044b9c273857979cf6afb6aa8c561674f5965e48a970a9d3f0d9e2922"
+        },
+        "numpy._core._multiarray_umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_multiarray_umath.cpython-312-darwin.so",
+          "member": "numpy/_core/_multiarray_umath.cpython-312-darwin.so",
+          "sha256": "b11f1ef3534cc6bb0a9c8141206350b27cadf48632c34acfcfc97ca6e700363e"
+        },
+        "numpy._core._string_helpers": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_string_helpers.py",
+          "member": "numpy/_core/_string_helpers.py",
+          "sha256": "e929a0a22ea80f60ae9e3c014abf41676d079029ef5ba9d33db953394de95a78"
+        },
+        "numpy._core._type_aliases": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_type_aliases.py",
+          "member": "numpy/_core/_type_aliases.py",
+          "sha256": "9ac147064676b35c0a432ba0b8afdc17a3414b4ff700ec30ee3de8876ea6a374"
+        },
+        "numpy._core._ufunc_config": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_ufunc_config.py",
+          "member": "numpy/_core/_ufunc_config.py",
+          "sha256": "f63e91d7662635b693e7ecb9ac200e3c16e01f86d81989670e016afaf6799c3b"
+        },
+        "numpy._core.arrayprint": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/arrayprint.py",
+          "member": "numpy/_core/arrayprint.py",
+          "sha256": "00002f92b23453a3daff064e9e9b95641a5db020a3a58a5c585f2c03f48f61b8"
+        },
+        "numpy._core.einsumfunc": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/einsumfunc.py",
+          "member": "numpy/_core/einsumfunc.py",
+          "sha256": "85e15e0a210a8e2faa7d593ccc06756f96ca9be31430bcc2113310ef2c870617"
+        },
+        "numpy._core.fromnumeric": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/fromnumeric.py",
+          "member": "numpy/_core/fromnumeric.py",
+          "sha256": "b347fa59f908455c0564c943add61bdc48f217dbcc1abd1b9acd0f73e55c3803"
+        },
+        "numpy._core.function_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/function_base.py",
+          "member": "numpy/_core/function_base.py",
+          "sha256": "413d696e597ff2b7ffdd9b06b4b42801e435392a82a9e006b4c4f33c013523fc"
+        },
+        "numpy._core.getlimits": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/getlimits.py",
+          "member": "numpy/_core/getlimits.py",
+          "sha256": "df641eeed94115dca20ef7528c6d5ca766b4349d2b48cc5e0d18a3dda8223eb8"
+        },
+        "numpy._core.memmap": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/memmap.py",
+          "member": "numpy/_core/memmap.py",
+          "sha256": "c88b10ea7f64a59ba58204492459136e35709c1e257a8ca2cef529736894e27f"
+        },
+        "numpy._core.multiarray": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/multiarray.py",
+          "member": "numpy/_core/multiarray.py",
+          "sha256": "cf01c17723a8c6205170e846d9007fc410189bea7c0114a941bc9ef44cebac1a"
+        },
+        "numpy._core.numeric": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/numeric.py",
+          "member": "numpy/_core/numeric.py",
+          "sha256": "fc3727bd7bbaa1a1d74a2f50f8157dc86cdfc7bb5cf620b1ebdafd3272439b98"
+        },
+        "numpy._core.numerictypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/numerictypes.py",
+          "member": "numpy/_core/numerictypes.py",
+          "sha256": "d7924b057d26fcc4206a21ffc81048e6096fd2f5ee794d1aae74b9e915df5319"
+        },
+        "numpy._core.overrides": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/overrides.py",
+          "member": "numpy/_core/overrides.py",
+          "sha256": "32d8333816af1bbc33418080eceec0add089555ef649321bfdcbe4581b832c91"
+        },
+        "numpy._core.printoptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/printoptions.py",
+          "member": "numpy/_core/printoptions.py",
+          "sha256": "345a6fcb96e78dbbea9ca7aa42dd2f784131a400180153688865c7de98255807"
+        },
+        "numpy._core.records": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/records.py",
+          "member": "numpy/_core/records.py",
+          "sha256": "8685c20ecc0cea16f2b6219d6069214484b34239ea2265dc21d1a536e3940d7e"
+        },
+        "numpy._core.shape_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/shape_base.py",
+          "member": "numpy/_core/shape_base.py",
+          "sha256": "ef20cfac85d39a606764c512b475ecab58893621a623110071ea7143da3e2554"
+        },
+        "numpy._core.umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/umath.py",
+          "member": "numpy/_core/umath.py",
+          "sha256": "b7f49020747b764305f95469f1d2b2ae838477dd28a8d9739a01b0687dbca96f"
+        },
+        "numpy._distributor_init": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_distributor_init.py",
+          "member": "numpy/_distributor_init.py",
+          "sha256": "14148976054795071ae41ad011560fa059ba2924c98481675ad59b1241214d2a"
+        },
+        "numpy._expired_attrs_2_0": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_expired_attrs_2_0.py",
+          "member": "numpy/_expired_attrs_2_0.py",
+          "sha256": "ccfdf511799bc3281c384cf27ad0c4a7e4712fd7147db51486df79eb368e49ff"
+        },
+        "numpy._globals": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_globals.py",
+          "member": "numpy/_globals.py",
+          "sha256": "9396559f351b28d48b3e667451163024de42ffbc48cdf30d69a4ac052acf4ee2"
+        },
+        "numpy._pytesttester": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_pytesttester.py",
+          "member": "numpy/_pytesttester.py",
+          "sha256": "0e39582fcb8834dd9759ade79e55fa80f1aea0b8dcc750627bf3d0cdba767290"
+        },
+        "numpy._typing": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/__init__.py",
+          "member": "numpy/_typing/__init__.py",
+          "sha256": "306e56bfd75cdd9c8e9837e2747e5c16dca47b234cefb02b0b8477516ed39fe6"
+        },
+        "numpy._typing._array_like": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_array_like.py",
+          "member": "numpy/_typing/_array_like.py",
+          "sha256": "10f6547c94a36a6bec589e91b39670c00ff916106961da227dc555b557163e7d"
+        },
+        "numpy._typing._char_codes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_char_codes.py",
+          "member": "numpy/_typing/_char_codes.py",
+          "sha256": "8f4ee7a64f3635bec8adadb3ed94e553751c38fc2dda033ba992ab3cb7634f8f"
+        },
+        "numpy._typing._dtype_like": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_dtype_like.py",
+          "member": "numpy/_typing/_dtype_like.py",
+          "sha256": "f0ce517a42ea7617848d63089f84676e4133b12ee309ab42893d03e6183ee777"
+        },
+        "numpy._typing._nbit": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nbit.py",
+          "member": "numpy/_typing/_nbit.py",
+          "sha256": "2926cac0e2adb686fee72b53e6f095907ac3327d181efca9b534f28ffe8061cc"
+        },
+        "numpy._typing._nbit_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nbit_base.py",
+          "member": "numpy/_typing/_nbit_base.py",
+          "sha256": "9cf669b1096db91e41d22680605f6a0f685efe45e79acb2ffd185a50d16c5beb"
+        },
+        "numpy._typing._nested_sequence": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nested_sequence.py",
+          "member": "numpy/_typing/_nested_sequence.py",
+          "sha256": "b28d5a818187779803a3f201bef1ea041e65b2a19b1ea37f8a6c82e541d4f872"
+        },
+        "numpy._typing._scalars": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_scalars.py",
+          "member": "numpy/_typing/_scalars.py",
+          "sha256": "2e15d8d814c799e60acde2197e98efb8c9fee5e38b8d4da7f73ef3d65e5b29ff"
+        },
+        "numpy._typing._shape": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_shape.py",
+          "member": "numpy/_typing/_shape.py",
+          "sha256": "e9c16ff8b6d2c86f6695f4813861b2ba5f50fc652b95c1d00bd2596be9b6d1c0"
+        },
+        "numpy._typing._ufunc": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_ufunc.py",
+          "member": "numpy/_typing/_ufunc.py",
+          "sha256": "1ce91a13eeb05747dddeb9876460b7f580072087fcb72be5cde903e32e064310"
+        },
+        "numpy._utils": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/__init__.py",
+          "member": "numpy/_utils/__init__.py",
+          "sha256": "8559d9ec2d0c09235b330f99caaf8c282612b5a197e91cea14c9e787b79de1d1"
+        },
+        "numpy._utils._convertions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/_convertions.py",
+          "member": "numpy/_utils/_convertions.py",
+          "sha256": "d3133175e2cece20e61ec44cffc96e121e12fa441d328320e86c4d0c36acebd9"
+        },
+        "numpy._utils._inspect": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/_inspect.py",
+          "member": "numpy/_utils/_inspect.py",
+          "sha256": "cc5b890011f4f03d4a82afde79c6240f53a0834397a75b78a2a8d9c4cd2474b9"
+        },
+        "numpy.dtypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/dtypes.py",
+          "member": "numpy/dtypes.py",
+          "sha256": "cee3f0802d228c5da80d100e27a23d24a85a26e857140ca00722d06a856d4f9e"
+        },
+        "numpy.exceptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/exceptions.py",
+          "member": "numpy/exceptions.py",
+          "sha256": "c75cfb0b6463ac3156f2d2dec1b663c8c890a24d16066e642ae44f23154b5238"
+        },
+        "numpy.fft": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/__init__.py",
+          "member": "numpy/fft/__init__.py",
+          "sha256": "3961349ba1ff6e5cafd70b6a42989753992ac45e8ed94c71715e6dd75534e511"
+        },
+        "numpy.fft._helper": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_helper.py",
+          "member": "numpy/fft/_helper.py",
+          "sha256": "8489f66721181b87cb077306bc23efa52acb5c57e1fb13b8cc62a58e4fd34236"
+        },
+        "numpy.fft._pocketfft": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_pocketfft.py",
+          "member": "numpy/fft/_pocketfft.py",
+          "sha256": "09fa40a51f51d123ae72a97d829f6f5da766ff2e5c04cf979e3e6dac3a6f1521"
+        },
+        "numpy.fft._pocketfft_umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_pocketfft_umath.cpython-312-darwin.so",
+          "member": "numpy/fft/_pocketfft_umath.cpython-312-darwin.so",
+          "sha256": "9e8dbfbcc0bc2752f36a2bd69ec5430d974abb57dc23bb15b04e9e09be68180d"
+        },
+        "numpy.fft.helper": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/helper.py",
+          "member": "numpy/fft/helper.py",
+          "sha256": "4681000ec3a7a028124cbd601399fedfa965cfc8b0c46ce7e7669fdcbfbd2846"
+        },
+        "numpy.lib": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/__init__.py",
+          "member": "numpy/lib/__init__.py",
+          "sha256": "cd81aea847cfaaaecb0db89da7162cf068023409a8278c50805bc5dd7289e518"
+        },
+        "numpy.lib._array_utils_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_array_utils_impl.py",
+          "member": "numpy/lib/_array_utils_impl.py",
+          "sha256": "1985a2c8da8b43b0c6512057cf46db47a000a994ad0c8c147bbb6c6d9fffd793"
+        },
+        "numpy.lib._arraypad_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arraypad_impl.py",
+          "member": "numpy/lib/_arraypad_impl.py",
+          "sha256": "cf9fbe5d3f344dc9c365ecc756b7716ae252637c82e2f30375dec994efa1df3c"
+        },
+        "numpy.lib._arraysetops_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arraysetops_impl.py",
+          "member": "numpy/lib/_arraysetops_impl.py",
+          "sha256": "545760a456497322616053dc4e4fcb403fd2aea5faa68cbfb21b0b2af662832d"
+        },
+        "numpy.lib._arrayterator_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arrayterator_impl.py",
+          "member": "numpy/lib/_arrayterator_impl.py",
+          "sha256": "1ed3800c81ee1bd0036db3138268783ff9ae91ed55fbc13e14d10eddb54e18f0"
+        },
+        "numpy.lib._datasource": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_datasource.py",
+          "member": "numpy/lib/_datasource.py",
+          "sha256": "ce4f956e7e099431c455adc37ba0373608e79e2cd2262f8717466fbc0e98228e"
+        },
+        "numpy.lib._format_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_format_impl.py",
+          "member": "numpy/lib/_format_impl.py",
+          "sha256": "cdc437c57c4f7fb7a992db18adc7416c83ee38287d38f575837801ea085fe2b1"
+        },
+        "numpy.lib._function_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_function_base_impl.py",
+          "member": "numpy/lib/_function_base_impl.py",
+          "sha256": "0191b2376f44730e0b46e5354cd51c3c2edc5473bdc9ee1b27d15023b9ff1b07"
+        },
+        "numpy.lib._histograms_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_histograms_impl.py",
+          "member": "numpy/lib/_histograms_impl.py",
+          "sha256": "52dbbb68041ced9a6c1e7ff4e288149d9ab565c7477e2a5cabd791abcd7ba155"
+        },
+        "numpy.lib._index_tricks_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_index_tricks_impl.py",
+          "member": "numpy/lib/_index_tricks_impl.py",
+          "sha256": "83b369e04f001bdb20ca2f474d482f38cd3ca489408ff72f5f0e1c73b36b5392"
+        },
+        "numpy.lib._iotools": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_iotools.py",
+          "member": "numpy/lib/_iotools.py",
+          "sha256": "d23b69be99792feff5383236d45fb58b5f6dd5edcbfbac09c517750922dec0bd"
+        },
+        "numpy.lib._nanfunctions_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py",
+          "member": "numpy/lib/_nanfunctions_impl.py",
+          "sha256": "71d393edd6308ef52923d8841d3af0cdb6ed2a13fd65980e08c8ab4c17983d49"
+        },
+        "numpy.lib._npyio_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_npyio_impl.py",
+          "member": "numpy/lib/_npyio_impl.py",
+          "sha256": "92e71acf00ae7e1e26370102c99c447abc6ca9afc6c50333d6462e65444323cb"
+        },
+        "numpy.lib._polynomial_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_polynomial_impl.py",
+          "member": "numpy/lib/_polynomial_impl.py",
+          "sha256": "4d68aa946dd60daf7bb5acb1402125b590fd4cd854c85a6bccbfd499decbc6ca"
+        },
+        "numpy.lib._scimath_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_scimath_impl.py",
+          "member": "numpy/lib/_scimath_impl.py",
+          "sha256": "400538b8cfc837356a093b3e013132cb526144497fc03267ff2814ef962d7e01"
+        },
+        "numpy.lib._shape_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_shape_base_impl.py",
+          "member": "numpy/lib/_shape_base_impl.py",
+          "sha256": "e6f914f6b3cec0abd273b4f3c5d7d6b4cd3cb95d26d798873d3c5ba9c638ece7"
+        },
+        "numpy.lib._stride_tricks_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_stride_tricks_impl.py",
+          "member": "numpy/lib/_stride_tricks_impl.py",
+          "sha256": "cb7531a778c5cc3c26210d77ecddb36a9efebd6fe338d5109979db7eaaeceb40"
+        },
+        "numpy.lib._twodim_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_twodim_base_impl.py",
+          "member": "numpy/lib/_twodim_base_impl.py",
+          "sha256": "de738bbc20fa71f33a303de8dfcd45e3c181f29a2ab1418308339094e0505e66"
+        },
+        "numpy.lib._type_check_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_type_check_impl.py",
+          "member": "numpy/lib/_type_check_impl.py",
+          "sha256": "59e55f5b3ff42a5bdbd8affa974c789c7c070703d881f7317998a757f769fe6c"
+        },
+        "numpy.lib._ufunclike_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_ufunclike_impl.py",
+          "member": "numpy/lib/_ufunclike_impl.py",
+          "sha256": "d1e7a67ff11894b9926b88a736bde2b89d5ea1332a2f2211d27e9d4329a06b76"
+        },
+        "numpy.lib._utils_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_utils_impl.py",
+          "member": "numpy/lib/_utils_impl.py",
+          "sha256": "96db16f4c329de4d6fc3b22789d8584f97e8f60ae0c33eb6e1fbd17a21c3c967"
+        },
+        "numpy.lib._version": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_version.py",
+          "member": "numpy/lib/_version.py",
+          "sha256": "e1d52b73d26cd0a3c443969da18291e5d9cfe1f7e3083b4950a3ea70c6aec18e"
+        },
+        "numpy.lib.array_utils": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/array_utils.py",
+          "member": "numpy/lib/array_utils.py",
+          "sha256": "5db732849f52d0894d9cff4dcbacb280b30400259650f34e53cbdebe3d531292"
+        },
+        "numpy.lib.format": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/format.py",
+          "member": "numpy/lib/format.py",
+          "sha256": "9e9274789853eee28d2b96b49423067e226ff91e23c8d86220f7996c970d5c1b"
+        },
+        "numpy.lib.introspect": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/introspect.py",
+          "member": "numpy/lib/introspect.py",
+          "sha256": "bbec207ccb98b7c188dc09d135d5ece23e30f5e353b1ace5aab6b34be3fb80a0"
+        },
+        "numpy.lib.mixins": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/mixins.py",
+          "member": "numpy/lib/mixins.py",
+          "sha256": "29f7fbe9272981657772bba2708f40edae337c19c65665edc10cccceee710c4a"
+        },
+        "numpy.lib.npyio": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/npyio.py",
+          "member": "numpy/lib/npyio.py",
+          "sha256": "79a3ef7c7192cd413bd132471cb3823c85fd1b98a132e0447b1cbafcf36127d4"
+        },
+        "numpy.lib.scimath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/scimath.py",
+          "member": "numpy/lib/scimath.py",
+          "sha256": "aa315a41eab4cc4225ee02aa3a16a3fef9820bf29a15dc9398774b514912a792"
+        },
+        "numpy.lib.stride_tricks": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/stride_tricks.py",
+          "member": "numpy/lib/stride_tricks.py",
+          "sha256": "c74fc17f097270102547706fa714e775e3fde9d1c14ff7c049b9134d3cc16202"
+        },
+        "numpy.linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/__init__.py",
+          "member": "numpy/linalg/__init__.py",
+          "sha256": "ee956f17038914a380ac6794b3a30d8f730daaab31ef1c74beddbfedabcd020e"
+        },
+        "numpy.linalg._linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/_linalg.py",
+          "member": "numpy/linalg/_linalg.py",
+          "sha256": "eab0bbee9c8758d387934dc32849f01deceb50261d02e22d41f03ad6ff2562cc"
+        },
+        "numpy.linalg._umath_linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/_umath_linalg.cpython-312-darwin.so",
+          "member": "numpy/linalg/_umath_linalg.cpython-312-darwin.so",
+          "sha256": "b1f59033b9a09fd4036a9ecaf25cd93546215e775095e0ebc54b09221ccc20a3"
+        },
+        "numpy.linalg.linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/linalg.py",
+          "member": "numpy/linalg/linalg.py",
+          "sha256": "e8d8a63faf2d61ad2a051825587f3bfed3a1dac72c86d0e97307ef06f99de8fa"
+        },
+        "numpy.matrixlib": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/matrixlib/__init__.py",
+          "member": "numpy/matrixlib/__init__.py",
+          "sha256": "52de88a9f8ee03e930c28e8704e6008058d75c2fe1ed857fdc7c83b0a33bd9d9"
+        },
+        "numpy.matrixlib.defmatrix": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/matrixlib/defmatrix.py",
+          "member": "numpy/matrixlib/defmatrix.py",
+          "sha256": "c29c3a95953d5faaa9f30009a240d7b76441acbd5e5ea96606dfa88c8c18ce55"
+        },
+        "numpy.random": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/__init__.py",
+          "member": "numpy/random/__init__.py",
+          "sha256": "585ce7b73b5454d6a25c2a50967f2dc322fc1d214d4bb5c0589949b105e06ea9"
+        },
+        "numpy.random._bounded_integers": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_bounded_integers.cpython-312-darwin.so",
+          "member": "numpy/random/_bounded_integers.cpython-312-darwin.so",
+          "sha256": "ebc0ea58929e17fed134e163ae4f3d0b63d2b9bbeb22477aac731c91038da34d"
+        },
+        "numpy.random._common": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_common.cpython-312-darwin.so",
+          "member": "numpy/random/_common.cpython-312-darwin.so",
+          "sha256": "c7a99c46c3a29116cc71c7f603ca33442468ae3b3004882ecf157a4f7a990033"
+        },
+        "numpy.random._generator": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_generator.cpython-312-darwin.so",
+          "member": "numpy/random/_generator.cpython-312-darwin.so",
+          "sha256": "dac7904682930f4273da8897c2654707c6fb9dfea0a35784da427a6a02fd94b4"
+        },
+        "numpy.random._mt19937": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_mt19937.cpython-312-darwin.so",
+          "member": "numpy/random/_mt19937.cpython-312-darwin.so",
+          "sha256": "e2d871b5595504775af566249a4530c827bda24b5a1888fc173dc3c79c4de837"
+        },
+        "numpy.random._pcg64": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_pcg64.cpython-312-darwin.so",
+          "member": "numpy/random/_pcg64.cpython-312-darwin.so",
+          "sha256": "63dd2a034ab85795f6a6bb0850a8133ca0f0459b9574f8eb2a20965b7f25229d"
+        },
+        "numpy.random._philox": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_philox.cpython-312-darwin.so",
+          "member": "numpy/random/_philox.cpython-312-darwin.so",
+          "sha256": "0475733a4ed80edcbeb18fd0e8aeae27ab57599b17bf44246badf9899f161556"
+        },
+        "numpy.random._pickle": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_pickle.py",
+          "member": "numpy/random/_pickle.py",
+          "sha256": "2ede3b99afef9e72477674257398d9fc3a811ec74a8b442250d68890c7fde6a0"
+        },
+        "numpy.random._sfc64": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_sfc64.cpython-312-darwin.so",
+          "member": "numpy/random/_sfc64.cpython-312-darwin.so",
+          "sha256": "5c86a9d9043c19da0db1d6595672e07f7d3f17f578633849a2dabc27eaeea4cc"
+        },
+        "numpy.random.bit_generator": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/bit_generator.cpython-312-darwin.so",
+          "member": "numpy/random/bit_generator.cpython-312-darwin.so",
+          "sha256": "f8d180e4b8dd7da94e32df8a0e58155d4929ca808367eb832d103633d631384e"
+        },
+        "numpy.random.mtrand": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/mtrand.cpython-312-darwin.so",
+          "member": "numpy/random/mtrand.cpython-312-darwin.so",
+          "sha256": "10e6e801055c2a795b28e55e949e43ad87d6f24300b89c4ec8856bf8f0c7be19"
+        },
+        "numpy.version": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/version.py",
+          "member": "numpy/version.py",
+          "sha256": "e5acbe1a666da629f581c40a2c09d54229c7aa918f3a1d567dbac0829c807472"
+        }
+      },
+      "numpy_frozen_manifest_sha256": "cd4cdb108035734cf04d4ea4d4a529b8fb3f489e193bc4907e2ce01a13d52d14",
+      "numpy_installed_RECORD_mismatches": [
+        "numpy/_core/_multiarray_tests.cpython-312-darwin.so",
+        "numpy/_core/_multiarray_umath.cpython-312-darwin.so",
+        "numpy/_core/_operand_flag_tests.cpython-312-darwin.so",
+        "numpy/_core/_rational_tests.cpython-312-darwin.so",
+        "numpy/_core/_simd.cpython-312-darwin.so",
+        "numpy/_core/_struct_ufunc_tests.cpython-312-darwin.so",
+        "numpy/_core/_umath_tests.cpython-312-darwin.so",
+        "numpy/fft/_pocketfft_umath.cpython-312-darwin.so",
+        "numpy/linalg/_umath_linalg.cpython-312-darwin.so",
+        "numpy/linalg/lapack_lite.cpython-312-darwin.so",
+        "numpy/random/_bounded_integers.cpython-312-darwin.so",
+        "numpy/random/_common.cpython-312-darwin.so",
+        "numpy/random/_generator.cpython-312-darwin.so",
+        "numpy/random/_mt19937.cpython-312-darwin.so",
+        "numpy/random/_pcg64.cpython-312-darwin.so",
+        "numpy/random/_philox.cpython-312-darwin.so",
+        "numpy/random/_sfc64.cpython-312-darwin.so",
+        "numpy/random/bit_generator.cpython-312-darwin.so",
+        "numpy/random/mtrand.cpython-312-darwin.so"
+      ],
+      "numpy_origin_limit": "Observed installed-file pin; native RECORD mismatches unresolved, not publisher attestation or fully hermetic shared libraries",
+      "verified_imported_autograd_modules_after_target": {
+        "autograd": {
+          "member": "autograd/__init__.py",
+          "sha256": "39db0108eda227a8adcff5fd257dda2a8689a021ae5257d63554138a935c0580"
+        },
+        "autograd.builtins": {
+          "member": "autograd/builtins.py",
+          "sha256": "a2de58d93736e7edb736cd271da5db0132ad3e410a7ff32aa5db8d44b806c824"
+        },
+        "autograd.core": {
+          "member": "autograd/core.py",
+          "sha256": "6a7171fe3fd949439957cdfc856f654970f3665c7fe5100b3920cdeec37c45ff"
+        },
+        "autograd.differential_operators": {
+          "member": "autograd/differential_operators.py",
+          "sha256": "be9a82a4ca00040efff2031bc0f28db102b55ddb7b40cc92e5c7ebf08e56644a"
+        },
+        "autograd.extend": {
+          "member": "autograd/extend.py",
+          "sha256": "3af77fa53d5572e8bc8e7d6d694bae28ffb7b625f2dde34224703d3094dc34c9"
+        },
+        "autograd.numpy": {
+          "member": "autograd/numpy/__init__.py",
+          "sha256": "8b2b920053d5eb232ffa9e4ddf758d6c9c0ae5377e897fec12eb11476f184ef0"
+        },
+        "autograd.numpy.fft": {
+          "member": "autograd/numpy/fft.py",
+          "sha256": "4d1915cb6ce879d83be9ea5602b0bd20525c2cca8262594d83625f30aee32933"
+        },
+        "autograd.numpy.linalg": {
+          "member": "autograd/numpy/linalg.py",
+          "sha256": "3da81406bd886bb3c9439415d98b85b68318930cf4c6d39d0d349c4d6c26e1ef"
+        },
+        "autograd.numpy.numpy_boxes": {
+          "member": "autograd/numpy/numpy_boxes.py",
+          "sha256": "5c30c753e0b1bacd8513e0d840f3ae841dca6ce7b54e2f8a7f5ae0a3da5aa414"
+        },
+        "autograd.numpy.numpy_jvps": {
+          "member": "autograd/numpy/numpy_jvps.py",
+          "sha256": "e69c6ee4483d32f46d93f3f771a0cd7f0cde47050c521dfca9e03f659f849d1f"
+        },
+        "autograd.numpy.numpy_vjps": {
+          "member": "autograd/numpy/numpy_vjps.py",
+          "sha256": "8a6d9fddf7e6dc53e7e90f943b1f45247c2db3f1e968d6ce0b2937641d249fda"
+        },
+        "autograd.numpy.numpy_vspaces": {
+          "member": "autograd/numpy/numpy_vspaces.py",
+          "sha256": "d63ea6bcd8302715b468dbdee5bf9a94b265c578f8c899b31c38ae4df26c1c59"
+        },
+        "autograd.numpy.numpy_wrapper": {
+          "member": "autograd/numpy/numpy_wrapper.py",
+          "sha256": "29173bd93125b35997f01754d8a1b140fae36526e2a680cbe261607fd22299e1"
+        },
+        "autograd.numpy.random": {
+          "member": "autograd/numpy/random.py",
+          "sha256": "68d6e1ad6b6aa1cd364708e8fde6d7e6904e6545bc46563a1cf028fa4ba41869"
+        },
+        "autograd.tracer": {
+          "member": "autograd/tracer.py",
+          "sha256": "43f4fca2c1d308e97d285df9ff028b18c7879d69a9e067195f983772026724f2"
+        },
+        "autograd.util": {
+          "member": "autograd/util.py",
+          "sha256": "e0f5f4df9d6981c9f67e13df95274196ede36a286995b48bf6154a0bc7ef29f9"
+        },
+        "autograd.wrap_util": {
+          "member": "autograd/wrap_util.py",
+          "sha256": "e80e856f513d79af36369753310ca72a5de7c1ad7b83e73dfec63c1076b271eb"
+        }
+      },
+      "numpy_imported_file_hashes_after_target": {
+        "numpy": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/__init__.py",
+          "member": "numpy/__init__.py",
+          "sha256": "93924ac4b793328947dfd9eb9355e54eccdfd26a92c8dd52188aed2e52c7eb38"
+        },
+        "numpy.__config__": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/__config__.py",
+          "member": "numpy/__config__.py",
+          "sha256": "ae91af2ea14c5e2e6c24433263cf43bdec95f2db7042c6bee594dc60de1d7622"
+        },
+        "numpy._array_api_info": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_array_api_info.py",
+          "member": "numpy/_array_api_info.py",
+          "sha256": "373252b9ff2fbad8c64aa8aa6a1ab78d12374b1317e17d5cbdae09e9d16fe045"
+        },
+        "numpy._core": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/__init__.py",
+          "member": "numpy/_core/__init__.py",
+          "sha256": "c89d22cb57d793da200859df9425b30412f094a492fb1950582a560a8cda4fa7"
+        },
+        "numpy._core._add_newdocs": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_add_newdocs.py",
+          "member": "numpy/_core/_add_newdocs.py",
+          "sha256": "c922ae3ffe2c54f34b1e9d688e04cc8524568b7775f02701147147903f177fe5"
+        },
+        "numpy._core._add_newdocs_scalars": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_add_newdocs_scalars.py",
+          "member": "numpy/_core/_add_newdocs_scalars.py",
+          "sha256": "67959c2005f2d95b3c9162c2ce0cafc56547d02025f8eeb86052b7b6d6d4ef27"
+        },
+        "numpy._core._asarray": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_asarray.py",
+          "member": "numpy/_core/_asarray.py",
+          "sha256": "7c23472da6823fee486be451fdb22b1f1598df1925726be56621a12480e228b3"
+        },
+        "numpy._core._dtype": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_dtype.py",
+          "member": "numpy/_core/_dtype.py",
+          "sha256": "70ce899e3a072d445608780df15990ca37a28838dcc210792ff7cf30e7b5bae3"
+        },
+        "numpy._core._dtype_ctypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_dtype_ctypes.py",
+          "member": "numpy/_core/_dtype_ctypes.py",
+          "sha256": "28f3e56a40ec3e4b938523abe6a1705b48c9f559e36ef5b811684e6c21d81881"
+        },
+        "numpy._core._exceptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_exceptions.py",
+          "member": "numpy/_core/_exceptions.py",
+          "sha256": "5fc120d61ab5b94f0bf7088ec05a368d1aba4b4be78c27606051e3de1016f42a"
+        },
+        "numpy._core._internal": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_internal.py",
+          "member": "numpy/_core/_internal.py",
+          "sha256": "619ea730654ebdf4c3d67ce4d97a91773f24d395959d81a29636f54e71ef32af"
+        },
+        "numpy._core._machar": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_machar.py",
+          "member": "numpy/_core/_machar.py",
+          "sha256": "6145f6e1761bc5727bf4aad66abdbb1650d829f7a876bfd10a413bc346c44eab"
+        },
+        "numpy._core._methods": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_methods.py",
+          "member": "numpy/_core/_methods.py",
+          "sha256": "e2a8945044b9c273857979cf6afb6aa8c561674f5965e48a970a9d3f0d9e2922"
+        },
+        "numpy._core._multiarray_umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_multiarray_umath.cpython-312-darwin.so",
+          "member": "numpy/_core/_multiarray_umath.cpython-312-darwin.so",
+          "sha256": "b11f1ef3534cc6bb0a9c8141206350b27cadf48632c34acfcfc97ca6e700363e"
+        },
+        "numpy._core._string_helpers": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_string_helpers.py",
+          "member": "numpy/_core/_string_helpers.py",
+          "sha256": "e929a0a22ea80f60ae9e3c014abf41676d079029ef5ba9d33db953394de95a78"
+        },
+        "numpy._core._type_aliases": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_type_aliases.py",
+          "member": "numpy/_core/_type_aliases.py",
+          "sha256": "9ac147064676b35c0a432ba0b8afdc17a3414b4ff700ec30ee3de8876ea6a374"
+        },
+        "numpy._core._ufunc_config": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/_ufunc_config.py",
+          "member": "numpy/_core/_ufunc_config.py",
+          "sha256": "f63e91d7662635b693e7ecb9ac200e3c16e01f86d81989670e016afaf6799c3b"
+        },
+        "numpy._core.arrayprint": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/arrayprint.py",
+          "member": "numpy/_core/arrayprint.py",
+          "sha256": "00002f92b23453a3daff064e9e9b95641a5db020a3a58a5c585f2c03f48f61b8"
+        },
+        "numpy._core.einsumfunc": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/einsumfunc.py",
+          "member": "numpy/_core/einsumfunc.py",
+          "sha256": "85e15e0a210a8e2faa7d593ccc06756f96ca9be31430bcc2113310ef2c870617"
+        },
+        "numpy._core.fromnumeric": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/fromnumeric.py",
+          "member": "numpy/_core/fromnumeric.py",
+          "sha256": "b347fa59f908455c0564c943add61bdc48f217dbcc1abd1b9acd0f73e55c3803"
+        },
+        "numpy._core.function_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/function_base.py",
+          "member": "numpy/_core/function_base.py",
+          "sha256": "413d696e597ff2b7ffdd9b06b4b42801e435392a82a9e006b4c4f33c013523fc"
+        },
+        "numpy._core.getlimits": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/getlimits.py",
+          "member": "numpy/_core/getlimits.py",
+          "sha256": "df641eeed94115dca20ef7528c6d5ca766b4349d2b48cc5e0d18a3dda8223eb8"
+        },
+        "numpy._core.memmap": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/memmap.py",
+          "member": "numpy/_core/memmap.py",
+          "sha256": "c88b10ea7f64a59ba58204492459136e35709c1e257a8ca2cef529736894e27f"
+        },
+        "numpy._core.multiarray": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/multiarray.py",
+          "member": "numpy/_core/multiarray.py",
+          "sha256": "cf01c17723a8c6205170e846d9007fc410189bea7c0114a941bc9ef44cebac1a"
+        },
+        "numpy._core.numeric": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/numeric.py",
+          "member": "numpy/_core/numeric.py",
+          "sha256": "fc3727bd7bbaa1a1d74a2f50f8157dc86cdfc7bb5cf620b1ebdafd3272439b98"
+        },
+        "numpy._core.numerictypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/numerictypes.py",
+          "member": "numpy/_core/numerictypes.py",
+          "sha256": "d7924b057d26fcc4206a21ffc81048e6096fd2f5ee794d1aae74b9e915df5319"
+        },
+        "numpy._core.overrides": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/overrides.py",
+          "member": "numpy/_core/overrides.py",
+          "sha256": "32d8333816af1bbc33418080eceec0add089555ef649321bfdcbe4581b832c91"
+        },
+        "numpy._core.printoptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/printoptions.py",
+          "member": "numpy/_core/printoptions.py",
+          "sha256": "345a6fcb96e78dbbea9ca7aa42dd2f784131a400180153688865c7de98255807"
+        },
+        "numpy._core.records": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/records.py",
+          "member": "numpy/_core/records.py",
+          "sha256": "8685c20ecc0cea16f2b6219d6069214484b34239ea2265dc21d1a536e3940d7e"
+        },
+        "numpy._core.shape_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/shape_base.py",
+          "member": "numpy/_core/shape_base.py",
+          "sha256": "ef20cfac85d39a606764c512b475ecab58893621a623110071ea7143da3e2554"
+        },
+        "numpy._core.umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_core/umath.py",
+          "member": "numpy/_core/umath.py",
+          "sha256": "b7f49020747b764305f95469f1d2b2ae838477dd28a8d9739a01b0687dbca96f"
+        },
+        "numpy._distributor_init": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_distributor_init.py",
+          "member": "numpy/_distributor_init.py",
+          "sha256": "14148976054795071ae41ad011560fa059ba2924c98481675ad59b1241214d2a"
+        },
+        "numpy._expired_attrs_2_0": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_expired_attrs_2_0.py",
+          "member": "numpy/_expired_attrs_2_0.py",
+          "sha256": "ccfdf511799bc3281c384cf27ad0c4a7e4712fd7147db51486df79eb368e49ff"
+        },
+        "numpy._globals": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_globals.py",
+          "member": "numpy/_globals.py",
+          "sha256": "9396559f351b28d48b3e667451163024de42ffbc48cdf30d69a4ac052acf4ee2"
+        },
+        "numpy._pytesttester": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_pytesttester.py",
+          "member": "numpy/_pytesttester.py",
+          "sha256": "0e39582fcb8834dd9759ade79e55fa80f1aea0b8dcc750627bf3d0cdba767290"
+        },
+        "numpy._typing": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/__init__.py",
+          "member": "numpy/_typing/__init__.py",
+          "sha256": "306e56bfd75cdd9c8e9837e2747e5c16dca47b234cefb02b0b8477516ed39fe6"
+        },
+        "numpy._typing._array_like": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_array_like.py",
+          "member": "numpy/_typing/_array_like.py",
+          "sha256": "10f6547c94a36a6bec589e91b39670c00ff916106961da227dc555b557163e7d"
+        },
+        "numpy._typing._char_codes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_char_codes.py",
+          "member": "numpy/_typing/_char_codes.py",
+          "sha256": "8f4ee7a64f3635bec8adadb3ed94e553751c38fc2dda033ba992ab3cb7634f8f"
+        },
+        "numpy._typing._dtype_like": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_dtype_like.py",
+          "member": "numpy/_typing/_dtype_like.py",
+          "sha256": "f0ce517a42ea7617848d63089f84676e4133b12ee309ab42893d03e6183ee777"
+        },
+        "numpy._typing._nbit": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nbit.py",
+          "member": "numpy/_typing/_nbit.py",
+          "sha256": "2926cac0e2adb686fee72b53e6f095907ac3327d181efca9b534f28ffe8061cc"
+        },
+        "numpy._typing._nbit_base": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nbit_base.py",
+          "member": "numpy/_typing/_nbit_base.py",
+          "sha256": "9cf669b1096db91e41d22680605f6a0f685efe45e79acb2ffd185a50d16c5beb"
+        },
+        "numpy._typing._nested_sequence": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_nested_sequence.py",
+          "member": "numpy/_typing/_nested_sequence.py",
+          "sha256": "b28d5a818187779803a3f201bef1ea041e65b2a19b1ea37f8a6c82e541d4f872"
+        },
+        "numpy._typing._scalars": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_scalars.py",
+          "member": "numpy/_typing/_scalars.py",
+          "sha256": "2e15d8d814c799e60acde2197e98efb8c9fee5e38b8d4da7f73ef3d65e5b29ff"
+        },
+        "numpy._typing._shape": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_shape.py",
+          "member": "numpy/_typing/_shape.py",
+          "sha256": "e9c16ff8b6d2c86f6695f4813861b2ba5f50fc652b95c1d00bd2596be9b6d1c0"
+        },
+        "numpy._typing._ufunc": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_typing/_ufunc.py",
+          "member": "numpy/_typing/_ufunc.py",
+          "sha256": "1ce91a13eeb05747dddeb9876460b7f580072087fcb72be5cde903e32e064310"
+        },
+        "numpy._utils": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/__init__.py",
+          "member": "numpy/_utils/__init__.py",
+          "sha256": "8559d9ec2d0c09235b330f99caaf8c282612b5a197e91cea14c9e787b79de1d1"
+        },
+        "numpy._utils._convertions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/_convertions.py",
+          "member": "numpy/_utils/_convertions.py",
+          "sha256": "d3133175e2cece20e61ec44cffc96e121e12fa441d328320e86c4d0c36acebd9"
+        },
+        "numpy._utils._inspect": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/_utils/_inspect.py",
+          "member": "numpy/_utils/_inspect.py",
+          "sha256": "cc5b890011f4f03d4a82afde79c6240f53a0834397a75b78a2a8d9c4cd2474b9"
+        },
+        "numpy.dtypes": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/dtypes.py",
+          "member": "numpy/dtypes.py",
+          "sha256": "cee3f0802d228c5da80d100e27a23d24a85a26e857140ca00722d06a856d4f9e"
+        },
+        "numpy.exceptions": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/exceptions.py",
+          "member": "numpy/exceptions.py",
+          "sha256": "c75cfb0b6463ac3156f2d2dec1b663c8c890a24d16066e642ae44f23154b5238"
+        },
+        "numpy.fft": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/__init__.py",
+          "member": "numpy/fft/__init__.py",
+          "sha256": "3961349ba1ff6e5cafd70b6a42989753992ac45e8ed94c71715e6dd75534e511"
+        },
+        "numpy.fft._helper": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_helper.py",
+          "member": "numpy/fft/_helper.py",
+          "sha256": "8489f66721181b87cb077306bc23efa52acb5c57e1fb13b8cc62a58e4fd34236"
+        },
+        "numpy.fft._pocketfft": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_pocketfft.py",
+          "member": "numpy/fft/_pocketfft.py",
+          "sha256": "09fa40a51f51d123ae72a97d829f6f5da766ff2e5c04cf979e3e6dac3a6f1521"
+        },
+        "numpy.fft._pocketfft_umath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/_pocketfft_umath.cpython-312-darwin.so",
+          "member": "numpy/fft/_pocketfft_umath.cpython-312-darwin.so",
+          "sha256": "9e8dbfbcc0bc2752f36a2bd69ec5430d974abb57dc23bb15b04e9e09be68180d"
+        },
+        "numpy.fft.helper": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/fft/helper.py",
+          "member": "numpy/fft/helper.py",
+          "sha256": "4681000ec3a7a028124cbd601399fedfa965cfc8b0c46ce7e7669fdcbfbd2846"
+        },
+        "numpy.lib": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/__init__.py",
+          "member": "numpy/lib/__init__.py",
+          "sha256": "cd81aea847cfaaaecb0db89da7162cf068023409a8278c50805bc5dd7289e518"
+        },
+        "numpy.lib._array_utils_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_array_utils_impl.py",
+          "member": "numpy/lib/_array_utils_impl.py",
+          "sha256": "1985a2c8da8b43b0c6512057cf46db47a000a994ad0c8c147bbb6c6d9fffd793"
+        },
+        "numpy.lib._arraypad_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arraypad_impl.py",
+          "member": "numpy/lib/_arraypad_impl.py",
+          "sha256": "cf9fbe5d3f344dc9c365ecc756b7716ae252637c82e2f30375dec994efa1df3c"
+        },
+        "numpy.lib._arraysetops_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arraysetops_impl.py",
+          "member": "numpy/lib/_arraysetops_impl.py",
+          "sha256": "545760a456497322616053dc4e4fcb403fd2aea5faa68cbfb21b0b2af662832d"
+        },
+        "numpy.lib._arrayterator_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_arrayterator_impl.py",
+          "member": "numpy/lib/_arrayterator_impl.py",
+          "sha256": "1ed3800c81ee1bd0036db3138268783ff9ae91ed55fbc13e14d10eddb54e18f0"
+        },
+        "numpy.lib._datasource": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_datasource.py",
+          "member": "numpy/lib/_datasource.py",
+          "sha256": "ce4f956e7e099431c455adc37ba0373608e79e2cd2262f8717466fbc0e98228e"
+        },
+        "numpy.lib._format_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_format_impl.py",
+          "member": "numpy/lib/_format_impl.py",
+          "sha256": "cdc437c57c4f7fb7a992db18adc7416c83ee38287d38f575837801ea085fe2b1"
+        },
+        "numpy.lib._function_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_function_base_impl.py",
+          "member": "numpy/lib/_function_base_impl.py",
+          "sha256": "0191b2376f44730e0b46e5354cd51c3c2edc5473bdc9ee1b27d15023b9ff1b07"
+        },
+        "numpy.lib._histograms_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_histograms_impl.py",
+          "member": "numpy/lib/_histograms_impl.py",
+          "sha256": "52dbbb68041ced9a6c1e7ff4e288149d9ab565c7477e2a5cabd791abcd7ba155"
+        },
+        "numpy.lib._index_tricks_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_index_tricks_impl.py",
+          "member": "numpy/lib/_index_tricks_impl.py",
+          "sha256": "83b369e04f001bdb20ca2f474d482f38cd3ca489408ff72f5f0e1c73b36b5392"
+        },
+        "numpy.lib._iotools": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_iotools.py",
+          "member": "numpy/lib/_iotools.py",
+          "sha256": "d23b69be99792feff5383236d45fb58b5f6dd5edcbfbac09c517750922dec0bd"
+        },
+        "numpy.lib._nanfunctions_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py",
+          "member": "numpy/lib/_nanfunctions_impl.py",
+          "sha256": "71d393edd6308ef52923d8841d3af0cdb6ed2a13fd65980e08c8ab4c17983d49"
+        },
+        "numpy.lib._npyio_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_npyio_impl.py",
+          "member": "numpy/lib/_npyio_impl.py",
+          "sha256": "92e71acf00ae7e1e26370102c99c447abc6ca9afc6c50333d6462e65444323cb"
+        },
+        "numpy.lib._polynomial_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_polynomial_impl.py",
+          "member": "numpy/lib/_polynomial_impl.py",
+          "sha256": "4d68aa946dd60daf7bb5acb1402125b590fd4cd854c85a6bccbfd499decbc6ca"
+        },
+        "numpy.lib._scimath_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_scimath_impl.py",
+          "member": "numpy/lib/_scimath_impl.py",
+          "sha256": "400538b8cfc837356a093b3e013132cb526144497fc03267ff2814ef962d7e01"
+        },
+        "numpy.lib._shape_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_shape_base_impl.py",
+          "member": "numpy/lib/_shape_base_impl.py",
+          "sha256": "e6f914f6b3cec0abd273b4f3c5d7d6b4cd3cb95d26d798873d3c5ba9c638ece7"
+        },
+        "numpy.lib._stride_tricks_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_stride_tricks_impl.py",
+          "member": "numpy/lib/_stride_tricks_impl.py",
+          "sha256": "cb7531a778c5cc3c26210d77ecddb36a9efebd6fe338d5109979db7eaaeceb40"
+        },
+        "numpy.lib._twodim_base_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_twodim_base_impl.py",
+          "member": "numpy/lib/_twodim_base_impl.py",
+          "sha256": "de738bbc20fa71f33a303de8dfcd45e3c181f29a2ab1418308339094e0505e66"
+        },
+        "numpy.lib._type_check_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_type_check_impl.py",
+          "member": "numpy/lib/_type_check_impl.py",
+          "sha256": "59e55f5b3ff42a5bdbd8affa974c789c7c070703d881f7317998a757f769fe6c"
+        },
+        "numpy.lib._ufunclike_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_ufunclike_impl.py",
+          "member": "numpy/lib/_ufunclike_impl.py",
+          "sha256": "d1e7a67ff11894b9926b88a736bde2b89d5ea1332a2f2211d27e9d4329a06b76"
+        },
+        "numpy.lib._utils_impl": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_utils_impl.py",
+          "member": "numpy/lib/_utils_impl.py",
+          "sha256": "96db16f4c329de4d6fc3b22789d8584f97e8f60ae0c33eb6e1fbd17a21c3c967"
+        },
+        "numpy.lib._version": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_version.py",
+          "member": "numpy/lib/_version.py",
+          "sha256": "e1d52b73d26cd0a3c443969da18291e5d9cfe1f7e3083b4950a3ea70c6aec18e"
+        },
+        "numpy.lib.array_utils": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/array_utils.py",
+          "member": "numpy/lib/array_utils.py",
+          "sha256": "5db732849f52d0894d9cff4dcbacb280b30400259650f34e53cbdebe3d531292"
+        },
+        "numpy.lib.format": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/format.py",
+          "member": "numpy/lib/format.py",
+          "sha256": "9e9274789853eee28d2b96b49423067e226ff91e23c8d86220f7996c970d5c1b"
+        },
+        "numpy.lib.introspect": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/introspect.py",
+          "member": "numpy/lib/introspect.py",
+          "sha256": "bbec207ccb98b7c188dc09d135d5ece23e30f5e353b1ace5aab6b34be3fb80a0"
+        },
+        "numpy.lib.mixins": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/mixins.py",
+          "member": "numpy/lib/mixins.py",
+          "sha256": "29f7fbe9272981657772bba2708f40edae337c19c65665edc10cccceee710c4a"
+        },
+        "numpy.lib.npyio": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/npyio.py",
+          "member": "numpy/lib/npyio.py",
+          "sha256": "79a3ef7c7192cd413bd132471cb3823c85fd1b98a132e0447b1cbafcf36127d4"
+        },
+        "numpy.lib.scimath": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/scimath.py",
+          "member": "numpy/lib/scimath.py",
+          "sha256": "aa315a41eab4cc4225ee02aa3a16a3fef9820bf29a15dc9398774b514912a792"
+        },
+        "numpy.lib.stride_tricks": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/stride_tricks.py",
+          "member": "numpy/lib/stride_tricks.py",
+          "sha256": "c74fc17f097270102547706fa714e775e3fde9d1c14ff7c049b9134d3cc16202"
+        },
+        "numpy.linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/__init__.py",
+          "member": "numpy/linalg/__init__.py",
+          "sha256": "ee956f17038914a380ac6794b3a30d8f730daaab31ef1c74beddbfedabcd020e"
+        },
+        "numpy.linalg._linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/_linalg.py",
+          "member": "numpy/linalg/_linalg.py",
+          "sha256": "eab0bbee9c8758d387934dc32849f01deceb50261d02e22d41f03ad6ff2562cc"
+        },
+        "numpy.linalg._umath_linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/_umath_linalg.cpython-312-darwin.so",
+          "member": "numpy/linalg/_umath_linalg.cpython-312-darwin.so",
+          "sha256": "b1f59033b9a09fd4036a9ecaf25cd93546215e775095e0ebc54b09221ccc20a3"
+        },
+        "numpy.linalg.linalg": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/linalg/linalg.py",
+          "member": "numpy/linalg/linalg.py",
+          "sha256": "e8d8a63faf2d61ad2a051825587f3bfed3a1dac72c86d0e97307ef06f99de8fa"
+        },
+        "numpy.matrixlib": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/matrixlib/__init__.py",
+          "member": "numpy/matrixlib/__init__.py",
+          "sha256": "52de88a9f8ee03e930c28e8704e6008058d75c2fe1ed857fdc7c83b0a33bd9d9"
+        },
+        "numpy.matrixlib.defmatrix": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/matrixlib/defmatrix.py",
+          "member": "numpy/matrixlib/defmatrix.py",
+          "sha256": "c29c3a95953d5faaa9f30009a240d7b76441acbd5e5ea96606dfa88c8c18ce55"
+        },
+        "numpy.random": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/__init__.py",
+          "member": "numpy/random/__init__.py",
+          "sha256": "585ce7b73b5454d6a25c2a50967f2dc322fc1d214d4bb5c0589949b105e06ea9"
+        },
+        "numpy.random._bounded_integers": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_bounded_integers.cpython-312-darwin.so",
+          "member": "numpy/random/_bounded_integers.cpython-312-darwin.so",
+          "sha256": "ebc0ea58929e17fed134e163ae4f3d0b63d2b9bbeb22477aac731c91038da34d"
+        },
+        "numpy.random._common": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_common.cpython-312-darwin.so",
+          "member": "numpy/random/_common.cpython-312-darwin.so",
+          "sha256": "c7a99c46c3a29116cc71c7f603ca33442468ae3b3004882ecf157a4f7a990033"
+        },
+        "numpy.random._generator": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_generator.cpython-312-darwin.so",
+          "member": "numpy/random/_generator.cpython-312-darwin.so",
+          "sha256": "dac7904682930f4273da8897c2654707c6fb9dfea0a35784da427a6a02fd94b4"
+        },
+        "numpy.random._mt19937": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_mt19937.cpython-312-darwin.so",
+          "member": "numpy/random/_mt19937.cpython-312-darwin.so",
+          "sha256": "e2d871b5595504775af566249a4530c827bda24b5a1888fc173dc3c79c4de837"
+        },
+        "numpy.random._pcg64": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_pcg64.cpython-312-darwin.so",
+          "member": "numpy/random/_pcg64.cpython-312-darwin.so",
+          "sha256": "63dd2a034ab85795f6a6bb0850a8133ca0f0459b9574f8eb2a20965b7f25229d"
+        },
+        "numpy.random._philox": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_philox.cpython-312-darwin.so",
+          "member": "numpy/random/_philox.cpython-312-darwin.so",
+          "sha256": "0475733a4ed80edcbeb18fd0e8aeae27ab57599b17bf44246badf9899f161556"
+        },
+        "numpy.random._pickle": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_pickle.py",
+          "member": "numpy/random/_pickle.py",
+          "sha256": "2ede3b99afef9e72477674257398d9fc3a811ec74a8b442250d68890c7fde6a0"
+        },
+        "numpy.random._sfc64": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/_sfc64.cpython-312-darwin.so",
+          "member": "numpy/random/_sfc64.cpython-312-darwin.so",
+          "sha256": "5c86a9d9043c19da0db1d6595672e07f7d3f17f578633849a2dabc27eaeea4cc"
+        },
+        "numpy.random.bit_generator": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/bit_generator.cpython-312-darwin.so",
+          "member": "numpy/random/bit_generator.cpython-312-darwin.so",
+          "sha256": "f8d180e4b8dd7da94e32df8a0e58155d4929ca808367eb832d103633d631384e"
+        },
+        "numpy.random.mtrand": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/random/mtrand.cpython-312-darwin.so",
+          "member": "numpy/random/mtrand.cpython-312-darwin.so",
+          "sha256": "10e6e801055c2a795b28e55e949e43ad87d6f24300b89c4ec8856bf8f0c7be19"
+        },
+        "numpy.version": {
+          "file": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/version.py",
+          "member": "numpy/version.py",
+          "sha256": "e5acbe1a666da629f581c40a2c09d54229c7aa918f3a1d567dbac0829c807472"
+        }
+      }
+    },
+    "calculation_scope": "All192AD/reference/controls andcompressed progress/summary persistence"
+  },
+  "requires_optional_runtime": true,
+  "setup_and_calculation_seconds": 3.974316457984969,
+  "elapsed_budget_metric": "calculation_seconds",
+  "phase_watchdog": {
+    "setup_seconds": 60,
+    "archive_seconds": 60,
+    "poll_seconds": 0.1,
+    "calculation_seconds_source": "childsystemmonotonicstartsignal,parentwatchdogenforcesoriginal60s cap",
+    "meaning": "Setup/importandarchivecapsoperationalonly;target60sincludesallAD/judges/controls/compressedprogresspersistencenocaptuning"
+  },
+  "external_runtime_artifact": {
+    "package": "autograd",
+    "version": "1.9.1",
+    "wheel_filename": "autograd-1.9.1-py3-none-any.whl",
+    "wheel_sha256": "b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a",
+    "wheel_bytes": 54387,
+    "environment_variable": "MATHWEAVE_AUTOGRAD_WHEEL",
+    "use": "VerifiedpurePythonwheelviazipimport,noinstall;verifyimportedsourcemembersandmetadataagainstwheel",
+    "license": "MIT,completeoriginallicensein sourcearchive",
+    "network_policy": "No implicitdownload. Reuseverifiedcache or acquireexactofficialpinnedwheel separately;totalnewartifactcap1MiB.",
+    "numpy_observed_pin": {
+      "path": "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json",
+      "sha256": "cd4cdb108035734cf04d4ea4d4a529b8fb3f489e193bc4907e2ce01a13d52d14",
+      "scope": "Frozenactualinstalledsource/nativebytes,428files;19nativeRECORDmismatchesand0Pythonsource mismatchesexplicit. Notpublisherattestationorhermeticallsharedlibraries. Compareactualbefore/aftertarget."
+    },
+    "full_license": {
+      "path": "data/provenance/licenses/autograd-1.9.1-MIT.txt",
+      "sha256": "026a4de32aeee573f5049220bb9f8cd1ad6a3e1bab3cecb7a28b652c2c6d5099",
+      "membership": "FullverbatimoriginalMITtextincludedinhashedtextinputs.json.gz"
+    }
+  },
+  "rss_measurement_timing": "Supervisor os.wait4 after exact CLI worker termination",
+  "worker_pid": 28250,
+  "measurement_state": "parent_child_lifecycle_finalized",
+  "provisional_resource_envelope_met": true,
+  "prediction_result_without_resource_gate": "prediction_not_supported",
+  "worker_rss_before_final_serialization": {
+    "raw": 55230464,
+    "source_unit": "bytes",
+    "bytes": 55230464,
+    "platform": "darwin",
+    "scope": "whole-process lifecycle high-water; excludes children"
+  },
+  "stage_history": [
+    {
+      "phase": "calculation",
+      "monotonic_started": 841039.650386083
+    },
+    {
+      "phase": "archive",
+      "monotonic_started": 841040.554899458
+    },
+    {
+      "phase": "worker_exited",
+      "monotonic_started": 841040.64410875
+    }
+  ],
+  "terminal_phase_violation": null
+}

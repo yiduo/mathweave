@@ -50,7 +50,10 @@
       "WP110 two current companions38TeX10336lines fullyread;63frames+69Fourier namedbindings,sixaliases notextra;6/12current source drafts/227bindings,notfullfamily.",
       "Two selected mainB/130newC/fullchainunknown;120local Lean import-file entries across2indices onlystatic;actual32800dproofmonotonicitynotnaturalroute.",
       "Two original works inselected scopes and5PDFpages;LS2004/KLS2024selected scopes reused,2008Larsenoriginalunavailable/Pieri/LR/fullhistoryopen.",
-      "30methodcontracts,10domain/3crossfamilyattempts andfourexplicitpremisegaps;no newcandidate,check,experiment,humanorproviderreview."
+      "30methodcontracts,10domain/3crossfamilyattempts andfourexplicitpremisegaps;no newcandidate,check,experiment,humanorproviderreview.",
+      "WP124all10TeX/Bib1791lines,6namedbindings/14contracts;7/12currentmanuscripts/233bindings,notfullfamily.",
+      "Two selectedsourceB/fourC,allchainsunknown;conditionalnearsmallrealzversusanalyticHemptyendpoint keptdistinct.",
+      "Fouroriginalselectedconvertedtextscopes/twooldboundsreused;nohuman/provider/build ornewcandidate/check/run."
     ],
     "F-149": [
       "all seven proof/body modules across both manuscripts (1969 lines)",
@@ -391,6 +394,37 @@
       "Fourselected original works/10PDFpages/927983newbytes;27distinctexternalroots,23rootbodiesandrecursivehistoryunread.",
       "No matching formal entry identified inchecked pinnedmetadata/pathscope;56localC/fullchainunknown,noLeanbuild/Comparator/human/provider review.",
       "10domain/3crossfamily attempts and4explicitapplicationgaps;no newcandidate/scientificrun/initialcheck."
+    ],
+    "F-020": [
+      "Full current15TeX3967lines+345Bib/README actual reading/source draft;26named+2unlabelled bindings and24contracts,notfullfamily.",
+      "Four selected historical works:nine HTML bodies1993868bytes acquired earlier;24rootbodies andrecursivehistory remainunread.",
+      "Actual selected formal Model/Main onlytwo endpoints localB;26otherbindings C/fullchainsunknown;63-file index notfullproofreading/build/axiomaudit.",
+      "Ten domains/three crossfamily attempts;one low-priority conditional APP02001,role disagreement preserved;no actualconsumer/externalcheck/experiment."
+    ],
+    "F-047": [
+      "Current single manuscript10TeX2281lines including172bibliography plusREADME18 fullyread;17named sourcebindings/12contracts,not fullfamily/history.",
+      "Two hashed selected original scopes:DuttaLahiri2019v1 andBrion2015;Suslin partialwebtext/localTLSfailed twice,BCW403/secondaryquoteonly;24rootsunqualified.",
+      "Actual Model/Main/Cylinder/Dimension andreplica-lift route read;two selected sourceB/15C/fullchainsunknown.55-file5573-line lexicalindex notproof/build/human audit.",
+      "Ten domains/three crossfamily specification attempts;no admitted concrete consumer,newcandidate,externalcheck orscientificrun."
+    ],
+    "F-337": [
+      "Bothcurrent manuscripts28TeX/Bib7413linesread,54named+1unlabelledselectedbindings/18contracts;notfullfamily/history.",
+      "Fourselectedoriginalscopesof46uniqueroots;57bibliographicoccurrences retainedpermanuscript,42rootsandrecursiveproofsunreviewed.",
+      "Two selected sourceB/53C,fullchainsunknown;formalstaticindicesnotbuild/proof/specaudit.",
+      "Ten domains/three crossfamily attempts;scalarC1zeroAD transfer retainedforseparatespecification,nonewcandidate/check/run."
+    ],
+    "F-181": [
+      "Fullcurrent singlemanuscript9TeX/Bib2566lines,16namedbindings/12contracts;notfullfamily/history.",
+      "Four of11 originalrootsselectedconvertedtextscopes,sevenoriginalroots/recursiveproofsunqualified.",
+      "Selectedmain sourceB,other15C,allchainsunknown;34files1270declarationsstaticindexnotproof/build.",
+      "Ten domains/two crossfamilyattempts;constructivecost andliftingcertificate gaps,nonewcandidate/check/run.",
+      "WP128:8of11 selected original scopes now checked,pluspartialLovasz conventions;AH/PyberbodiesandLovaszexactbound/recursivehistory remainunqualified. Oldlongcyclecriterion suffices;no newfamily,card,experiment orproofcredit."
+    ],
+    "F-059": [
+      "Bothcurrent24TeX/Bib5601lines+288staticcodefullyread;51namedbindings/27contracts,onealiasnotextra,notfullfamily/history.",
+      "Unregistered400linechainmodule:1selectedsourceB/50Cincludingbothmains,allcompletechainsunknown;noLeanbuild/Comparator/humanreview.",
+      "Fiveof53externalrootworksselectedconvertedtextscopes;48otheroriginalroots/recursiveproofs unqualified;Kato glyph/Rapinchuk edition note retained.",
+      "Ten domains/threecrossfamilies,threeexplicitapplicationpremisegaps;no newcandidate/check/verificationprogramrun."
     ]
   },
   "withdrawal_notices_checked": [
@@ -451,9 +485,14 @@
     "F-239",
     "F-174",
     "F-300",
-    "F-304"
+    "F-304",
+    "F-020",
+    "F-047",
+    "F-337",
+    "F-181",
+    "F-059"
   ],
-  "updated_at": "2026-10-26T05:55:05.770051+00:00",
-  "update_reason": "WP111 actual source decomposition andboundedhistorical/formal qualification,notfullfamily acceptance;reconcile stale mirror list F174/F304 to already-curated analysis flags,no extra old-family credit",
-  "prior_version_archive": "data/graph/history/GEN-20261026-108-reading-coverage-before.json.gz"
+  "updated_at": "2026-10-27T10:27:12.498239+00:00",
+  "update_reason": "WP128 selected original history scope followup;coverage/cardinality unchanged",
+  "prior_version_archive": "data/graph/history/GEN-20261027-125-reading-coverage-before.json.gz"
 }

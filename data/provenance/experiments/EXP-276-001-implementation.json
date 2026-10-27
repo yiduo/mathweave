@@ -1,0 +1,20 @@
+{
+  "at": "2026-10-27T04:30:37.583396+00:00",
+  "specification_sha256": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+  "source_hashes": {
+    "src/ai_value/attempts.py": "3ec62fd902c4f0bb51b94e2c3800e4059c9d7ea2af6f4da90785c84ab206e43a",
+    "src/ai_value/receiver_audit.py": "09fa282d050ae4ecd4ab6f698ed0972b1df4297e8ea2fa53d915d74b2b10046e",
+    "src/ai_value/experiments.py": "f1c25c0c9a6b4b480cafa326d15bd03c6ae95f8750f6f65950dc17a7cbf127e2",
+    "src/ai_value/graph.py": "af04dca47706af7a83cf249ba4e003c8fda30f9014bfa129514236c5ca1f306f",
+    "scripts/run_experiment_attempt.py": "ea85d6f0c3ba6e5a5fe976cdaa1b92fa79a2a4d62728722c703ed9bdc5fb7c4e",
+    "tests/test_attempts.py": "f1192eef5308ced0531e22cc6fc4272222886fc88be29fa5994f55fb2bb60fd9"
+  },
+  "software_only_controls_passed": 6,
+  "target_runner_outputs_observed": false,
+  "full_core_before_run": "75tests/validate/report/sourceaudit exit0",
+  "independence": "ActualmatrixKraus/projector andindependentDecimalpopulation/determinant code;not a numericalcorrectness claim beforetargetrun",
+  "pending_before_target": "Localimplementationcommit then freshCLIattempt once;retain failure evidence and all frozen limits.",
+  "version": 2,
+  "prior_version_archive": "data/provenance/experiments/history/EXP-276-001-implementation-v1.json.gz",
+  "repair_reason": "Beforetargetoutputs:explicitlegacyresourcecheckfromactualfrozenmeasurements;newrequestedRSSrequiresmeasurement. No oldarchive orspec rewritten."
+}

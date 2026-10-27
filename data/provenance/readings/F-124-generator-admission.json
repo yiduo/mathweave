@@ -1,0 +1,135 @@
+{
+  "at": "2026-10-27T08:05:20.979490+00:00",
+  "work_package": "WP-123",
+  "generation_id": "GEN-20261027-120",
+  "base_commit": "c0f46d87b41eaaed4c4c9d754e984df30d66814a",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "family_id": "F-124",
+  "connection_id": "APP-124-01",
+  "source_ranges": [
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/descriptions.tex",
+      "sha256": "147e588e1b2f9e3eb89e688316a8394afafdd88fc14d50ee70a6e35262da629e",
+      "actual_read_ranges": [
+        [
+          1,
+          203
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/construction.tex",
+      "sha256": "06a715d2d1d7be615185488fad78760d15b1ab6883592dc68a6ecedac53195c9",
+      "actual_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/lists.tex",
+      "sha256": "74338dbc16a0368ac60223797959713c55aa7f5a3aecc924a8cb9485a2f2bdf1",
+      "actual_read_ranges": [
+        [
+          1,
+          372
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/paper.tex",
+      "sha256": "38f8318c45e578108367b3e35d87575ff0c1c56fb203d68a2d3b24b193eb6e2d",
+      "actual_read_ranges": [
+        [
+          185,
+          210
+        ],
+        [
+          237,
+          405
+        ],
+        [
+          480,
+          541
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/conclusion.tex",
+      "sha256": "917ac952a6a6eb47dbcae5b6ad00e1092f2962948feec46636cfbf1bf1d5e97c",
+      "actual_read_ranges": [
+        [
+          1,
+          13
+        ]
+      ]
+    }
+  ],
+  "principal_source_lines_revisited": 814,
+  "new_reading_or_full_source_credit": 0,
+  "original_plan_sha256": "185b7a76e7e2afc0331e7a96fb774e5a8da40fa76fb09b89245548a50bb97c18",
+  "original_prediction_preserved": "在实现并冻结的受限小DAG测试集上，真实有界描述DP与独立子集DP的最优makespan逐项一致；若其平均唯一状态数至少减少25%且描述生成后的总峰值内存和时间均不更差，才支持有限原型收益。任何构造/资源失败均保留，不以源文多项式性替代实际测量。",
+  "packet": "data/provenance/review-packets/APP-124-01-generator-admission-v1.json",
+  "packet_sha256": "ca80c7b605fa1527aef069701044fe12c8fb1b991e8dd5a5ea9f4dff6904d323",
+  "actual_auxiliary_reviews": "data/provenance/reviews/APP-124-01-generator-admission-v1.json.gz",
+  "provider": "OpenAI",
+  "exact_backend": "unknown",
+  "human_review": null,
+  "second_provider_review": null,
+  "qualified_source_contract": {
+    "generator": "paper312-338:enumerate Boolean formulas up to fixed K10000,evaluate global truthsets,deduplicate. This is an explicit finite construction;practical implementation not admitted.",
+    "algorithm": "paper343-372:acceptance A(W),compatible antichain triple states(L,Z,R),initial/final smaller-subset acceptance andexactgap transitions.",
+    "witness": "paper185-206/construction3-8,235-237:normalized feasible full schedules andlists prove completeness;not a free inputoracle. Existing PART124WITNESS remains a separate proofinterface."
+  },
+  "engineering_derivations": [
+    {
+      "id": "semantic_family_saturation",
+      "steps": [
+        "Rank is a bijection J->1..N in the chosen linear extension.",
+        "Singleton{x} equals(rank<=rank(x)) AND(rank>=rank(x)),two leaves.",
+        "NonemptyS is unionofsuchsingletons using atmost2|S|<=2Nleaves;emptyset usesfalse.",
+        "Thus when2N<=K10000,semanticF=P(J). Originalproposed n<=18,T<=n givesN3T<=54 and2N<=108."
+      ],
+      "scope": "Engineering resource inference fromfixedlanguage,not a new schedulingtheorem,formal proof,or measuredstatecount."
+    },
+    {
+      "id": "literal_syntax_enumeration",
+      "expression": "Atleast2^10000true/false labellings ofone fixed10000leafbinarytree",
+      "scope": "Onlya generator thatactuallyvisits allthese syntacticinstances;not a lower bound on everysemantics-preserving implementation."
+    },
+    {
+      "id": "explicit_vectors_upper_range",
+      "expression": "N*2^N bits for independentexplicitNbitvectors;N54 ->54*2^54bits=108PiB",
+      "scope": "Conditional materialization cost atallowedrangeupperend,notactualfixture/result,notlazy/symbolic/shared/streaming lowerbound,andnotalln<=18 instances."
+    }
+  ],
+  "strong_old_baseline": {
+    "original_jobs": "Completedjobideals oforiginalnjobposet,eachstepalllegal1..3readyjobbatches,exactminimumslots withpredecessor reconstruction. Do not forceirrelevantpadding overhead.",
+    "padded_control": "SAMEpaddedposet withtriples is a useful additionalcontrol;dummyjob symmetry may be quotiented withmatched rules forbothmethods.",
+    "state_units": "Separately countsyntaxformulas,distincttruthsets,A(W)acceptancecache,interval(W,L,Z,R)states/generatededges andoldcompletedidealstates. Defineperinstanceversusaggregate25percentmean andcrossdeadlinekeys beforetargetoutputs.",
+    "cost_scope": "Allgeneration/deduplication/normalization ifused/reachability/validation/reconstruction anddeadline trials included. Originalplan phraseafterconstruction is not permissiontoexcludeconstruction;executabletiming windows stillnotfrozen."
+  },
+  "admission_decision": {
+    "literal_formula_enumeration": false,
+    "full_explicit_powerset": false,
+    "source_faithful_optimized_target": "not_admitted_withoutimplementation/completeness/cost",
+    "card_result": "待定",
+    "formal_negative": false,
+    "new_initial_checks": 0,
+    "new_validation_hypotheses": 0,
+    "target_outputs_observed": false,
+    "numerical_or_scientific_runs": [],
+    "do_not_claim": "Saturation alone doesnotdisprove25percentgain or proveallalgorithmsimpossible. No practicaltiming/memory run andnoformalnegative."
+  },
+  "revisit_conditions": [
+    "Source-faithful proof-template or lazy generator withcompleteglobalnode/relative-split coverage andsafepruning evidence.",
+    "Actualintervalstate implementation,definedmeasurementunits,strongoldoriginalnjobbaseline andmatchedsymmetry/earlychecks.",
+    "Separateexecutablepreregistration andimplementationfreeze beforetargetoutputs;atleast24DAGs/n<=18/chain-antichain-layered-nontrivial,original25percent/no-worsecriteriaandproposedcaps retained."
+  ],
+  "next_route": "Onebounded admission package complete;rotateF238unreadcompanion source beforemoreimplementation. Historicalrootsremainbudgeted.",
+  "original_plan_modified": false,
+  "new_candidates": 0,
+  "new_scientific_runs": 0,
+  "github_push": false
+}

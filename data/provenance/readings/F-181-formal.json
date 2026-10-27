@@ -1,0 +1,130 @@
+{
+  "at": "2026-10-27T07:39:51.538008+00:00",
+  "actual_selected_ranges": [
+    {
+      "path": "math/lean/docs/181.md",
+      "sha256": "2e322b0000ff85fbb7c09603243df922d38e51b22799f44cddb40ec8f5165285",
+      "ranges": [
+        [
+          1,
+          15
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CycleDecomposition.lean",
+      "sha256": "8c40255789147b218565654daa7d4f9ef39824b009d06ec9fb6beb7b45cae0f9",
+      "ranges": [
+        [
+          1,
+          38
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CycleDecomposition.json",
+      "sha256": "f89705dba6bfbf27113cae83ae8000946bd6276b2afae4b19e28fa528dfb32d0",
+      "ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/CycleDecomposition/Main.lean",
+      "sha256": "03edc7620d991daaa5629313c05395708b83ea44e5634a5ef69227ba2bcf77d9",
+      "ranges": [
+        [
+          1,
+          226
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/CycleDecomposition/Decomposition.lean",
+      "sha256": "4f742482cd903447ea3ce10f25f80f8dfbc84540e92877e771c4c08acb441853",
+      "ranges": [
+        [
+          1,
+          65
+        ],
+        [
+          255,
+          295
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/CycleDecomposition/PrefixSelection.lean",
+      "sha256": "2ace7017770a5c9593fa87e907fea11d775cd0775c22ec786557628c5058a22c",
+      "ranges": [
+        [
+          85,
+          111
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/CycleDecomposition/Routing.lean",
+      "sha256": "bda59fcac1565efb22c3bfd21c59b97b8708457e2a3aba334e2e7cb84e8f8586",
+      "ranges": [
+        [
+          870,
+          945
+        ]
+      ]
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "ranges": [
+        [
+          1135,
+          1157
+        ]
+      ]
+    }
+  ],
+  "selected_comparison": [
+    {
+      "item": "General linear cycle/edge endpoint",
+      "natural": "main.tex thm:main,all finite simple undirected graphs,one C,exact edge partition;zero order allowed.",
+      "Lean": "Actual Main208-217;Decomposition13-22 andPrefixSelection104-106. Noncomputable decompositionCost;no runtime bound.",
+      "assessment": "Natural thm:main and actual SimpleGraph Fin n/one C>0/alln/kpartdisjointunion/cycle-or-single definitions match selected static scope. Includes zero order andemptygraph. Main solves via noncomputable decompositionCost andchoice/existentialcutoffs,not executable linear-time algorithm. Selected routing signature has exactload/team/forbidden budget,proof notfully reviewed."
+    },
+    {
+      "item": "Auxiliary route and Eulerian scopes",
+      "natural": "routing.tex14-40 load/team/forbidden budget;main.tex Eulerian corollary.",
+      "Lean": "Routing874-886 signature selected only;Eulerian corollary not registered in selected Comparator.",
+      "assessment": "No automatic formal coverage upgrade for auxiliary claims;sourceC/fullchainunknown retained."
+    }
+  ],
+  "source_B_labels": [
+    "thm:main"
+  ],
+  "not_inferred": [
+    "Eulerian corollary formalcoverage",
+    "all auxiliary sourceformal equivalence",
+    "Lean build/Comparator run",
+    "completeproof/axiom/humanreview"
+  ],
+  "static_index": {
+    "path": "data/graph/lean_indices/F-181.json.gz",
+    "local_files": 34,
+    "declarations": 1270,
+    "lexical_placeholders": 0,
+    "local_axiom_declarations": 0,
+    "external_modules_not_present": [
+      "Mathlib"
+    ]
+  },
+  "local_build": "not_run",
+  "comparator": "not_run",
+  "human_specification_review": null,
+  "provider": "OpenAI",
+  "exact_backend": "unknown",
+  "failed_path_guesses": [
+    "Model.lean and AharoniHaxell.lean absent;resolved actual declarations via rg,not an upstream defect."
+  ]
+}

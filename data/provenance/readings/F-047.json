@@ -1,0 +1,775 @@
+{
+  "family_id": "F-047",
+  "work_package": "WP-115",
+  "generation_id": "GEN-20261027-112",
+  "at": "2026-10-27T03:41:17.497326+00:00",
+  "base_commit": "966211307cd4eced031e7fe8faa370bf56772e75",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-c01f49713c2f01d3"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "bytes": 1023,
+      "lines": 27,
+      "sha256": "59d671f7ea54b16557d28d9905e8349c24a0e081dee7fd4776f08e7c598a8284",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "actual_lines_read": 27,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+      "bytes": 1545,
+      "lines": 43,
+      "sha256": "088a987ebe7febb1c106ab17a2dddc00fcad312407e00c8188c55ca9d32b8e88",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "actual_lines_read": 43,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+      "bytes": 5979,
+      "lines": 172,
+      "sha256": "2bb98b0a1dfd87a48b22d9400ac2f9b4990d339755793dd95bae57eb0627ceed",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          172
+        ]
+      ],
+      "actual_lines_read": 172,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "bytes": 12722,
+      "lines": 271,
+      "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          271
+        ]
+      ],
+      "actual_lines_read": 271,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "bytes": 9727,
+      "lines": 256,
+      "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          256
+        ]
+      ],
+      "actual_lines_read": 256,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "bytes": 15609,
+      "lines": 369,
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          369
+        ]
+      ],
+      "actual_lines_read": 369,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "bytes": 16160,
+      "lines": 412,
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          412
+        ]
+      ],
+      "actual_lines_read": 412,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "bytes": 9104,
+      "lines": 239,
+      "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ],
+      "actual_lines_read": 239,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "bytes": 13002,
+      "lines": 338,
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          338
+        ]
+      ],
+      "actual_lines_read": 338,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+      "bytes": 6718,
+      "lines": 154,
+      "sha256": "5598893eb1ce948294f3b8a1f6c18bc3a7916afdbf90a254469b36daa0a6d62c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "actual_lines_read": 154,
+      "whole_file_actually_read": true
+    }
+  ],
+  "readme": {
+    "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/README.md",
+    "actually_read": true
+  },
+  "actual_read_ranges": "All10TeX2281lines including172bibliography lines andREADME18;per-file hashes and actual ranges verified",
+  "manual_file_reading_notes": [
+    "Main/currentpaperclaims a specific complexintegralaffinefourfold A=C[p,s,u,F,J]/H, x=s²+u³+p²F,H=x²F−(1+2sx)J−p²J²−pu, withA[w] polynomialfive-space butA nonpolynomialfour-space. Thesearesourceclaims,notacceptedtheorems orwholefamilyformalcoverage. Explicitconstruction alone doesnotvalidate nonpolynomiality.",
+    "Constructiondomain proof usesp localizationwithunitucoefficient andp-not-dividingH inUFD,thenfractionfielddimension4. Laurentcoordinatesawayfromp0 do notgiveglobalpolynomialcoordinates.",
+    "Delta=−p²d/du inlocalizedcoordinatesrestrictsP asLND,DeltaH=p³ andDelta²H=0;finiteexp(wDelta)mapsHtoH+p³w. Unimodularchange(F,J)→(L,M) hasdet1. PolynomialrootL*=pu−p²C modp³ andexplicitcertificate p³e0−(L−L*)=(p²Q1−1)(H+p³w) giveunlocalizedfifthcoordinate. Domain/pnonzero neededcancelp³ inw=W(e). No symboliccodeexecuted.",
+    "Ambient stable-coordinate corollary usesoldDutta–Lahiri residual-coordinate theorem plusnonpolynomiality;quotientA[w] beingpolynomialalone isnotautomaticallyanambientcoordinatecertificate. Historicaloriginalscopesstillunread.",
+    "S=C[p,x,y,z,u]/(xy−z(z+1)−p³u) injectsA,commonp-localization;R=S/pSsmoothdomain. pSprime principal localmaximal givesDVR;order≥iiffglobaldivisibilityp^i inS provedvia primality,notassumedfromarbitrarylocalvaluation. Valuationdegree−ord_p canbenegative.",
+    "ExactgrA=R[tau,I/tau²] withactualcoefficientembeddingandI=(f,g),notjustanassociatedgradedisomorphismforgettingR. Presentationweights(−1,0,0,2,2),Htopweight2,H=Htop−pu. Kernelp-saturationandweightreductionlowermaxbyatleast1,actuallyreplacementtermweightM−3,boundedbelowbyfixeddeg h,establishcompletegradedgeneration despiteunboundednegativeweights.",
+    "AnyLND onA induceshomogeneousLNDwitharbitrarysignedshift usingexactrepresentatives. Hypotheticalpolynomialcoordinatesforcepositive-degreeinvariant viaaderivativeindifferentcoordinate. ThisdoesnotpreserveR:explicitDeltadescendsG andsendsu to−tau²,butdoesnotdescendA becauseDeltaH=p³.",
+    "Bundlefirst193lines:determinant algebraRt=C[a,d,b,c,u]/(ac−bd−1),x=ab,y=dc,z=db. TwoLaurentfiberchartsD(z+1),D(z) givefaithfullyflattorusbundle. Explicitf=C1v,g=b²v,v=alpha f+beta g principalizeI,v=a³b−a²u³−d². BasechangeG→Gtfaithfullyflat withGt=Rt[tau,V]/(tau²V−v);tau-nonzerodivisor andlocalizedinjectiongivewholepresentation. Valuationdegree andfiberweightareseparatecommutinggradings. Liftingproofbeyond193stillunread.",
+    "Read before context recovery: linearization assumes smooth integral affine C-scheme and uses Pic(A1 x X)=Pic(X), normalized lift uniqueness, and characteristic zero. Homogeneous action lift does not assume the additive action preserves R or Rt. Original cited historical scopes remain unchecked.",
+    "Reduction actually read: positive-degree invariant forces V invariant. Cases fixing tau and moving tau extract a nonzero LND of Rt with fiber weight at most zero and E²(v)=0. Positive-weight example E+(b)=a,E+(c)=d demonstrates the sign condition is essential; it is not a counterexample to the stated nonpositive-weight conclusion.",
+    "Rigidity actually read: auxiliary highest component retains the fiber weight. Mason-Stothers degree argument uses orbit polynomials over the original fraction field C(a,d,b)(u); root counting over its algebraic closure does not replace that coefficient field. The odd u-adic order of -u³ obstructs its being a square there. Coefficient intersection is justified with the a/d charts. These are manuscript arguments, not an independent proof validation.",
+    "Fibration corollary actually read: all residue-field fibers, not just geometric fibers, are A3 for pi over A1 and rho=(p,H) over A2. Coordinate charts away from p and determinant-one p=0 coordinates give residual coordinates. Derivation of H gives unit Jacobian ideal, hence standard smoothness locally; pi is q=0 base change.",
+    "Non-local-triviality uses finite presentation, Bass-Connell-Wright symmetric algebra theorem and rank-three finitely generated projective freeness over polynomial C-bases; arbitrary polynomial transition automorphisms are allowed. Original BCW/Suslin scopes remain pending. Relative dimensions one and two are not covered.",
+    "All 10 TeX files 2281 lines including bibliography172 and README18 actually read. Formal docs047 excludes separate stable-coordinate and general line-bundle lifting results. Actual Model/Main/Comparator and selected Cylinder/Dimension/EquivariantLift/PositiveObstruction read: scalar-preserving equivalence and exact H match. Formal nonpolynomiality uses invariant nonzero replica cD and a highest component, not formal general normalized line-bundle lift. No Lean build or human specification audit."
+  ],
+  "source_sections": [
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+    "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex"
+  ],
+  "source_tex_lines": 2281,
+  "bibliography_lines": 172,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+      "fully_read": true
+    },
+    {
+      "source": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "target": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+      "fully_read": true
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-047-THM-MAIN",
+      "label": "thm:main",
+      "kind": "theorem",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+      "statement_lines": [
+        60,
+        70
+      ],
+      "statement_tex": "The algebra $A$ in \\eqref{eq:example} is an integral complex algebra of\ndimension four. For an independent variable $w$,\n\\[\n A[w]\\simeq\\kk\\poly5,\n \\qquad\n A\\not\\simeq\\kk\\poly4.\n\\]\nConsequently the Zariski cancellation problem over the complex numbers has\na negative answer in dimension four.",
+      "summary": "复四维整代数的多项式柱与非多项式底空间",
+      "conditions": "固定k=C、P=k[p,s,u,F,J]及x=s²+u³+p²F、H=x²F−(1+2sx)J−p²J²−pu、A=P/(H)；所有同构保持k。dimA=4,A[w]≅k^[5],A非k^[4]。是这一个对象的原稿主张，不是任意域、拓扑、有效识别算法或局部验证定理。",
+      "aliases": [],
+      "source_claim_grade": "B"
+    },
+    {
+      "id": "CLM-047-COR-STABLE-COORDINATE",
+      "label": "cor:stable-coordinate",
+      "kind": "corollary",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+      "statement_lines": [
+        91,
+        96
+      ],
+      "statement_tex": "The polynomial $H$ in \\eqref{eq:example} is not a coordinate of\n$P=\\kk[p,s,u,F,J]$, but it is a coordinate of $P[w]$ for one independent\nvariable $w$. Thus the Stable Coordinate Conjecture over $\\kk$ fails in\nambient dimension five after one stabilization.",
+      "summary": "固定H加一个变量后成为环境坐标而原来不是坐标",
+      "conditions": "环境P与P[w]中的坐标概念；H非坐标来自A非多项式。稳定坐标另用k[p]上残余坐标和Dutta–Lahiri3.4，不能仅由商环A[w]多项式推出；未在选定Lean主结论覆盖。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-CON-DOMAIN",
+      "label": "con:domain",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+      "statement_lines": [
+        43,
+        50
+      ],
+      "statement_tex": "The algebra \\(A\\) is an integral domain of dimension four, \\(p\\ne0\\)\nin \\(A\\), and\n\\[\n A[p^{-1}]=\\kk[p,p^{-1},x,y,z]\n\\]\nis a Laurent polynomial ring in the displayed generators.",
+      "summary": "整性、维数与p倒置的具体Laurent坐标",
+      "conditions": "p不整除H，倒置p后H对u线性且系数单位；UFD中因子下降。p在A中非零，A[p^-1]=C[p,p^-1,x,y,z]；倒置p的局部坐标不能延伸为全局多项式坐标。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-STABILIZATION",
+      "label": "prop:stabilization",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+      "statement_lines": [
+        97,
+        103
+      ],
+      "statement_tex": "For the algebra \\(A\\) in \\Cref{con:setup}, there is an algebraic\n\\(\\kk\\)-isomorphism\n\\[\n A[w]\\cong\\kk\\poly{5}.\n\\]",
+      "summary": "一个额外变量的显式多项式柱同构",
+      "conditions": "固定H和特定LND Delta、DeltaH=p³。有限exp(wDelta)后用行列式1的(F,J)变换、模p³根L*及多项式e0证书；p非零取消p³。给出固定例子的互逆映射，无一般多项式自动同构求解复杂度界，未由本项目执行符号计算。",
+      "aliases": [],
+      "source_claim_grade": "B"
+    },
+    {
+      "id": "CLM-047-DEG-VALUATION",
+      "label": "deg:valuation",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "statement_lines": [
+        20,
+        31
+      ],
+      "statement_tex": "The map $S\\to A$ is injective, and\n$S[p^{-1}]=A[p^{-1}]$.  The ring $R$ is a smooth domain.\nOn the common fraction field of $S$ and $A$ there is a discrete valuation\n$\\ord_p$, normalized by $\\ord_p(p)=1$, coming from $S_{pS}$.\nFor $b\\in S$ and every integer $i\\geq 0$,\n\\begin{equation}\\label{deg:global-divisibility}\n \\ord_p(b)\\geq i \\quad\\Longleftrightarrow\\quad b\\in p^iS.\n\\end{equation}\nIn particular, each nonzero $h\\in S[p^{-1}]$ has a unique expression\n$h=p^m b$ with $m=\\ord_p(h)\\in\\mathbb Z$ and $b\\in S\\setminus pS$.",
+      "summary": "固定p素理想给离散赋值和全局p整除",
+      "conditions": "S=C[p,x,y,z,u]/(xy−z(z+1)−p³u)嵌入A、共同p倒置；R=S/pS光滑整。S_(pS)为DVR且对b∈S，ordp b≥i等价b∈p^iS，用素性证明全局整除，i≥0。不能套用到任意局部赋值。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-GRADED",
+      "label": "prop:graded",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "statement_lines": [
+        121,
+        144
+      ],
+      "statement_tex": "Under \\Cref{deg:graded-injection}, the associated graded algebra is\nthe following specific subalgebra of $R[\\tau,\\tau^{-1}]$:\n\\begin{equation}\\label{deg:G}\n G:=\\gr A\n   =R[\\tau,I/\\tau^2]\n   =R[\\tau,f/\\tau^2,g/\\tau^2].\n\\end{equation}\nIt is a smooth domain.  Give $P=\\kk[p,s,u,F,J]$ the presentation\nweights\n\\begin{equation}\\label{deg:presentation-weights}\n (\\omega(p),\\omega(s),\\omega(u),\\omega(F),\\omega(J))\n       =(-1,0,0,2,2).\n\\end{equation}\nThen every nonzero $h\\in A$ has a polynomial representative whose\nmaximum weight is exactly $\\deg h$, and there is a graded isomorphism\n\\begin{equation}\\label{deg:graded-presentation}\n G\\cong P/(H_{\\mathrm{top}}),\\qquad\n H_{\\mathrm{top}}=x^2F-(1+2sx)J-p^2J^2,\n \\quad x=s^2+u^3+p^2F.\n\\end{equation}\nThe images of $p,s,u,F,J$ in this isomorphism are respectively\n$\\tau,s_R,u,f/\\tau^2,g/\\tau^2$.",
+      "summary": "保留系数嵌入的精确关联分次代数",
+      "conditions": "负赋值次数、权重(-1,0,0,2,2)，grA确为R[tau,I/tau²]⊂R[tau,tau^-1]；每元素有最大权恰为deg的代表。Htop=presentation主部，权重下降有固定deg下界；抽象同构不替代实际R嵌入。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-LEM-INDUCED-LND",
+      "label": "lem:induced-lnd",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "statement_lines": [
+        280,
+        284
+      ],
+      "statement_tex": "Every nonzero LND $D$ of $A$ induces a nonzero homogeneous LND\n$D_0$ of $G$.  If $0\\ne h\\in\\ker D$, then\n$\\inif(h)\\in\\ker D_0$.",
+      "summary": "非零局部幂零导子的齐次初始导子",
+      "conditions": "对固定A的任意非零LND，生成元最大次数差j可为负，精确代表给全局界。非零齐次D0且不变量初始形式仍不变；不保证D0保持R。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-POSITIVE-INVARIANT",
+      "label": "prop:positive-invariant",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "statement_lines": [
+        337,
+        341
+      ],
+      "statement_tex": "If $A\\cong\\kk\\poly{4}$, then $G$ admits a nonzero homogeneous LND\nwith a nonzero homogeneous invariant of strictly positive valuation\ndegree.",
+      "summary": "假定A多项式强制正赋值次数不变量",
+      "conditions": "只是假设A≅C^[4]下的必要条件；至少一个坐标正次数，在另一坐标求导固定它，再取初始导子。不能把必要条件当多项式性充分判据。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-PRINCIPALIZATION",
+      "label": "prop:principalization",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "statement_lines": [
+        51,
+        79
+      ],
+      "statement_tex": "The morphism $\\Spec\\Rt\\to\\Spec R$ is the complement of the zero\nsection in a line bundle, with fiber scaling specified by the weights\n\\[\n \\wt(a)=\\wt(d)=1,\\qquad\n \\wt(b)=\\wt(c)=-1,\\qquad \\wt(u)=0.\n\\]\nThe homomorphism $R\\to\\Rt$ is faithfully flat, and\n$I\\Rt=(v)$. Moreover, base change gives a faithfully flat inclusion\n$G\\hookrightarrow\\Gt$, where\n\\begin{equation}\n\\label{bun:pullback-algebra}\n \\Gt:=G\\otimes_R\\Rt\n   =\\Rt[\\tau,v/\\tau^2]\\subset\\Rt[\\tau,\\tau^{-1}],\\qquad\n \\Gt\\cong\\Rt[\\tau,V]/(\\tau^2V-v).\n\\end{equation}\nThus $V$ denotes the element $v/\\tau^2$ in the displayed subalgebra.\nThe ring $\\Gt$ is a domain and has the following commuting gradings:\n\\begin{center}\n\\begin{tabular}{c@{\\qquad}rrrrr}\n\\toprule\n & $a,d$ & $b,c$ & $u$ & $\\tau$ & $V$\\\\\n\\midrule\nValuation degree & $0$ & $0$ & $0$ & $-1$ & $2$\\\\\nFiber weight & $1$ & $-1$ & $0$ & $0$ & $2$\\\\\n\\bottomrule\n\\end{tabular}\n\\end{center}",
+      "summary": "两Laurent图主丛上理想主化并保持两套分次",
+      "conditions": "Rt=C[a,d,b,c,u]/(ac−bd−1),x=ab,y=dc,z=db,v=a³b−a²u³−d²。两开图保证R→Rt忠实平坦；I Rt=(v)有f=C1v,g=b²v,v=alpha f+beta g证书。Gt=Rt[tau,V]/(tau²V−v)整，赋值次数与纤维权重分开；不假设Ga作用保持Rt。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-LINEARIZATION",
+      "label": "prop:linearization",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "statement_lines": [
+        211,
+        232
+      ],
+      "statement_tex": "Let $X$ be a smooth integral affine variety over $\\kk$, and let\n$\\pi\\colon\\Aff^1\\times X\\to X$ be the projection. Then\n\\[\n \\pi^*\\colon\\Pic(X)\\xrightarrow{\\ \\sim\\ }\n                  \\Pic(\\Aff^1\\times X).\n\\]\nFor every algebraic additive action\n$\\alpha\\colon\\Ga\\times X\\to X$ and every line bundle $L$ on $X$,\nthere is a unique isomorphism of line bundles\n\\begin{equation}\n\\label{bun:linearization-map}\n \\phi\\colon\\pi^*L\\xrightarrow{\\ \\sim\\ }\\alpha^*L\n\\end{equation}\nwhose restriction to $\\{0\\}\\times X$ is $\\mathrm{id}_L$.\nThis isomorphism obeys the action cocycle. It therefore defines a\nunique action on $L$ that lifts $\\alpha$, is linear on its fibers,\nand acts as the identity at the group identity. The action preserves\n$L^\\times$ and commutes with fiber scaling. If $L^\\times$ is affine,\nthe induced derivation of its coordinate ring is locally nilpotent\nand preserves the fiber weights.",
+      "summary": "光滑仿射复簇上加法作用的唯一规范线丛提升",
+      "conditions": "X光滑整仿射复簇，Pic(A1×X)≅PicX，任意线丛的提升在0处恒等且满足cocycle。单位C[t]^*=C^*不等于全单位均为常数域标量。L×仿射时才把作用写成坐标环LND，char0用于导子与指数对应；选定Lean不覆盖此一般命题。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-HOMOGENEOUS-LIFT",
+      "label": "prop:homogeneous-lift",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "statement_lines": [
+        337,
+        343
+      ],
+      "statement_tex": "Let $D_0$ be a homogeneous locally nilpotent derivation of $G$\nof valuation degree shift $j$. There is a locally nilpotent\nderivation $\\Dt$ of $\\Gt$ restricting to $D_0$ on $G$, with\nfiber weight zero and valuation degree shift $j$. If $D_0\\ne0$,\nthen $\\Dt\\ne0$.",
+      "summary": "自然证明中保持纤维权和赋值次数的原导子提升",
+      "conditions": "G上齐次LND D0次数j，可在Gt提升原D0，纤维权0且同j；D0非零则提升非零。使用前一一般线丛命题及规范提升唯一性；与实际Lean的cD后取最高分量不同，不互相冒充。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-LEM-LND-ORDER",
+      "label": "lem:lnd-order",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+      "statement_lines": [
+        36,
+        51
+      ],
+      "statement_tex": "Let $T$ be a domain over $\\kk$ and let $\\delta$ be a locally nilpotent\nderivation of $T$.  For $0\\ne h\\in T$, define\n\\[\n  \\nu_\\delta(h)=\\max\\{n\\ge0:\\delta^n(h)\\ne0\\}.\n\\]\nThen for nonzero $f,g\\in T$,\n\\begin{equation}\\label{red:order-product}\n  \\nu_\\delta(fg)=\\nu_\\delta(f)+\\nu_\\delta(g).\n\\end{equation}\nIf $\\delta(h)\\ne0$, then\n$\\nu_\\delta(\\delta(h))=\\nu_\\delta(h)-1$.\nConsequently, $\\ker\\delta$ is factorially closed in $T$: if\n$0\\ne fg\\in\\ker\\delta$, then $f,g\\in\\ker\\delta$.\nMoreover, $\\delta(h)\\ne0$ implies $\\delta(h)\\notin hT$.",
+      "summary": "局部幂零阶的乘法相加与核乘法封闭",
+      "conditions": "char0整环T，非零f,g的nu(fg)=nu f+nu g。导子非零值降阶1，核乘法封闭，delta h非零不能整除于hT。无UFD假设；charp二项式消失情形不可沿用。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-EXTRACTED-LND",
+      "label": "prop:extracted-lnd",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+      "statement_lines": [
+        102,
+        111
+      ],
+      "statement_tex": "If $A\\cong\\kk\\poly{4}$, there are a nonzero locally nilpotent derivation\n$E$ of $\\Rt$ and an integer $q\\le0$ such that $E$ is homogeneous of\nfiber weight shift $q$ and\n\\[\n  E^2(v)=0.\n\\]\nHere homogeneity means that $E(r)$ has fiber weight $\\wt(r)+q$ whenever\n$r$ is fiber homogeneous and $E(r)\\ne0$.",
+      "summary": "多项式性假设强制非正纤维权的二阶零导子",
+      "conditions": "固定Gt双分次，正次数不变量强制V不变；按Dt(tau)=0或不等0分支抽取Rt上E，E非零LND、固定q≤0,E²v=0。q≤0本质；原稿正权E+(b)=a,E+(c)=d满足E+²v=0不能省此条件。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-RIG-ABC",
+      "label": "rig:abc",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "statement_lines": [
+        28,
+        38
+      ],
+      "statement_tex": "Let $F$ be a field of characteristic zero, and let\n$X,Y,Z\\in F[q]$ be nonzero, pairwise relatively prime polynomials\nsatisfying $X+Y=Z$.  If they are not all constant, then\n\\[\n \\max\\{\\deg X,\\deg Y,\\deg Z\\}\n \\le r(XYZ)-1,\n\\]\nwhere $r(XYZ)$ is the number of distinct roots of $XYZ$ in an\nalgebraic closure of $F$.",
+      "summary": "char0域上一变量Mason–Stothers不同根界",
+      "conditions": "F特征0，X,Y,Z∈F[q]均非零两两互素、X+Y=Z且不全常数；最大次数≤代数闭包中不同根数−1。闭包只用于数根，不得把后续原系数域中的非平方变为可平方。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-RIG-ONE-VARIABLE",
+      "label": "rig:one-variable",
+      "kind": "lemma",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "statement_lines": [
+        78,
+        81
+      ],
+      "statement_tex": "Let $F$ be a field of characteristic zero.  If $\\delta$ is a locally\nnilpotent $F$-derivation of $F[t]$, then $\\delta(t)\\in F$.",
+      "summary": "一变量多项式环的LND只能常数速度",
+      "conditions": "F特征0，F线性局部幂零导子作用于F[t]，delta t∈F；必须固定F且实际局部幂零，非任意多项式向量场。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-PROP-RIGIDITY",
+      "label": "prop:rigidity",
+      "kind": "proposition",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "statement_lines": [
+        97,
+        100
+      ],
+      "statement_tex": "There is no nonzero locally nilpotent $\\kk$-derivation $E$ of\n$\\Rt$ with a fixed fiber shift $e\\le0$ and $E^2(v)=0$.",
+      "summary": "固定Rt中非正纤维权的二阶零导子障碍",
+      "conditions": "固定v和Rt、E是k线性非零LND、固定纤维位移e≤0。辅助最高分量保持e，orbit abc后用原K=C(a,d,b)(u)中−u³的u阶奇数排除平方；再用Rt∩C(a,d,u)=C[a,d,u]与非负权。正纤维权反例保留，不扩称所有导子都不存在。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    },
+    {
+      "id": "CLM-047-COR-AFFINE-FIBRATIONS",
+      "label": "cor:affine-fibrations",
+      "kind": "corollary",
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+      "sha256": "5598893eb1ce948294f3b8a1f6c18bc3a7916afdbf90a254469b36daa0a6d62c",
+      "statement_lines": [
+        9,
+        29
+      ],
+      "statement_tex": "Let $P,H,A$ be as in \\eqref{eq:example}, and put $X=\\Spec A$. Write\n$\\Aff^1_p=\\Spec\\kk[p]$ and\n$\\Aff^2_{p,q}=\\Spec\\kk[p,q]$, where $q$ is independent of $p$.\nConsider the morphisms\n\\[\n \\pi:X\\longrightarrow\\Aff^1_p,\n \\qquad\n \\rho=(p,H):\\Spec P=\\Aff^5\\longrightarrow\\Aff^2_{p,q},\n\\]\ninduced respectively by $\\kk[p]\\to A$ and by\n$\\kk[p,q]\\to P$ with $q\\mapsto H$.\nBoth are smooth surjective morphisms of relative dimension three.\nFor either morphism and every point $y$ of its base, the fiber over $y$\nis isomorphic to $\\Aff^3_{\\kappa(y)}$; in particular, every geometric\nfiber is affine three-space. Neither morphism is a\nZariski-locally trivial $\\Aff^3$-bundle.\nThus the Dolgachev--Weisfeiler affine-fibration conjecture fails in\nrelative dimension three over each of the smooth complex affine bases\n$\\Aff^1$ and $\\Aff^2$.",
+      "summary": "仿射直线与平面基上的非局部平凡光滑三维仿射纤维",
+      "conditions": "固定pi:SpecA→A1_p及rho=(p,H):A5→A2_pq；所有点的剩余域纤维均为A3，光滑满射相对维3。Jacobian单位理想单独证明光滑，pi为q0基变。非Zariski局部平凡用有限呈示、BCW与rank3有限生成投射模在C多项式基上自由；不涉及相对维1或2。",
+      "aliases": [],
+      "source_claim_grade": "C"
+    }
+  ],
+  "methods": [
+    [
+      "STABLE-CYLINDER",
+      "显式稳定化坐标证书",
+      "固定H和一个额外变量w",
+      "五个全局多项式坐标及反向代换",
+      "prop:stabilization",
+      "必须保存p=0分支、整性和p非零；不是一般坐标算法或降维规则"
+    ],
+    [
+      "RESIDUAL-COORDINATE",
+      "倒置参数及特殊纤维分开核对残余坐标",
+      "C[p]上固定多项式H",
+      "每个剩余域上以H为首坐标",
+      "cor:affine-fibrations",
+      "p^-1局部与p0行列式1变换齐全；残余坐标不直接推出未稳定全局坐标"
+    ],
+    [
+      "VALUATION-DIVISIBILITY",
+      "素参数的局部阶与全局整除桥梁",
+      "S、素理想pS及p倒置共同域",
+      "ordp与全局p幂整除的精确等价",
+      "deg:valuation",
+      "特定素性与DVR条件，不能给任意局部观测推全局整除"
+    ],
+    [
+      "EXACT-GRADED",
+      "带系数嵌入和终止证书的初始模型",
+      "固定Htop、负权赋值和实际R嵌入",
+      "grA的精确子代数表示和最小权代表",
+      "prop:graded",
+      "不只登记抽象Hilbert或同构；下降要保留实际次数下界"
+    ],
+    [
+      "INITIAL-LND",
+      "保留不变量的最高次数导子",
+      "固定A的非零LND及生成元次数",
+      "非零齐次LND和不变量初始形式",
+      "lem:induced-lnd",
+      "次数位移任意符号，导子不必保持系数R；原稿Delta(u)=−tau²反例"
+    ],
+    [
+      "TORSOR-PRINCIPALIZE",
+      "两图忠实平坦主化",
+      "R中理想I和指定SL2型主丛",
+      "I Rt=(v)、双分次Gt及显式组合证书",
+      "prop:principalization",
+      "图覆盖、过渡单位、平坦性和tau非零不能省；不是原空间上I已主"
+    ],
+    [
+      "NORMALIZED-LIFT",
+      "规范线丛提升的cocycle判据",
+      "光滑整仿射复簇、Ga作用、线丛",
+      "唯一0处恒等提升及纤维权0的LND",
+      "prop:linearization",
+      "L×需仿射，char0；不由所选Lean主结论自动覆盖"
+    ],
+    [
+      "SIGNED-EXTRACTION",
+      "通过两套权重分支抽取障碍",
+      "Gt中齐次LND和正赋值次数不变量",
+      "Rt上非正纤维权E且E²v=0",
+      "prop:extracted-lnd",
+      "必须保存正权可行反例，不能删q≤0变成更强结论"
+    ],
+    [
+      "LND-ORDER",
+      "用局部幂零阶限制可除性",
+      "char0整环中实际LND及非零乘积",
+      "阶相加、核乘法封闭和非整除障碍",
+      "lem:lnd-order",
+      "是旧一般引理在本构造使用，不作新数学或速度收益"
+    ],
+    [
+      "ORBIT-ABC",
+      "轨道多项式的根重数与系数域双重障碍",
+      "char0轨道多项式和次数≤1的d²+a²u³",
+      "abc次数限制后检查原系数域非平方",
+      "prop:rigidity",
+      "原K中u阶奇数是关键；代数闭包仅数根，不全程换域"
+    ],
+    [
+      "COEFFICIENT-INTERSECTION",
+      "两张图求系数域交集",
+      "Rt的a,d局部化及不变系数Q",
+      "Rt∩Q=C[a,d,u]，再读非负纤维权",
+      "prop:rigidity",
+      "a,d在系数UFD互素，b/c超越性与固定系数条件明确"
+    ],
+    [
+      "FIBER-LOCAL-GLOBAL",
+      "分别检查纤维、光滑及全局平凡性",
+      "固定残余坐标映射及有限呈示代数",
+      "全部剩余域A3纤维与光滑，独立全局障碍",
+      "cor:affine-fibrations",
+      "不能以纤维采样或局部Jacobian通过代替Zariski局部平凡；BCW原作取证缺口保留"
+    ]
+  ],
+  "domain_attempts": [
+    [
+      "符号代数／坐标识别",
+      "near",
+      "具体输入H与A可用作区分稳定商环、环境坐标和未稳定识别的回归对象；尚未识别真实算法的错误分支或独立裁判，保留方法和消费者缺口，不先跑已知多项式恒等式算新收益。"
+    ],
+    [
+      "程序验证／编译器优化",
+      "far",
+      "添加辅助变量后的等价不能自动取消辅助状态；需实际多项式状态语义、保持标量的同构以及错误消去规则。普通SSA临时变量删除不等于仿射坐标取消，暂无具体工作负载。"
+    ],
+    [
+      "机器学习／潜变量可识别性",
+      "far",
+      "X×A1与X不同提供稳定表征丢失结构的类比；真实潜变量模型通常统计可识别或实光滑同胚，尚无复代数同构损失函数接口，不可称识别性反例。"
+    ],
+    [
+      "机器人／配置空间",
+      "far",
+      "局部坐标和全局平凡化分离可能帮助配置图谱测试；实际配置空间有实不等式、碰撞和度量，固定复四维例子未与可执行运动规划实例对接。"
+    ],
+    [
+      "生物反应网络",
+      "far",
+      "稳态代数多样体的辅助物种消去需保留结构；正浓度、守恒律和动力学不在来源范围，不能由C代数例子推出生物多稳态。"
+    ],
+    [
+      "金融／因子模型",
+      "bold",
+      "边际／纤维相同未必总体模型可分解是一条结构直觉；概率分布、套利和可估计性与Zariski局部平凡不同，尚无可证伪金融机制。"
+    ],
+    [
+      "交通／分区路网",
+      "bold",
+      "每个局部路段同型仍需全局拼接信息；离散图及路径代价不满足复仿射纤维接口，没有运行收益指标，不强行入应用卡。"
+    ],
+    [
+      "能源／潮流方程",
+      "far",
+      "参数化多项式可行集合或有特殊纤维和全局障碍；实可行域、Jacobian奇点和物理约束需另证，原稿光滑复例子不等于潮流求解改进。"
+    ],
+    [
+      "语言／组合语义",
+      "bold",
+      "加上下文变量后表示相同不保证原表示相同是信息丢失类比；无语言语义到复代数保持同构的映射，不作语言模型性能主张。"
+    ],
+    [
+      "艺术／参数化造型",
+      "bold",
+      "局部相同纤维而整体不可统一参数化可作为造型直觉；实际目标为实可渲染几何与连续参数，不由复代数非平凡直接给出新形状或压缩。"
+    ]
+  ],
+  "cross_family_attempts": [
+    {
+      "family_id": "F-200",
+      "existing_method": "PART-200-FILTERED",
+      "assessment": "同为filtered→graded，F200的Hilbert／秩比较不提供F047实际R系数嵌入或LND保持性；组合前需共同环、过滤及核结构，不自动给识别算法。"
+    },
+    {
+      "family_id": "F-333",
+      "existing_method": "PART-333-POLYNOMIAL-LOCALIZATION",
+      "assessment": "F333连续局部多项式化／等距修正与F047代数全局平凡性属不同范畴；平滑或等距浸入不保持仿射代数同构，不能用局部图替代全局坐标。"
+    },
+    {
+      "family_id": "F-124",
+      "existing_method": "PART-124-FLATTEN",
+      "assessment": "F124的嵌套域内two-leaf union与carried pair相等依赖覆盖／保留carry等条件；不能把局部相等提升全域相等。与F047的局部—整体区分仅是方法类比，原对象与目标不同，没有共同代数范畴或组合算法。"
+    }
+  ],
+  "historical_references_by_key": {
+    "AEH": "LIT-047-AEH",
+    "Asanuma": "LIT-047-ASANUMA",
+    "BassConnellWright": "LIT-047-BASSCONNELLWRIGHT",
+    "BlancVanSanten": "LIT-047-BLANCVANSANTEN",
+    "Brion": "LIT-047-BRION",
+    "DuttaLahiri": "LIT-047-DUTTALAHIRI",
+    "EdoVenereau": "LIT-047-EDOVENEREAU",
+    "ElKahouiOuali": "LIT-047-ELKAHOUIOUALI",
+    "FinstonMaubach": "LIT-047-FINSTONMAUBACH",
+    "Fujita": "LIT-047-FUJITA",
+    "GaifullinPetrov": "LIT-047-GAIFULLINPETROV",
+    "GuptaThreefold": "LIT-047-GUPTATHREEFOLD",
+    "GuptaPositive": "LIT-047-GUPTAPOSITIVE",
+    "GuptaSurvey": "LIT-047-GUPTASURVEY",
+    "KalimanMakarLimanov": "LIT-047-KALIMANMAKARLIMANOV",
+    "KalimanZaidenberg": "LIT-047-KALIMANZAIDENBERG",
+    "MakarLimanov": "LIT-047-MAKARLIMANOV",
+    "MakarLimanovVanRossumShpilrainYu": "LIT-047-MAKARLIMANOVVANROSSUMSHPILRAINYU",
+    "Mason": "LIT-047-MASON",
+    "Maubach": "LIT-047-MAUBACH",
+    "MiyanishiSugie": "LIT-047-MIYANISHISUGIE",
+    "Stacks": "LIT-047-STACKS",
+    "Stothers": "LIT-047-STOTHERS",
+    "Suslin": "LIT-047-SUSLIN",
+    "Traverso": "LIT-047-TRAVERSO",
+    "DolgachevWeisfeiler": "LIT-047-DOLGACHEVWEISFEILER"
+  },
+  "historical_external_work_count": 26,
+  "historical_selected_originals": "data/provenance/readings/F-047-history.json",
+  "unread_or_unqualified_original_root_ids": [
+    "LIT-047-AEH",
+    "LIT-047-ASANUMA",
+    "LIT-047-BASSCONNELLWRIGHT",
+    "LIT-047-BLANCVANSANTEN",
+    "LIT-047-EDOVENEREAU",
+    "LIT-047-ELKAHOUIOUALI",
+    "LIT-047-FINSTONMAUBACH",
+    "LIT-047-FUJITA",
+    "LIT-047-GAIFULLINPETROV",
+    "LIT-047-GUPTATHREEFOLD",
+    "LIT-047-GUPTAPOSITIVE",
+    "LIT-047-GUPTASURVEY",
+    "LIT-047-KALIMANMAKARLIMANOV",
+    "LIT-047-KALIMANZAIDENBERG",
+    "LIT-047-MAKARLIMANOV",
+    "LIT-047-MAKARLIMANOVVANROSSUMSHPILRAINYU",
+    "LIT-047-MASON",
+    "LIT-047-MAUBACH",
+    "LIT-047-MIYANISHISUGIE",
+    "LIT-047-STACKS",
+    "LIT-047-STOTHERS",
+    "LIT-047-SUSLIN",
+    "LIT-047-TRAVERSO",
+    "LIT-047-DOLGACHEVWEISFEILER"
+  ],
+  "historical_versions_in_corpus": [
+    {
+      "evidence": [
+        "CONTENTS.md:old-and-current-exact-path"
+      ],
+      "family_id": "F-047",
+      "new_path": "preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/paper.pdf",
+      "old_path": "preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/paper.pdf",
+      "old_title": "An explicit failure of complex affine-space cancellation",
+      "status": "unchanged_catalogue_path"
+    }
+  ],
+  "version_history_scope": "Fixed current manuscript at pinned revision read;catalogue reconciliation is not all historical proof versions read.",
+  "formal_status": "data/provenance/readings/F-047-formal.json",
+  "formal_index": "data/graph/lean_indices/F-047.json.gz",
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "gaps": [
+    "Full historical original proof closure missing:2/26 roots have hashed selected scopes,not complete reading;Suslin partial web text only,BCW original403;Stacks/Traverso/Mason and other unselected originals not qualified.",
+    "Only selected main and explicit stabilization statement assigned local sourceB;15other sourceC. Actual formal uses invariant replica then highest component,not general normalized lift. 55-file5573-line lexical index is not a Lean/Comparator/proof/axiom audit;human/provider reviews missing.",
+    "Current single manuscript fully read,not full family/history/version closure. Source claims do not become accepted mathematics by being written to graph.",
+    "No concrete application consumer/workload or executable benefit specification has been admitted. Fixed counterexample,finite polynomial identities or fiber samples alone do not measure new application value. No new candidate/check/scientific run.",
+    "Complex scalar-preserving algebraic isomorphism differs from real feasible geometry,topology,statistical latent identifiability and arbitrary symbolic optimization.",
+    "Do not omit p=0,replace actual coefficient embedding by abstract graded type,assume additive derivation preserves R,omit nonpositive fiber shift or algebraically close the coefficient field in the parity obstruction."
+  ],
+  "third_party_acquired_bytes": 528441,
+  "third_party_republication": false,
+  "dependencies_installed": false,
+  "github_push": false
+}

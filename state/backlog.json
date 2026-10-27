@@ -124,14 +124,18 @@
       "completed_subpackages": [
         "WP-008A: optimal-order and trace-smoothing manuscripts, 14 named results, selected main formal comparisons, exact joint-law QA fixture",
         "WP-035:revealed switching environment whole manuscript,17namedresults/16contracts;3/12canonicaldrafts.",
-        "WP036:informationfullsource64bindings/18contracts;F2384/12drafts95bindings,selectedhistory/formal,no newnumericrun."
+        "WP036:informationfullsource64bindings/18contracts;F2384/12drafts95bindings,selectedhistory/formal,no newnumericrun.",
+        "WP110:two additionalcompanions38TeX10336lines,132newbindings/30contracts;canonical6/12 and227bindings,notfullfamily.",
+        "WP124conditional/analytic companion10TeX/Bib1791lines,6bindings/14contracts;7/12currentdrafts233bindings."
       ],
       "evidence": [
         "reports/families/F-238.md",
         "reports/cards/APP-238-01.md",
         "experiments/runs/EXP-238-001-a1d52c04aeb9b1ba/manifest.json"
       ],
-      "remaining": "Eight source manuscripts not fully read/decomposed;complete historical closure and supporting-result formal concordance remain."
+      "remaining": "Five of12 current source manuscripts remain without complete natural-source decomposition;WP124completed seventh/233bindings. Full historical/support formal closure still missing.",
+      "prior_remaining_metadata": "Six of12source manuscripts remain without full natural-source decomposition;actual canonical6/12 includesWP110 companions. Complete historical/support formal closure still missing.",
+      "metadata_sync_reason": "Synchronize existing WP124canonical facts;not new reading credit."
     },
     {
       "id": "WP-009",
@@ -3599,7 +3603,7 @@
     {
       "id": "WP-113",
       "priority": 1,
-      "status": "in_progress",
+      "status": "completed",
       "parent_task": "WP-006",
       "objective": "Actually read and qualify the full F020 quartic squarefree/power-free source,its formal/historical scopes and transferable input/output conditions before application claims",
       "selection_reason": "Three paving-consumer projects have reached their cap without an identical-output benchmark. Number theory remains3/31. F020 offers a different input class—polynomial values—where full-source reading can distinguish local obstruction,degree/power-free assumptions,density/existence,effective finite error and constructive interfaces. This is a question to resolve,not a promise from filenames or title. Do not continue spectral libraries or run a known-formula demo.",
@@ -3627,7 +3631,7 @@
       "github_push": false,
       "retrospective_due": "Mandatory global040 afterWP113,third substantivepackage WP111-113 since039;earliermajorcounterevidence/dataissue.",
       "execution_journal": "state/reading-progress/WP-113.json",
-      "next_action": "Qualify source result bindings, method contracts, domain/cross-family attempts and provisional adaptive-prime mapping before GEN110 canonical curation; preserve role disagreement and all admission gaps. Then full graph/impact/export/core/archives/no-math QA and mandatory global040. No numerical execution without independent preregistration.",
+      "next_action": "WP113 closed aftersource qualification/QA/storage andglobal040. ContinueWP114 boundedrealconsumer admission;do notrerun curator or221/325merelyforfingerprint.",
       "started_at": "2026-10-26T08:49:10.030070+00:00",
       "execution_progress": {
         "files_fully_read": 15,
@@ -3635,12 +3639,833 @@
         "selected_total_tex_lines": 3967,
         "bibliography_lines_read": 345,
         "bibliography_total_lines": 345,
-        "new_full_manuscripts": 0,
-        "canonical_credit_added": false,
+        "new_full_manuscripts": 1,
+        "canonical_credit_added": true,
         "actual_current_source_read_complete": true,
         "formal_historical_selected_scopes_saved": true
-      }
+      },
+      "qualification_progress": {
+        "generation": "GEN-20261027-110",
+        "named_bindings": 26,
+        "unlabelled_bindings": 2,
+        "methods": 24,
+        "canonical_new_records": 88,
+        "new_explicit_edges": 305,
+        "core_tests": 69,
+        "graph_and_archive_checks": "passed",
+        "impact_cases": 48,
+        "representative_replays": [
+          "EXP221 supported exact",
+          "EXP325 adverse exact"
+        ],
+        "clean_check": "passed",
+        "new_candidates": 1,
+        "new_application_checks": 0,
+        "new_scientific_experiments": 0,
+        "storage": "compressed_roundtrip_verified"
+      },
+      "completed_at": "2026-10-27T02:53:04.671118+00:00",
+      "outputs": [
+        "data/provenance/readings/F-020.json",
+        "data/provenance/readings/F-020-formal.json",
+        "data/provenance/readings/F-020-history.json",
+        "reports/powerfree-F020-reading.md",
+        "reports/families/F-020.md",
+        "reports/cards/APP-020-01.md",
+        "reports/retrospectives/040-effective-interfaces-and-bounded-admission.md",
+        "reports/reproducibility/20261027-F020-powerfree"
+      ],
+      "result": "Fullcurrent natural source15TeX3967+345Bib qualified;26named+2unlabelledbindings24contracts;2sourceB/26C/fullchainunknown. Fourselectedhistoricalworks only. 88newrecords305edges andone low-priority pendingconditionalAPP02001;no actualconsumer/check/experiment. 5076oldrecords/oldedges and246science/source/test/corpus/archive/familyfiles preserved. Fullobjects/48impact/15archives267members/69core/no-mathclean andexact221/325replayspassed. Global040 closescycle andselectsboundedWP114;noGitHubpush."
+    },
+    {
+      "id": "WP-114",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Qualify actual modular reconstruction/elimination consumers against the full same-S Q-kernel stability and complete-cost contract of APP02001",
+      "selection_reason": "Global040 selects one bounded application-admission package before another full-source family. A real consumer can falsify or establish necessary interfaces;no source formula reproduction or new finite-probability theorem proof. Algebraic/complex geometry remains3/36 and is the preferred subsequent rotation if cap is reached.",
+      "inputs": [
+        "APP-020-01",
+        "PROB-020-ADAPTIVE-PRIME-GATE",
+        "data/provenance/readings/F-020.json",
+        "experiments/plans/APP-020-01-conditional.json",
+        "reports/retrospectives/040-effective-interfaces-and-bounded-admission.md"
+      ],
+      "resource_limit": "Atmost3first-party publicsoftwareprojects,12selected source/license files,2MiBnewbodies;normalTLS,pinactualcommits andreadexactranges. No clone/install/upstreammathwrite. No numerical orsymbolic scientificoutput before separateindependent executablepreregistration. Compress ownmetadata/log/code andverifyroundtrip.",
+      "acceptance": "Identify actual input/output,complete rational evaluation kernel versusFpnullspace,same-S nesting,full-record stability,deterministic choices,all fixed-depthfailurepaths,nonzero-minorheight/finite-risk event and full construction/verificationcost. Compare strongest same-output oldpolicies andpreserve failedqualification. No candidate/check quota. Fullgraph/hash/FK/impact/export/core/archive/no-mathQA foracceptedrecords.",
+      "stop_or_redirect": "Stop at3projects/12files/2MiB ifno realadmitted consumer;retain APP02001 conditional androtate to low-coverage algebraic/complex geometry,comparingF047/F053 fromactualsource. Do not inventfinitecertificate,construct a toy that pre-solvesS,prove newtheorems orchange sampling/output toclaimsuccess.",
+      "depends_on": [
+        "WP-113"
+      ],
+      "created_at": "2026-10-27T02:48:44.827863+00:00",
+      "github_push": false,
+      "retrospective_due": "AfterWP116,third substantive package since040,or earliermajorcounterevidence/dataissue.",
+      "selection_source_reading_credit": false,
+      "next_action": "WP114completeat3projectcap;no newexperimentorformaldenial. RotateWP115F047;do notreruncurator/reacquire10softwarefiles.",
+      "started_at": "2026-10-27T02:57:15.456126+00:00",
+      "execution_journal": "state/reading-progress/WP-114.json",
+      "selected_projects": [
+        {
+          "project": "sage",
+          "repository": "sagemath/sage",
+          "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+          "selected_paths": [
+            "COPYING.txt",
+            "src/sage/rings/polynomial/multi_polynomial_ideal.py",
+            "src/sage/libs/singular/function.pyx"
+          ]
+        },
+        {
+          "project": "singular",
+          "repository": "Singular/Singular",
+          "commit": "b501ac240eec83597514c6223a6413790049ef46",
+          "selected_paths": [
+            "COPYING",
+            "Singular/LIB/modstd.lib",
+            "Singular/LIB/modular.lib",
+            "Singular/LIB/moddiq.lib"
+          ]
+        },
+        {
+          "project": "sympy",
+          "repository": "sympy/sympy",
+          "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+          "selected_paths": [
+            "LICENSE",
+            "sympy/polys/modulargcd.py",
+            "sympy/polys/rings.py"
+          ]
+        }
+      ],
+      "execution_progress": {
+        "project_pins": 3,
+        "source_body_files_acquired": 10,
+        "actually_read_lines": 3863,
+        "canonical_credit_added": false,
+        "body_bytes": 572605
+      },
+      "qualification_progress": {
+        "generation": "GEN-20261027-111",
+        "canonical_new_records": 24,
+        "new_explicit_edges": 44,
+        "source_license_files": 10,
+        "actual_lines_read": 3863,
+        "core_tests": 69,
+        "impact_cases": 63,
+        "graph_and_archive_checks": "passed",
+        "clean_check": "passed",
+        "new_candidates": 0,
+        "new_application_checks": 0,
+        "new_scientific_experiments": 0,
+        "storage": "compressed_roundtrip_verified"
+      },
+      "completed_at": "2026-10-27T03:16:06.288333+00:00",
+      "outputs": [
+        "data/provenance/demand/F-020-modular-consumers.json",
+        "reports/F020-modular-consumer-audit.md",
+        "reports/reproducibility/20261027-modular-consumers"
+      ],
+      "result": "3pinnedprojects10source/licensefiles572605bytes3863actualselectedlines. 24newcanonical44explicitrelations;5164oldrecords/oldedges/science/source/tests/experiments/corpus/55familyreports/readingcoverageunchanged. Fullobjects/63impact/15archives267members/69core/no-mathclean passed. No same-SfullQkernel/fullstate/prime-law/finite-risk/fullcostconsumeradmitted;APP02001predictionunchanged,candidate46/check13. Stopprojectcap,rotateWP115F047;noGithubpush."
+    },
+    {
+      "id": "WP-115",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Read and qualify F047 complete current source,explicit affine cancellation/fibration construction andactual selected formal/historical scopes before any application inference",
+      "selection_reason": "Global040 requirescoverage rotation afterboundedmodularconsumersearch. Algebraic/complexgeometry remains3/36. F047 catalogueclaims anexplicitfixedconstruction separatingX fromstableX×A1 andfibersfromlocaltriviality;actualsourcecanresolvewitness,input/basefield/output/isomorphism/costscope. F053high-arityChowalternative remainsunread;selectionisnotanapplicationpromiseorjustthefewestlines.",
+      "inputs": [
+        "F-047",
+        "P-c01f49713c2f01d3",
+        "reports/F020-modular-consumer-audit.md",
+        "reports/retrospectives/040-effective-interfaces-and-bounded-admission.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 1,
+        "tex_files": 10,
+        "tex_lines": 2281,
+        "includes_bibliography_lines": 172,
+        "readme_actually_read": true,
+        "actual_tex_body_read_lines": 0,
+        "alternative_F053_tex_files": 12,
+        "alternative_F053_tex_lines": 5064,
+        "alternative_body_read_lines": 0
+      },
+      "resource_limit": "Read-onlyfixedmath,current10TeX2281lines including172references plusallinclude/figureclosure. Atmost4necessaryprimaryhistoricalworks/8MiBnewbodies,normalTLS,no clone/install/Leancache. No symbolic/numerical scientificoutput before separateindependent executablepreregistration. Compress ownmetadata/logs/source snapshots andverifyroundtrip.",
+      "acceptance": "Bind allmain/supportresults withactualfile/label/conditions;checkfield,dimension,integrality/smoothness/fiber/basechange andstableversusunstableisomorphismquantifiers,explicitmapsversusexistence andcost. ReadactualformalModel/endpoint/sourcecorrespondence andselectedprimaryoldtheorems. Extractconditionalmethods,ten-domain/threecross-familyattempts withoutforcedcards. Fullgraph/hash/FK/gates/impact/export/core/archive/no-mathQA.",
+      "stop_or_redirect": "Do notprove newalgebraicgeometry,declaretheoremvalidfromfilenames,executeanunregisteredidentitygridor inferpractical polynomialautomorphism algorithmfromexistence. Preserveunknownhistory/formal/humans andconditionalclues;majorcounterevidence/dataissue triggersearlyglobalreview.",
+      "depends_on": [
+        "WP-114"
+      ],
+      "created_at": "2026-10-27T03:13:43.419094+00:00",
+      "github_push": false,
+      "retrospective_due": "AfterWP116,thirdsubstantivepackage since040,or earliermajorcounterevidence/dataissue.",
+      "selection_source_reading_credit": false,
+      "next_action": "ContinueboundedWP116actualconsumer audit;GEN112curationalreadyapplied,do not rerun.",
+      "started_at": "2026-10-27T03:18:46.123267+00:00",
+      "execution_journal": "state/reading-progress/WP-115.json",
+      "execution_progress": {
+        "files_fully_read": 10,
+        "tex_lines_read": 2281,
+        "selected_total_tex_lines": 2281,
+        "canonical_credit_added": true,
+        "new_full_manuscripts": 1
+      },
+      "completed_at": "2026-10-27T03:48:56.060347+00:00",
+      "outputs": [
+        "data/provenance/readings/F-047.json",
+        "data/provenance/readings/F-047-formal.json",
+        "data/provenance/readings/F-047-history.json",
+        "reports/cancellation-F047-reading.md",
+        "reports/families/F-047.md",
+        "reports/reproducibility/20261027-F047-cancellation"
+      ],
+      "result": "Current source10TeX2281lines/17named/12contracts complete asdraft;2B15C allchainunknown. Two hashedoriginal scopes,Suslinpartial/BCW403 retained. 60newrecords100edges,all5188oldrecords preserved. No candidate/check/scientificrun. Fullobjects77impact/15archives267members/69core/no-mathclean/compressedstorage passed;notfullfamily/history/human/provider acceptance."
+    },
+    {
+      "id": "WP-116",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Bounded actual consumer admission for F047 explicit polynomial-map certificates and stable versus unstabilized coordinate semantics",
+      "selection_reason": "F047 current-source qualification exposes a possible adversarial certificate/regression role but no admitted consumer. One bounded actual API/caller audit can determine whether explicit polynomial maps,quotient ideals and variable counts are meaningful inputs;compare exact old substitution/ideal-membership checks rather than invent a general coordinate algorithm. Mandatoryglobal041 after this package must compare furtherconsumersearch againstcriticalhistoricalclosure andpending-card revalidation.",
+      "inputs": [
+        "F-047",
+        "PART-047-STABLE-CYLINDER",
+        "PART-047-FIBER-LOCAL-GLOBAL",
+        "PROB-047-COORDINATE-CONSUMER",
+        "reports/cancellation-F047-reading.md",
+        "reports/retrospectives/040-effective-interfaces-and-bounded-admission.md"
+      ],
+      "resource_limit": "Atmost3primary projects,8source/licensefiles,1MiBnewbodies. Start pinnedSingular LIB/algebra.lib andactual map/bijectivity callers;reuseexistingSage/Singular pins whenappropriate. No clone/install/Leancache/mathwrite. Stop ifonlymapverificationalreadyadequate ornoactualtarget;no scientificoutput withoutseparateindependent frozen executable specification.",
+      "acceptance": "Read actual function/caller/field/domain/quotient/variable/output contracts;distinguish verifying supplied inverse from finding coordinates and stable-equivalence inference. Document a concrete real workload andindependentjudge/cost baseline before candidate/run,or source-bound nonadmission plusrevisit conditions. PreserveF047sourceclaims andalloldscience. Fullgraph/hash/FK/gates/positive-negativeimpact/export/core/archives/no-mathQA ifgraphchanges.",
+      "stop_or_redirect": "No newpolynomial-automorphism theorem orassertion of a softwarebugfromtitles. If budget providesno meaningfultask,stopsearch andglobal041comparehistclosure,pendingcards andbroadcoverage;do notrunfixedidentity demonstration forcheckcounts.",
+      "depends_on": [
+        "WP-115"
+      ],
+      "created_at": "2026-10-27T03:48:56.060347+00:00",
+      "github_push": false,
+      "body_credit": 0,
+      "next_action": "Restore actualF276natural/Model parameter andphase-pair scope;freeze executable EXP-276-001 specification withnooutputs,thenisolatedskeptic/defender auxiliaryreviews beforeimplementation/run. Preserve MAP276001 oldplan andoriginalcard predictions.",
+      "retrospective_due": "Global041 immediately afterWP116,thirdpackage since040;earlier onmajorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T03:50:54.076907+00:00",
+      "execution_journal": "state/reading-progress/WP-116.json",
+      "execution_progress": {
+        "source_files": 3,
+        "selected_source_lines_read": 1687,
+        "downloaded_bytes": 159523,
+        "canonical_credit_added": true
+      },
+      "completed_at": "2026-10-27T04:05:26.828402+00:00",
+      "outputs": [
+        "data/provenance/demand/F-047-map-consumers.json",
+        "reports/F047-map-consumer-audit.md",
+        "reports/retrospectives/041-from-interface-screening-to-conditional-tests.md",
+        "reports/reproducibility/20261027-F047-map-consumers"
+      ],
+      "result": "Twofixedprojects/3files159523bytes/1687selectedlines;15newcanonicalrecords20edges,5248oldrecords/science/readings preserved. Old exact given-map interfaces alreadyadequate;stopwithoutnewcandidate/check/science. Fullobjects86impact/15archives267members/69core/no-mathclean/storage andactual221/325supported/adversereplayspass. Global041changesnextallocation to existingconditional synthetic audit. NoGitHubpush."
+    },
+    {
+      "id": "WP-117",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Freeze and execute existing APP27601 representative synthetic fixed-X receiver constraint audit without altering its original prediction or implying new additivity/hardware benefit",
+      "selection_reason": "Global041 compares33uncheckedcards,criticalhistoricalclosure andmoreconsumersearch. APP27601 alreadyallows rational synthetic GAD parameters,independent2x2Kraus andclassical-probability checks at60s/64MiB;no concrete missing weight-search algorithm orfull-parabolic actualrequest is substituted. Old honestreceiver baseline may supplyallcomputationalvalue;zero2026increment is an allowed null.",
+      "inputs": [
+        "APP-276-01",
+        "experiments/plans/MAP-276-001.json",
+        "ANALYSIS-F-276",
+        "reports/families/F-276.md",
+        "reports/retrospectives/041-from-interface-screening-to-conditional-tests.md",
+        "docs/decisions/002-conditional-synthetic-validation.md"
+      ],
+      "resource_limit": "ExistingPythonstdlib only;targetrun60seconds/64MiB asplanned. Read actualsourceparameter/phasepair/entropy conventions first. Freezefixturelist,units,thresholds,independentoracles,precision/endpoints andrunner source beforeoutputs. Two isolated same-provider auxiliaryroles onidenticalfrozenpacket,not independentvendor/humans. Compress allraw/summary/source snapshots andverifyroundtrip.",
+      "acceptance": "Retain original same-encoder phasepair andfixedPauliX receiver. FourKraus density calculation withindependentbinary probabilities andscalarentropy/highprecisioncrosscheck;frozeninterior cases plusidentity/replacement/unital/reflection controls. Originalinteriorgap>0.01bit threshold nottuned;honestoldbaseline recorded. Count onlycompleteactualexternalcheckwithfullcardfields,notplannedfixtureor knownformulaalone. Noadditivity theorem,optimalindividualPOVM,finitecode orhardwareclaim.",
+      "stop_or_redirect": "If actualscalar/receiver/specification mismatch,resourcefailure orno gap abovefrozen threshold,retain outcomes withoutchanging tolerance/fixtures/prediction. If originalcardnotmeaningfullytestable,recordreason andcontinuehistoricalclosure;do not substituteeasierclaim. No numericaloutputbefore executablepreregistration.",
+      "depends_on": [
+        "WP-116"
+      ],
+      "created_at": "2026-10-27T04:05:26.828402+00:00",
+      "github_push": false,
+      "target_outputs_observed": true,
+      "body_read_credit_this_selection": 0,
+      "scientific_runs": [
+        "EXP-276-001-b27918614d6d2c9d"
+      ],
+      "next_action": "Recheck 04-bundle181-263 source application; retrieve Traverso1970 original and four exact Stacks tags, record source bytes and inspect actual converted theorem text before any canonical qualification.",
+      "retrospective_due": "Global042afterWP119,thirdsubstantivepackage since041,or earliermajorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T04:06:43.510744+00:00",
+      "execution_journal": "state/reading-progress/WP-117.json",
+      "execution_progress": {
+        "specification": "experiments/specs/EXP-276-001.json",
+        "version": 2,
+        "sha256": "affc2f794cf6110b12a863726f3b6801d98f615cf73b8cbfc54e3a2ebc42ebd1",
+        "frozen_fixtures": 125,
+        "interior_fixtures": 27,
+        "target_runner_outputs": 125,
+        "runner_implemented": true,
+        "isolated_roles_completed": 2,
+        "independent_provider_or_human_review": false,
+        "pending_execution_interfaces": [],
+        "original_card_prediction_preserved": true,
+        "software_controls_passed": 6,
+        "fullcore_before_run": "passed75",
+        "target_and_replay": {
+          "observed_at": "2026-10-27T04:36:32.928124+00:00",
+          "run_id": "EXP-276-001-b27918614d6d2c9d",
+          "implementation_frozen_commit": "f77389a",
+          "manifest": "experiments/runs/EXP-276-001-b27918614d6d2c9d/manifest.json",
+          "replay_receipt": "reports/reproducibility/20261027-F276-receiver-registration/first-target-replay.json.gz",
+          "raw_and_summary_exact_replay": true,
+          "resource_envelope_met": true,
+          "elapsed_seconds": 3.537805458996445,
+          "process_peak_rss_bytes": 37617664,
+          "fixtures": 125,
+          "interior_fixtures": 27,
+          "optimizer_pairs": 25,
+          "canonical_card_curation_complete": false,
+          "new_card_count_credit": 0,
+          "running_project_processes": [],
+          "next_action": "Do not rerun EXP-276-001: first frozen target and exact complete raw/summary isolated replay have finished. Preserve APP-276-01 v2; version the card and curate bounded finite observations, run full graph/export/propagation/core/clean checks, compress and verify remaining helper logs, then close WP117. No routine GitHub push."
+        },
+        "canonical_curation_complete": true
+      },
+      "completed_at": "2026-10-27T04:45:30.796055+00:00",
+      "outputs": [
+        "data/provenance/experiments/EXP-276-001-execution.json",
+        "reports/F276-receiver-preregistration.md",
+        "reports/cards/APP-276-01.md",
+        "data/graph/history/GEN-20261027-114-before.json.gz",
+        "reports/reproducibility/20261027-F276-receiver-registration"
+      ],
+      "result": "Original prediction unchanged:125 frozen fixtures/27interior/14 exceedances,25approx optimizer pairs;actual matrix/classical paths and controls pass;old honest baseline already sufficient,no2026gain. First target and exact complete archived-source replay pass budgets. APP27601v2 archived and v3 limited support/wait-human. 3newrecords/3versionedold/7edges;96impacts/16archives298members/75core/no-mathclean and compressedcleanup."
+    },
+    {
+      "id": "WP-118",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Check one critical historical route used by the F047 normalized line-bundle lift and regular-ring Picard invariance, using actual primary statements and explicit premise matching",
+      "selection_reason": "Global041 reserved a historical package after the now-completed synthetic audit. F047 current source invokes Traverso Theorem3.6 and four Stacks tags in its explicit divisor argument; those primary roots are still bibliography-only. This addresses M2 evidence closure rather than expanding a known calibration grid or an already adequate consumer interface. Compare independent historical theorem and supplied divisor proof without counting citations as proven dependencies.",
+      "inputs": [
+        "ANALYSIS-F-047",
+        "CLM-047-PROP-LINEARIZATION",
+        "LIT-047-TRAVERSO",
+        "LIT-047-STACKS",
+        "data/provenance/readings/F-047-history.json",
+        "reports/retrospectives/041-from-interface-screening-to-conditional-tests.md"
+      ],
+      "resource_limit": "At most three primary works, at most8MiB temporary source bodies; existing text conversion tools only. Prioritize Traverso original and actual Stacks tags056S/0AG0/0BE9/00KV; no repeat of unchanged failed Suslin TLS or BCW403 path. Analyze converted text, not PDF pixels. Record bytes/hash/version, actual scopes and missing recursive inputs; remove third-party temporary bodies only after source-hash/ledger preservation. No numerical experiment, install, clone or math write.",
+      "acceptance": "Inspect Traverso actual theorem hypotheses and original Stacks tag statements and match smooth integral affine / regular Noetherian domain prerequisites. Correct or qualify any scope/locator mismatch with versioned prior records. Distinguish selected original statement inspection from complete historical proof/recursive closure and from the different actual Lean replica route. Preserve all application results, source grades, original source, archives and review gates. Full graph/source hashes/FK/propagation/exports/core/clean/storage.",
+      "stop_or_redirect": "Do not retry unchanged inaccessible routes. If an original is inaccessible, preserve failure and qualify remaining route; do not substitute secondary quotation as original or mark full lineage complete. After this bounded package compare low-coverage families and F238 six unread companions.",
+      "depends_on": [
+        "WP-117"
+      ],
+      "created_at": "2026-10-27T04:45:30.796055+00:00",
+      "github_push": false,
+      "body_read_credit_this_selection": 0,
+      "new_scientific_experiments": 0,
+      "next_action": "Start first manuscript main/intro actual source reading,then allmodules,figures andbibliography;continue secondmanuscript beforequalifying draft. Currentbody0/7413.",
+      "retrospective_due": "Global042 after WP119, or immediately after major counterevidence or data issue.",
+      "started_at": "2026-10-27T04:46:12.505507+00:00",
+      "execution_journal": "state/reading-progress/WP-118.json",
+      "completed_at": "2026-10-27T04:57:30.943571+00:00",
+      "outputs": [
+        "data/provenance/readings/F-047-Picard-history.json",
+        "data/provenance/readings/F-047-Picard-scope-addendum.json",
+        "reports/F047-Picard-historical-prerequisites.md",
+        "reports/reproducibility/20261027-F047-Picard-history"
+      ],
+      "result": "Two primaryworks/five actual selected documents;Traverso390convertedlines andfourofficialStacksstatement/proofs,1,119,546originalbytes. Exactfinite-normalization/local-factorial/domain/nonempty-variable qualifiers. 9newrecords/4priorversions/14edges;explicitORroutesnotproofindependence. Fullobjects103single+2multi-seedimpacts,16archives298members,75core/no-mathclean/storage. No new candidate/check/fullhistory orscience. Oldfailedroutesnotretried."
+    },
+    {
+      "id": "WP-119",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Read both F337 current manuscripts fully, qualify statement/condition/method/formal/history scopes and explore geometrically valid application mappings before any numerical test",
+      "selection_reason": "Lowest-covered differentialgeometry3/29 vscombinatorics4/37,AG4/36. CompareF335two-manuscript9735lines andF238sixunreadcompanions;chooseF337two complementary smooth curvature/equality andCAT(0)current regimes to add breadth after bounded historical package. Metadata alone adds no research coverage.",
+      "inputs": [
+        "data/provenance/selections/WP-119-F337.json",
+        "F-337",
+        "reports/retrospectives/041-from-interface-screening-to-conditional-tests.md"
+      ],
+      "resource_limit": "Existing read-onlymath source,28TeX/Bib7413lines/twoREADMEs. Read complete two-manuscript current source before source-draft credit. Selected actual Lean/Comparator scope only,no build/cache install. Historical public originals bounded8MiB;converted text only forPDFs. No scientific output before a separate original-hypothesis preregistration.",
+      "acceptance": "Full per-manuscript statement bindings,conditions/constants,methodcontracts,version/formal scope andselected original historical sources. Distinguish smooth Hadamard manifold versus arbitrary properCAT(0),finitevolume/finiteperimeter versuscompactly supported integralcycles,existence/rigidity versuscomputable discretized certificates. Ten-domain/cross-family mappings may yield no candidate; no known Euclidean ball computation counted as new value. Full graph/grade/gates/provenance/propagation/exports/core/clean/storage.",
+      "stop_or_redirect": "If original or formal scope differs,retain exact evidence andunknownchains;do not invent a discretized curvature oracle,solver or numerical benefit. Major counterevidence triggers immediate regression. Global042 mandatory afterthisthirdpackage since041.",
+      "depends_on": [
+        "WP-118"
+      ],
+      "created_at": "2026-10-27T04:57:30.943571+00:00",
+      "github_push": false,
+      "body_read_credit_this_selection": 0,
+      "scientific_runs": [],
+      "next_action": "Run no-math clean check,compress/verify/delete temporary sources andhelpers,closeWP119/global042,thenWP120 actualAD interface andfrozen candidate/specification preparation.",
+      "retrospective_due": "Global042 mandatory after WP119,or immediately for majorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T04:58:09.577154+00:00",
+      "execution_journal": "state/reading-progress/WP-119.json",
+      "execution_progress": {
+        "actual_source_lines_read": 7413,
+        "total_inventory_lines": 7413,
+        "complete_source_files_read": 28,
+        "canonical_credit_added": true,
+        "generation": "GEN-20261027-116",
+        "scientific_runs": [],
+        "quality_core_passed": true,
+        "clean_pending": false,
+        "clean_passed": true
+      },
+      "completed_at": "2026-10-27T05:35:19.819016+00:00",
+      "generation_id": "GEN-20261027-116",
+      "evidence": [
+        "data/provenance/readings/F-337.json",
+        "reports/families/F-337.md",
+        "reports/reproducibility/20261027-F337-source-scope"
+      ],
+      "result": "28TeX/Bib7413actualreadlines;54named+1unlabelledselectedbindings/18contracts,46uniqueroots/57bibliographyoccurrences/fourselectedoriginalscopes.124newcanonical471edges,5275oldrowsand480protectedfilespreserved.2selectedsourceB53C/allchainsunknown.115single+2multi-seedimpacts/fullobjects/16archives298members/75core/no-mathclean/storagepassed;noapplicationcredit."
+    },
+    {
+      "id": "WP-120",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Qualify an actual lightweight AD primitive and register the F337 C1-through-zero scalar transfer with complete candidate fields,independent analytic judge,strong old baseline andfrozen executable specification before targetoutputs",
+      "selection_reason": "Global042 compares32uncheckedcards,historicalclosure andlow-coveredsourcework. Concrete scalartransferhasexactsource zeroextension andnonblindalgebraicprediction;ordinarycorrectcalculus/pre-operationbranch mayalreadyprovideallvalue. It exploresfartransfer withoutpretendingfullchordtheorem applies toML.",
+      "inputs": [
+        "PROB-337-ZERO-COMPOSITE-AD",
+        "PART-337-C1-ZERO-COMPOSITE",
+        "reports/retrospectives/042-source-scope-and-testable-transfer.md",
+        "data/provenance/readings/F-337.json"
+      ],
+      "resource_limit": "At most1MiB totalnewtemporaryADdependencyartifacts;existingNumPy2.3.5/Python3.12.14. Pin officialversion/license/wheelhash andactualpower/branchrule. No torch/jax orlarge dependencyinstall,mathwrite/training/data download. No target numericaloutput untilseparatecomplete preregistration/inputs/baselines/judges/tolerances/resourcecaps andimplementation commit arefrozen.",
+      "acceptance": "Actual backend scalarprimitive/source contract,complete conditional candidate/card withrun_ids empty,nonblindmodelidentity honest,independentpre-target skeptic/defender samepacket opinions auxiliaryonly,versionedplan andexecutable spec. Compare naive factorization AND correct old pre-operation branch/custom analytic derivative. No claim newcalculus,trainingbenefit/actualconsumerbug orincremental2026gain fromsyntheticscalarchecks. Fullgraph/sourcehash/gates/impact/export/core/clean/compression ifcanonicalmutations.",
+      "stop_or_redirect": "If wheel exceedsbound ortrueAD/judgecannotbeimplemented withinexistingruntime,retaincandidate/plan andexactgap,no mockAD orweakened baseline. Do notconvertgeometricPDE chordinequalities intoarbitrarypointcloudassertions. Preserveactualno-increment/null oradverseresults.",
+      "depends_on": [
+        "WP-119"
+      ],
+      "created_at": "2026-10-27T05:35:19.819016+00:00",
+      "github_push": false,
+      "scientific_runs": [],
+      "body_or_target_output_credit": 0,
+      "retrospective_due": "Global043afterWP122 thirdsubstantivepackage after042,orimmediatemajormilestone/counterevidence/dataissue.",
+      "started_at": "2026-10-27T05:36:22.120840+00:00",
+      "base_commit": "7abbbf30e7b166fccd32172a46f58c166d7cfaad",
+      "target_outputs_observed": false,
+      "next_action": "FinishrepairedGEN117fullgraph/87core/no-mathclean/storagechecks;thencommitfreezeWP120. FirstEXP337targetstillnotexecuted. OldEXP332actualstrictnumericalreplay/originalscope-resourcegatepass;do notrerun. Reusewheelcache.",
+      "execution_progress": {
+        "official_metadata_and_wheel_bytes": 62681,
+        "wheel_bytes": 54387,
+        "actual_selected_static_source_scopes_recorded": true,
+        "static_receipt": "data/provenance/readings/F-337-AD-preparation.json",
+        "packet_sha256": "72b17d7e72a0e808c1d32457916f7f248109acffc937cc7fdfd966cdc57254bd",
+        "isolated_auxiliary_roles": [
+          "/root/f337_skeptic",
+          "/root/f337_defender"
+        ],
+        "target_outputs_observed": false,
+        "actual_AD_imported": false,
+        "candidate_count_credit": 1,
+        "auxiliary_roles_completed": true,
+        "actual_role_review_receipt": "data/provenance/reviews/APP-337-01-pre-target-v1.json.gz",
+        "packet_v2_sha256": "91083506a038f02c71fcd43dfcbe6649ae772f8a30a572c2594ed15ca15a3f4a",
+        "implementation_freeze_complete": true,
+        "temporary_wheel_cache": "/private/tmp/ai-paper-WP120/autograd-1.9.1-py3-none-any.whl",
+        "canonical_generation": "GEN-20261027-117",
+        "executable_spec": "experiments/specs/EXP-337-001.json",
+        "prepared_modules": [
+          "src/ai_value/ad_composite.py",
+          "src/ai_value/ad_reference.py"
+        ],
+        "software_protocol_controls_passed": 12,
+        "implementation_followup": "data/provenance/reviews/APP-337-01-implementation-followup.json.gz",
+        "pre_target_protocol_repairs_in_progress": false,
+        "numpy_observed_pin": "data/provenance/runtime/numpy-2.3.5-python312-darwin-arm64.json",
+        "numpy_native_RECORD_mismatches": 19,
+        "numpy_python_source_RECORD_mismatches": 0,
+        "executable_spec_version": 2,
+        "executable_spec_sha256": "80f79b9f13eb90687660989b5353298ab17dda63d7e91a3897da38bb2d5ba9e0",
+        "final_repaired_graph_core_clean_pending": false,
+        "core_tests": 87,
+        "clean_passed": true
+      },
+      "completed_at": "2026-10-27T06:53:24.142970+00:00",
+      "generation_id": "GEN-20261027-117",
+      "implementation_commit": "db5871683b31fdb66225e32e28480e27b015b747",
+      "evidence": [
+        "reports/F337-AD-preregistration.md",
+        "reports/reproducibility/20261027-F337-AD-registration/implementation-freeze.json",
+        "reports/reproducibility/20261027-F337-AD-registration/quality.json.gz",
+        "reports/reproducibility/20261027-F337-AD-registration/storage.json"
+      ],
+      "result": "7newcanonical11edges,3initialnew-recordversionspreserved;47candidates/14checks. ActualAD/spec2/partialindependentreferences/observedNumPypin/fullMIT/phasehistory/wait4/failedreplayretentionfrozenbeforetargets.123single+2multi-seed/fullobjects/16archives298members/87core/no-mathclean/storagepass. OldEXP332actualreplaypassoriginalscope;newtarget0."
+    },
+    {
+      "id": "WP-121",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "ExecuteEXP337oncefromfrozenimplementation,retainalltarget/failureevidenceandresourcewindows,strictlyreplayarchivedsource,andupdateAPP337onlytotheactualboundedobservations",
+      "selection_reason": "Global042source-inspiredfartransfercandidateandoriginalstrongoldbranch/nullarenowconcrete;WP120fixesbeforefirsttargetprovideindependentreference/runtime/resource/failureprotocol. No differenthypothesisorweakerbaseline substituted.",
+      "inputs": [
+        "APP-337-01",
+        "experiments/specs/EXP-337-001.json",
+        "reports/reproducibility/20261027-F337-AD-registration/implementation-freeze.json"
+      ],
+      "implementation_commit": "db5871683b31fdb66225e32e28480e27b015b747",
+      "resource_limit": "Original192inputs,tolerances/dualFDstepsunchanged;60targetseconds/64MiBtraced/128MiBexactCLIworkerexitRSS;setup/archive60sphasecaps;verifiedtinywheelcacheonly,noautodownload/mathwrite.",
+      "acceptance": "ActualpinnedADimportandall192fixture/value/dr/dz/judge/controlobservations,strictJSONnonfinite/errors;wholeCLIwait4RSSandcompletephasehistory/sourcehashes;allraw/summary/source/progress/logsgziproundtriphashes. Strictfresharchived-sourcecomplete deterministicreplaywithsameactualruntimebindingandindependentresourcepass. Onlyactualcompleteexternaltestqualifiesinitialcheck;resource/judge/backend/setupfailuresretainednotpromoted. Supportedprimaryisboundedcalibrationonly,norealconsumer/librarycontractdefect/2026incrementalapplicationvalue/human/provideracceptance.",
+      "stop_or_redirect": "Noautomaticretry/capincrease/frozenparameterchange. Preservefirstattemptandfailedpaths;implementationbugfixesversionedbeforeanynewbatch. Do notrerunoldEXP332orWP120curators/qualitytochangefingerprints. Afterclosurecomparelowcoveragefullsource/history,notlargerzero-grid.",
+      "depends_on": [
+        "WP-120"
+      ],
+      "created_at": "2026-10-27T06:53:24.142970+00:00",
+      "github_push": false,
+      "scientific_runs": [],
+      "target_outputs_observed": true,
+      "retrospective_due": "Global043afterWP122thirdsubstantivepackageafter042,orearliermajorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T06:56:45.382466+00:00",
+      "base_commit": "f1ec0eb7accf6805aa01a296987cbc76c9e53e5e",
+      "execution_state": "closed_diagnostic_no_initial_credit",
+      "next_action": "Do not rerun frozen EXP337; proceed to WP122 source qualification.",
+      "first_attempt_id": "EXP-337-001-20261027T065645595353Z-9817f82d",
+      "actual_AD_imported": true,
+      "first_run_id": "EXP-337-001-b13e1932a05a4c6a",
+      "first_target_initial_check_credit": 0,
+      "first_target_observation": "inconclusive_backend_exception",
+      "canonical_generation": "GEN-20261027-118",
+      "strict_replay_complete": true,
+      "strict_replay_resource_pass": true,
+      "completed_at": "2026-10-27T07:32:44.087634+00:00",
+      "evidence": [
+        "data/provenance/readings/F-337-AD-execution.json",
+        "reports/F337-AD-execution.md",
+        "reports/reproducibility/20261027-F337-AD-execution/closure.json"
+      ],
+      "result": "192 valid references,16 backend exceptions; frozen primary inconclusive,zero qualified initial credit. Exact full archived-source replay/runtime/resource pass;126single+2multi/fullobjects/17archives337members/88core/no-mathclean pass. Diagnostic record and unchanged criteria preserved."
+    },
+    {
+      "id": "WP-122",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Read all current F181 source modules, bind named results and finite witness/cost conditions, compare actual formal scope and primary historical statements, and assess transferable decomposition contracts.",
+      "selection_reason": "Combinatorics has only four of 37 families read. Compare finite graph decomposition witnesses and number of pieces with exact edge coverage and total construction cost; linear piece count is not assumed linear-time computation. F188 random-removal finite/asymptotic bridge and F192 Boolean degree interfaces remain alternatives. F181 is not the shortest source.",
+      "selection_receipt": "state/selection-WP122.json",
+      "inputs": [
+        "F-181",
+        "P-aa4a9f7b64d5fc71",
+        "state/selection-WP122.json"
+      ],
+      "resource_limit": "Current 9 TeX/Bib files,2566 lines plus README; selected actual formal and original historical statement scopes. No corpus copy,Lean cache or large install. No numerical target before separately frozen specification.",
+      "acceptance": "Auditable complete current manuscript reading,versioned canonical claims/method contracts/limits,actual selected history/formal comparisons and explicit gaps; distinct applications only if concrete. Full graph/source/impact/export/core/clean/compression for canonical changes. Global043 after this package.",
+      "stop_or_redirect": "Do not infer linear runtime from linear piece count, arbitrary weighted/directed/multigraph coverage from simple graphs,or application speedup from finite known examples. Preserve old-method sufficiency and missing proof/history/human gates.",
+      "depends_on": [
+        "WP-121"
+      ],
+      "created_at": "2026-10-27T07:32:44.087634+00:00",
+      "body_reading_credit": 0,
+      "github_push": false,
+      "retrospective_due": "Global043 mandatory after WP122,third substantive package after042.",
+      "started_at": "2026-10-27T07:33:59.411755+00:00",
+      "base_commit": "c28ccb840fbacc3cbc6615952d756be5a72208ec",
+      "completed_at": "2026-10-27T07:51:16.669938+00:00",
+      "generation_id": "GEN-20261027-119",
+      "execution_state": "source_scope_graph_core_clean_storage_and_global043_closed",
+      "evidence": [
+        "data/provenance/readings/F-181.json",
+        "reports/cycle-decomposition-F181-reading.md",
+        "reports/reproducibility/20261027-F181-source-scope/closure.json",
+        "reports/retrospectives/043-diagnostic-outcomes-and-construction-cost.md"
+      ],
+      "result": "Allcurrent9TeX/Bib2566lines;16bindings12contracts,4/11originalselectedscopes,1sourceB15C,allchainsunknown.44new129edges/5408oldrows703protected/138single2multi/fullobjects/17archives337members/88core/no-mathclean/compression pass. No application or numericalcredit. Global043 redirects to originalAPP12401 generatoradmission.",
+      "next_action": "Proceed WP123 bounded source-description DP construction admission;no furtherF181current-manuscript reading needed."
+    },
+    {
+      "id": "WP-123",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Audit actual bounded global description construction for existing APP12401 three-machine unit-job scheduling,including generator/invariants and complete old-baseline costs;only prepare a separate numerical preregistration if genuinely implementable.",
+      "selection_reason": "33uncheckedcards include a concrete existing small-DAG source-description DP hypothesis. Determine actual generator/invariants/full cost before separate preregistration;do not replace with ordinary subsetDP or reduce K.",
+      "selection_receipt": "state/selection-WP123.json",
+      "inputs": [
+        "APP-124-01",
+        "experiments/plans/MAP-124-001.json",
+        "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/descriptions.tex",
+        "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/construction.tex",
+        "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/lists.tex"
+      ],
+      "resource_limit": "One substantive admission package:three principal source modules814lines plus necessary directdefinitions/old algorithms;no fullK10000 enumeration,no solverinstall,no target scheduling outputs before separate complete preregistration and implementationfreeze.",
+      "acceptance": "Actual source global/local membership andfuture-reordering invariants,constructive enumeration/cost bound andstrongsame-model oldbaselines verified or exact evidence-based admission failure. Preserve original at-least25percentstates plus no-worse total time/memory. Do not substitute oldsubsetDP for source algorithm. Syntheticrepresentative inputs permitted by originalplan;no invented consumer requirement.",
+      "stop_or_redirect": "If genuine generator or originalcondition-preserving practicalcost cannotbequalified withinonepackage,retainfailure andswitchto criticalhistoricalroots/F238depth;no weakened target/K or repeatedconsumersearch.",
+      "depends_on": [
+        "WP-122"
+      ],
+      "created_at": "2026-10-27T07:51:16.669938+00:00",
+      "github_push": false,
+      "target_outputs_observed": false,
+      "retrospective_due": "Global044 after three substantive packages beyond043,or earliermajorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T07:53:43.573930+00:00",
+      "base_commit": "aa8dddfdb188cd33ad6c44646c002abcdf4a3fce",
+      "execution_state": "source_resource_admission_graph_core_clean_storage_closed",
+      "next_action": "Continue WP124fullunreadF238conditional-analyticcompanion;no schedulingtargetbeforeindependentlyqualifiednewimplementation/spec.",
+      "completed_at": "2026-10-27T08:12:09.149663+00:00",
+      "generation_id": "GEN-20261027-120",
+      "evidence": [
+        "data/provenance/readings/F-124-generator-admission.json",
+        "data/provenance/reviews/APP-124-01-generator-admission-v1.json.gz",
+        "reports/F124-generator-admission.md",
+        "reports/reproducibility/20261027-F124-generator-admission/closure.json"
+      ],
+      "result": "Actualenumerator/witnessdistinction,semanticF=P(J)inproposedrange,andonlyconditionalexplicitmaterializationbounds qualified. Fairoriginalnjoboldbaselineandallstateunitsretained.3oldversions/5new7edges,5449oldrowsandcoveragepreserved;144single2multi/fullobjects/17archives337members/88core/no-mathclean/storage pass. No targetrun/initialcheck/negativecredit;rotateF238depth."
+    },
+    {
+      "id": "WP-124",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-008",
+      "objective": "Read the entire currently unread F238 conditional-coordinate-sweep/analytic-transfer companion and qualify conditional-law,analytic/spectral andapplication-scope interfaces;update only actual currentmanuscript progress.",
+      "selection_reason": "After one bounded scheduling admission package,return to incomplete largefamily. Conditional-to-analytic transfer is the direct unresolved bridge between actual conditional law/trace semantics and global spectral or mixing claims already used inAPP23802. Compare row-column symmetry1780lines,localfour-row inequality1120lines androutingdensity5645lines;chosen1791linecompanion isnottheshortest. Readbody before asserting its theorem orengineering relevance.",
+      "selection_receipt": "state/selection-WP124.json",
+      "inputs": [
+        "P-2a0250a8d5ca112d",
+        "ANALYSIS-F-238",
+        "APP-238-02",
+        "math/preprints/Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026"
+      ],
+      "resource_limit": "All10TeX/Bib1791lines plusREADME andnecessaryactualformal/selectedprimaryhistoryscopes;no corpuscopy,largeinstall orknownsmallThorpgridexpansion. No newtargetwithout separatefrozenhypothesis/spec.",
+      "acceptance": "Sourceboundclaims/methodcontracts/global-vsconditional/pertrace-vsmeanuniformity/exactquantifiers andlimits;allinclude/bodyranges. Actualfullreadmayadvance6/12to7/12only,notcompletefamily/history ornewcardquota. Fullgraph/source/impact/export/core/clean/compression when canonicalized.",
+      "stop_or_redirect": "Do notinferfiniteengineeringtolerance fromasymptoticmeanconvergence orvertexmarginals fromfulljointlaw. Do notreplaceunreadcompanionswithtitle/formalregistration orre-runoldn<=8fixtureasnewapplication.",
+      "depends_on": [
+        "WP-123"
+      ],
+      "created_at": "2026-10-27T08:12:09.149663+00:00",
+      "body_read_credit": 1,
+      "github_push": false,
+      "retrospective_due": "Global044 afterWP125thirdsubstantivepackage after043,or earliermajorcounterevidence/dataissue.",
+      "started_at": "2026-10-27T08:14:13.628850+00:00",
+      "base_commit": "862681f4b4b5ed35156b4c0933880903cdd8f828",
+      "execution_state": "source_formal_history_scope_graph_core_clean_storage_closed",
+      "actual_source_lines_read": 1791,
+      "progress_evidence": "state/reading-progress/WP-124.json",
+      "next_action": "ProceedWP125F059twofullsourceconstructions;noF238source reread/knownsmallThorp rerun.",
+      "full_manuscript_read": true,
+      "completed_at": "2026-10-27T08:43:23.090114+00:00",
+      "generation_id": "GEN-20261027-121",
+      "canonical_credit_added": true,
+      "evidence": [
+        "data/provenance/readings/F-238-analytic.json",
+        "data/provenance/readings/F-238-analytic-formal.json",
+        "data/provenance/readings/F-238-analytic-history.json",
+        "reports/F238-conditional-analytic-reading.md",
+        "reports/reproducibility/20261027-F238-analytic/closure.json"
+      ],
+      "result": "All10sourcefiles1791lines;6bindings14contracts,4freshselectedoriginalscopes/2reusedbounds;source2B4C/fullchainsunknown.7/12currentmanuscripts233bindings,notfullfamily/history.27new81explicit,2baseversions/26draftcorrectionversions;5455oldrows753protected/152single2multi/fullobjects/17archives337members/88core/no-mathclean/storagepass.47candidates14checks/1diagnosticunchanged."
+    },
+    {
+      "id": "WP-125",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Read both current F059 ambient-homeomorphic isolated-hypersurface counterexample constructions,qualify exact multiplicity/ambient/right/metric/topological andfinite verification interfaces andcompare old history.",
+      "selection_reason": "Restorebreadth afterboundedAPP124admissionandF238depth;algebraic/complexgeometry4/36currentlyread,lowestfraction. F059twoexplicitcounterexampleconstructions allowcheckingarithmeticversustopologicalbridges andcomparingmultiplicitywithfixed-jet/defining-equationsemantics alreadyencounteredinF058. Thisis a questiontoinvestigate,notanacceptedjointapplication.",
+      "selection_receipt": "state/selection-WP125.json",
+      "inputs": [
+        "F-059",
+        "P-b37600a212e7ade9",
+        "P-023c99253d0c28f5",
+        "state/reading-progress/WP-125.json"
+      ],
+      "resource_limit": "All24currentTeX/Bib5601lines plusREADMEs/necessaryactualformal andselectedoriginalscopes;inspectverificationcode beforeanyexecution. No upstreamwrites/cache/install/copiedcorpus. No numericaltargetbeforeseparatelyregistered specification/sourcefreeze.",
+      "acceptance": "Actualallsourceclosureandversionedclaim/methodcontracts;polynomial/multiplicity/isolatedcriticalpoint/ambienthomeomorphism/fulltopologicalbridge distinguished. Arithmeticcheckdoesnotprovehomeomorphism. Compareactualformal/sourceandhistoricalscope;conditionalexplorationnottitlebasednewcards. Fullgraph/source/FK/impact/export/core/clean/compression oncanonicalchange;Global044afterclosure.",
+      "stop_or_redirect": "Do notsubstitutearithmeticvalidationforlattice/topologicalproof,differentiable/biLipschitzforembeddedhomeomorphism,orfinitejetforfullanalyticgerm. Preserveunverifiedconditionsandoldmethodsufficiency.",
+      "depends_on": [
+        "WP-124"
+      ],
+      "created_at": "2026-10-27T08:38:42.112153+00:00",
+      "body_read_credit": 1,
+      "github_push": false,
+      "retrospective_due": "Global044mandatoryafterWP125,thirdsubstantivepackageafter043.",
+      "execution_state": "source_formal_history_scope_graph_core_clean_storage_closed",
+      "next_action": "ProceedWP126APP149bounded executable-spec preparation,not arithmetic verification or known control grid.",
+      "started_at": "2026-10-27T08:45:38.818627+00:00",
+      "actual_source_lines_read": 5601,
+      "additional_static_code_lines": 288,
+      "partial_evidence_receipt": "reports/reproducibility/20261027-F059-source-scope/partial-checkpoint.json",
+      "completed_at": "2026-10-27T09:24:19.649473+00:00",
+      "generation_id": "GEN-20261027-122",
+      "canonical_credit_added": true,
+      "parent_task_correction": "Planning metadata had inherited WP008Thorp parent;F059 belongs to broad coverageWP006. No canonical scientific fact changed.",
+      "evidence": [
+        "data/provenance/readings/F-059.json",
+        "data/provenance/readings/F-059-formal.json",
+        "data/provenance/readings/F-059-history.json",
+        "reports/F059-multiplicity-construction-reading.md",
+        "reports/reproducibility/20261027-F059-source-scope/closure.json"
+      ],
+      "result": "Allcurrent5601TeX/Bib+288staticcode;51bindings/27contracts,onechainB50Cincludingbothmains,allchainsunknown.5selectedprimaryof53roots,fullhistoryincomplete.136new617explicit/5484oldrows758protected;165single2multi/fullobjects/17archives337members/core88/clean88. No newcandidate/initial/science;global044complete;strict238/076representativeswith0763.12failure retained."
+    },
+    {
+      "id": "WP-126",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-007",
+      "objective": "Prepare a source-qualified executable preregistration for existing APP14901 continuous-permanence versus finite Euler certificate separation, with independent finite-time reference and strong old per-step baseline. No target outputs before a separate specification/source freeze.",
+      "selection_reason": "Global044 redirects from two source/admission packages with no new initial checks to a previously registered, explicitly synthetic-eligible external-test hypothesis. Missing real consumers are not added as a universal gate. Finite Euler positivity is cheap but known; a nonlinear multi-linkage eligibility and reference audit must prevent another uninformative linear control and explicitly allow zero new-mathematics gain.",
+      "inputs": [
+        "APP-149-01",
+        "experiments/plans/MAP-149-001.json",
+        "reports/families/F-149.md",
+        "F-149 current source and existing canonical provenance"
+      ],
+      "resource_limit": "One bounded preparation package using existing runtimes/stdlib and existing source evidence. No large solver install,upstream write,biology deployment,parameter search or target numerical outputs. Synthetic fixtures and full reference/algorithm costs frozen before later execution.",
+      "acceptance": "Recheck exact weak-reversibility/fixed-positive-rate/stoichiometric assumptions on whole proposed instances; distinguish continuous asymptotic permanence from finite-time solver properties. Implement independent exact-rational Euler judge and justified analytic/validated finite-time reference where nonlinear evidence is required. Preserve old per-step coordinate check as an honest eligible baseline. Source-complete/full-field card and executable spec,immutable fixtures,tolerances,resource caps,failure handling,compressed source binding and local freeze before any target run. No automatic initial-check credit for preparing a spec or running known calibration.",
+      "stop_or_redirect": "Do not claim uniform burn-in/effective permanent region,replace a nonlinear judge with linear controls,or use a deliberately false guarantee as the only baseline. If reference/eligibility cannot be justified within the package,preserve exact gap and redirect to selected missing F181 primary history. Keep original APP149 prediction and no 2026 integrator-gain claim;no widened target based on results.",
+      "depends_on": [
+        "WP-125"
+      ],
+      "created_at": "2026-10-27T09:21:54.367995+00:00",
+      "next_action": "Finish localimplementationcommitandverify41inputGitblobs,recordfreezeSHA,thenstartoneEXP149attemptwithpinnedruntime.",
+      "body_read_credit": 0,
+      "new_initial_checks": 0,
+      "github_push": false,
+      "execution_state": "source_spec_frozen_all41Gitblobs_verified_before_target",
+      "retrospective_due": "Global045 after three substantive packages beyond044 or earlier material evidence change.",
+      "started_at": "2026-10-27T09:32:38.560654+00:00",
+      "preparation_receipt": "experiments/preparation/WP-126-source-reference-v1.json",
+      "target_outputs": 0,
+      "canonical_credit_added": true,
+      "evidence": [
+        "data/provenance/preparation/F-149-preexecution.json",
+        "experiments/specs/EXP-149-001.json",
+        "experiments/freezes/EXP-149-001-source-manifest.json",
+        "reports/reproducibility/20261027-F149-preregistration/closure.json"
+      ],
+      "quality_completed_at": "2026-10-27T09:56:03.463832+00:00",
+      "completed_at": "2026-10-27T09:57:18.770660+00:00",
+      "implementation_freeze_commit": "8a71a29f39828b0e7c41b279105869c19c8e5135"
+    },
+    {
+      "id": "WP-127",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-126",
+      "objective": "Execute the unchanged preregistered72case EXP149001 once after verified Gitfreeze;strictly replay archivedsource andupdate existingAPP149 by actual finite evidence.",
+      "selection_reason": "WP126removed finite-reference/implementationgap on originalsynthetic-eligible hypothesis;externaloutput still0. Actualfrozenexecution canreduceonependingcard withoutclaimingnewmathematicalorintegratorgain.",
+      "inputs": [
+        "experiments/specs/EXP-149-001.json",
+        "experiments/freezes/EXP-149-001-source-manifest.json",
+        "scripts/run_experiment_attempt.py"
+      ],
+      "resource_limit": "Original60s64MiB128MiB;setup30s/archive30s,exact72fixtures/no post-outputchanges. FreshpinnedPython3.12.14 andwholeworkerRSSsupervisor. No newdependencies/upstreamwrites.",
+      "acceptance": "Beforefirsttarget,each of41runtimeinputfilesmustmatchactualcommittedGitblob. Runonefreshattempt;inspectfullraw,sevenclaimlabels,finiteanalyticreferences,negativeevents,oldbaseline,allinconclusive/adversecases andresources. Strict archivedsource raw/summaryreplay withallfieldsandresourcegates. Preservealloutputs/source/progress/failurescompressedwithroundtriph ashs. Versionexistingcardandretainpriorrecord;noautomaticnewcandidateornewmathgain. Fullgraph/core/clean/storagechecks onactualupdate.",
+      "stop_or_redirect": "Reference/arithmeticconflict/resourcefailureisnotinitialcheck;noautomaticcap/step/typechangeorparametersearch. Valid adverseevidencekeptpendinghumanreview;noformalrejection. Missingobservationnotreasontorestart livehandle.",
+      "depends_on": [
+        "WP-126"
+      ],
+      "created_at": "2026-10-27T09:56:03.463832+00:00",
+      "next_action": "Finish localimplementationcommitandverify41inputGitblobs,recordfreezeSHA,thenstartoneEXP149attemptwithpinnedruntime.",
+      "new_initial_checks": 1,
+      "body_read_credit": 0,
+      "github_push": false,
+      "target_outputs": 0,
+      "started_at": "2026-10-27T09:57:18.770660+00:00",
+      "execution_state": "actual_first_target_and_strict_source_replay_graph_core_clean_storage_closed",
+      "implementation_freeze_commit": "8a71a29f39828b0e7c41b279105869c19c8e5135",
+      "completed_at": "2026-10-27T10:10:12.701019+00:00",
+      "run_id": "EXP-149-001-e334ac2404104e6a",
+      "evidence": [
+        "reports/reproducibility/20261027-F149-execution/closure.json",
+        "reports/F149-continuous-discrete-audit.md"
+      ],
+      "result": "72valid/401exactupdates;27negative18nonlinear;oldguardidentical,zero2026increment;strictfullreplayandoriginalresourcespass. APP149limitedsupport/pendinghumans;no gradepromotion."
+    },
+    {
+      "id": "WP-128",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Reduce the seven explicit unqualified F181 original historical roots,prioritizing source-used Aharoni-Haxell/Lovasz matching/covering and local-expansion cycle interfaces;read exact original text scopes,version them andupdate canonical lineage without full-proof credit.",
+      "selection_reason": "After actualAPP149externalcheck,theoldbaselinealreadycatchesallfiniteerrors;stop knownEulergrid. RestoreM2historicaldepth following code/spec andnumerical packages;F181 has explicitseven-rootgap andonlyfourselectedoriginals. Source-usedconditions may change transferreadiness more than anotherfinitecontrol.",
+      "inputs": [
+        "data/provenance/readings/F-181.json",
+        "data/provenance/readings/F-181-history.json",
+        "LIT-181-AH2000",
+        "LIT-181-LOVASZ1968",
+        "LIT-181-KRIVELEVICH2019",
+        "LIT-181-BKS2012",
+        "LIT-181-PYBER1985",
+        "LIT-181-KKS2015",
+        "LIT-181-AABC2025"
+      ],
+      "resource_limit": "Oneboundedprimary-sourcepackage,sevenrootsmaximum;normalTLS originalauthors/institutions/publisher/arXiv,3MiBperartifact/16MiBtotalnewdownloadcap. Analyzeconvertedtextonly;no largeOCR/Lean/solverinstall,nocorpuscopy. Do not repeatknown403sameURLblindly;use genuinealternateprimarysource andpreservefailures.",
+      "acceptance": "Read actualsource use andoriginalstatement/necessaryproofrange for eachclaimedqualification;pin version/hash/page/text lines,compare exactobjects/constants/degree/matching assumptions andoldcoverage. Keepunread/failedroots explicit;do notmergejournal/arXivwithoutversioncomparison. Versionupdatedliterature/analysis/affecteddependencies andfullgraph/source/FK/impact/export/core/clean/compression checks. No newcandidateorinitialcreditforbibliography orselectedrootreading. Mandatoryglobal045afterpackage.",
+      "stop_or_redirect": "No metadata-only promotion,no wholelineage/fullfamily/proof/humancredit fromselectedscope. Do notturn numericalF149supportinto mathacceptance orraiseoldinputs/caps. Useboundedalternatives,keepunresolvedprimary access asgaps;not endlessretries.",
+      "depends_on": [
+        "WP-127"
+      ],
+      "created_at": "2026-10-27T10:10:12.701019+00:00",
+      "next_action": "Read four READMEs,actual include graphs and core model/theorem statements;then read entire current bodies from the spontaneous-magnetization foundation through three October companions. Record consumed ranges;no title-only promotion.",
+      "body_read_credit": 0,
+      "new_initial_checks": 0,
+      "github_push": false,
+      "retrospective_due": "Global045mandatoryafterWP128thirdsubstantivepackagebeyond044.",
+      "started_at": "2026-10-27T10:13:27.838408+00:00",
+      "execution_state": "selected_original_scopes_graph_core_clean_replays_storage_closed",
+      "new_selected_original_scopes": 4,
+      "remaining_original_root_gaps": 3,
+      "partial_checkpoint": "reports/reproducibility/20261027-F181-history/partial-checkpoint.json",
+      "completed_at": "2026-10-27T10:35:58.870542+00:00",
+      "new_candidates": 0,
+      "evidence": [
+        "data/provenance/readings/F-181-history-WP128.json",
+        "reports/F181-historical-scope-followup.md",
+        "reports/reproducibility/20261027-F181-history/closure.json"
+      ],
+      "result": "8of11selectedoriginals;Lovaszdomainpartial/exactboundgap,AH/Pyberbodiesunread. Oldlongcyclecriterionstronger;no newmath/application credit. 181single2multi/fullobjects18archives378members95core95clean/149+325strictrepresentativespass."
+    },
+    {
+      "id": "WP-129",
+      "priority": 1,
+      "status": "in_progress",
+      "parent_task": "WP-006",
+      "objective": "Read all four current F271 Heisenberg magnetization/Bloch-law manuscripts and exact historical/formal interfaces;extract source-bound input-output-conditions and compare old spin-wave/thermodynamic-limit baselines before proposing application credit.",
+      "selection_reason": "Global045 closes one actual external check and one history followup;restore low-covered mathematical physics3/25 rather than repeat the known Euler grid or blocked primary routes. F271 has four related current manuscripts14199 rawTeX/Bib lines;choose a whole connected family reading budget rather than the shorter F2803433-line single稿. This may expose finite/infinite,temperature/field/order-of-limits and finite-range-versus-nearest-neighbor transfer gaps;not yet accepted application relevance. F269 two manuscripts include an85632-line raw recursive tree and unqualified geometry/disorder model;retain for later rather than infer its gap from a small matrix.",
+      "inputs": [
+        "F-271",
+        "P-9669b6997ff4be58",
+        "P-e4168cfdc9df4b3b",
+        "P-580339d5b914b270",
+        "P-addb934e37307c35",
+        "math/lean/docs/271.md",
+        "reports/reproducibility/20261027-F181-history/global-coverage-and-selection.json"
+      ],
+      "resource_limit": "All four current manuscript actual include closures,planned46TeX/Bib14199 rawlines plusREADMEs andnecessary selected formal/original scopes;no corpuscopy,large solver/Lean install or upstream mutation. Split reading receipts bymanuscript if interrupted;no creditbeforeactualbody/conditions. Primary acquisitions normalTLS bounded3MiB/artifact16MiB total. No numerical targetwithout distinct frozen spec/source.",
+      "acceptance": "Versioned source-bound claims and conditional method contracts for all actually read bodies;whole-family/manuscript progress honest. Explicit finite-vs-thermodynamic,field/temperature/spin/coupling/order-of-limits anduniformity distinctions;actual formal specifications compared only to their scope,not all source results. Selected original histories versioned and recursive gaps explicit. Ten-domain andcrossfamily attempts only after source reading;concrete mapping+conditions required for any newcandidate. Fullgraph/source/FK/impact/export/core/clean/storage oncanonicalchange.",
+      "stop_or_redirect": "Do not treat a finite lattice computation as spontaneous magnetization or thermodynamic-limit/low-temperature proof. Do not confuse coefficient asymptotics with finite-temperature error or practical runtime. Known charter seed exposure precludes blind rediscovery credit. If source prerequisites unqualified preserve uncertainty andcompare old baseline rather than run favorable controls.",
+      "depends_on": [
+        "WP-128"
+      ],
+      "created_at": "2026-10-27T10:33:10.189858+00:00",
+      "selection_receipt": "state/selection-WP129.json",
+      "source_inventory_receipt": "reports/reproducibility/20261027-F181-history/global-coverage-and-selection.json",
+      "body_read_credit": 0,
+      "new_initial_checks": 0,
+      "github_push": false,
+      "retrospective_due": "After three substantive packages beyond045 or earlier major adverse evidence/data issue.",
+      "next_action": "Curate whole-four-manuscript named source bindings and input-output-condition contracts, bibliography/version relationships and selected historical comparisons; qualify Asano/Ruelle trace antecedents if needed, retain recursive gaps, then ten-domain/crossfamily exploration and canonical graph QA. Full current natural sources already read. No numerical target without a separate frozen spec.",
+      "started_at": "2026-10-27T10:40:42.685615+00:00",
+      "execution_state": "four_current_bodies_read_pending_history_formal_and_curation",
+      "actual_source_lines_read": 14199,
+      "progress_evidence": "state/reading-progress/WP-129.json",
+      "base_commit": "8726fd62b2ad2949ae0588635dba5584aa44bae9",
+      "current_manuscripts_full_body_read": 4,
+      "canonical_credit_added": false,
+      "selected_formal_scope_receipt": "reports/reproducibility/20261027-F271-source/selected-formal-scope.json",
+      "selected_originals_newly_read": 5,
+      "selected_history_scope_receipt": "reports/reproducibility/20261027-F271-source/selected-history-scopes.json"
     }
   ],
-  "updated_at": "2026-10-26T09:26:40.441431+00:00"
+  "updated_at": "2026-10-27T11:04:21.942379+00:00"
 }

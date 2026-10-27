@@ -1,0 +1,102 @@
+{
+  "work_package": "WP-123",
+  "at": "2026-10-27T08:12:09.149663+00:00",
+  "base_commit": "aa8dddfdb188cd33ad6c44646c002abcdf4a3fce",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "closed_source_resource_admission_no_targetcredit",
+  "connection": "APP-124-01",
+  "original_plan": "experiments/plans/MAP-124-001.json",
+  "original_plan_sha256": "185b7a76e7e2afc0331e7a96fb774e5a8da40fa76fb09b89245548a50bb97c18",
+  "actual_source_ranges": [
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/descriptions.tex",
+      "sha256": "147e588e1b2f9e3eb89e688316a8394afafdd88fc14d50ee70a6e35262da629e",
+      "actual_read_ranges": [
+        [
+          1,
+          203
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/construction.tex",
+      "sha256": "06a715d2d1d7be615185488fad78760d15b1ab6883592dc68a6ecedac53195c9",
+      "actual_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/lists.tex",
+      "sha256": "74338dbc16a0368ac60223797959713c55aa7f5a3aecc924a8cb9485a2f2bdf1",
+      "actual_read_ranges": [
+        [
+          1,
+          372
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/paper.tex",
+      "sha256": "38f8318c45e578108367b3e35d87575ff0c1c56fb203d68a2d3b24b193eb6e2d",
+      "actual_read_ranges": [
+        [
+          185,
+          210
+        ],
+        [
+          237,
+          405
+        ],
+        [
+          480,
+          541
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026/build/conclusion.tex",
+      "sha256": "917ac952a6a6eb47dbcae5b6ad00e1092f2962948feec46636cfbf1bf1d5e97c",
+      "actual_read_ranges": [
+        [
+          1,
+          13
+        ]
+      ]
+    }
+  ],
+  "principal_module_lines_revisited": 814,
+  "new_family_or_full_source_credit": 0,
+  "new_canonical_generation": "GEN-20261027-120",
+  "scientific_runs": [],
+  "target_outputs_observed": false,
+  "source_observations_pending_qualification": [
+    {
+      "locator": "paper.tex185-206,312-338 andconstruction.tex3-8,235-237",
+      "observation": "Actual executable algorithm enumerates Boolean-description truth sets and deduplicates;normalization/full schedules/lists are completeness witnesses,not an input oracle. Earlier admission objective must not conflate these two roles."
+    },
+    {
+      "locator": "paper.tex247-263,312-338,343-378,488-523",
+      "observation": "Actual full-instance size N=3T<=3n;K=10000 leaves andO(N^(3K)) formulafamily generation followed by state reachability,conservative multitape bound exponent150020. No practical performance guarantee;conclusion explicitly says so."
+    },
+    {
+      "locator": "construction.tex31-69;descriptions.tex16-40,47-97;lists.tex35-50,126-152,218-250",
+      "observation": "Local/globalcutoffagreement only onparentinterval;largest membershipindex in listkeys;pruning boundfive appliesafterpruning,notpreinjection;future-reordering boundaryinvariant isglobal,not currentinterior lexicographic order."
+    }
+  ],
+  "next_analytic_check": "Rankthreshold atoms give each singleton as (rank<=k AND rank>=k),two leaves. Check whether fullsemantic F already contains all subsets for N<=54 permitted by n<=18;if so,do not claim membership-family compression before comparing full acceptance/triple-state counts with a fair padded exact subset DP. This is a pending engineering inference,not a numerical target result or newtheorem claim.",
+  "do_not_repeat": [
+    "Do not rerun EXP337 or WP122source/curation/clean checks",
+    "Do not enumerate literal K10000 formulas orlarge powerset before bounded admission",
+    "Do not reduce K,replace source algorithm byoldsubsetDP or change original25percent/no-worse requirements"
+  ],
+  "provider": "OpenAI",
+  "exact_backend": "unknown",
+  "human_review": null,
+  "second_provider_review": null,
+  "canonical_evidence": "data/provenance/readings/F-124-generator-admission.json",
+  "source_audit_closed": true,
+  "local_quality_closed": true
+}

@@ -1,0 +1,553 @@
+{
+  "work_package": "WP-114",
+  "created_at": "2026-10-27T02:57:15.456126+00:00",
+  "updated_at": "2026-10-27T03:16:06.288333+00:00",
+  "base_commit": "07b52a19d7338c315ecc0fd9f65ae16a5ee432d2",
+  "status": "bounded_consumer_qualification_complete_not_admitted",
+  "objective": "Check actual modular reconstruction/elimination state against same-S complete rational kernel/full-path stability andfullcost admission,not just a modular label.",
+  "pins": [
+    {
+      "project": "sage",
+      "repository": "sagemath/sage",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "selected_paths": [
+        "COPYING.txt",
+        "src/sage/rings/polynomial/multi_polynomial_ideal.py",
+        "src/sage/libs/singular/function.pyx"
+      ]
+    },
+    {
+      "project": "singular",
+      "repository": "Singular/Singular",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "selected_paths": [
+        "COPYING",
+        "Singular/LIB/modstd.lib",
+        "Singular/LIB/modular.lib",
+        "Singular/LIB/moddiq.lib"
+      ]
+    },
+    {
+      "project": "sympy",
+      "repository": "sympy/sympy",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "selected_paths": [
+        "LICENSE",
+        "sympy/polys/modulargcd.py",
+        "sympy/polys/rings.py"
+      ]
+    }
+  ],
+  "pin_method": "Three actual git ls-remote HEAD observations;no clone. Branch HEADs may move,allbodyreads useexactcommits.",
+  "selection_evidence": [
+    {
+      "url": "https://doc.sagemath.org/html/en/reference/polynomial_rings/sage/rings/polynomial/multi_polynomial_ideal.html",
+      "scope": "Discovery only:documented Groebner API/engine paths,not a provedmodStd caller or complete-kernel interface."
+    },
+    {
+      "url": "https://docs.sympy.org/dev/modules/polys/internals.html",
+      "scope": "Discovery only:documented modular GCD,CRT andtrialdivision;actualpinnedcode andcallers stillunread."
+    },
+    {
+      "url": "https://github.com/Singular/Singular/blob/spielwiese/Singular/LIB/moddiq.lib",
+      "scope": "Unpinned search discovery ofa modular ideal-quotient caller;exactpinnedbody stillunread. Incidental framework search result is not selected,pinned orqualified asanotherproject."
+    }
+  ],
+  "resource_limits": {
+    "projects": 3,
+    "selected_files": 12,
+    "new_body_bytes": 2097152,
+    "no_clone_install_scientific_run": true
+  },
+  "source_files": [
+    {
+      "project": "sage",
+      "repository": "sagemath/sage",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "path": "COPYING.txt",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/COPYING.txt",
+      "bytes": 61366,
+      "lines": 1285,
+      "sha256": "c7fe308343eafd6ca2926eaa9ddb430098d7267cb87b30a5c3e328f6b3d56ac8",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"00199c60420e26d4659bb95cb48b26a139ec0c37b5c612cf238d1e79fc87316f\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:47.977512+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "actual_lines_read": 105,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "sage",
+      "repository": "sagemath/sage",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "path": "src/sage/rings/polynomial/multi_polynomial_ideal.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/rings/polynomial/multi_polynomial_ideal.py",
+      "bytes": 233107,
+      "lines": 5820,
+      "sha256": "3aee3a8119c11f72c028e08c480e1f8cf971b041a7cbb3a939dc505ca1b75e19",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"84c09696f5e0163d831a0e991222f01078748029c9ea0716816e57d7d2996619\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:49.272303+00:00",
+      "actually_read_ranges": [
+        [
+          447,
+          529
+        ],
+        [
+          1353,
+          1505
+        ],
+        [
+          4280,
+          4425
+        ],
+        [
+          4660,
+          4850
+        ]
+      ],
+      "actual_lines_read": 573,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "sage",
+      "repository": "sagemath/sage",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "path": "src/sage/libs/singular/function.pyx",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/libs/singular/function.pyx",
+      "bytes": 61924,
+      "lines": 1876,
+      "sha256": "1a7d396183ee48da127542dbf8eadd570cc16d89487f4f1066bfef2cc4be3617",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"8a048d8019c595283310c9da4d069f8dcf21c1d94df6662da20df5dfda2af462\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:50.341802+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          110
+        ],
+        [
+          1199,
+          1355
+        ],
+        [
+          1730,
+          1876
+        ]
+      ],
+      "actual_lines_read": 414,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "singular",
+      "repository": "Singular/Singular",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "path": "COPYING",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/COPYING",
+      "bytes": 5654,
+      "lines": 118,
+      "sha256": "53d2a2b37105ad8ca4fe5d1450d592e8ee1367955ff8cb9c27995a405353e29b",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"cfd48cc4f9433ea91d4e9238813b32d11d563f553bf3bd4ffc453bdb45945c72\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:51.140173+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          118
+        ]
+      ],
+      "actual_lines_read": 118,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": true
+    },
+    {
+      "project": "singular",
+      "repository": "Singular/Singular",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "path": "Singular/LIB/modstd.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/modstd.lib",
+      "bytes": 26938,
+      "lines": 1036,
+      "sha256": "3ea16b46a2e52252e51ddb0725eec626e8e053ebef321f9942b91f97cfa50a6c",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"bea08dc9f6972c11a9dc34718196f9c780091708c0193e46d8dc4c7e456d6280\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:52.066918+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          190
+        ],
+        [
+          275,
+          535
+        ]
+      ],
+      "actual_lines_read": 451,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "singular",
+      "repository": "Singular/Singular",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "path": "Singular/LIB/modular.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/modular.lib",
+      "bytes": 15413,
+      "lines": 548,
+      "sha256": "fad2ab76ebd68378c6a141c028f051572c6264ece7f8ffa925a57759b956044a",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"be0f60efcd62a4db709ed9a3bbc5d55c1758d304ba4082247f59d026d84c7883\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:52.923552+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          548
+        ]
+      ],
+      "actual_lines_read": 548,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": true
+    },
+    {
+      "project": "singular",
+      "repository": "Singular/Singular",
+      "commit": "b501ac240eec83597514c6223a6413790049ef46",
+      "path": "Singular/LIB/moddiq.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/b501ac240eec83597514c6223a6413790049ef46/Singular/LIB/moddiq.lib",
+      "bytes": 9423,
+      "lines": 322,
+      "sha256": "8b5f6fa5c63f871d25ab8dceef816192ead3158dcd850e65704eec27b01c8e8c",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"39b4e429bc7191238a6f623b48182f26675ecc8b88f852d189ffd15cccd00e65\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:53.629171+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          322
+        ]
+      ],
+      "actual_lines_read": 322,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": true
+    },
+    {
+      "project": "sympy",
+      "repository": "sympy/sympy",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/LICENSE",
+      "bytes": 7885,
+      "lines": 153,
+      "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"a8ecc04c1852ec912dd9f6c0481abe260e3b785d3cb0370bcb9340d5af387451\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:54.442845+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          153
+        ]
+      ],
+      "actual_lines_read": 153,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": true
+    },
+    {
+      "project": "sympy",
+      "repository": "sympy/sympy",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "path": "sympy/polys/modulargcd.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/sympy/polys/modulargcd.py",
+      "bytes": 54637,
+      "lines": 2075,
+      "sha256": "b6d49193211cd0c2e19ce2d53ac1273b3e43f7e24284bd0ae0cf56cd979f9338",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"c427858102fdbd0f5e5b4b848da441050889238de52ca85616de8ceba32d70a0\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:55.930475+00:00",
+      "actually_read_ranges": [
+        [
+          1,
+          1008
+        ]
+      ],
+      "actual_lines_read": 1008,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    },
+    {
+      "project": "sympy",
+      "repository": "sympy/sympy",
+      "commit": "cd86f04255d9411f11f32108cfa4ef773e4f401b",
+      "path": "sympy/polys/rings.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/cd86f04255d9411f11f32108cfa4ef773e4f401b/sympy/polys/rings.py",
+      "bytes": 96258,
+      "lines": 3095,
+      "sha256": "79e686e920eb9347189e1f734aa7c4ce58e392a70c9a558e2cc9460e8ab5eebb",
+      "response_headers": {
+        "Content-Type": "text/plain; charset=utf-8",
+        "ETag": "\"cc456bf4ea4eb9dba59a967673808e8a4c6258f6a24847f40237e8aec2517572\"",
+        "Last-Modified": null
+      },
+      "retrieved_at": "2026-10-27T02:57:56.980637+00:00",
+      "actually_read_ranges": [
+        [
+          2810,
+          2980
+        ]
+      ],
+      "actual_lines_read": 171,
+      "scope": "Downloaded whole file;not bodyreading orapplication qualification.",
+      "whole_file_actually_read": false
+    }
+  ],
+  "actual_lines_read": 3863,
+  "canonical_credit_added": true,
+  "scientific_experiments": [],
+  "next_action": "WP114completeat3projectcap;no newexperimentorformaldenial. RotateWP115F047;do notreruncurator/reacquire10softwarefiles.",
+  "acquisition_failures": [],
+  "body_bytes": 572605,
+  "reading_batches": [
+    {
+      "at": "2026-10-27T03:01:38.576814+00:00",
+      "input": "batch1.json",
+      "reads": [
+        {
+          "project": "sage",
+          "path": "COPYING.txt",
+          "ranges": [
+            [
+              1,
+              105
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "COPYING",
+          "ranges": [
+            [
+              1,
+              118
+            ]
+          ]
+        },
+        {
+          "project": "sympy",
+          "path": "LICENSE",
+          "ranges": [
+            [
+              1,
+              153
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "Singular/LIB/modstd.lib",
+          "ranges": [
+            [
+              1,
+              190
+            ],
+            [
+              275,
+              488
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "Singular/LIB/modular.lib",
+          "ranges": [
+            [
+              1,
+              548
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "Singular/LIB/moddiq.lib",
+          "ranges": [
+            [
+              1,
+              165
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Sage COPYING1-105 distinguishes whole distribution GPLv3 only,originallibraryGPLv2-or-later,docsCC3BYSA andseparatelylicensedcomponents. Restof1285linelicensefile notactuallyread. Singular COPY118fullstatesGPLv2orGPLv3 andseparatecomponents;SymPy LICENSE153fullBSD3withlistedsubcomponents. No thirdpartysourcebodywillberepublished.",
+        "Singular modular.lib548linesfullactuallyread. Characteristic-zero arguments aremapped toFp,outputsCRT/Fareylifted. DefaultprimeTest,pTest,finalTest allreturn1 anddeleteUnlucky defaultempty: genericmodular()name alone doesnot certify output.",
+        "Sequential path usesexactly3newprimes perbatch;parallel pathbatchsize depends oncores/priorcounts. Candidates descend fromfinitepmax withinputfilters;newrandomtestprime chosen separately. Neither lawisuniform overT0consecutivelengths thenuniformt-subsets. Infinite retryloop/stabilizationisnotF020fixeddepthfullpath construction.",
+        "option(probabilistic) skipsfinalTestonly;thepTeststageisstillrun inbothsequentialandparallelbranches ofthispinnedversion. Do notsubstitute olddocumentation orclaimbothchecksarealwaysomitted.",
+        "modstd1-190and275-488read:primeTest preservesclearedinputcoefficients,unluckyresults grouped byleadingideal andlargestcategory retained. ThisisnotnestedcompleteQevaluationkernels onsamefiniteS orfull-recordequality-implies-state-stability.",
+        "modStd exactnessselectsfinalcallback;actualfinalTest_std_comm checks I containedinG andGbeingGB(systemverifyGB orstd/reduction),notreverseGcontainedinI. SourceNOTE preserveshigh-probability generalcase andspecialhomogeneous/local assurance;do notclaimall finalverificationisideal-equality oralloutputfalseaccept0. No kernelproof/build/runtimevalidationperformed.",
+        "moddiq1-165actualcaller:modQuotient fallsbacktoordinaryquotient if--cpus<1,otherwisefirstmodStd(I),thenmodular quotientwithpermissible/luckiness/pTest/finalcallbacks. pTestchecks bothmodp inclusions;finalTest_quotientchecksG*JcontainedinIonly. FullmodSatbody andcallbacksremainunread. No actualsame-SF020consumeradmitted."
+      ],
+      "summary_zh": "Singular通用modular默认回调全接受；顺序每批3素数／并行依CPU分批，与F020随机块长定律不同。modStd最终检查不能一概当作原理想相等证书，probabilistic模式只省最终检查仍保留pTest。完整Q核／全路径稳定性未准入。",
+      "next_action": "Read actual pinnedSage Groebner dispatcher/call conversion andSymPy modularGCD/rings caller,thenfinishmoddiq166-322;remaining2files reservedonlyifnecessary. No scientificexecution ornewmathproof."
+    },
+    {
+      "at": "2026-10-27T03:05:40.586405+00:00",
+      "input": "batch2.json",
+      "reads": [
+        {
+          "project": "sage",
+          "path": "src/sage/rings/polynomial/multi_polynomial_ideal.py",
+          "ranges": [
+            [
+              447,
+              529
+            ],
+            [
+              1353,
+              1505
+            ],
+            [
+              4280,
+              4425
+            ],
+            [
+              4660,
+              4850
+            ]
+          ]
+        },
+        {
+          "project": "sage",
+          "path": "src/sage/libs/singular/function.pyx",
+          "ranges": [
+            [
+              1,
+              110
+            ],
+            [
+              1199,
+              1355
+            ],
+            [
+              1730,
+              1876
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "Singular/LIB/moddiq.lib",
+          "ranges": [
+            [
+              166,
+              322
+            ]
+          ]
+        },
+        {
+          "project": "singular",
+          "path": "Singular/LIB/modstd.lib",
+          "ranges": [
+            [
+              488,
+              535
+            ]
+          ]
+        },
+        {
+          "project": "sympy",
+          "path": "sympy/polys/modulargcd.py",
+          "ranges": [
+            [
+              1,
+              1008
+            ]
+          ]
+        },
+        {
+          "project": "sympy",
+          "path": "sympy/polys/rings.py",
+          "ranges": [
+            [
+              2810,
+              2980
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Sage selectedGroebner API accepts polynomialideal andreturns immutable PolynomialSequence,sorting/monicnormalization. degree/multiplicity bounds areexplicitoptionalpartial-output controls;not a point-setQkernel interface. Actualdefault firstlibsingulargroebner,thenexternalSingular,thenotherfallbacks. NoexplicitmodStd namedcaller established.",
+        "Sage externalSingular_raw whitelistsgroebner/std/slimgb/stdhilb/stdfglm andotherwise raisesTypeError;libsingular helper's fallback allows a dynamically loadedfunction name,so absenceofmodStd inlistedoptions isnot proofthatnativeextensioncannevercallit. function.pyxselectedcallinfers/validatesring,convertsargsandcallsnativefunction;lib loads iiLibCmd andcachesnames. No same-S nestedcompleteQkernel/fullstatestablecertificate exposed.",
+        "Singular moddiq nowwhole322linesread. modSat usesmodStd(I) thenmodular sat_with_exp,leading-idealmajority,pTesttwomodpinclusions andfinalH*J^mcontainedinI check. Thisone-sidedfinalcondition doesnot byitselfestablishfullequality;no executedC/kernelprooforall-libraryaudit claimed.",
+        "SymPy modulargcd1-1008read:integer-polynomial APIsremovecontent,skipLCbadprimes,computeFpGCDs,reconstructviaCRT,waitcoefficientstabilizationandtrialdividetheintegerinputs before returningh,cff,cfg. DegreebounddropsresetCRTstate. Recursiveevaluationpoints belongtoFp andchange withp;notthesamefiniteZpointsetS ornestedQsubspaces.",
+        "SymPy multivariate recursion randomlyselectsunusedFp evaluationpoints,modifiesdegbound/contbound,mayreturnNone orraiseModularGCDFailed andresetglobalm. Thisisgenuineadaptivitybutnotfull-recordequality-implies-allstate-stability,notuniformprimeblocklengths,andnotF020'sJacobianbad-eventbridge. Auxiliaryzippel/galoistools arithmetic bodies andalgebraicfunction-fieldtail beyond1008 remainunread.",
+        "SymPy selectedrings2810-2980 realdefaultPolyElementgcd/cofactors routesZZtoheugcd andQQthroughdenominatorclearingthenZZ;itdoesnotdirectlycalltheinspectedmodulargcdentry. StandalonepublicmodgcdAPIisrealbutnotclaimeddefaultGCDproduceroradmitteddownstreamconsumer. heugcdimplementationnotreadorbenchmarked.",
+        "Threeprojectcapreachedwith10files572605bytes;twoadditionalfileallowanceisnotquota. NoactualconsumerhasestablishedF020same-Sfullkernel,fullpathstability,finite-riskorfull-costcontract. KeepAPP02001pending,recordqualifiedmismatchesandstrongoldpolicies,thenrotateAGasglobal040requires. No scientificrun,newcandidate,human/providercreditorformaldenial."
+      ],
+      "summary_zh": "Sage实际返回理想基序列，调用层没有给出同S完整Q核；动态libSingular能加载函数，不由选项表缺名断言绝对不能调用modStd。SymPy模块GCD确有模p求值／次数界重启／CRT／试除，但所选rings默认GCD走heugcd，不能冒充模块GCD调用。三项目均未准入F020完整状态契约，保持待定并到预算轮换。",
+      "next_action": "Curate boundedWP114actualsoftwareinterface/mismatch andoldpolicy evidence from10files;preserveallGEN110facts/cardprediction andno-runstate. Fullgraph/hash/impact/export/core/archives/no-mathQA,compressownsnapshots andremovehashverifiedthird-partybodies;thenrotateAGF047/F053 usingactualsourceinventory."
+    }
+  ],
+  "provisional_qualification_notes": [
+    "Sage COPYING1-105 distinguishes whole distribution GPLv3 only,originallibraryGPLv2-or-later,docsCC3BYSA andseparatelylicensedcomponents. Restof1285linelicensefile notactuallyread. Singular COPY118fullstatesGPLv2orGPLv3 andseparatecomponents;SymPy LICENSE153fullBSD3withlistedsubcomponents. No thirdpartysourcebodywillberepublished.",
+    "Singular modular.lib548linesfullactuallyread. Characteristic-zero arguments aremapped toFp,outputsCRT/Fareylifted. DefaultprimeTest,pTest,finalTest allreturn1 anddeleteUnlucky defaultempty: genericmodular()name alone doesnot certify output.",
+    "Sequential path usesexactly3newprimes perbatch;parallel pathbatchsize depends oncores/priorcounts. Candidates descend fromfinitepmax withinputfilters;newrandomtestprime chosen separately. Neither lawisuniform overT0consecutivelengths thenuniformt-subsets. Infinite retryloop/stabilizationisnotF020fixeddepthfullpath construction.",
+    "option(probabilistic) skipsfinalTestonly;thepTeststageisstillrun inbothsequentialandparallelbranches ofthispinnedversion. Do notsubstitute olddocumentation orclaimbothchecksarealwaysomitted.",
+    "modstd1-190and275-488read:primeTest preservesclearedinputcoefficients,unluckyresults grouped byleadingideal andlargestcategory retained. ThisisnotnestedcompleteQevaluationkernels onsamefiniteS orfull-recordequality-implies-state-stability.",
+    "modStd exactnessselectsfinalcallback;actualfinalTest_std_comm checks I containedinG andGbeingGB(systemverifyGB orstd/reduction),notreverseGcontainedinI. SourceNOTE preserveshigh-probability generalcase andspecialhomogeneous/local assurance;do notclaimall finalverificationisideal-equality oralloutputfalseaccept0. No kernelproof/build/runtimevalidationperformed.",
+    "moddiq1-165actualcaller:modQuotient fallsbacktoordinaryquotient if--cpus<1,otherwisefirstmodStd(I),thenmodular quotientwithpermissible/luckiness/pTest/finalcallbacks. pTestchecks bothmodp inclusions;finalTest_quotientchecksG*JcontainedinIonly. FullmodSatbody andcallbacksremainunread. No actualsame-SF020consumeradmitted.",
+    "Sage selectedGroebner API accepts polynomialideal andreturns immutable PolynomialSequence,sorting/monicnormalization. degree/multiplicity bounds areexplicitoptionalpartial-output controls;not a point-setQkernel interface. Actualdefault firstlibsingulargroebner,thenexternalSingular,thenotherfallbacks. NoexplicitmodStd namedcaller established.",
+    "Sage externalSingular_raw whitelistsgroebner/std/slimgb/stdhilb/stdfglm andotherwise raisesTypeError;libsingular helper's fallback allows a dynamically loadedfunction name,so absenceofmodStd inlistedoptions isnot proofthatnativeextensioncannevercallit. function.pyxselectedcallinfers/validatesring,convertsargsandcallsnativefunction;lib loads iiLibCmd andcachesnames. No same-S nestedcompleteQkernel/fullstatestablecertificate exposed.",
+    "Singular moddiq nowwhole322linesread. modSat usesmodStd(I) thenmodular sat_with_exp,leading-idealmajority,pTesttwomodpinclusions andfinalH*J^mcontainedinI check. Thisone-sidedfinalcondition doesnot byitselfestablishfullequality;no executedC/kernelprooforall-libraryaudit claimed.",
+    "SymPy modulargcd1-1008read:integer-polynomial APIsremovecontent,skipLCbadprimes,computeFpGCDs,reconstructviaCRT,waitcoefficientstabilizationandtrialdividetheintegerinputs before returningh,cff,cfg. DegreebounddropsresetCRTstate. Recursiveevaluationpoints belongtoFp andchange withp;notthesamefiniteZpointsetS ornestedQsubspaces.",
+    "SymPy multivariate recursion randomlyselectsunusedFp evaluationpoints,modifiesdegbound/contbound,mayreturnNone orraiseModularGCDFailed andresetglobalm. Thisisgenuineadaptivitybutnotfull-recordequality-implies-allstate-stability,notuniformprimeblocklengths,andnotF020'sJacobianbad-eventbridge. Auxiliaryzippel/galoistools arithmetic bodies andalgebraicfunction-fieldtail beyond1008 remainunread.",
+    "SymPy selectedrings2810-2980 realdefaultPolyElementgcd/cofactors routesZZtoheugcd andQQthroughdenominatorclearingthenZZ;itdoesnotdirectlycalltheinspectedmodulargcdentry. StandalonepublicmodgcdAPIisrealbutnotclaimeddefaultGCDproduceroradmitteddownstreamconsumer. heugcdimplementationnotreadorbenchmarked.",
+    "Threeprojectcapreachedwith10files572605bytes;twoadditionalfileallowanceisnotquota. NoactualconsumerhasestablishedF020same-Sfullkernel,fullpathstability,finite-riskorfull-costcontract. KeepAPP02001pending,recordqualifiedmismatchesandstrongoldpolicies,thenrotateAGasglobal040requires. No scientificrun,newcandidate,human/providercreditorformaldenial."
+  ],
+  "prior_version_archive": "state/reading-progress/history/WP114-before-canonical-close.json.gz",
+  "qualification": {
+    "generation": "GEN-20261027-111",
+    "canonical_new_records": 24,
+    "new_explicit_edges": 44,
+    "new_candidates": 0,
+    "new_application_checks": 0,
+    "scientific_runs": [],
+    "source_license_files": 10,
+    "actually_read_lines": 3863,
+    "same_S_full_kernel_consumer_admitted": false,
+    "quality_evidence": "reports/reproducibility/20261027-modular-consumers"
+  }
+}

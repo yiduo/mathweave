@@ -73,6 +73,7 @@ def render(root: Path) -> dict:
     for card in cards:
         prop = card["properties"]
         checked = bool(prop['run_ids'])
+        diagnostic = bool(prop.get('diagnostic_run_ids'))
         opinion_context = {}
         for role in ('opposition', 'defense'):
             timing = prop[role].get('timing', '')
@@ -85,9 +86,9 @@ def render(root: Path) -> dict:
                 f'成果族：{", ".join(prop["family_ids"])}；出处节点：{", ".join(prop["source_ids"])}；方法：{", ".join(prop["part_ids"])}。', '',
                 f'历史谱系：{", ".join(prop["history_ids"])}。完整谱系未完成。', '',
                 f'目标问题：{nodes[prop["problem_id"]]["properties"]["title"]}。', '',
-                f'作用机制：{prop["mechanism"]}', '', f'{"预注册预测" if checked else "待检验预测"}：{prop["prediction"]}', '',
+                f'作用机制：{prop["mechanism"]}', '', f'{"预注册预测" if checked or diagnostic else "待检验预测"}：{prop["prediction"]}', '',
                 f'检验规格：`{prop["test_spec"]}`；类型：{prop["external_check_type"]}。', '',
-                '实际结果：' if checked else '检验状态（尚无结果）：', '', '```json', json.dumps(prop["summary"], ensure_ascii=False, indent=2), '```', '',
+                '实际结果：' if checked else '实际诊断结果（未满足合格初检条件）：' if diagnostic else '检验状态（尚无结果）：', '', '```json', json.dumps(prop["summary"], ensure_ascii=False, indent=2), '```', '',
                 f'反对意见（同模型、{opinion_context["opposition"]}）：{prop["opposition"]["text"]}', '',
                 f'辩护意见（同模型、{opinion_context["defense"]}）：{prop["defense"]["text"]}', '',
                 f'适用边界：{prop["limitations"]}', '', f'资源：{prop["resources"]}', '',
@@ -95,8 +96,10 @@ def render(root: Path) -> dict:
                 f'优先级理由：{prop["priority_reason"]}', '', f'重访条件：{prop["revisit_when"]}', '',
                 f'模型来源：{prop["model_generation_id"]}；非盲测，不能计作独立重新发现。', '',
                 '复现入口：', '']
-        for run_id in prop["run_ids"]:
-            text += ['```sh', f'python3 scripts/replay_run.py experiments/runs/{run_id}', '```', '']
+        for run_id in prop["run_ids"] + prop.get('diagnostic_run_ids', []):
+            prefix = ('MATHWEAVE_AUTOGRAD_WHEEL=/absolute/path/to/autograd-1.9.1-py3-none-any.whl '
+                      if prop.get('diagnostic_run_ids') else '')
+            text += ['```sh', prefix + f'python3 scripts/replay_run.py experiments/runs/{run_id}', '```', '']
         text += ['出处：', '']
         for source in card["sources"]:
             text += [f'- `{source.get("path", source.get("url"))}`：{source["locator"]}']

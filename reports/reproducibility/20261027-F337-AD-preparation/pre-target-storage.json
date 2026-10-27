@@ -1,0 +1,103 @@
+{
+  "at": "2026-10-27T05:45:50.311114+00:00",
+  "stage": "partialWP120pre-targetcheckpoint",
+  "archived_helper_members": [
+    {
+      "path": "acquire-attempt1.py",
+      "bytes": 2503,
+      "sha256": "28f35134f2ef558da8a6a3b73e2ccf6a59d9e2ffeecbb4edc20e14038f842d3d"
+    },
+    {
+      "path": "acquire.py",
+      "bytes": 2865,
+      "sha256": "23b80351a2a6e5d47d82ebca28687f801d74e94768286322c330025af7f5f6c3"
+    },
+    {
+      "path": "acquisition-attempt1.log",
+      "bytes": 340,
+      "sha256": "19ffb3124129b0eca308bf8d96c7c2846be5c9ccb72d06b200004f34688c1f5f"
+    },
+    {
+      "path": "acquisition.json",
+      "bytes": 2835,
+      "sha256": "087281a57c0a8d573b0eb561cf550292e178346ce865dbe5c2075e994062aab1"
+    },
+    {
+      "path": "acquisition.log",
+      "bytes": 1359,
+      "sha256": "c15f63a24d0dde9a31f99f2768ccc49ecc5e8064d4e85cdbe3156c34edcc55a7"
+    },
+    {
+      "path": "defender-opinion.md",
+      "bytes": 11854,
+      "sha256": "cd49dab3e727b1b26333aa7698ee1a0638e2ac9da3629fabd985ba972301d6ed"
+    },
+    {
+      "path": "pypi-autograd-1.9.1.json",
+      "bytes": 8294,
+      "sha256": "e1e493d032729c0eee891983d8c6e88da47732fb6816930caa7c8c594c435c13"
+    },
+    {
+      "path": "save-reviews.py",
+      "bytes": 15863,
+      "sha256": "37b03b1be8fc3afc190097bddbab18f871d411de426a7121663e2ca46664768c"
+    },
+    {
+      "path": "save-static-scope.py",
+      "bytes": 6777,
+      "sha256": "b2f653a0a9b63548bb403a7b1f35058cfdfea66c7e3fe87eaa4f1b61e5de68c2"
+    },
+    {
+      "path": "skeptic-opinion.md",
+      "bytes": 13124,
+      "sha256": "e6f4280e7c5971fd39fd50363a39dd637a376dd3c80c50e08c3581272d7c2a6c"
+    },
+    {
+      "path": "static-scope.log",
+      "bytes": 204,
+      "sha256": "24916a7b0b88241c60060d3f4bc841c48325ea666927725d59eccaebb6b19e56"
+    }
+  ],
+  "archive_sha256": "3c46fb7b9038928ca1bad83e880deeca7b1b6b4aa8cbfa83cf864b2dd719cf9b",
+  "archive_uncompressed_sha256": "1667a78ced36732e524ff013849b31504ad634ea007dfa1477ab9c6b5101e1d6",
+  "archive_roundtrip_members_verified": true,
+  "selected_source_copies_removed_after_hash_and_prior_archive": [
+    {
+      "path": "selected-source/autograd/numpy/numpy_vjps.py",
+      "bytes": 32489,
+      "sha256": "8a6d9fddf7e6dc53e7e90f943b1f45247c2db3f1e968d6ce0b2937641d249fda"
+    },
+    {
+      "path": "selected-source/autograd/numpy/numpy_boxes.py",
+      "bytes": 5471,
+      "sha256": "5c30c753e0b1bacd8513e0d840f3ae841dca6ce7b54e2f8a7f5ae0a3da5aa414"
+    },
+    {
+      "path": "selected-source/autograd/core.py",
+      "bytes": 11985,
+      "sha256": "6a7171fe3fd949439957cdfc856f654970f3665c7fe5100b3920cdeec37c45ff"
+    },
+    {
+      "path": "selected-source/autograd/tracer.py",
+      "bytes": 6443,
+      "sha256": "43f4fca2c1d308e97d285df9ff028b18c7879d69a9e067195f983772026724f2"
+    },
+    {
+      "path": "selected-source/autograd-1.9.1.dist-info/METADATA",
+      "bytes": 6054,
+      "sha256": "5161ef3b8c7afb41d5337c3bdc800fb20c3c91e804daa29969c9f3a911ffc1b9"
+    },
+    {
+      "path": "selected-source/autograd-1.9.1.dist-info/licenses/license.txt",
+      "bytes": 1117,
+      "sha256": "026a4de32aeee573f5049220bb9f8cd1ad6a3e1bab3cecb7a28b652c2c6d5099"
+    }
+  ],
+  "wheel_cached": {
+    "path": "/private/tmp/ai-paper-WP120/autograd-1.9.1-py3-none-any.whl",
+    "bytes": 54387,
+    "sha256": "b788bae3fa010cbffb4cfb7b8ba2a3f0daa6072a8506da6164c779fe9cf3e05a"
+  },
+  "cache_reason": "Retain only tiny alreadycompressedwheel to bind actualruntime withoutredownload;never imported/installedyet. Recoverownhelpers fromtarandselectedsourcefromMITarchive.",
+  "target_numeric_outputs_observed": false
+}

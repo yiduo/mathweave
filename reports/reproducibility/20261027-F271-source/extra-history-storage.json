@@ -1,0 +1,55 @@
+{
+  "at": "2026-10-27T11:04:21.942379+00:00",
+  "third_party_deleted": [
+    {
+      "filename": "NOS2006.pdf",
+      "bytes": 176694,
+      "sha256": "d956ebb18b1d999f4121be6a01bf4c82429d10d3ffffeaea7d37cbdb31398698",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "NOS2006.txt",
+      "bytes": 38132,
+      "sha256": "3218387a302841d036e94a1b844acd1240709a8143cb33566ba6df0862d3582b",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "DLM2020.pdf",
+      "bytes": 633197,
+      "sha256": "109c0ad5b6444ce7b4ab6e78eab765f341c4361ff36632b3f4b595d4d3beee1a",
+      "deleted_after_hash": true
+    },
+    {
+      "filename": "DLM2020.txt",
+      "bytes": 100477,
+      "sha256": "f54499e79c307468e2615936048fe397138441a9325c9b3414a8bcd42903bb24",
+      "deleted_after_hash": true
+    }
+  ],
+  "third_party_bytes_deleted": 948500,
+  "own_compressed": [
+    {
+      "path": "reports/reproducibility/20261027-F271-source/extra-history-acquisition-helper.py.gz",
+      "bytes": 1758,
+      "sha256": "e6f5e88f29c4c9335a250c23cb911c619571d06d9f56de33dac086a148b2ea63",
+      "gzip_bytes": 938,
+      "gzip_sha256": "55fc0cb40ca72cc48d1376e2e1f8d4ddaf631499add99cbaa9450724ac8e7727"
+    },
+    {
+      "path": "reports/reproducibility/20261027-F271-source/extra-history-acquisition-raw-receipt.json.gz",
+      "bytes": 1533,
+      "sha256": "367591a973dff68be0edc113b27e28c072a753ea6f8687d60cc45372fd4a600e",
+      "gzip_bytes": 614,
+      "gzip_sha256": "44f1341666f2933b6b68153198a67c4150d3c392e54b0223825fd2a56be07980"
+    },
+    {
+      "path": "reports/reproducibility/20261027-F271-source/checkpoint-five-history-helper.py.gz",
+      "bytes": 10030,
+      "sha256": "c25f4419f015a4494e9d904153ab186fc3d89a01ad3d4b5bcdc868ef7a7c3131",
+      "gzip_bytes": 4751,
+      "gzip_sha256": "988c9abb752b17697e692b10a1612cd240f0a4c98de43182f1e787cb757b2baa"
+    }
+  ],
+  "temporary_directory_removed": true,
+  "normal_TLS": true
+}

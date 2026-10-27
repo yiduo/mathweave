@@ -1,0 +1,774 @@
+{
+  "work_package": "WP-115",
+  "family_id": "F-047",
+  "manuscript_ids": [
+    "P-c01f49713c2f01d3"
+  ],
+  "created_at": "2026-10-27T03:13:43.419094+00:00",
+  "status": "completed_current_source_draft",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_files": [
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/README.md",
+      "lines": 18,
+      "sha256": "7cc096e7caae6f62280fa2e89b73421c1497c6eb295bba25d9bb4f18bce1d373",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "bytes": 1023,
+      "lines": 27,
+      "sha256": "59d671f7ea54b16557d28d9905e8349c24a0e081dee7fd4776f08e7c598a8284",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "actual_lines_read": 27,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+      "bytes": 1545,
+      "lines": 43,
+      "sha256": "088a987ebe7febb1c106ab17a2dddc00fcad312407e00c8188c55ca9d32b8e88",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "actual_lines_read": 43,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+      "bytes": 5979,
+      "lines": 172,
+      "sha256": "2bb98b0a1dfd87a48b22d9400ac2f9b4990d339755793dd95bae57eb0627ceed",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          172
+        ]
+      ],
+      "actual_lines_read": 172,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "bytes": 12722,
+      "lines": 271,
+      "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          271
+        ]
+      ],
+      "actual_lines_read": 271,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "bytes": 9727,
+      "lines": 256,
+      "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          256
+        ]
+      ],
+      "actual_lines_read": 256,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "bytes": 15609,
+      "lines": 369,
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          369
+        ]
+      ],
+      "actual_lines_read": 369,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "bytes": 16160,
+      "lines": 412,
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          412
+        ]
+      ],
+      "actual_lines_read": 412,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "bytes": 9104,
+      "lines": 239,
+      "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ],
+      "actual_lines_read": 239,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "bytes": 13002,
+      "lines": 338,
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          338
+        ]
+      ],
+      "actual_lines_read": 338,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+      "bytes": 6718,
+      "lines": 154,
+      "sha256": "5598893eb1ce948294f3b8a1f6c18bc3a7916afdbf90a254469b36daa0a6d62c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "actual_lines_read": 154,
+      "whole_file_actually_read": true
+    }
+  ],
+  "source_tex_files": 10,
+  "source_tex_lines": 2281,
+  "bibliography_lines_included_in_tex": 172,
+  "actual_source_lines_read": 2281,
+  "actual_full_tex_files_read": 10,
+  "canonical_credit_added": true,
+  "scientific_experiments": [],
+  "selection_comparison": [
+    {
+      "family_id": "F-047",
+      "readme": {
+        "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/README.md",
+        "lines": 18,
+        "sha256": "7cc096e7caae6f62280fa2e89b73421c1497c6eb295bba25d9bb4f18bce1d373",
+        "actually_read": true
+      },
+      "tex_inventory_only": [
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+          "bytes": 1023,
+          "lines": 27,
+          "sha256": "59d671f7ea54b16557d28d9905e8349c24a0e081dee7fd4776f08e7c598a8284",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+          "bytes": 1545,
+          "lines": 43,
+          "sha256": "088a987ebe7febb1c106ab17a2dddc00fcad312407e00c8188c55ca9d32b8e88",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+          "bytes": 5979,
+          "lines": 172,
+          "sha256": "2bb98b0a1dfd87a48b22d9400ac2f9b4990d339755793dd95bae57eb0627ceed",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+          "bytes": 12722,
+          "lines": 271,
+          "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+          "bytes": 9727,
+          "lines": 256,
+          "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+          "bytes": 15609,
+          "lines": 369,
+          "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+          "bytes": 16160,
+          "lines": 412,
+          "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+          "bytes": 9104,
+          "lines": 239,
+          "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+          "bytes": 13002,
+          "lines": 338,
+          "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+          "bytes": 6718,
+          "lines": 154,
+          "sha256": "5598893eb1ce948294f3b8a1f6c18bc3a7916afdbf90a254469b36daa0a6d62c",
+          "actually_body_read": false
+        }
+      ],
+      "actual_tex_body_read_lines": 0
+    },
+    {
+      "family_id": "F-053",
+      "readme": {
+        "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/README.md",
+        "lines": 17,
+        "sha256": "ab337f92df8b8efec368e10e839c2a0516869456e940ef3eb3140eb39cd89ea1",
+        "actually_read": true
+      },
+      "tex_inventory_only": [
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/figures/bridge-cuts.tex",
+          "bytes": 1808,
+          "lines": 39,
+          "sha256": "c523a72aa2fb15efb84b77a6248b0e85c30be005b1512090710f160dda591e73",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/figures/proof-map.tex",
+          "bytes": 2043,
+          "lines": 38,
+          "sha256": "7fba690741325c92a91bd28f734a69fa66fb93de3ab11153580ef082955a7a11",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/main.tex",
+          "bytes": 2678,
+          "lines": 78,
+          "sha256": "3f1b52407395a16fa676ea37b95a75398d0f0454de94fa8fc9e74e1f3e403cd0",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/references.tex",
+          "bytes": 15049,
+          "lines": 367,
+          "sha256": "fa0436a00a5e1619a8b1c4468cdd053e5eb2a0288b20be0deb5c646132f16df2",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/01-introduction.tex",
+          "bytes": 15879,
+          "lines": 313,
+          "sha256": "c20517004f3a96ab331bb22428986f28851792319a601f842f66a8b9bee4d0e9",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/02-strata.tex",
+          "bytes": 9315,
+          "lines": 245,
+          "sha256": "7f49ac0939f0318bd904cbf5745b963e7b4b3ba96d4383142d21d0690e8ae476",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/03-detector.tex",
+          "bytes": 30860,
+          "lines": 763,
+          "sha256": "9bda86d2d8a448f816b55b074ced0a439e5a33e71f18a15863281f2ea127e4e0",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/04-tensors.tex",
+          "bytes": 22578,
+          "lines": 548,
+          "sha256": "6568bce62745fb422f8a7dae67d567810a0d1dc5feebe8a17cad3f4770a79186",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/05-quot.tex",
+          "bytes": 42327,
+          "lines": 956,
+          "sha256": "f28582343689fdac296d2c8b80a6fd035a8f44286794973f5e1a955645c203c4",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/06-coefficient.tex",
+          "bytes": 25099,
+          "lines": 643,
+          "sha256": "b27f68fd32c623a49d1581e825f08ce333ff6192ed7128ac9e6e078cf96af38e",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/07-compactification.tex",
+          "bytes": 24913,
+          "lines": 511,
+          "sha256": "77f825b22d833c62a9301c3d5afafbcf5833bb146ef170ceff621968d4e9a78c",
+          "actually_body_read": false
+        },
+        {
+          "path": "math/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/build/sections/08-support.tex",
+          "bytes": 24896,
+          "lines": 563,
+          "sha256": "36ffe2e2d3ca86d0d9a9e3ab57dcb5a9fd677314fb15563c2860d860927e6caa",
+          "actually_body_read": false
+        }
+      ],
+      "actual_tex_body_read_lines": 0
+    }
+  ],
+  "next_action": "Inspect current fixed first-party map-certificate API metadata;freeze actual versions andselectedsource ranges before qualification. Search snippets alone have no source-body credit.",
+  "started_at": "2026-10-27T03:18:46.123267+00:00",
+  "updated_at": "2026-10-27T03:32:20.201357+00:00",
+  "base_commit": "966211307cd4eced031e7fe8faa370bf56772e75",
+  "actual_source_files_read": [
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/main.tex",
+      "bytes": 1023,
+      "lines": 27,
+      "sha256": "59d671f7ea54b16557d28d9905e8349c24a0e081dee7fd4776f08e7c598a8284",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "actual_lines_read": 27,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/preamble.tex",
+      "bytes": 1545,
+      "lines": 43,
+      "sha256": "088a987ebe7febb1c106ab17a2dddc00fcad312407e00c8188c55ca9d32b8e88",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "actual_lines_read": 43,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/references.tex",
+      "bytes": 5979,
+      "lines": 172,
+      "sha256": "2bb98b0a1dfd87a48b22d9400ac2f9b4990d339755793dd95bae57eb0627ceed",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          172
+        ]
+      ],
+      "actual_lines_read": 172,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/01-introduction.tex",
+      "bytes": 12722,
+      "lines": 271,
+      "sha256": "735089761fe623a36c91e57b98ea6d798a4b74933257fdc2d2b19fbc51269540",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          271
+        ]
+      ],
+      "actual_lines_read": 271,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/02-construction.tex",
+      "bytes": 9727,
+      "lines": 256,
+      "sha256": "fd10c0e2eb35a5572f43263ba88ea893551415c1807f6f6c8ad6158e64caa882",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          256
+        ]
+      ],
+      "actual_lines_read": 256,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/03-degeneration.tex",
+      "bytes": 15609,
+      "lines": 369,
+      "sha256": "01c8fba41829052c46ae2e1c34ace91283808c3bcd5a6adcfa58cdca1ad7424c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          369
+        ]
+      ],
+      "actual_lines_read": 369,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+      "bytes": 16160,
+      "lines": 412,
+      "sha256": "37097f3689e0d41315a623c7d94e362141526f642ca8515682751f47a0ea5ae7",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          412
+        ]
+      ],
+      "actual_lines_read": 412,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/05-reduction.tex",
+      "bytes": 9104,
+      "lines": 239,
+      "sha256": "8c6e5470bfc09d98f6cca44b461d3894034cc7b90f2bd379e47990753192f6b2",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          239
+        ]
+      ],
+      "actual_lines_read": 239,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/06-rigidity.tex",
+      "bytes": 13002,
+      "lines": 338,
+      "sha256": "a15737c05af4fe6ec7f4af2552250bb9366c19f7c47dea3e13f492529fd50bf8",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          338
+        ]
+      ],
+      "actual_lines_read": 338,
+      "whole_file_actually_read": true
+    },
+    {
+      "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/07-affine-fibrations.tex",
+      "bytes": 6718,
+      "lines": 154,
+      "sha256": "5598893eb1ce948294f3b8a1f6c18bc3a7916afdbf90a254469b36daa0a6d62c",
+      "actually_body_read": true,
+      "actually_read_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "actual_lines_read": 154,
+      "whole_file_actually_read": true
+    }
+  ],
+  "provisional_reading_notes": [
+    "Main/currentpaperclaims a specific complexintegralaffinefourfold A=C[p,s,u,F,J]/H, x=s²+u³+p²F,H=x²F−(1+2sx)J−p²J²−pu, withA[w] polynomialfive-space butA nonpolynomialfour-space. Thesearesourceclaims,notacceptedtheorems orwholefamilyformalcoverage. Explicitconstruction alone doesnotvalidate nonpolynomiality.",
+    "Constructiondomain proof usesp localizationwithunitucoefficient andp-not-dividingH inUFD,thenfractionfielddimension4. Laurentcoordinatesawayfromp0 do notgiveglobalpolynomialcoordinates.",
+    "Delta=−p²d/du inlocalizedcoordinatesrestrictsP asLND,DeltaH=p³ andDelta²H=0;finiteexp(wDelta)mapsHtoH+p³w. Unimodularchange(F,J)→(L,M) hasdet1. PolynomialrootL*=pu−p²C modp³ andexplicitcertificate p³e0−(L−L*)=(p²Q1−1)(H+p³w) giveunlocalizedfifthcoordinate. Domain/pnonzero neededcancelp³ inw=W(e). No symboliccodeexecuted.",
+    "Ambient stable-coordinate corollary usesoldDutta–Lahiri residual-coordinate theorem plusnonpolynomiality;quotientA[w] beingpolynomialalone isnotautomaticallyanambientcoordinatecertificate. Historicaloriginalscopesstillunread.",
+    "S=C[p,x,y,z,u]/(xy−z(z+1)−p³u) injectsA,commonp-localization;R=S/pSsmoothdomain. pSprime principal localmaximal givesDVR;order≥iiffglobaldivisibilityp^i inS provedvia primality,notassumedfromarbitrarylocalvaluation. Valuationdegree−ord_p canbenegative.",
+    "ExactgrA=R[tau,I/tau²] withactualcoefficientembeddingandI=(f,g),notjustanassociatedgradedisomorphismforgettingR. Presentationweights(−1,0,0,2,2),Htopweight2,H=Htop−pu. Kernelp-saturationandweightreductionlowermaxbyatleast1,actuallyreplacementtermweightM−3,boundedbelowbyfixeddeg h,establishcompletegradedgeneration despiteunboundednegativeweights.",
+    "AnyLND onA induceshomogeneousLNDwitharbitrarysignedshift usingexactrepresentatives. Hypotheticalpolynomialcoordinatesforcepositive-degreeinvariant viaaderivativeindifferentcoordinate. ThisdoesnotpreserveR:explicitDeltadescendsG andsendsu to−tau²,butdoesnotdescendA becauseDeltaH=p³.",
+    "Bundlefirst193lines:determinant algebraRt=C[a,d,b,c,u]/(ac−bd−1),x=ab,y=dc,z=db. TwoLaurentfiberchartsD(z+1),D(z) givefaithfullyflattorusbundle. Explicitf=C1v,g=b²v,v=alpha f+beta g principalizeI,v=a³b−a²u³−d². BasechangeG→Gtfaithfullyflat withGt=Rt[tau,V]/(tau²V−v);tau-nonzerodivisor andlocalizedinjectiongivewholepresentation. Valuationdegree andfiberweightareseparatecommutinggradings. Liftingproofbeyond193stillunread.",
+    "Read before context recovery: linearization assumes smooth integral affine C-scheme and uses Pic(A1 x X)=Pic(X), normalized lift uniqueness, and characteristic zero. Homogeneous action lift does not assume the additive action preserves R or Rt. Original cited historical scopes remain unchecked.",
+    "Reduction actually read: positive-degree invariant forces V invariant. Cases fixing tau and moving tau extract a nonzero LND of Rt with fiber weight at most zero and E²(v)=0. Positive-weight example E+(b)=a,E+(c)=d demonstrates the sign condition is essential; it is not a counterexample to the stated nonpositive-weight conclusion.",
+    "Rigidity actually read: auxiliary highest component retains the fiber weight. Mason-Stothers degree argument uses orbit polynomials over the original fraction field C(a,d,b)(u); root counting over its algebraic closure does not replace that coefficient field. The odd u-adic order of -u³ obstructs its being a square there. Coefficient intersection is justified with the a/d charts. These are manuscript arguments, not an independent proof validation.",
+    "Fibration corollary actually read: all residue-field fibers, not just geometric fibers, are A3 for pi over A1 and rho=(p,H) over A2. Coordinate charts away from p and determinant-one p=0 coordinates give residual coordinates. Derivation of H gives unit Jacobian ideal, hence standard smoothness locally; pi is q=0 base change.",
+    "Non-local-triviality uses finite presentation, Bass-Connell-Wright symmetric algebra theorem and rank-three finitely generated projective freeness over polynomial C-bases; arbitrary polynomial transition automorphisms are allowed. Original BCW/Suslin scopes remain pending. Relative dimensions one and two are not covered.",
+    "All 10 TeX files 2281 lines including bibliography172 and README18 actually read. Formal docs047 excludes separate stable-coordinate and general line-bundle lifting results. Actual Model/Main/Comparator and selected Cylinder/Dimension/EquivariantLift/PositiveObstruction read: scalar-preserving equivalence and exact H match. Formal nonpolynomiality uses invariant nonzero replica cD and a highest component, not formal general normalized line-bundle lift. No Lean build or human specification audit."
+  ],
+  "reading_batches": [
+    {
+      "at": "2026-10-27T03:20:53.253436+00:00",
+      "input": "batch1.json",
+      "reads": [
+        {
+          "file": "main.tex",
+          "ranges": [
+            [
+              1,
+              27
+            ]
+          ]
+        },
+        {
+          "file": "preamble.tex",
+          "ranges": [
+            [
+              1,
+              43
+            ]
+          ]
+        },
+        {
+          "file": "01-introduction.tex",
+          "ranges": [
+            [
+              1,
+              271
+            ]
+          ]
+        },
+        {
+          "file": "02-construction.tex",
+          "ranges": [
+            [
+              1,
+              256
+            ]
+          ]
+        },
+        {
+          "file": "03-degeneration.tex",
+          "ranges": [
+            [
+              1,
+              369
+            ]
+          ]
+        },
+        {
+          "file": "04-bundle.tex",
+          "ranges": [
+            [
+              1,
+              193
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Main/currentpaperclaims a specific complexintegralaffinefourfold A=C[p,s,u,F,J]/H, x=s²+u³+p²F,H=x²F−(1+2sx)J−p²J²−pu, withA[w] polynomialfive-space butA nonpolynomialfour-space. Thesearesourceclaims,notacceptedtheorems orwholefamilyformalcoverage. Explicitconstruction alone doesnotvalidate nonpolynomiality.",
+        "Constructiondomain proof usesp localizationwithunitucoefficient andp-not-dividingH inUFD,thenfractionfielddimension4. Laurentcoordinatesawayfromp0 do notgiveglobalpolynomialcoordinates.",
+        "Delta=−p²d/du inlocalizedcoordinatesrestrictsP asLND,DeltaH=p³ andDelta²H=0;finiteexp(wDelta)mapsHtoH+p³w. Unimodularchange(F,J)→(L,M) hasdet1. PolynomialrootL*=pu−p²C modp³ andexplicitcertificate p³e0−(L−L*)=(p²Q1−1)(H+p³w) giveunlocalizedfifthcoordinate. Domain/pnonzero neededcancelp³ inw=W(e). No symboliccodeexecuted.",
+        "Ambient stable-coordinate corollary usesoldDutta–Lahiri residual-coordinate theorem plusnonpolynomiality;quotientA[w] beingpolynomialalone isnotautomaticallyanambientcoordinatecertificate. Historicaloriginalscopesstillunread.",
+        "S=C[p,x,y,z,u]/(xy−z(z+1)−p³u) injectsA,commonp-localization;R=S/pSsmoothdomain. pSprime principal localmaximal givesDVR;order≥iiffglobaldivisibilityp^i inS provedvia primality,notassumedfromarbitrarylocalvaluation. Valuationdegree−ord_p canbenegative.",
+        "ExactgrA=R[tau,I/tau²] withactualcoefficientembeddingandI=(f,g),notjustanassociatedgradedisomorphismforgettingR. Presentationweights(−1,0,0,2,2),Htopweight2,H=Htop−pu. Kernelp-saturationandweightreductionlowermaxbyatleast1,actuallyreplacementtermweightM−3,boundedbelowbyfixeddeg h,establishcompletegradedgeneration despiteunboundednegativeweights.",
+        "AnyLND onA induceshomogeneousLNDwitharbitrarysignedshift usingexactrepresentatives. Hypotheticalpolynomialcoordinatesforcepositive-degreeinvariant viaaderivativeindifferentcoordinate. ThisdoesnotpreserveR:explicitDeltadescendsG andsendsu to−tau²,butdoesnotdescendA becauseDeltaH=p³.",
+        "Bundlefirst193lines:determinant algebraRt=C[a,d,b,c,u]/(ac−bd−1),x=ab,y=dc,z=db. TwoLaurentfiberchartsD(z+1),D(z) givefaithfullyflattorusbundle. Explicitf=C1v,g=b²v,v=alpha f+beta g principalizeI,v=a³b−a²u³−d². BasechangeG→Gtfaithfullyflat withGt=Rt[tau,V]/(tau²V−v);tau-nonzerodivisor andlocalizedinjectiongivewholepresentation. Valuationdegree andfiberweightareseparatecommutinggradings. Liftingproofbeyond193stillunread."
+      ],
+      "summary_zh": "已核读显式稳定化及含p=0的多项式证书；ambient稳定坐标另用历史定理。准确关联分次环保留实际R系数嵌入，LND不必保持R；主丛主化与两套权重分别保留。线丛提升证明及非多项式刚性尚未读完。",
+      "next_action": "Continue04-bundle194-412 (219lines),then05-reduction239,06-rigidity338,07-affine-fibrations154,references172;thenactualformal/history andper-result qualification beforecanonicalcredit. No scientificoutput withoutindependentpreregistration."
+    },
+    {
+      "at": "2026-10-27T03:28:43.868010+00:00",
+      "input": "batch2.json",
+      "reads": [
+        {
+          "file": "04-bundle.tex",
+          "ranges": [
+            [
+              194,
+              412
+            ]
+          ]
+        },
+        {
+          "file": "05-reduction.tex",
+          "ranges": [
+            [
+              1,
+              239
+            ]
+          ]
+        },
+        {
+          "file": "06-rigidity.tex",
+          "ranges": [
+            [
+              1,
+              338
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Read before context recovery: linearization assumes smooth integral affine C-scheme and uses Pic(A1 x X)=Pic(X), normalized lift uniqueness, and characteristic zero. Homogeneous action lift does not assume the additive action preserves R or Rt. Original cited historical scopes remain unchecked.",
+        "Reduction actually read: positive-degree invariant forces V invariant. Cases fixing tau and moving tau extract a nonzero LND of Rt with fiber weight at most zero and E²(v)=0. Positive-weight example E+(b)=a,E+(c)=d demonstrates the sign condition is essential; it is not a counterexample to the stated nonpositive-weight conclusion.",
+        "Rigidity actually read: auxiliary highest component retains the fiber weight. Mason-Stothers degree argument uses orbit polynomials over the original fraction field C(a,d,b)(u); root counting over its algebraic closure does not replace that coefficient field. The odd u-adic order of -u³ obstructs its being a square there. Coefficient intersection is justified with the a/d charts. These are manuscript arguments, not an independent proof validation."
+      ],
+      "summary_zh": "补记压缩上下文前已实际读完的线丛提升、约化与刚性三部分，共新增796行；保留非正纤维权重、原分式域及系数环交集等前提，仍只作原稿论证记录。",
+      "next_action": "Read 07-affine-fibrations154lines and references172lines separately: last combined tool output was truncated with no source content delivered and receives zero reading credit. Then inspect actual formal endpoints and selected original historical scopes before canonical qualification."
+    },
+    {
+      "at": "2026-10-27T03:32:20.201357+00:00",
+      "input": "batch3.json",
+      "reads": [
+        {
+          "file": "07-affine-fibrations.tex",
+          "ranges": [
+            [
+              1,
+              154
+            ]
+          ]
+        },
+        {
+          "file": "references.tex",
+          "ranges": [
+            [
+              1,
+              172
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Fibration corollary actually read: all residue-field fibers, not just geometric fibers, are A3 for pi over A1 and rho=(p,H) over A2. Coordinate charts away from p and determinant-one p=0 coordinates give residual coordinates. Derivation of H gives unit Jacobian ideal, hence standard smoothness locally; pi is q=0 base change.",
+        "Non-local-triviality uses finite presentation, Bass-Connell-Wright symmetric algebra theorem and rank-three finitely generated projective freeness over polynomial C-bases; arbitrary polynomial transition automorphisms are allowed. Original BCW/Suslin scopes remain pending. Relative dimensions one and two are not covered.",
+        "All 10 TeX files 2281 lines including bibliography172 and README18 actually read. Formal docs047 excludes separate stable-coordinate and general line-bundle lifting results. Actual Model/Main/Comparator and selected Cylinder/Dimension/EquivariantLift/PositiveObstruction read: scalar-preserving equivalence and exact H match. Formal nonpolynomiality uses invariant nonzero replica cD and a highest component, not formal general normalized line-bundle lift. No Lean build or human specification audit."
+      ],
+      "summary_zh": "余下纤维化推论与全部参考文献已读，当前稿10TeX共2281行全文完成；区分剩余域纤维、光滑与局部平凡，并记录Lean实际使用非零不变倍数后取最高分量的路线。尚未完成原作核查与规范资格整理。",
+      "next_action": "Acquire at most four selected primary historical works under8MiB; inspect converted text scopes; qualify17named results/methods and mapping attempts, then canonical graph curation and full QA. No new scientific run or GitHub push."
+    }
+  ],
+  "full_current_source_read_complete": true,
+  "canonical_generation_id": "GEN-20261027-112",
+  "canonical_summary": {
+    "generation": "GEN-20261027-112",
+    "base_commit": "966211307cd4eced031e7fe8faa370bf56772e75",
+    "old_records": 5188,
+    "new_records": 60,
+    "new_explicit_edges": 100,
+    "named_bindings": 17,
+    "method_contracts": 12,
+    "new_literature_nodes": 26,
+    "source_B": 2,
+    "source_C": 15,
+    "new_candidates": 0,
+    "new_application_checks": 0,
+    "new_scientific_experiments": 0,
+    "new_record_ids": [
+      "LIT-047-AEH",
+      "LIT-047-ASANUMA",
+      "LIT-047-BASSCONNELLWRIGHT",
+      "LIT-047-BLANCVANSANTEN",
+      "LIT-047-BRION",
+      "LIT-047-DUTTALAHIRI",
+      "LIT-047-EDOVENEREAU",
+      "LIT-047-ELKAHOUIOUALI",
+      "LIT-047-FINSTONMAUBACH",
+      "LIT-047-FUJITA",
+      "LIT-047-GAIFULLINPETROV",
+      "LIT-047-GUPTATHREEFOLD",
+      "LIT-047-GUPTAPOSITIVE",
+      "LIT-047-GUPTASURVEY",
+      "LIT-047-KALIMANMAKARLIMANOV",
+      "LIT-047-KALIMANZAIDENBERG",
+      "LIT-047-MAKARLIMANOV",
+      "LIT-047-MAKARLIMANOVVANROSSUMSHPILRAINYU",
+      "LIT-047-MASON",
+      "LIT-047-MAUBACH",
+      "LIT-047-MIYANISHISUGIE",
+      "LIT-047-STACKS",
+      "LIT-047-STOTHERS",
+      "LIT-047-SUSLIN",
+      "LIT-047-TRAVERSO",
+      "LIT-047-DOLGACHEVWEISFEILER",
+      "CLM-047-THM-MAIN",
+      "CLM-047-COR-STABLE-COORDINATE",
+      "CLM-047-CON-DOMAIN",
+      "CLM-047-PROP-STABILIZATION",
+      "CLM-047-DEG-VALUATION",
+      "CLM-047-PROP-GRADED",
+      "CLM-047-LEM-INDUCED-LND",
+      "CLM-047-PROP-POSITIVE-INVARIANT",
+      "CLM-047-PROP-PRINCIPALIZATION",
+      "CLM-047-PROP-LINEARIZATION",
+      "CLM-047-PROP-HOMOGENEOUS-LIFT",
+      "CLM-047-LEM-LND-ORDER",
+      "CLM-047-PROP-EXTRACTED-LND",
+      "CLM-047-RIG-ABC",
+      "CLM-047-RIG-ONE-VARIABLE",
+      "CLM-047-PROP-RIGIDITY",
+      "CLM-047-COR-AFFINE-FIBRATIONS",
+      "PART-047-STABLE-CYLINDER",
+      "PART-047-RESIDUAL-COORDINATE",
+      "PART-047-VALUATION-DIVISIBILITY",
+      "PART-047-EXACT-GRADED",
+      "PART-047-INITIAL-LND",
+      "PART-047-TORSOR-PRINCIPALIZE",
+      "PART-047-NORMALIZED-LIFT",
+      "PART-047-SIGNED-EXTRACTION",
+      "PART-047-LND-ORDER",
+      "PART-047-ORBIT-ABC",
+      "PART-047-COEFFICIENT-INTERSECTION",
+      "PART-047-FIBER-LOCAL-GLOBAL",
+      "PROB-047-COORDINATE-CONSUMER",
+      "PROB-047-FIELD-GEOMETRY-BRIDGE",
+      "EXPLORE-F-047",
+      "ANALYSIS-F-047",
+      "GEN-20261027-112"
+    ],
+    "initial_graph_validation": {
+      "nodes": 8353,
+      "research_nodes": 5244,
+      "edges": 23975,
+      "citations_checked": 9104,
+      "candidate_connections": 46,
+      "externally_checked_cards": 13,
+      "effective_leads": 5,
+      "distinct_validation_hypotheses": 13,
+      "human_grading_records": 0,
+      "pilots": 0
+    }
+  },
+  "completed_at": "2026-10-27T03:48:56.060347+00:00",
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "formal_evidence": "data/provenance/readings/F-047-formal.json",
+  "history_evidence": "data/provenance/readings/F-047-history.json",
+  "quality_evidence": "reports/reproducibility/20261027-F047-cancellation/quality.json.gz",
+  "storage_evidence": "reports/reproducibility/20261027-F047-cancellation/storage.json",
+  "new_candidates": 0,
+  "new_application_checks": 0,
+  "new_scientific_experiments": 0
+}

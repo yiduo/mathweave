@@ -1,0 +1,263 @@
+{
+  "at": "2026-10-27T04:50:59.867194+00:00",
+  "generation_id": "GEN-20261027-115",
+  "project_base_commit": "3ea7af251370e8ca5a28727b2211570346513966",
+  "original_works": 2,
+  "primary_mathematical_documents_checked": 5,
+  "acquisition": {
+    "at": "2026-10-27T04:46:49.867841+00:00",
+    "rows": [
+      {
+        "name": "Traverso-landing",
+        "url": "https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0/",
+        "requested_at": "2026-10-27T04:46:45.919208+00:00",
+        "final_url": "https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0/",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "http_last_modified": null,
+        "http_etag": null,
+        "bytes": 31910,
+        "sha256": "b1277d028bbc82951fd538931c9846f334b44f637fbff3f03c5a1991d7775834",
+        "text_sha256": "455aa535a4a67b0ca809e42a059e65bd41976d71d57e1e06c78cbac6c289fab6",
+        "text_lines": 111,
+        "temporary_html": "/private/tmp/ai-paper-WP118/Traverso-landing.html",
+        "temporary_text": "/private/tmp/ai-paper-WP118/Traverso-landing.txt",
+        "pdf_metadata": [
+          "<meta name=\"citation_title\" content=\"Seminormality and Picard group\">",
+          "<meta name=\"citation_author\" content=\"Traverso, Carlo\">",
+          "<meta name=\"citation_publication_date\" content=\"1970\">",
+          "<meta name=\"citation_journal_title\" content=\"Annali della Scuola Normale Superiore di Pisa - Scienze Fisiche e Matematiche\">",
+          "<meta name=\"citation_issn\" content=\"0036-9918\">",
+          "<meta name=\"citation_volume\" content=\"24\">",
+          "<meta name=\"citation_language\" content=\"en\">",
+          "<meta name=\"citation_issue\" content=\"4\">",
+          "<meta name=\"citation_firstpage\" content=\"585\">",
+          "<meta name=\"citation_lastpage\" content=\"595\">",
+          "<meta name=\"citation_pdf_url\" content=\"https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0.pdf\">"
+        ],
+        "pdf_links": [
+          "https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0.pdf",
+          "/item/ASNSP_1970_3_24_4_585_0.pdf"
+        ]
+      },
+      {
+        "name": "056S",
+        "url": "https://stacks.math.columbia.edu/tag/056S",
+        "requested_at": "2026-10-27T04:46:45.919598+00:00",
+        "final_url": "https://stacks.math.columbia.edu/tag/056S",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "http_last_modified": null,
+        "http_etag": null,
+        "bytes": 14471,
+        "sha256": "cb5683e695bbbdac2d55d01a78cc46bc0556bf9f3860b716aa048110ec2df881",
+        "text_sha256": "9bfdf1224ce10d7e409289f4d60e0cb790b9dc93d4dd951b6c00ccb08446f60f",
+        "text_lines": 45,
+        "temporary_html": "/private/tmp/ai-paper-WP118/056S.html",
+        "temporary_text": "/private/tmp/ai-paper-WP118/056S.txt",
+        "selected_text_character_scope": [
+          303,
+          676
+        ],
+        "selected_scope": "Actual statement and entire displayed proof text, excluding comments/UI; all recursive referenced lemmas unreviewed in this package.",
+        "premise_match": {
+          "title": "Smooth over a field implies regular",
+          "statement": "A scheme smooth over a field is regular; smoothness also supplies local Noetherianity in this setting.",
+          "prerequisites": [
+            "Field base",
+            "Smooth morphism"
+          ],
+          "application": "X and A1 times X in the manuscript are smooth varieties over C.",
+          "proof_refs_unread": [
+            "038X",
+            "00TT",
+            "02IT"
+          ]
+        },
+        "checked_version": "Official HTML observed 2026-10-27T04:46:45.919598+00:00; byte hash pins this observation, not a reconstructed September 23 website state."
+      },
+      {
+        "name": "0AG0",
+        "url": "https://stacks.math.columbia.edu/tag/0AG0",
+        "requested_at": "2026-10-27T04:46:45.919697+00:00",
+        "final_url": "https://stacks.math.columbia.edu/tag/0AG0",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "http_last_modified": null,
+        "http_etag": null,
+        "bytes": 15949,
+        "sha256": "785af7cb4e040abda98bcbe4414785a4c2367059925a01b6d5524c44455008b7",
+        "text_sha256": "c85fc17283da4e286fbea725c09de806c5a20a2c53183efe88d645928824faf5",
+        "text_lines": 41,
+        "temporary_html": "/private/tmp/ai-paper-WP118/0AG0.html",
+        "temporary_text": "/private/tmp/ai-paper-WP118/0AG0.txt",
+        "selected_text_character_scope": [
+          284,
+          2208
+        ],
+        "selected_scope": "Actual statement and entire displayed proof text, excluding comments/UI; all recursive referenced lemmas unreviewed in this package.",
+        "premise_match": {
+          "title": "Regular local rings are factorial",
+          "statement": "A regular local ring is a unique factorization domain. The primary proof uses induction, a parameter quotient and principality of height-one primes.",
+          "prerequisites": [
+            "Regular local ring"
+          ],
+          "application": "Apply to the local rings after smoothness gives regularity; not a claim that every smooth affine coordinate ring is globally a UFD.",
+          "proof_refs_unread": [
+            "00NP",
+            "00NQ",
+            "00NX",
+            "034R",
+            "05E3",
+            "0AFT",
+            "0AFU",
+            "0AFZ"
+          ]
+        },
+        "checked_version": "Official HTML observed 2026-10-27T04:46:45.919697+00:00; byte hash pins this observation, not a reconstructed September 23 website state."
+      },
+      {
+        "name": "0BE9",
+        "url": "https://stacks.math.columbia.edu/tag/0BE9",
+        "requested_at": "2026-10-27T04:46:45.919762+00:00",
+        "final_url": "https://stacks.math.columbia.edu/tag/0BE9",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "http_last_modified": null,
+        "http_etag": null,
+        "bytes": 15620,
+        "sha256": "4fe3aae52af6662de736ebf47cb6272688c9cd8f5e6983ba88d420de65b159d7",
+        "text_sha256": "509dd71bb81b757464636de0371c57f0dba2a25c73f4e05de2be4bb236a39df0",
+        "text_lines": 39,
+        "temporary_html": "/private/tmp/ai-paper-WP118/0BE9.html",
+        "temporary_text": "/private/tmp/ai-paper-WP118/0BE9.txt",
+        "selected_text_character_scope": [
+          260,
+          2249
+        ],
+        "selected_scope": "Actual statement and entire displayed proof text, excluding comments/UI; all recursive referenced lemmas unreviewed in this package.",
+        "premise_match": {
+          "title": "Local factoriality identifies Picard and divisor classes",
+          "statement": "For a locally Noetherian integral scheme, local factoriality is equivalent to normality and surjectivity of Pic to Cl; under these conditions the map is an isomorphism.",
+          "prerequisites": [
+            "Locally Noetherian",
+            "Integral",
+            "Local rings UFD for the forward direction used here"
+          ],
+          "application": "X and A1 times X meet the forward hypotheses. Normality alone must not be substituted for local factoriality.",
+          "proof_refs_unread": [
+            "0AFT",
+            "0BE8",
+            "0AFV",
+            "01WO",
+            "031T"
+          ]
+        },
+        "checked_version": "Official HTML observed 2026-10-27T04:46:45.919762+00:00; byte hash pins this observation, not a reconstructed September 23 website state."
+      },
+      {
+        "name": "00KV",
+        "url": "https://stacks.math.columbia.edu/tag/00KV",
+        "requested_at": "2026-10-27T04:46:45.919888+00:00",
+        "final_url": "https://stacks.math.columbia.edu/tag/00KV",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "http_last_modified": null,
+        "http_etag": null,
+        "bytes": 16239,
+        "sha256": "66c7246a7535b3a8fb210d84d1d0f30d7f77ad36e3e318b4c01b6f055bb5fab5",
+        "text_sha256": "9ef70e32c64ac0b2ace63dd8bdc14bd0139a1a84aa47eb3963cdfc03a24fa431",
+        "text_lines": 55,
+        "temporary_html": "/private/tmp/ai-paper-WP118/00KV.html",
+        "temporary_text": "/private/tmp/ai-paper-WP118/00KV.txt",
+        "selected_text_character_scope": [
+          273,
+          1402
+        ],
+        "selected_scope": "Actual statement and entire displayed proof text, excluding comments/UI; all recursive referenced lemmas unreviewed in this package.",
+        "premise_match": {
+          "title": "Principal ideal height bound",
+          "statement": "In a Noetherian ring a prime minimal over a principal ideal has height at most one. The second part excludes intermediate primes for a minimal principal extension of a prime.",
+          "prerequisites": [
+            "Noetherian ring"
+          ],
+          "application": "For the nonzero c in the integral domain C used in the divisor argument, a minimal prime over c cannot be the zero prime, so the bound gives height exactly one.",
+          "proof_refs_unread": [
+            "00E3",
+            "00KU"
+          ]
+        },
+        "checked_version": "Official HTML observed 2026-10-27T04:46:45.919888+00:00; byte hash pins this observation, not a reconstructed September 23 website state."
+      }
+    ]
+  },
+  "Traverso_original": {
+    "url": "https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0.pdf",
+    "requested_at": "2026-10-27T04:47:30.761978+00:00",
+    "final_url": "https://www.numdam.org/item/ASNSP_1970_3_24_4_585_0.pdf",
+    "status": 200,
+    "bytes": 1025357,
+    "sha256": "afe930a6d659184ad9120700d29ca074bb8371444861ecd7e577fea73881265b",
+    "conversion_exit": 0,
+    "conversion_stderr": "",
+    "temporary_pdf": "/private/tmp/ai-paper-WP118/Traverso1970.pdf",
+    "temporary_text": "/private/tmp/ai-paper-WP118/Traverso1970.txt",
+    "text_sha256": "36544093b0b3ba9f4aa09ad4a09819d29174ae745bb0000696de3f5dac847dbc",
+    "text_bytes": 26665,
+    "text_lines": 592,
+    "page_segments": 12,
+    "conversion_command": [
+      "/opt/homebrew/bin/pdftotext",
+      "-layout",
+      "/private/tmp/ai-paper-WP118/Traverso1970.pdf",
+      "/private/tmp/ai-paper-WP118/Traverso1970.txt"
+    ],
+    "actual_converted_text_ranges": [
+      [
+        38,
+        126
+      ],
+      [
+        280,
+        345
+      ],
+      [
+        358,
+        592
+      ]
+    ],
+    "actual_converted_text_lines_read": 390,
+    "selected_scope": "Introduction p586 statement of3.6, selected2.1-2.3 context, section3 and references including actual3.6 pp593-595. Analyze converted text only.",
+    "conversion_limit": "Several displayed formulas/diagrams are missing or garbled; introduction lines104-107 independently states the canonical Picard map and hypotheses. Selected text reading is not a full proof validation.",
+    "theorem_hypotheses": [
+      "Reduced Noetherian ring",
+      "Finite normalization",
+      "Finite set of indeterminates"
+    ],
+    "regular_specialization": "For the smooth integral affine C-variety, C is a regular Noetherian normal domain; its normalization is C itself, hence finite, and it is seminormal. Apply the forward implication to Pic(C) -> Pic(C[t]).",
+    "unreviewed_original_proof_inputs": [
+      "Bass-Murthy1967 relative Picard functor and lemmas cited throughout section3",
+      "Endo1963 earlier result/normal base case context",
+      "Bourbaki commutative algebra",
+      "EGA",
+      "Internal sections1-2 not fully read or audited; proof has missing extracted formulas"
+    ]
+  },
+  "source_application": {
+    "path": "math/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/build/sections/04-bundle.tex",
+    "read_again": [
+      181,
+      263
+    ],
+    "scope": "Picard-invariance prerequisite only; normalized lift/cocycle still uses its own units argument and earlier selected Brion scopes. Actual Lean replica route is distinct."
+  },
+  "source_bytes": 1119546,
+  "web_failure_and_recovery": "Browser/web fetch of0BE9 timed out; independent direct TLS official page acquisition succeeded200 with content hash. No repeat of old Suslin/BCW routes.",
+  "full_original_proof_review": false,
+  "full_historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_application_checks": 0,
+  "new_scientific_experiments": 0,
+  "new_family_reading_credit": 0,
+  "republication": "Only own paraphrases, original URLs, locators, hashes and metadata. Numdam all-rights-reserved PDF and converted body are temporary; Stacks contribution text is GNU FDL. Original bodies will not enter repository history."
+}
