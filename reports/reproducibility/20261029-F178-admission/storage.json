@@ -1,0 +1,16 @@
+{
+  "at": "2026-10-29T09:01:52.116739+00:00",
+  "helper_members": 17,
+  "compressed_sha256": "28411e1562fb2e4bb52c936c1bac8a5310a333b430013fcdc25e140cd41b84fb",
+  "decompressed_sha256": "64926a6dc549d1069c5a5c559445533057c24004bd7f47b56c45d04cfcaf733c",
+  "all_members_verified": true,
+  "external_pdf_text_bytes_deleted": 423720,
+  "external_fulltext_in_public_archive": false,
+  "failure_artifact_zip_bytes": 492971,
+  "clean_copy_files": 3460,
+  "clean_copy_bytes": 98146943,
+  "clean_copy_removed": true,
+  "temporary_directory": "/private/tmp/mathweave-WP130",
+  "temporary_directory_removed_after_archive_verification": true,
+  "github_push": false
+}

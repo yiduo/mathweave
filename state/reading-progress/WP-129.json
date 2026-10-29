@@ -786,7 +786,7 @@
   "numerical_target_runs": 0,
   "reading_remaining_foundation": [],
   "three_October_companions": "All three October companion current bodies fully read, along with September foundation; 46 source files / 14199 lines. Pending canonical curation and selected original history.",
-  "next_action": "Qualify remaining84 October source statements: finite-range30, correction24, spherical30; preserve separate model/limit/formal scopes. Then reconcile full bibliography/history aliases, ten-domain and crossfamily exploration and whole-family QA. Foundation34 and8method interfaces already canonical; do not recreate or promote to full-family/application credit.",
+  "next_action": "Readactualsphericalmanuscriptmodelandjointspin/temperatureregime,thenqualify30statementsandselectedproofinterfaces;startintro thm:main45-64. NoinheritanceofSeptemberformalgradeorcorrectionfixedSscope. Thenhistoryaliases/wholefamilyQA,withapplicationandlowcoveragebudgetretained.",
   "runtime_handles": [],
   "goal": "active_incomplete",
   "full_current_body_read_ids": [
@@ -858,5 +858,20 @@
     "full_dependency_grade": "unknown",
     "full_family_credit": false,
     "remaining_October_semantic_locators": 53
-  }
+  },
+  "correction_semantic_curation": {
+    "at": "2026-10-29T09:21:56.247140+00:00",
+    "ledger": "data/provenance/readings/F-271-correction-claims-WP129.json",
+    "new_source_claims": 23,
+    "existing_capacity_binding_retained": "CLM-271-CORR-CAPACITY",
+    "semantic_locators_this_manuscript": 24,
+    "selected_proof_interfaces": 71,
+    "source_grade": "C",
+    "full_dependency_grade": "unknown",
+    "full_family_credit": false,
+    "quality_receipt": "reports/reproducibility/20261029-F271-correction/closure.json",
+    "quality_complete": true
+  },
+  "source_bindings_total": 88,
+  "remaining_October_semantic_locators": 30
 }

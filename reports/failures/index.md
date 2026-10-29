@@ -24,7 +24,7 @@
 - APP-131-01（待定）：Retain specific conditional objects; do not run familiar synthetic QA just to raise initial-check count；证据及未执行项见对应卡片。
 - APP-131-02（待定）：Retain specific conditional objects; do not run familiar synthetic QA just to raise initial-check count；证据及未执行项见对应卡片。
 - APP-142-01（待定）：降低数值实现优先级：两套实际API及原始问题未提供合格完整块三角算子证书需求；输出语义和前提仍缺。；证据及未执行项见对应卡片。
-- APP-178-01（待定）：保留直接构造应用，先取得需求与可实现性证据，不为凑验证数运行旧小图校准。；证据及未执行项见对应卡片。
+- APP-178-01（待定）：实际构造/旧同阶同度基线及完整成本尚未准入；先补有限规格与实现，不运行旧小图或巨大渐近枚举。；证据及未执行项见对应卡片。
 - APP-231-01（待定）：ConditionalfiniteinterfacewithuniformL/Picardpiecesbuttwogatesunestablished;readsource fullynow,do notallocateunregisterednumerics.；证据及未执行项见对应卡片。
 - APP-238-02（待定）：Preserve a distinct conditional target;no extra toy QA or numerical initial-check promotion；证据及未执行项见对应卡片。
 - APP-239-01（待定）：Low numerical priority:concrete law interface established,but no actual rank-sensitive consumer or incremental decision value. Retain conditionally and rotate after bounded search.；证据及未执行项见对应卡片。

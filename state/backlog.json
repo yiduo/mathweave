@@ -4453,10 +4453,10 @@
       "body_read_credit": 0,
       "new_initial_checks": 0,
       "github_push": false,
-      "retrospective_due": "Counter2 after global046;WP130 substantive closure triggers global047 before further same-family expansion.",
-      "next_action": "After independent WP130 and required global047, resume23 correction statements plus30 spherical statements, reusing existing correction lem:capacity binding. Then bibliography aliases/history and whole-family QA. Finite-range30/foundation34/capacity1 and10domain/3cross attempts are already canonical;do not recreate or upgrade to full-family/application acceptance.",
+      "retrospective_due": "Global047counter1aftercorrectionoutput;nexttwo substantiveoutputs triggerglobal048 ormajornewproblem earlier.",
+      "next_action": "Resume spherical07-pressure.tex191-560 in small chunks (last output truncated),then08-global-spin.tex1-138. Actual rereads through pressure190 recorded in reports/reproducibility/20261029-F271-spherical/reading-progress.json. Qualify remaining30 source statements/selected proof dependencies;no new family-reading credit. Then history/formal/full-family QA.",
       "started_at": "2026-10-27T10:40:42.685615+00:00",
-      "execution_state": "Finite-range partial output checkpointed;resume after independent WP130/global047;whole-family still in_progress",
+      "execution_state": "Correction23scopeclosurecomplete;88semanticbindings,30sphericalpending;wholefamilyin_progress",
       "actual_source_lines_read": 14199,
       "progress_evidence": "state/reading-progress/WP-129.json",
       "base_commit": "8726fd62b2ad2949ae0588635dba5584aa44bae9",
@@ -4528,7 +4528,7 @@
           "lem:capacity": "CLM-271-CORR-CAPACITY"
         }
       },
-      "remaining_October_semantic_locators": 53,
+      "remaining_October_semantic_locators": 30,
       "application_mapping_quality_receipt": "reports/reproducibility/20261029-F271-mapping/closure.json",
       "finite_range_source_claim_ids": [
         "CLM-271-FR-THM-MAIN",
@@ -4562,12 +4562,44 @@
         "CLM-271-FR-PROP-PRESSURE-EQUIVALENCE",
         "CLM-271-FR-LEM-PIN-MIXTURE"
       ],
-      "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json"
+      "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json",
+      "route_adjustment_after_global047": {
+        "at": "2026-10-29T09:01:52.116739+00:00",
+        "decision": "Bounded completion of previously read correction23 and spherical30 before another newfamily/platform expansion;then revisit demand andlowcoverage",
+        "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md"
+      },
+      "correction_source_claim_ids": [
+        "CLM-271-CORR-THM-MAIN",
+        "CLM-271-CORR-COR-EXPANSION",
+        "CLM-271-CORR-PROP-LOOPINPUTS",
+        "CLM-271-CORR-LEM-KERNELENERGY",
+        "CLM-271-CORR-PROP-GEOMETRYINPUTS",
+        "CLM-271-CORR-PROP-SNAPSHOT",
+        "CLM-271-CORR-LEM-ISOLATEDPATH",
+        "CLM-271-CORR-PROP-GOOD",
+        "CLM-271-CORR-LEM-HEATBOUND",
+        "CLM-271-CORR-LEM-LOCALIZATION",
+        "CLM-271-CORR-LEM-FLOWOVERLAP",
+        "CLM-271-CORR-PROP-COMPARISON",
+        "CLM-271-CORR-LEM-FREEBOUNDS",
+        "CLM-271-CORR-LEM-SIGNEDSOURCE",
+        "CLM-271-CORR-LEM-CANCELLATION",
+        "CLM-271-CORR-LEM-SOURCEBINS",
+        "CLM-271-CORR-LEM-DUHAMEL",
+        "CLM-271-CORR-PROP-SCALAR",
+        "CLM-271-CORR-LEM-BOXMOMENT",
+        "CLM-271-CORR-PROP-DUALENERGY",
+        "CLM-271-CORR-LEM-BLOCKFLOW",
+        "CLM-271-CORR-LEM-EARLYSOURCEENERGY",
+        "CLM-271-CORR-LEM-SURFACECOST"
+      ],
+      "correction_curation_evidence": "data/provenance/readings/F-271-correction-claims-WP129.json",
+      "correction_quality_receipt": "reports/reproducibility/20261029-F271-correction/closure.json"
     },
     {
       "id": "WP-130",
       "priority": 1,
-      "status": "ready",
+      "status": "completed",
       "parent_task": "WP-006",
       "objective": "Audit actual APP178 source-constructor finite input/cost admission and strongest old prescribed-order/degree baseline before considering any consensus target.",
       "selection_reason": "After global046, mapping and finite-range qualification are two substantive F271 outputs. Switch to an existing unchecked candidate rather than another53 same-family statements. APP178 explicitly lacks usable n0(d),k_d and implementation/workload admission; this is a concrete source-to-application bottleneck,not a reason to substitute a favorable old small graph.",
@@ -4591,8 +4623,14 @@
       "new_initial_checks": 0,
       "body_read_credit_this_package": 0,
       "github_push": false,
-      "next_action": "Read the actual source constructor and parameter hierarchy from their complete needed definitions; inventory available implementation and old-builder interface; qualify finite admission and total cost. No graph target."
+      "next_action": "RetainAPP178pending;revisit only with actualnew/oldimplementation,numericfiniteinput,budget andfrozenworkload.",
+      "started_at": "2026-10-29T08:51:52.642787+00:00",
+      "execution_state": "Admission audit and global047 complete;consensus target remains unexecuted and pending prerequisites",
+      "progress_evidence": "data/provenance/readings/F-178-constructor-admission-WP130.json",
+      "completed_at": "2026-10-29T09:01:52.116739+00:00",
+      "completion_scope": "Actual constructor/old-baseline finite cost admission audit only; no consensus target executed",
+      "evidence": "reports/reproducibility/20261029-F178-admission/closure.json"
     }
   ],
-  "updated_at": "2026-10-29T08:11:51.917258+00:00"
+  "updated_at": "2026-10-29T09:30:23.953761+00:00"
 }

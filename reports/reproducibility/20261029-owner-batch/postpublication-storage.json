@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-29T08:33:30.152325+00:00",
+  "members": 11,
+  "compressed_sha256": "772338b1cec8c9c0a327f8b7d6a3d92ee34ce0e19be8e671ad61295d14228413",
+  "decompressed_sha256": "e56a56aa221b3a14c54395c24b6f684f075f110fd02f457ae7b76657dd36bc97",
+  "all_members_verified": true,
+  "temporary_directory": "/private/tmp/mathweave-owner-batch-20261029",
+  "plaintext_removed_after_verification": true,
+  "postpublication_receipts_local_only": true,
+  "remote_commit": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
+  "ci_status": "in_progress",
+  "new_numerical_runs": 0
+}

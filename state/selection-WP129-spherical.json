@@ -1,0 +1,35 @@
+{
+  "at": "2026-10-29T09:30:23.953761+00:00",
+  "work_package": "WP-129",
+  "status": "in_progress",
+  "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md",
+  "reason": "Complete bounded semantic qualification of the last previously read companion rather than open another short draft or repeat unavailable constructor/CI targets. Preserve full-family/history and application evidence requirements.",
+  "manuscript_id": "P-580339d5b914b270",
+  "source": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex",
+  "starting_locator": {
+    "label": "thm:main",
+    "lines": [
+      45,
+      64
+    ]
+  },
+  "remaining": 30,
+  "acceptance": "Actually read joint spin/temperature regime,normalization,limits,uniformity and finite-error qualifications plus needed proofs. Bind all30 source locators and selected interfaces;no inherited formal grade or complete-family/history/application credit. Then bibliography aliases,existing original scopes and full-family gap audit.",
+  "budget": "Existing pinned source and previous fullbody/history receipts,no sourcecopy/large dependency/numerical target. Needed selected originals bounded normalTLS,text-only andhash recorded.",
+  "alternatives": [
+    {
+      "route": "F178fullconstructor/oldsmallgraphcalibration",
+      "decision": "NotadmittedbyWP130;retainpendingandoriginal10percent/fullcostplan."
+    },
+    {
+      "route": "RepeatedEXP119environmentrunsorrelaxedequality",
+      "decision": "Do notrepeat;fullactual4oneULPmidpointcapsuleretained,exactoperationcauseunisolated."
+    },
+    {
+      "route": "Startnewshortfamilyimmediately",
+      "decision": "Retainlowcoveragebudget;firstfinishthisboundedpreviouslyreadcompanion,thenrevisitcoverage/demand underglobal048."
+    }
+  ],
+  "new_target_admitted": false,
+  "goal": "active_incomplete"
+}

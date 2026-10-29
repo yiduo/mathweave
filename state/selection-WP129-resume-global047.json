@@ -1,0 +1,42 @@
+{
+  "at": "2026-10-29T09:01:52.116739+00:00",
+  "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md",
+  "work_package": "WP-129",
+  "status": "in_progress",
+  "objective": "Semantic qualification of remaining23 correction statements,then30 spherical statements,keeping model/limit/field/finite-constant and historical/formal boundaries",
+  "starting_manuscript": "P-e4168cfdc9df4b3b",
+  "first_source": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+  "first_locators": {
+    "thm:main": [
+      45,
+      51
+    ],
+    "cor:expansion": [
+      55,
+      63
+    ]
+  },
+  "already_bound_capacity": "CLM-271-CORR-CAPACITY",
+  "remaining": {
+    "correction": 23,
+    "spherical": 30
+  },
+  "resource_limit": "Existing fixedsource and prior read/history receipts;no corpuscopy,large dependency,graphconstructor or new numerical target. Any needed selected primary acquisition bounded normalTLS,text only and recorded before analysis.",
+  "acceptance": "All actual hypotheses/limit order/uniformity,source hashes,old-method comparison and selected proof interfaces;fullgraph/source/FK/state/impact/export/core/clean/archive regression. Do not grant complete-family/history/human/provider credit from source indexing.",
+  "compared_routes": [
+    {
+      "route": "Full F178 constructor and consensus now",
+      "decision": "Defer until numeric finite prerequisites,new/old implementations and full cost/workload admitted."
+    },
+    {
+      "route": "Repeated EXP119 environment or tolerant equality",
+      "decision": "Do not repeat or relax;current actual remote capsule narrows to4midpoint floats;operation root cause remains separate."
+    },
+    {
+      "route": "Immediately open a short unread family",
+      "decision": "Retain lowcoverage budget;first consume bounded existing four-manuscript reading investment rather than accumulate another unfinished draft."
+    }
+  ],
+  "new_external_check_authorized_by_this_selection": false,
+  "goal": "active_incomplete"
+}

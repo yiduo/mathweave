@@ -1,0 +1,105 @@
+{
+  "work_package": "WP-129",
+  "manuscript_id": "P-580339d5b914b270",
+  "project_base": "2c14c9b",
+  "status": "source_qualification_in_progress",
+  "readings": [
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/main.tex",
+      "file_sha256": "6c7da97d60e212a9107cf86f0ac6f31df739627808f97a2efc946886d01f40c1",
+      "actual_reread_ranges": [
+        [
+          1,
+          74
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "1df7a37b7ecc61d7f3360ddda6a12cc090ceb730564272439af4e98e4bbd0031",
+      "actual_reread_ranges": [
+        [
+          1,
+          223
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+      "file_sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+      "actual_reread_ranges": [
+        [
+          1,
+          480
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "actual_reread_ranges": [
+        [
+          1,
+          693
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "actual_reread_ranges": [
+        [
+          1,
+          734
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+      "file_sha256": "93774be096bc16bdcba9b3738015ca30be8b628f3fe2dd2d964b9cadfec05578",
+      "actual_reread_ranges": [
+        [
+          1,
+          281
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+      "file_sha256": "6defda8ed4ce36097f3470ac5fb8cd388d9aa4ccdfcbd6e22ce0a655881031ee",
+      "actual_reread_ranges": [
+        [
+          1,
+          276
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "a8dc4f7a4a0a244dc1eb74987f23be185aa393a53586ffd2299bc4d9ea3ad6ed",
+      "actual_reread_ranges": [
+        [
+          1,
+          190
+        ]
+      ]
+    }
+  ],
+  "observed_main_scope": "FixedS and fixed finite beta>=implicitbeta0(S);even periodicL->infinity;self-adjoint linear-combinationtransform andsecondmoment. No jointfinite-volume measurement assertion.",
+  "previous_goal_turn": "progress:23correctionclaims/71interfacesqualified,97core/97clean/fullQA committed2c14c9b.",
+  "numerical_targets": 0,
+  "full_family_complete": false,
+  "observations": [
+    "Exponent field b is beta times physical h;q=1-exp(-b).",
+    "Torus pin induction:beta fixed sufficiently large FIRST,then L>=Lstar(beta),q>=L^-5/2;p=beta^-9/10. No pinned boundary.",
+    "Blocking/diffusion within induction assume larger-pin I(P),not the final smaller-pin conclusion.",
+    "Truncated infinity-flow divergence error must be paid by ghost coercivity q*norm2;do not drop it."
+  ],
+  "saved_at": "2026-10-29T09:45:54.934333+00:00",
+  "next_unread_range": "sections/07-pressure.tex:191-560,then08-global-spin.tex:1-138",
+  "interruption_reason": "Owner requested a current progress publication; unfinished statements remain outside canonical graph.",
+  "truncated_output_not_credited": "Pressure191-560 attempted output truncated; no reading credit.",
+  "new_canonical_claims": 0,
+  "new_family_reading_credit": 0,
+  "new_application_checks": 0
+}

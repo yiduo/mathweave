@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-29T09:30:23.953761+00:00",
+  "helper_members": 10,
+  "compressed_sha256": "cf54bd72fb749391292120eb217897177b524a907ae6d0aca12accd4486cbc8c",
+  "decompressed_sha256": "e3108420d685f4900f37195209fa29ebb2fd6fd2c845921a228fb0b739de4288",
+  "all_members_verified": true,
+  "clean_copy_files": 3474,
+  "clean_copy_bytes": 98977182,
+  "clean_copy_removed": true,
+  "temporary_directory": "/private/tmp/mathweave-F271-correction",
+  "temporary_directory_removed_after_archive_verification": true,
+  "sourcecopy_dependency_download_or_new_science_run": false,
+  "github_push": false
+}

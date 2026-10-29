@@ -1,0 +1,32 @@
+{
+  "at": "2026-10-29T08:43:23.438731+00:00",
+  "generation": "GEN-20261029-130",
+  "new_records": 2,
+  "updated_records": [
+    "APP-178-01",
+    "PART-178-GRAPH",
+    "LIT-178-E5788A99BB",
+    "ANALYSIS-F-178"
+  ],
+  "new_edges": 7,
+  "node_ids": [
+    "EXPLORATION-178-FINITE-ADMISSION",
+    "GEN-20261029-130"
+  ],
+  "edge_ids": [
+    "E-8684817000EB3D21",
+    "E-6E13C70477B08D2D",
+    "E-7F0CFA1D87573C21",
+    "E-0C36A429C3416D4F",
+    "E-8DAC5593E9422CE7",
+    "E-D41C6D0E569CFA53",
+    "E-4CA44AF3C8314263"
+  ],
+  "old_history_archive": "data/graph/history/GEN-20261029-130-before.json.gz",
+  "old_plan_preserved": true,
+  "new_candidate_check_target_counts": [
+    0,
+    0,
+    0
+  ]
+}

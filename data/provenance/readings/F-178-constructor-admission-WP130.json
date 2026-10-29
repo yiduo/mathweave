@@ -1,0 +1,249 @@
+{
+  "at": "2026-10-29T08:43:23.438731+00:00",
+  "generation_id": "GEN-20261029-130",
+  "family_id": "F-178",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_scope": "Selected reread of an existing GEN017 full-source draft; no new family/body/full-history credit. Admission audit, not proof acceptance or a consensus experiment.",
+  "sources": [
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/main.tex",
+      "sha256": "702410594f9d898c4e9b3de9ac428d5f7a32d62980b7bc83c7aa2013da4b2903",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 71]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/introduction.tex",
+      "sha256": "1ba28efd51ec881f8d8b8f5af8b0b17a44ea65ed5a72dc8e7778de24acc6a6e9",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 286]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/setup.tex",
+      "sha256": "ac7a38b863819f3f375ac9b8335f2ca8759aa8c6c1590f282fa45de17688a40e",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 159]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/accounts.tex",
+      "sha256": "062e3788617a1a0e08a697132c43ce50044a0d5ce6d7543f17a8c2b41a179432",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 150]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/algorithm.tex",
+      "sha256": "746a29c8e8a09be81f94def54b69515d2cc7158542802e793395071f5d9bfd41",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 153]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/repair.tex",
+      "sha256": "d6a9bafdc51fa99469bea7b74f7faa8cb22a6b3e1160d9804edacbc230cd3af5",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 102], [283, 339], [665, 784]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/foundations.tex",
+      "sha256": "cc9e9568f8eb68a65a02617510e1a22b84d2e9146738db38e9210c25a9d14a96",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[243, 280]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/cleanup.tex",
+      "sha256": "ec8a712aad5ed9007d762ebf491c00e862207e20771d59b611e5f38625a3f817",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 78]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/boundary.tex",
+      "sha256": "47ee0e953fac00b8fa0dc7906bde7be804342d34435db5efc892d2b1ccc31de3",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 100]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/sections/early.tex",
+      "sha256": "8928edaaa0e10e65bbc443c11bac86263fb25f41e58785e403b66160acc6b1c4",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[1, 50]]"
+    },
+    {
+      "path": "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/references.tex",
+      "sha256": "38076bafa8bebb5af13be2496a991ed0434ff32b941767a7c28102ddcc5e6720",
+      "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "locator": "WP130 selected constructor/cost scope, lines [[7, 27], [156, 162]]"
+    }
+  ],
+  "source_inventory": [
+    {
+      "path": "README.md",
+      "bytes": 711,
+      "sha256": "570b5e92dc80ff64de02b98693cc3b848e2a2d5c8dd8faf37813da831085e768"
+    },
+    {
+      "path": "build/figures/construction.tex",
+      "bytes": 1344,
+      "sha256": "8e529910ce0444928ce139ccc6b0bea8f382b5e3991f431f66270ca6e724f073"
+    },
+    {
+      "path": "build/figures/switch.tex",
+      "bytes": 1204,
+      "sha256": "b5643979adc57aad67aa3b7db8accdfd2ca041dd97aec6cf49b528442c3e0adf"
+    },
+    {
+      "path": "build/main.tex",
+      "bytes": 2498,
+      "sha256": "702410594f9d898c4e9b3de9ac428d5f7a32d62980b7bc83c7aa2013da4b2903"
+    },
+    {
+      "path": "build/references.tex",
+      "bytes": 9130,
+      "sha256": "38076bafa8bebb5af13be2496a991ed0434ff32b941767a7c28102ddcc5e6720"
+    },
+    {
+      "path": "build/sections/accounts.tex",
+      "bytes": 6973,
+      "sha256": "062e3788617a1a0e08a697132c43ce50044a0d5ce6d7543f17a8c2b41a179432"
+    },
+    {
+      "path": "build/sections/algorithm.tex",
+      "bytes": 8114,
+      "sha256": "746a29c8e8a09be81f94def54b69515d2cc7158542802e793395071f5d9bfd41"
+    },
+    {
+      "path": "build/sections/boundary.tex",
+      "bytes": 64739,
+      "sha256": "47ee0e953fac00b8fa0dc7906bde7be804342d34435db5efc892d2b1ccc31de3"
+    },
+    {
+      "path": "build/sections/cleanup.tex",
+      "bytes": 40498,
+      "sha256": "ec8a712aad5ed9007d762ebf491c00e862207e20771d59b611e5f38625a3f817"
+    },
+    {
+      "path": "build/sections/early.tex",
+      "bytes": 59404,
+      "sha256": "8928edaaa0e10e65bbc443c11bac86263fb25f41e58785e403b66160acc6b1c4"
+    },
+    {
+      "path": "build/sections/foundations.tex",
+      "bytes": 47425,
+      "sha256": "cc9e9568f8eb68a65a02617510e1a22b84d2e9146738db38e9210c25a9d14a96"
+    },
+    {
+      "path": "build/sections/introduction.tex",
+      "bytes": 15209,
+      "sha256": "1ba28efd51ec881f8d8b8f5af8b0b17a44ea65ed5a72dc8e7778de24acc6a6e9"
+    },
+    {
+      "path": "build/sections/repair.tex",
+      "bytes": 35108,
+      "sha256": "d6a9bafdc51fa99469bea7b74f7faa8cb22a6b3e1160d9804edacbc230cd3af5"
+    },
+    {
+      "path": "build/sections/setup.tex",
+      "bytes": 8351,
+      "sha256": "ac7a38b863819f3f375ac9b8335f2ca8759aa8c6c1590f282fa45de17688a40e"
+    },
+    {
+      "path": "paper.pdf",
+      "bytes": 885562,
+      "sha256": "6d8ea4bb85aae750e6d9e3101e197669ca9f3f5a5e551ad718a2fc9cb1abbd9e"
+    }
+  ],
+  "upstream_executable_source_files": [],
+  "local_availability_scope": "src/, scripts/ and MAP178 plan checked for Ramanujan/Alon implementation; no actual source constructor or full old prescribed-order builder located in this project. Bounded public search located papers/author pages, not a runnable baseline. This is not a claim that no external implementation exists.",
+  "selected_original": {
+    "requested_url": "https://web.math.princeton.edu/~nalon/PDFS/expexpg.pdf",
+    "raw_bytes": 378502,
+    "raw_sha256": "a8f525340dd27866e1f1da9b309ba928320fdefd4ea27392bc5e75e3ee6a7488",
+    "text_bytes": 45218,
+    "text_sha256": "3be1d701be7821c10e7055a0f3d9b03511f88f6acae1102507d8d2e9c6a671e8",
+    "scope": "PDF converted text only; downloaded author file version fixed by hash; not assumed journal typeset version",
+    "printed_version": "Received January26,2020; revised October4,2020; author journal-layout17page file",
+    "selected_text_lines": [
+      [
+        13,
+        13
+      ],
+      [
+        58,
+        79
+      ],
+      [
+        126,
+        129
+      ],
+      [
+        478,
+        689
+      ]
+    ],
+    "selected_printed_scope": "Introduction explicit/strongly-explicit definitions; Theorem1.3 p3; Section3 pp11-15 including Lemmas3.1-3.2,Theorem3.3 and proof1.3",
+    "retention": "Hash/short paraphrase/locators only; external full text removed after source scope qualification; not included in public helper archive.",
+    "proof_review": "Selected algorithm and finite prerequisites read; recursive MOP original and complete proof closure not independently checked."
+  },
+  "constructor_contract": {
+    "input": "Each fixed integer d>=3; even n>=n0(d); full adjacency output, no local oracle or joint-polynomial n,d promise",
+    "stages": [
+      "Early pairing minimizes discounted structural/trace/entry/row accounts over O_d(n^2) candidate pairs for O_d(n) steps while retaining both signed precisions.",
+      "Cleanup uses prescribed first stubs and eligible clean partners until l0, maintaining separation and analytic caps.",
+      "Separated boundary completes using one smoothly tapered stop reference and exact Woodbury continuation; phaseA reduces row energy before phaseB entry control; only final l3 stubs can be matched arbitrarily.",
+      "Exact repair needs confinement, all-vertex local mass and typical bulk blocks, then biased simultaneous switches and prime-field seed enumeration; final exact spectral certificate does not replace these stages."
+    ],
+    "parameter_hierarchy": "a=10^-4; l0~n^(2/3+.15a),b=ceil(n^(1/3+.345a)),l1=l0+2b,l2=l0*n^(-g-r),l3=n^chi; rP=.001a permitted,g=r sufficiently small, g+r<<chi<rP; high fixed moments/diagram cutoff after specified drift constants. These qualitative inequalities are not instantiated numeric finite admission.",
+    "literal_auxiliary_group": {
+      "formula": "ceil(10/(.03*a)),a=1/10000",
+      "exact_rational_before_ceiling": "10000000/3",
+      "points": 3333334,
+      "both_signed_instances": 6666668,
+      "meaning": "Tracked largest-primary auxiliary points during early/cleanup, before label multiplicities. This is a literal source bookkeeping count, not a benchmark or unconditional memory/time lower bound; streaming/optimized representations were not ruled out."
+    },
+    "cost_terms": [
+      "O_d(n^2) pairing candidates times O_d(n) steps, with exact candidate inverses/statistics and account comparisons.",
+      "Rational matrix dimension O_d(n), path recurrence O_d(logn), polynomial-bit determinant/minor arithmetic and discounts; exponent and fixed orders still require choices.",
+      "Colorful bounded-treewidth DP on O_d(logn) vertices and exp(k)*k^O(logk)*logn hash family, not brute-force n^k embeddings.",
+      "Repair rational inertia cutoff search; Bernstein degree ceil(n^(2(c+C))) for Lf<=n^c,target n^-C; fixed c,C not numerically instantiated.",
+      "M=ceil(n^(1/3+10a)) vertex-disjoint switches; prime P~n^Cprime with Cprime sufficiently large; up to P^2 seeds and exact rational spectral verification per retained candidate."
+    ],
+    "spectral_certificate": "For separately checked simple dregular A, B=[e1-en,...,e(n-1)-en]; B^T(4(d-1)I-A^2)B positive definite iff all eigenvalues on1perp are strictly inside the two-sided tree bound. Generic exact verifier, not a constructor.",
+    "finite_missing": [
+      "numeric n0(d) meeting all large-n inequalities",
+      "fully instantiated moment,loss,precision and prime exponents and all hidden constants",
+      "complete executable early/cleanup/boundary/repair implementation",
+      "a finite graph/workload satisfying the complete input contract within a declared resource budget"
+    ]
+  },
+  "old_baseline_contract": {
+    "id": "LIT-178-E5788A99BB",
+    "theorem": "Alon2021Theorem1.3: each fixed d>=3,epsilon>0,all sufficiently large admissible n with nd even, full deterministic graph, absolute nontrivial spectrum<=2sqrt(d-1)+epsilon.",
+    "finite_construction": "Proof1.3 takes r=ceil(2/epsilon),s=2r+4 and a slightly larger H on n+u vertices,u=o(n),spectral error epsilon/2, every s-neighborhood at most one cycle. Lemma3.1 supplies at least |V(H)|/(2*d^(2r+3)) eligible vertices with cycle-free r+1 neighborhoods and pairwise distances>=2r+3. Delete u of them and match their neighbors to restore degree; parity nd,(n+u)d even gives ud even.",
+    "finite_admission": "Need u<=the eligible-set lower bound and the MOP near-size/local-cycle construction at this n; for the theorem these hold at sufficiently large n. No numeric threshold or complete executable old builder established here.",
+    "same_contract": "For source even n,nd is admissible. Choose epsilon<d-2sqrt(d-1) to make the old absolute bound<d,excluding disconnected/bipartite cases as well; it does not yield the exact strict tree threshold.",
+    "alternatives": "Seeded random regular or old arithmetic exact graphs at actually shared degree/order remain controls. Do not replace prescribed n by Theta(n),drop simplicity,exclude -d,or omit construction costs."
+  },
+  "consensus_inference": {
+    "workload_preserved": "Unweighted nonlazy synchronous x(t+1)=A*x(t)/d, relativeL2 residual1e-6, same order/degree and frozen initial vectors.",
+    "spectral_statement": "r=||A|1perp||/d bounds worst-case error contraction; for0<r<1,ceil(log(delta)/log(r)) is a sufficient worst-case round count. It is not an observed mean round count.",
+    "no_uniform_10percent": "New strict bound only gives r<2sqrt(d-1)/d,with no fixed margin. Old upper bound approaches the same value as epsilon->0; upper-bound comparison supplies neither actual old lower bounds nor a uniform10percent reduction. Keep the original empirical prediction unchanged.",
+    "total_cost": "Include every construction phase, certificate and communication operation for both new and old builders. Existing graph reuse/amortization requires a separately frozen workload,not a silent exclusion."
+  },
+  "admission_decision": {
+    "status": "not_ready_for_registered_consensus_target",
+    "application_result": "待定",
+    "workflow": "候选",
+    "reason": "Actual finite constructor and old builder/workload/cost admission unresolved; source audit provides cost/prerequisite evidence but no executed external application check.",
+    "priority": "Defer numerical construction work until prerequisites supplied; do not allocate giant asymptotic enumeration or favorable old-smallgraph calibration.",
+    "revisit": [
+      "Reviewed executable source and strongest same-contract old builder",
+      "Numeric finite valid input with bounded cost",
+      "Frozen real or explicitly synthetic synchronous consensus workload,initial vectors,seeds,measurement and complete budget"
+    ]
+  },
+  "original_plan_sha256": "199526d40fe5840ca4924ad5330a0993b0d10394d4aa3a0596633a7a7fd319c9",
+  "original_10percent_and_fullcost_gate_preserved": true,
+  "new_candidates": 0,
+  "new_external_checks": 0,
+  "new_numerical_targets": 0,
+  "formal_rejection": false,
+  "independent_supplier_review": false,
+  "human_review": false
+}

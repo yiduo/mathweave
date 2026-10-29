@@ -1,0 +1,869 @@
+{
+  "at": "2026-10-29T09:20:40.963533+00:00",
+  "generation_id": "GEN-20261029-131",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-e4168cfdc9df4b3b",
+  "scope": "23 manually qualified correction statements after rereading9bodymodules2732lines plusmain/reference168lines;existingcapacitybindingretainedbyte-for-byte. Notnewbody/full-family/history/proofacceptancecredit.",
+  "source_reading_receipts": [
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/main.tex",
+      "file_sha256": "fbf731b46c34d504c261a9d0000ea78be35f5671005a1b42048db1e6fa389109",
+      "actual_reread_ranges": [
+        [
+          1,
+          70
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/references.tex",
+      "file_sha256": "8cdd4fd894c8c9c584dbef7edd7946e59026fc9a511185747a45cdfaffa71285",
+      "actual_reread_ranges": [
+        [
+          1,
+          98
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+      "actual_reread_ranges": [
+        [
+          1,
+          156
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+      "file_sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+      "actual_reread_ranges": [
+        [
+          1,
+          198
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "actual_reread_ranges": [
+        [
+          1,
+          552
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+      "file_sha256": "975dfb3e30cd608a57aa0c6022c99415ca652f01c2ecb3e8383f4fed258cd0f8",
+      "actual_reread_ranges": [
+        [
+          1,
+          150
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex",
+      "file_sha256": "bffeec3003069cfaed0cd70b7d86316553965293ff598e607ff8a8c697fc3fa3",
+      "actual_reread_ranges": [
+        [
+          1,
+          239
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+      "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+      "actual_reread_ranges": [
+        [
+          1,
+          315
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+      "file_sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+      "actual_reread_ranges": [
+        [
+          1,
+          337
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+      "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+      "actual_reread_ranges": [
+        [
+          1,
+          485
+        ]
+      ]
+    },
+    {
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex",
+      "file_sha256": "8d54b4b6539b582b35f82f39df514f08a1cf51f745e33a7e55e2cab01fe63267",
+      "actual_reread_ranges": [
+        [
+          1,
+          300
+        ]
+      ]
+    }
+  ],
+  "model_context": {
+    "model": "Nearest-neighborZ3 quantumHeisenbergferromagnet,fixedpositivehalf-integerS,ell=2S,unorderededgeonce,slotrate1/2,freefinitecubes",
+    "pin_and_kernel": "Allowedall-timeinner-boundaryD0plusfinitedeterministicpins;changedP=E+i;fixedexposureperiodicbutfreshturnrandomness;columnforwardandcountingmeasure,bothdirections",
+    "limit_order": "Integratefinite-volumefieldderivative;Ninfinityatfixedbeta,h;h0+atfixedbeta;betainfinityatfixedS. No effectivefinite-beta threshold orjointSlimit.",
+    "scales": "Dstar=sqrt(beta),delta=1/200,L=beta^delta,R=beta^(3/2+delta/4),Rstar=ceil(beta^(5/3)),lambda=beta^-3/2; rapidlysmall=O_j(beta^-j)foreachfixedj",
+    "full_ideal_sum": "Allpositiveperiodsretained;uncutpotentialneednotbel2;finitecutoffprofilesarefinitelysupported;seamexactlyoncewithorderedtwosides."
+  },
+  "claims": [
+    {
+      "id": "CLM-271-CORR-THM-MAIN",
+      "label": "thm:main",
+      "title": "固定自旋的第一晶格修正与完整理想磁振子密度",
+      "statement": "At fixed S, lim_(beta->infinity) (beta*S)^(5/2)[S-m_S(beta)-n_sw_S(beta)]=0.",
+      "conditions": [
+        "Nearest-neighbor isotropic quantum Heisenberg ferromagnet onZ3,free finite cubes,each unordered edge once; fixed positive half-integerS.",
+        "m_S(beta) is the right zero-field derivative of thermodynamic pressure. Integrate the finite-volume field derivative first;N->infinity at fixedbeta,h;thenh->0+ atfixedbeta;finallybeta->infinity. No joint S/temperature or simultaneous field scaling is asserted.",
+        "n_sw is the FULL lattice Bose integral with epsilon_S(k)=2S*sum_j(1-cos k_j),including all positive return periods. No effective beta0 or finite-size engineering tolerance is supplied.",
+        "The posterior field-pin set is not Bernoulli after partition reweighting. Its single-slot inclusion bound<=1-exp(-beta*t) and uniform deterministic-pin comparison are used before taking limits."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+        "file_sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+        "label": "thm:main",
+        "kind": "theorem",
+        "title_tex": null,
+        "statement_lines": [
+          45,
+          51
+        ],
+        "statement_sha256": "f2100e8d5773a30ae8ebfa2825021d62b51d5bddea5a4196e17284090284033e",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-COR-EXPANSION",
+      "label": "cor:expansion",
+      "title": "晶格两项展开的物理余项范围",
+      "statement": "S-m_S(beta)=zeta(3/2)/(8*pi^(3/2))*(beta*S)^(-3/2)+3*zeta(5/2)/(128*pi^(3/2))*(beta*S)^(-5/2)+o((beta*S)^(-5/2)).",
+      "conditions": [
+        "Same fixedS,nearest-neighborZ3 model and pressure-limit definition as thm:main.",
+        "The ideal-density heat-kernel expansion has O((beta*S)^(-7/2)) remainder; the interacting magnetization conclusion has only the stated little-oh remainder. Do not transfer the sharper ideal remainder to the quantum model.",
+        "The manuscript attributes the lattice coefficients to earlier spin-wave theory; this package does not newly verify Dyson originals or claim a new coefficient discovery."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+        "file_sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+        "label": "cor:expansion",
+        "kind": "corollary",
+        "title_tex": null,
+        "statement_lines": [
+          55,
+          63
+        ],
+        "statement_sha256": "1631a9fa23792bebaae5356330eccb17ac13c0f12a276c6e8b07f457f11670b4",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-LOOPINPUTS",
+      "label": "prop:loopinputs",
+      "title": "有限体积圈/钉扎输入与改变后的返回律",
+      "statement": "Tr exp(-beta*H)=exp(beta*qLambda/4)*E_base2^cycles; d_E(i)=r/(1+r),r=E_(E+i)q_i. For simultaneous finiteT at one time,P_D(T subsetB_D)<=(2r_T)^|T|; j-mark factorial measure<=2^j times base.",
+      "conditions": [
+        "Finite cube,beta>0,ell=2S slots,nearest-neighbor slot-edge rate1/2,independent uniform site seams. AllowedD is all-time inner-boundary pins plus finite deterministicF.",
+        "q_i is a STRICTLY positive-elapsed return of the fresh walk,periodic exposure but fresh transition randomness each turn,beforeE killing. Exposure sampled under CHANGED pin law E union{i}.",
+        "SimultaneousT consists of distinct slot-time points at ONE deterministic time,disjointD; no spatial separation required. Distinct marks/factorial measures do not imply independent trajectories or snapshots.",
+        "All-time boundary inputs use the companion dense-boundary limit; these imported statements are source assertions,not a complete companion-proof audit."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+        "file_sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+        "label": "prop:loopinputs",
+        "kind": "proposition",
+        "title_tex": "Loop and pin inputs",
+        "statement_lines": [
+          75,
+          108
+        ],
+        "statement_sha256": "c3532ebd6237b179b1a6853cf5588f47bc22a2acf4ed633b5c69f179086baa77",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-KERNELENERGY",
+      "label": "lem:kernelenergy",
+      "title": "双次随机收缩与一个周期能量",
+      "statement": "Every killed interval kernel and adjoint are doubly substochastic and contract counting l1,l2,linfinity; smooth norm loss is -2D_t(v). For U_d=U orU*,int D(Y)<=e_y and ||y-U_d^* y||_2^2<=2e_y.",
+      "conditions": [
+        "Forward kernels act on COLUMNS with counting measure; killing is a projection,exit killing retains diagonal exit rates. y vanishes on cut killing slots.",
+        "Adjoint reverses factor order,inverts transports,transposes seams and reverses killings. Two sides of an instantaneous operation remain distinct; each seam appears once per traversal.",
+        "Energy integral is for ONE complete traversal,not an arbitrary sum of repeated budgets. Instantaneous contractions only decrease norm. Extra spatial killing and cuts are permitted."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+        "file_sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+        "label": "lem:kernelenergy",
+        "kind": "lemma",
+        "title_tex": "Contraction and energy loss",
+        "statement_lines": [
+          141,
+          165
+        ],
+        "statement_sha256": "b5a3fb7ab390429932439fc80c6e4f38309a421e8bf29f3009b296e936ea951e",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-GEOMETRYINPUTS",
+      "label": "prop:geometryinputs",
+      "title": "导入的稀疏几何、局部Nash和无穷远流",
+      "statement": "For p=(5/beta)^(10/11), nonregular-slice probability<=C*R0^3*p^6+C*exp(-c*R0^xi). Local regularity gives counting Nash ||v||2^(10/3)<=C*D(v)*||v||1^(4/3),local paths and unit flows with near inverse-square/far exponent199/100 envelopes.",
+      "conditions": [
+        "FixedS,sufficiently largebeta,allowedD,deterministictime,anchor andR0 above a fixed threshold. Local regularity excludes6blocked sites in fixed Mstar balls; distant blocked components have the specified radius growth.",
+        "Nash uses vectors supported aboveB_R0. Full regularity is needed for flows to infinity on the exterior-extended available-slot graph; local regularity alone is not full global geometry.",
+        "Near flow bound C(1+b)^(-2) only for b<=R0; global bound is C(1+b)^(-199/100). Constants uniform volume,pins,anchor,time,not uniformS. Imported original companion scope remains conditional."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "prop:geometryinputs",
+        "kind": "proposition",
+        "title_tex": "Imported geometric estimates",
+        "statement_lines": [
+          31,
+          61
+        ],
+        "statement_sha256": "29de37b9bbf564949331c221f294ba51f33dff432e207c82533910062a845ce9",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-SNAPSHOT",
+      "label": "prop:snapshot",
+      "title": "至多六个同时点的扩散密度稀疏界",
+      "statement": "With lambda=beta^(-3/2),P_D(T subsetB_D)<=C*lambda^|T| for1<=|T|<=6 distinct slots at one deterministic time.",
+      "conditions": [
+        "Uniform finite cube,allowed deterministicD,time andpointlocations; distinct slots at one site are included. IfT meetsD the event is empty.",
+        "Proof first uses older one-turn localization/diffusion/spread-source estimates under changedPprime=D unionT and boundary-only killing; it does not assume the refined good event or final Bloch comparison it later helps prove.",
+        "No multi-time independence,unbounded-orderjoint bound or deterministic pointwise density follows."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "prop:snapshot",
+        "kind": "proposition",
+        "title_tex": "Uniform snapshot sparsity",
+        "statement_lines": [
+          93,
+          101
+        ],
+        "statement_sha256": "80cc8ae1eb77d234a5d78706fa16187a70a295a3d04a6c41253fa5477c003516",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-ISOLATEDPATH",
+      "label": "lem:isolatedpath",
+      "title": "孤立暴露轨迹的联合事件支配",
+      "statement": "P_P(isolation and X inA)<=2*P_base(tagged X inA),in either direction,for the specified interior path events.",
+      "conditions": [
+        "Deterministic starting slot and an interval of positive length<beta with NO seam in its interior; X is the actual picture strand and isolation requires no other exposed slot at its site or adjacent sites on both sides of jumps.",
+        "Paths inA stay interior. A seam at an endpoint is excluded by using post-seam atstart/pre-seam atend,also in reverse tracing.",
+        "This bounds the JOINT event of isolation and pathA; it is not domination of the conditional strand law given isolation,or of arbitrary exposed strands."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "lem:isolatedpath",
+        "kind": "lemma",
+        "title_tex": "Domination of an isolated strand",
+        "statement_lines": [
+          216,
+          235
+        ],
+        "statement_sha256": "6965b92ae3c7998f278c7964406d5a160e0975f3b8352b255bc0eb52c92c2669",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-GOOD",
+      "label": "prop:good",
+      "title": "双向周期好暴露及小于修正阶的坏集",
+      "statement": "UnderP_(E+i),there is periodicG withP(Gc)=o(beta^(-5/2)); both directions have block/bin step bounds,at most5local obstacle slots,all-time local regularity,at least half regular time perblock,and isolated-strand displacement<=C*L^(3/4).",
+      "conditions": [
+        "Injectioni is post-seam at0 overx;B_(50Rstar)(x) interior and noE pins above it. FixedS; Dstar=sqrt(beta),L=beta^(1/200),R=beta^(3/2+1/800),Rstar=ceil(beta^(5/3)).",
+        "Half-period partitions have blocklengthL..2L,bins1..3; seam sides assigned once as specified. Counts include different strands of the SAME cycle separately. Constants chosen c0,then c2,then c1.",
+        "Isolation at blockstart uses c2L separation; onG strands stay>2fromotherobstacles. Snapshot union gives beta^(-2.91) six-failure bound; isolated-path JOINT domination controls exceptional displacement before conditioning onG."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "prop:good",
+        "kind": "proposition",
+        "title_tex": "Good exposures",
+        "statement_lines": [
+          302,
+          325
+        ],
+        "statement_sha256": "cc3fe118ce1432a7a07452e136e95c480102d961a022780ad45549977a79e736",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-HEATBOUND",
+      "label": "lem:heatbound",
+      "title": "固定好暴露的局部热核",
+      "statement": "OnG,an interval kernel killed on exitB_Rstar has maximum entry<=C*(1+elapsed)^(-3/2).",
+      "conditions": [
+        "Either direction,anystarting slice,extra spatial killing andcopiedperiods; actual kernels kill onE,not onthe injectioni.",
+        "Deterministic fresh-walk statement at a fixed good exposure,from all-time local Nash andnorm contraction; not an independent Poisson law conditioned onG."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "lem:heatbound",
+        "kind": "lemma",
+        "title_tex": "Local heat bound",
+        "statement_lines": [
+          404,
+          412
+        ],
+        "statement_sha256": "fd57fd8201840cc256c346f5580612ebad410e059123317f7f9f107e382ff6db",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-LOCALIZATION",
+      "label": "lem:localization",
+      "title": "好暴露下新鲜游走的亚弹道定位",
+      "statement": "For elapsedu<=2beta fromaboveB_6R,onG excessive displacement beyond C*(1+u/L)*L^(3/4) has rapidly small probability;adding exit killing atB_Rstar has rapidly small mass loss.",
+      "conditions": [
+        "Both directions,arbitrary starting slice,probability of excessive displacement BEFORE killing,uniform overfixedgoodexposures. Rapidly small meansO_j(beta^(-j)) for everyfixedj,not a numerical finite-beta threshold.",
+        "Forced transport times are deterministic afterexposure. Occupation andforcedstep estimates use localheatbounds andthe Markov property ofthe freshwalk; no conditional-Poisson assertion is used."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "lem:localization",
+        "kind": "lemma",
+        "title_tex": "Displacement of the fresh walk",
+        "statement_lines": [
+          428,
+          440
+        ],
+        "statement_sha256": "c4b515bf6033ebb47c58546ce03339f7cf43dae431cf59c95c028d00a84efbd2",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-FLOWOVERLAP",
+      "label": "lem:flowoverlap",
+      "title": "全正规切片的分离流重叠",
+      "statement": "For availablea,aPrime overB_6R at a fully regular slice onG,sum_e |J_a(e)*J_aPrime(e)|<=C/(1+site_distance(a,aPrime)).",
+      "conditions": [
+        "Flows live onthe exterior-extended holegraph. Slot multiplicity retained;distance isbetween sites.",
+        "Uses inverse-square near envelopes and exponent199/100 far tails plusR=o(Rstar); not a generic statement for arbitrary networks or local regularity alone."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+        "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+        "label": "lem:flowoverlap",
+        "kind": "lemma",
+        "title_tex": "Flow overlap",
+        "statement_lines": [
+          522,
+          531
+        ],
+        "statement_sha256": "01b82a04e8392df22ad09a2925fbfd516dc62340a699463606f855808b5e1b2b",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-COMPARISON",
+      "label": "prop:comparison",
+      "title": "无局部钉扎区域的统一返回/下自旋比较",
+      "statement": "For sufficiently largebeta, |d_E(i)-n_sw_S(beta)/ell|<=epsilon_S(beta)*beta^(-5/2),epsilon_S->0. Same error for |E_(E+i)q_i-n_sw_S(beta)/ell|.",
+      "conditions": [
+        "Fixed positive half-integerS,anyfinitecube,allowedE=D0 unionF,i=(x,a)post-seam0. B_(50Rstar)(x) interior andE has no point above this ball;Rstar=ceil(beta^(5/3)).",
+        "Uniform overthe number andlocations ofpins OUTSIDE the ball;effectivebeta0,epsilon curve andfinite-size constants are not supplied.",
+        "Uses one scalar absolute residual pairing and BOTH forward/adjointenergy certificates;good-eventcomplement chargedbyits probability. Small v~beta^(-3/2) allows rational r/(1+r) corrections O(beta^(-3)),below beta^(-5/2)."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+        "file_sha256": "975dfb3e30cd608a57aa0c6022c99415ca652f01c2ecb3e8383f4fed258cd0f8",
+        "label": "prop:comparison",
+        "kind": "proposition",
+        "title_tex": "Uniform comparison away from pins",
+        "statement_lines": [
+          10,
+          26
+        ],
+        "statement_sha256": "5d543db8dc07d7ab89c688e256ec9d234d5a51e3d9887832dc1de7185ef1bade",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-FREEBOUNDS",
+      "label": "lem:freebounds",
+      "title": "全正周期自由势的空间/时间包络",
+      "statement": "For free profiles,smooth value/difference/time derivative<=C*(G,W,W/Dstar); pointpart atd=sqrt(1+s)<=C*(P_d,W_d,W_d/d). For s>=a*beta,pointpart also has smooth bounds.",
+      "conditions": [
+        "FixedS,sufficiently largebeta;G=beta^-1/(Dstar+r),W=beta^-1/(Dstar+r)^2,P_d=d^-3*(1+r/d)^-12,W_d=d^-4*(1+r/d)^-12. Bounded-distance differences include same-site slotdifferences.",
+        "Free v=(1/ell)sum_(n>=1)p_(n beta),c=(1+v(x))^-1,h=c*chi*(eta+v),0<=h<=1. Keep ALL positive periods; ell*v(x)=n_sw exactly.",
+        "Uncutv need not lie inl2;define it by pointwise positive convergent series. Trial/restricted finitecubeprofiles have finite support. Smoothpart is seam-invariant;pointslotseam changes obeydifferencebound; each traversal contains seam exactlyonce."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex",
+        "file_sha256": "bffeec3003069cfaed0cd70b7d86316553965293ff598e607ff8a8c697fc3fa3",
+        "label": "lem:freebounds",
+        "kind": "lemma",
+        "title_tex": "Bounds for the free profiles",
+        "statement_lines": [
+          116,
+          136
+        ],
+        "statement_sha256": "8b3f162afe6b068d63b71bbfb1e95fc850b642f7bf158708fea17288790f2fcf",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-SIGNEDSOURCE",
+      "label": "lem:signedsource",
+      "title": "孤立轨迹的带符号源守恒",
+      "statement": "The total SIGNED assigned source mass on directedblock[u,v] equals phi_v(Z_v)-phi_u(Z_u)+integral gamma_s(Z_s)ds.",
+      "conditions": [
+        "Fixed pictureinG,isolated obstacle strand starting aboveB_4R,oneblock,either profilepart,eitherelapsed direction. Profiles evaluated FULL before restrictiontoholes;gamma iscutoffcommutator.",
+        "Includes removed-edge,forcedholetransport andassigned seam sources withspecified endpoint sides. Identity is for net signedmass,not totalvariation."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+        "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+        "label": "lem:signedsource",
+        "kind": "lemma",
+        "title_tex": "Signed source identity",
+        "statement_lines": [
+          98,
+          110
+        ],
+        "statement_sha256": "5149a4e3241a3504b8843d9833061237d374844c335cec6c6ec3c1b010299c9d",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-CANCELLATION",
+      "label": "lem:cancellation",
+      "title": "区块源总变差与孤立净质量分开",
+      "statement": "One strand source is supportedwithinCL of itsanchor,hasTV<=C*L*Wcal(anchor); ifisolated,its signednetmass<=C*L^(3/4)*Wcal(anchor).",
+      "conditions": [
+        "OnG,blocklengthL..2L,anchoraboveB_4R. SmoothWcal=W. Pointprofile usesW_d onlywhendcomparablethroughblock andinf d>=L.",
+        "Pointprofileinsecondelapsedhalf also usesW;sumofpartsallowed. Earlypointtimesdo NOT automatically satisfyblockcancellation and instead needbin/diffusionarguments.",
+        "Smaller signedmass comesfromendpointdisplacement andtime/cutoff/seamterms;TVstillcountsalljumps."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+        "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+        "label": "lem:cancellation",
+        "kind": "lemma",
+        "title_tex": "Block source bounds",
+        "statement_lines": [
+          148,
+          167
+        ],
+        "statement_sha256": "efdb78de3375dbb8027f39dafd7ef4895616fcb5088457f1b78b0e5c229f9ee5",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-SOURCEBINS",
+      "label": "lem:sourcebins",
+      "title": "短时间分箱的源总变差",
+      "statement": "Inone directedbin,theassignedsourceTV<=H_beta*(W+W_d)(anchor),d=sqrt(1+s);sourcesites withinC*log(beta)ofanchor.",
+      "conditions": [
+        "OnG,binlength1..3,anchoraboveB_4R;eachprofilepartseparatelyusesitsownweight. H_beta isafixed logarithmicpower,notuniformarbitrarypower.",
+        "No signedcancellationisclaimedforthese earlybins;supports/timeweightsvarybyatmostcontrolledlogfactors."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+        "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+        "label": "lem:sourcebins",
+        "kind": "lemma",
+        "title_tex": "Bin source bounds",
+        "statement_lines": [
+          212,
+          221
+        ],
+        "statement_sha256": "7491ecf28627acbc0e09441ee714b43067c1b218f485010dd9449db211858330",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-DUHAMEL",
+      "label": "lem:duhamel",
+      "title": "严格切片次序的双源Duhamel恒等式",
+      "statement": "<mu_plus,h>=integral<s_plus(ds),bbar_s>+doubleintegral_(s precedes t)<T_(t,s)s_plus(ds),s_minus(dt)>.",
+      "conditions": [
+        "Sources arecontinuousgenerator-minus-profileerrorsandatomicK*phi_minus-phi_pluserrors. Reverseatomsarebeforetheoperationinforwardphysicaltime;profilesretainbothsides.",
+        "Strict insertion-sliceorder excludes theforward/reversepairfromtheSAMEoperation. ForatomicpairsT runsafterthefirstoperationtobeforethelaterone. No doubleseamcrossing or same-operation diagonal term.",
+        "Purefinite linear telescoping/variation-of-constants identity;doesnotrequire reversibility orindependentsourcecollections."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+        "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+        "label": "lem:duhamel",
+        "kind": "lemma",
+        "title_tex": "Two-source Duhamel identity",
+        "statement_lines": [
+          267,
+          281
+        ],
+        "statement_sha256": "3119bcb344fe9f2f45b5cd1c7f7f710aa72207273735949af06b956e514d0c32",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-SCALAR",
+      "label": "prop:scalar",
+      "title": "真实钉扎律下的标量绝对残差",
+      "statement": "E_P[1_G*|<mu_plus,h>|]=o(beta^(-5/2)),uniform ineligiblefinitecube,deterministicpinsandinjectionslot.",
+      "conditions": [
+        "FixedS,scales,interior/no-pinball andactualP=E union{i} exposurelaw;absolutevalueisINSIDE expectation.",
+        "Uses signedisolated cancellationinthecentralinterval,binboundsnearendpoints,cutoffcommutator,two-source orderedidentity,heatdecay/localizationandtwo-timeboxCauchy-Schwarz. No independence ofobstacles across times.",
+        "Smallestgainsinclude L^-1/4=beta^-1/800. This isasymptoticexpectedcontrol,notanexplicitfinite-betaerrorcertificate or deterministicpointwisebound."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+        "file_sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+        "label": "prop:scalar",
+        "kind": "proposition",
+        "title_tex": "Scalar estimate",
+        "statement_lines": [
+          11,
+          20
+        ],
+        "statement_sha256": "e4815806c9e8241e5785330004ab7e84b2e99c2207523d15beea620718315029",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-BOXMOMENT",
+      "label": "lem:boxmoment",
+      "title": "无需跨时间独立性的盒二阶矩",
+      "statement": "For deterministicfinite-supportw>=0,A_Q=sum_(obstaclesinzQ)w(z),sqrt(E sum_Q A_Q^2)<=C*(sqrt(lambda)*||w||2+lambda*sqrt(sum_Q(sum_(zQ)w(z))^2)).",
+      "conditions": [
+        "One deterministicslice,cubesofsidecomparableF>=1,slotmultiplicityincluded;lambda=beta^-3/2. Same-slotanddistinct-slottermschargedseparately.",
+        "Products of anchor sums at two deterministic slices withdistance<=CF are boundedbytheproductof their ownRHSsusingCauchy-Schwarz. No joint-time independence law isneeded;sitecounts preservedacrossseam."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+        "file_sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+        "label": "lem:boxmoment",
+        "kind": "lemma",
+        "title_tex": "Box moment bound",
+        "statement_lines": [
+          139,
+          157
+        ],
+        "statement_sha256": "dff0e1ba6ab4db0f7abe2f413447d3c1e3333c1c2a5476090beb57c31a005d08",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-PROP-DUALENERGY",
+      "label": "prop:dualenergy",
+      "title": "两个方向的统一测试类能量残差",
+      "statement": "OnG,|<mu_d,y>|<=X_d*sqrt(e_y)+C0*rho(beta),d=+,-;E_P[1_G*(X_plus^2+X_minus^2)]=o(beta^(-5/2)).",
+      "conditions": [
+        "Everyrealcuty vanishingonkillingcoordinates with||y||infinity<=C0. MeasurableX_d>=0 dependonexposurebutNOTonyorC0;rho deterministicrapidlysmall. Countingoneperiodenergye_y=<y,(I-U)y>.",
+        "FixedS,eligibleinterior/no-pinball andscales. NotpointwiseX_d=o(beta^-5/4),notonlyanexpected signedpairing,andnotaforward-onlycertificate.",
+        "Proofsharesatmost2e_yacrossdisjointnext-blockwindowsintwoperiodcopies,withseparatefinalblockcorrectionK_n. A naivemultiplier equal tothenumberofblocks isnot the statedestimate."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+        "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+        "label": "prop:dualenergy",
+        "kind": "proposition",
+        "title_tex": "Dual energy estimate",
+        "statement_lines": [
+          14,
+          37
+        ],
+        "statement_sha256": "75786aa0e188b6be5035147be69deeb73232d69f55c3ffd9c64d688b0d21127a",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-BLOCKFLOW",
+      "label": "lem:blockflow",
+      "title": "一个区块的局部与净质量流预算",
+      "statement": "Localizedpropagatedsource atany fullyregularsliceofnextblockhasflowenergy<=F_j=C*(L^6Q_j+L^2C_j+L^2*b_star^2*R^5),up torapidlysmalll1loss;final-cutlocalizedmassnorm2^2<=K_n=C*L^5*(Q_n+b_star^2R^3).",
+      "conditions": [
+        "Firstsourcecollection:cutoff+smoothobstacles+pointobstaclesinsecondelapsedhalf,onG. Q_j=sum W(anchor)^2;C_j=sum theta_alpha theta_alphaprime W*Wprime/(1+anchorseparation),theta=L^-1/4ifisolated else1;b_star=beta^-1R^-3.",
+        "E[1_G F_j]<=C*(L^6*lambda*beta^-2/Dstar+L^2*(L^-1/2*lambda^2+L^3*lambda^3)*beta^-2R+L^2*b_star^2R^5). Onlyone-time snapshotboundsareused.",
+        "Nextblockoflastblockisinacopiedperiod. Routesusefullregularity,available localpaths andflows toinfinity;nonzeronetsource mass isallowed. Flows neednotbechosenmeasurablybecause coefficientsarefinite snapshotbounds."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+        "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+        "label": "lem:blockflow",
+        "kind": "lemma",
+        "title_tex": "One-block flow bound",
+        "statement_lines": [
+          118,
+          144
+        ],
+        "statement_sha256": "dfc160379846890ff1674520a5f0e800f5e103e465b13f267d85b6c034a50484",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-EARLYSOURCEENERGY",
+      "label": "lem:earlysourceenergy",
+      "title": "早期点源的二阶矩与后段扩散",
+      "statement": "Forpoint-profileobstaclesourcesatelapsed[0,beta/2),theirprepropagationTV M hasE_P[1_G M^2]<=H_beta*beta^-3/2;onG |<mu_early_d,y>|<=C*M*beta^-3/4*sqrt(e_y)+C0*rho(beta).",
+      "conditions": [
+        "Testvectorsaretheboundedrealcutclass,notavector-dependentchoiceofM;eitherdirection. Sourcevariationusesbins,notunavailableearlyblockcancellation.",
+        "ProofusesMinkowskiforsnapshotswithnoindependence;propagatesforatleastbeta/4tolastquarterandaveragesoverfullyregulartimes. Heatboundandsubstochasticitygive massspreadbeforeflowpairing.",
+        "The referenceddual-energypropositionidentifiesONLYthetestvectorclass;thislemmasproofdoesnotassumethedual-energyconclusion ithelpsprove."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+        "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+        "label": "lem:earlysourceenergy",
+        "kind": "lemma",
+        "title_tex": "Diffusion of the early sources",
+        "statement_lines": [
+          369,
+          382
+        ],
+        "statement_sha256": "4e8fb3c0581c53ac2f048b453006a25128a5717b8631aae67b91b8751a2b3c93",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    },
+    {
+      "id": "CLM-271-CORR-LEM-SURFACECOST",
+      "label": "lem:surfacecost",
+      "title": "全时边界钉扎的表面压强代价",
+      "statement": "0<=p_N(t)-p_N_plus(t)<=(log2)*(ell/beta+24ell^2)*|innerboundaryLambda|/volume;hencep_N_plus(t)->p_S,beta(t).",
+      "conditions": [
+        "Everyfinitebeta>0,t>=0,finitecube;ell=2S,fixednormalization. Thisisapressureboundatfixedparameters,notuniformconvergenceofitszero-fieldderivatives.",
+        "Usesfieldtiltedcycleweight andPoissonmarkinsertionbound4;all-timeboundarycyclescountedbyboundaryslotsplusincidentmarks. Volume limit stillprecedesfieldderivative."
+      ],
+      "source": {
+        "manuscript_id": "P-e4168cfdc9df4b3b",
+        "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex",
+        "file_sha256": "8d54b4b6539b582b35f82f39df514f08a1cf51f745e33a7e55e2cab01fe63267",
+        "label": "lem:surfacecost",
+        "kind": "lemma",
+        "title_tex": "Surface cost of boundary pins",
+        "statement_lines": [
+          102,
+          111
+        ],
+        "statement_sha256": "73aedad97d8b7410e8e6be7f1dba1c5086ae9f25118e31d57488fc0f44b4d8d9",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      },
+      "source_claim_grade": "C",
+      "complete_dependency_grade": "unknown"
+    }
+  ],
+  "existing_capacity_binding": "CLM-271-CORR-CAPACITY",
+  "source_locators_total": 24,
+  "semantic_bindings_this_manuscript": 24,
+  "selected_proof_interfaces": {
+    "thm:main": [
+      "prop:comparison",
+      "lem:surfacecost",
+      "prop:loopinputs"
+    ],
+    "cor:expansion": [
+      "thm:main"
+    ],
+    "prop:loopinputs": [
+      "CLM-271-F-PROP-SPIN-LOOPS",
+      "CLM-271-F-LEM-FACTORIAL",
+      "CLM-271-FR-PROP-PIN-IDENTITIES",
+      "CLM-271-FR-PROP-FRESH-WALK",
+      "CLM-271-FR-LEM-DENSE-BOUNDARY"
+    ],
+    "prop:geometryinputs": [
+      "CLM-271-F-PROP-REGULARITY",
+      "CLM-271-F-PROP-LOCAL-NASH",
+      "CLM-271-F-LEM-LOCAL-CONNECTIVITY",
+      "CLM-271-F-PROP-FLOW-DECAY",
+      "CLM-271-FR-LEM-NEAR-FLOW"
+    ],
+    "prop:snapshot": [
+      "prop:loopinputs",
+      "prop:geometryinputs",
+      "lem:kernelenergy",
+      "CLM-271-FR-PROP-DIFFUSION",
+      "CLM-271-FR-LEM-LOCALIZATION",
+      "CLM-271-FR-PROP-SPREAD-ENERGY"
+    ],
+    "lem:isolatedpath": [
+      "prop:loopinputs"
+    ],
+    "prop:good": [
+      "prop:snapshot",
+      "prop:geometryinputs",
+      "lem:isolatedpath",
+      "prop:loopinputs"
+    ],
+    "lem:heatbound": [
+      "prop:good",
+      "prop:geometryinputs",
+      "lem:kernelenergy"
+    ],
+    "lem:localization": [
+      "prop:good",
+      "lem:heatbound"
+    ],
+    "lem:flowoverlap": [
+      "prop:geometryinputs",
+      "prop:good"
+    ],
+    "prop:comparison": [
+      "lem:capacity",
+      "prop:dualenergy",
+      "prop:scalar",
+      "prop:good",
+      "lem:freebounds",
+      "prop:loopinputs"
+    ],
+    "lem:signedsource": [
+      "prop:good",
+      "lem:freebounds"
+    ],
+    "lem:cancellation": [
+      "lem:signedsource",
+      "prop:good",
+      "lem:freebounds"
+    ],
+    "lem:sourcebins": [
+      "prop:good",
+      "lem:freebounds"
+    ],
+    "prop:scalar": [
+      "lem:duhamel",
+      "lem:cancellation",
+      "lem:sourcebins",
+      "prop:snapshot",
+      "lem:boxmoment",
+      "lem:freebounds",
+      "lem:heatbound",
+      "lem:localization"
+    ],
+    "lem:boxmoment": [
+      "prop:snapshot"
+    ],
+    "prop:dualenergy": [
+      "lem:blockflow",
+      "lem:earlysourceenergy",
+      "lem:kernelenergy",
+      "prop:good"
+    ],
+    "lem:blockflow": [
+      "lem:cancellation",
+      "lem:localization",
+      "prop:geometryinputs",
+      "lem:flowoverlap",
+      "prop:snapshot",
+      "prop:good"
+    ],
+    "lem:earlysourceenergy": [
+      "lem:sourcebins",
+      "lem:boxmoment",
+      "lem:localization",
+      "lem:heatbound",
+      "lem:flowoverlap",
+      "lem:kernelenergy"
+    ],
+    "lem:surfacecost": [
+      "prop:loopinputs"
+    ]
+  },
+  "proof_scope": "Selected direct proof-use andexplicit companion-input scopes,not complete proofaudit;in particularsnapshotbootstrapdoesnotassumethefinalgood-eventcomparisonandearlysourcelemmausesonlydualtestclass.",
+  "formal_scope": "No selected formal coverage ofthisOctoberlattice-correctionlaw verified. SeptemberKMS/dynamicsendpointgrade doesnottransfer. NoLeanbuild/Comparator/humanreview.",
+  "historical_scope": "Thispackage readsmanuscriptbibliographyandhistoryparagraphonly;priorselectedoriginalscopesretained,nounreadDyson/Hofmannstatementupgraded.",
+  "whole_family_complete": false,
+  "new_candidates": 0,
+  "new_application_checks": 0,
+  "new_numerical_targets": 0,
+  "source_bindings_total_after": 88,
+  "remaining_October_semantic_statements": 30
+}

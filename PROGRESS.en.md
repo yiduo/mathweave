@@ -1,6 +1,6 @@
 # MathWeave — Research progress
 
-Snapshot: October 29, 2026. Work packages are closed through WP128; global review046 is complete. WP129 remains unfinished, with eight method interfaces and65 scoped source statements through generation129:34 September statements,one correction capacity lemma and30 finite-range statements. Application mapping and these later source qualifications are local additions after public f2aa303. Remote publication and CI remain limited to their separate receipts. **Phase one remains incomplete.**
+Snapshot: October 29, 2026. This batch includes WP130 constructor admission, global review047 and GEN131 correction qualification (23 statements,71 selected proof interfaces). WP129 has88/118 scoped bindings; the remaining30 spherical statements and full historical/formal closure are unfinished. No new application check is claimed. **Phase one remains incomplete.**
 
 | Measure | Current result | Remaining requirement |
 | --- | --- | --- |
@@ -15,11 +15,11 @@ Snapshot: October 29, 2026. Work packages are closed through WP128; global revie
 | Separate diagnostic / component checks | 1 / 2 | Excluded from additional application-hypothesis credit |
 | Scientific archives | 18, containing 378 source members | Includes the diagnostic and component archives; not 18 distinct application hypotheses |
 | Human specification review / second provider / pilots | 0 / 0 / 0 | No reviewed engineering deployment is claimed |
-| Graph | 9,028 nodes; 26,511 relations | 10,047 core citation annotations; record counts are not proof acceptance |
+| Graph | 9,065 nodes; 26,681 relations | 10,113 core citation annotations; record counts are not proof acceptance |
 
-## Local additions after the verified public snapshot
+## Published evidence and local follow-up
 
-GEN128 checked selected sections of11 official consumer documents, retained10 domain and3 cross-family comparisons, and added one restricted killed-return certificate candidate with an unexecuted conditional plan. The source API example fails the matrix contract; no actual molecular data or consumer instance is admitted. GEN129 adds30 finite-range statement scopes, bringing the current semantic bindings to65 with53 October locators still pending. Neither output adds application validation. Local core/clean checks each pass97 tests. These changes are not pushed. Public f2aa303 retains its own47-candidate snapshot and failedCI: EXP119 raw mismatch with matching summary; local failure-upload changes have not been deployed.
+GEN128 checked selected scopes of11 official consumer documents, retained10-domain/3cross-family comparisons and one conditional killed-return candidate; no target run. GEN129 added30 finite-range scopes. These were published in3a4d5ce. Its CI failed EXP119 raw equality; the new failure-artifact upload succeeded. Local verified payload inspection found exactly4float midpoint differences of1ULP each, with all other raw fields and summary equal. No resource-gate or operation-root-cause success is inferred.
 
 ## Earlier research evidence and publication context
 
@@ -49,3 +49,8 @@ Generation129 completed finite-range30 natural statement scopes, bringing semant
 
 
 Latest local source qualification: generation129,31records/77edges,44 selected proof interfaces; graph9028/26511 and97/clean97 checks. No extra application check or complete-family credit. The full coupled dispersion and fixed-K/limit-order restrictions are in reports/F271-finite-range-claims.md.
+
+
+WP130 local admission audit rereads the actual four-stage F178 constructor and selected Alon Section3 prerequisites. The literal largest-primary auxiliary group has3,333,334points; this is not an unconditional runtime lower bound. Neither complete new/old implementation and finite budget admission nor a consensus workload is established. APP178 remains pending with its original10percent/full-cost prediction. See [audit](reports/F178-constructor-admission.md) and [global047](reports/retrospectives/047-constructor-admission-and-evidence-cost.md).
+
+Local GEN131 qualifies23 correction statements and71 selected proof interfaces. Existing capacity and all earlier cards are unchanged. This brings semantic bindings to88/118, leaving30 spherical statements. SourceC/full-chain unknown; no new target, application check or complete-family claim. Core97/clean97 and fullgraph/source/impact/archive checks passed;see [scopes](reports/F271-correction-claims.md).

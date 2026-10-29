@@ -1,8 +1,8 @@
 {
-  "saved_at": "2026-10-29T08:29:24.980092+00:00",
+  "saved_at": "2026-10-29T09:52:23.095782+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "/Users/smzdm/.codex/attachments/9889aa5b-5623-4db2-8f84-3b34de21114d/goal-objective.md",
-  "latest_retrospective": "reports/retrospectives/046-proof-scope-and-replay-evidence.md",
+  "latest_retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md",
   "completed_work_packages": [
     "WP-001",
     "WP-002",
@@ -132,15 +132,16 @@
     "WP-125",
     "WP-126",
     "WP-127",
-    "WP-128"
+    "WP-128",
+    "WP-130"
   ],
-  "work_packages_since_last_retrospective": 2,
+  "work_packages_since_last_retrospective": 1,
   "retrospective_due_after": 3,
   "metrics": {
-    "nodes": 9028,
-    "research_nodes": 5736,
-    "edges": 26511,
-    "citations_checked": 10047,
+    "nodes": 9065,
+    "research_nodes": 5762,
+    "edges": 26681,
+    "citations_checked": 10113,
     "candidate_connections": 48,
     "diagnostic_executions_not_initial_checks": 1,
     "externally_checked_cards": 15,
@@ -565,7 +566,10 @@
     "Publication8700f8b verified;no duplicate repo/rename/routine repush. WP10917pinnedfiles already acquired and selected ranges read;resume curation rather than redownload. No scientific experiment was run.",
     "WP1093projectcap reached,17sourcehashes/ranges recorded;do not rerun one-shotcurate.py/explicit_gate.py or acquire more similar libraries. APP23901 isconditional,not an actualcheck. Prior andexplicitgate QA retained.",
     "WP128 selected originals8/11 do not complete F181history:AH/Pyberbody andLovaszexactnumericformula/PDFhash remainunqualified. Do not repeat same403/abstractredirect or infer originalbound from secondary restatement.",
-    "WP128 auxiliary preservation check initially assumed every reading_coverage value was a list;actual legacy values are mixed dict/list. Failed helper/log preserved;canonical facts unchanged."
+    "WP128 auxiliary preservation check initially assumed every reading_coverage value was a list;actual legacy values are mixed dict/list. Failed helper/log preserved;canonical facts unchanged.",
+    "WP130:oldsmallRamanujangraph spectral calibration is not sourceconstructor or application test;missingnumericn0/kd is not formal rejection.",
+    "CI40842772641failureartifact savedverified:4oneULPmidpointdifferences,allotherraw/summaryequal;do notrerun119merelytospeculate aboutLinuxcause.",
+    "Alon author PDF378502bytesSHAa8f525340dd27866e1f1da9b309ba928320fdefd4ea27392bc5e75e3ee6a7488 was selectedtextcheckedanddeleted;ledger haslocators. Web extractionatTau expexp3.pdf failed502;Princetonauthor routeworked."
   ],
   "resume_commands": [
     "Read goal objective,root charter,docs/roadmap.md,state/status.md,state/checkpoint.json,state/backlog.json andglobal045;check disk andactual handles.",
@@ -574,38 +578,6 @@
     "Do not repeat prior F14972case target or denied primary routes as new work;do not push GitHub perpackage."
   ],
   "next_work_package": {
-    "id": "WP-130",
-    "priority": 1,
-    "status": "ready",
-    "parent_task": "WP-006",
-    "objective": "Audit actual APP178 source-constructor finite input/cost admission and strongest old prescribed-order/degree baseline before considering any consensus target.",
-    "selection_reason": "After global046, mapping and finite-range qualification are two substantive F271 outputs. Switch to an existing unchecked candidate rather than another53 same-family statements. APP178 explicitly lacks usable n0(d),k_d and implementation/workload admission; this is a concrete source-to-application bottleneck,not a reason to substitute a favorable old small graph.",
-    "inputs": [
-      "APP-178-01",
-      "CLM-178-THM-MAIN",
-      "PART-178-GRAPH",
-      "PART-178-CERTIFICATE",
-      "ANALYSIS-F-178",
-      "experiments/plans/MAP-178-001.json",
-      "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/"
-    ],
-    "resource_limit": "Existing source only:13TeX files6694raw lines inventoried,not newly read. Start main71/introduction286/setup159/accounts150/algorithm153/references206=1025lines,then follow all needed phase/constant definitions within the closure. No upstream copy,new graph solver,large dependencies or numerical target. Any necessary selected original acquired normally with bounded2MiB per item/8MiB total and converted text only if PDF.",
-    "acceptance": "Source-bound constructor phases,finite thresholds/parameter hierarchy,bit/output/spectral certificate costs and exact input degree/order constraints. Compare a genuinely available strong old builder at SAME order/degree and count all construction plus communication costs. Preserve the original10percent-round prediction and full-wall-time gate. Admit only with usable constants/implementation and real or explicitly synthetic workload;otherwise retain missing prerequisites without test credit.",
-    "stop_or_redirect": "No target until separate executable preregistration/source freeze. No old small-graph spectrum check standing in for the new constructor; no weaker graph order/degree or dropped construction overhead to obtain a win. A missing numeric n0/kd is not a formal mathematical rejection or proof that no implementation exists.",
-    "depends_on": [
-      "WP-128"
-    ],
-    "created_at": "2026-10-29T08:11:51.917258+00:00",
-    "retrospective_due": "Third substantive output after global046 triggers global047,even if WP129 remains unfinished.",
-    "new_initial_checks": 0,
-    "body_read_credit_this_package": 0,
-    "github_push": false,
-    "next_action": "Read the actual source constructor and parameter hierarchy from their complete needed definitions; inventory available implementation and old-builder interface; qualify finite admission and total cost. No graph target."
-  },
-  "release_state": "Public MathWeave d48dd19a24a2c872954ab7cce35ee9c7eaf04cdd through WP112 GEN109 and unfinished WP113 checkpoint; exact tree/seven public files verified, scoped CI success.",
-  "last_quality_evidence": "reports/reproducibility/20261029-F271-finite-range/quality.json",
-  "previous_goal_turn_classification": "progress:WP125qualifiedsource/global044closedandcommitted;WP126actualsource/planreread andfinite-referencepreparationdraftsaved.",
-  "active_work_package": {
     "id": "WP-129",
     "priority": 1,
     "status": "in_progress",
@@ -633,10 +605,10 @@
     "body_read_credit": 0,
     "new_initial_checks": 0,
     "github_push": false,
-    "retrospective_due": "Counter2 after global046;WP130 substantive closure triggers global047 before further same-family expansion.",
-    "next_action": "After independent WP130 and required global047, resume23 correction statements plus30 spherical statements, reusing existing correction lem:capacity binding. Then bibliography aliases/history and whole-family QA. Finite-range30/foundation34/capacity1 and10domain/3cross attempts are already canonical;do not recreate or upgrade to full-family/application acceptance.",
+    "retrospective_due": "Global047counter1aftercorrectionoutput;nexttwo substantiveoutputs triggerglobal048 ormajornewproblem earlier.",
+    "next_action": "Resume spherical07-pressure.tex191-560 in small chunks (last output truncated),then08-global-spin.tex1-138. Actual rereads through pressure190 recorded in reports/reproducibility/20261029-F271-spherical/reading-progress.json. Qualify remaining30 source statements/selected proof dependencies;no new family-reading credit. Then history/formal/full-family QA.",
     "started_at": "2026-10-27T10:40:42.685615+00:00",
-    "execution_state": "Finite-range partial output checkpointed;resume after independent WP130/global047;whole-family still in_progress",
+    "execution_state": "Correction23scopeclosurecomplete;88semanticbindings,30sphericalpending;wholefamilyin_progress",
     "actual_source_lines_read": 14199,
     "progress_evidence": "state/reading-progress/WP-129.json",
     "base_commit": "8726fd62b2ad2949ae0588635dba5584aa44bae9",
@@ -708,7 +680,7 @@
         "lem:capacity": "CLM-271-CORR-CAPACITY"
       }
     },
-    "remaining_October_semantic_locators": 53,
+    "remaining_October_semantic_locators": 30,
     "application_mapping_quality_receipt": "reports/reproducibility/20261029-F271-mapping/closure.json",
     "finite_range_source_claim_ids": [
       "CLM-271-FR-THM-MAIN",
@@ -742,10 +714,216 @@
       "CLM-271-FR-PROP-PRESSURE-EQUIVALENCE",
       "CLM-271-FR-LEM-PIN-MIXTURE"
     ],
-    "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json"
+    "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json",
+    "route_adjustment_after_global047": {
+      "at": "2026-10-29T09:01:52.116739+00:00",
+      "decision": "Bounded completion of previously read correction23 and spherical30 before another newfamily/platform expansion;then revisit demand andlowcoverage",
+      "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md"
+    },
+    "correction_source_claim_ids": [
+      "CLM-271-CORR-THM-MAIN",
+      "CLM-271-CORR-COR-EXPANSION",
+      "CLM-271-CORR-PROP-LOOPINPUTS",
+      "CLM-271-CORR-LEM-KERNELENERGY",
+      "CLM-271-CORR-PROP-GEOMETRYINPUTS",
+      "CLM-271-CORR-PROP-SNAPSHOT",
+      "CLM-271-CORR-LEM-ISOLATEDPATH",
+      "CLM-271-CORR-PROP-GOOD",
+      "CLM-271-CORR-LEM-HEATBOUND",
+      "CLM-271-CORR-LEM-LOCALIZATION",
+      "CLM-271-CORR-LEM-FLOWOVERLAP",
+      "CLM-271-CORR-PROP-COMPARISON",
+      "CLM-271-CORR-LEM-FREEBOUNDS",
+      "CLM-271-CORR-LEM-SIGNEDSOURCE",
+      "CLM-271-CORR-LEM-CANCELLATION",
+      "CLM-271-CORR-LEM-SOURCEBINS",
+      "CLM-271-CORR-LEM-DUHAMEL",
+      "CLM-271-CORR-PROP-SCALAR",
+      "CLM-271-CORR-LEM-BOXMOMENT",
+      "CLM-271-CORR-PROP-DUALENERGY",
+      "CLM-271-CORR-LEM-BLOCKFLOW",
+      "CLM-271-CORR-LEM-EARLYSOURCEENERGY",
+      "CLM-271-CORR-LEM-SURFACECOST"
+    ],
+    "correction_curation_evidence": "data/provenance/readings/F-271-correction-claims-WP129.json",
+    "correction_quality_receipt": "reports/reproducibility/20261029-F271-correction/closure.json"
+  },
+  "release_state": "Last verified public3a4d5ce;owner-requested batch pending exact audit,push and remote readback;phaseone incomplete.",
+  "last_quality_evidence": "reports/reproducibility/20261029-F271-finite-range/quality.json",
+  "previous_goal_turn_classification": "progress:WP125qualifiedsource/global044closedandcommitted;WP126actualsource/planreread andfinite-referencepreparationdraftsaved.",
+  "active_work_package": {
+    "id": "WP-129",
+    "priority": 1,
+    "status": "in_progress",
+    "parent_task": "WP-006",
+    "objective": "Read all four current F271 Heisenberg magnetization/Bloch-law manuscripts and exact historical/formal interfaces;extract source-bound input-output-conditions and compare old spin-wave/thermodynamic-limit baselines before proposing application credit.",
+    "selection_reason": "Global045 closes one actual external check and one history followup;restore low-covered mathematical physics3/25 rather than repeat the known Euler grid or blocked primary routes. F271 has four related current manuscripts14199 rawTeX/Bib lines;choose a whole connected family reading budget rather than the shorter F2803433-line single稿. This may expose finite/infinite,temperature/field/order-of-limits and finite-range-versus-nearest-neighbor transfer gaps;not yet accepted application relevance. F269 two manuscripts include an85632-line raw recursive tree and unqualified geometry/disorder model;retain for later rather than infer its gap from a small matrix.",
+    "inputs": [
+      "F-271",
+      "P-9669b6997ff4be58",
+      "P-e4168cfdc9df4b3b",
+      "P-580339d5b914b270",
+      "P-addb934e37307c35",
+      "math/lean/docs/271.md",
+      "reports/reproducibility/20261027-F181-history/global-coverage-and-selection.json"
+    ],
+    "resource_limit": "All four current manuscript actual include closures,planned46TeX/Bib14199 rawlines plusREADMEs andnecessary selected formal/original scopes;no corpuscopy,large solver/Lean install or upstream mutation. Split reading receipts bymanuscript if interrupted;no creditbeforeactualbody/conditions. Primary acquisitions normalTLS bounded3MiB/artifact16MiB total. No numerical targetwithout distinct frozen spec/source.",
+    "acceptance": "Versioned source-bound claims and conditional method contracts for all actually read bodies;whole-family/manuscript progress honest. Explicit finite-vs-thermodynamic,field/temperature/spin/coupling/order-of-limits anduniformity distinctions;actual formal specifications compared only to their scope,not all source results. Selected original histories versioned and recursive gaps explicit. Ten-domain andcrossfamily attempts only after source reading;concrete mapping+conditions required for any newcandidate. Fullgraph/source/FK/impact/export/core/clean/storage oncanonicalchange.",
+    "stop_or_redirect": "Do not treat a finite lattice computation as spontaneous magnetization or thermodynamic-limit/low-temperature proof. Do not confuse coefficient asymptotics with finite-temperature error or practical runtime. Known charter seed exposure precludes blind rediscovery credit. If source prerequisites unqualified preserve uncertainty andcompare old baseline rather than run favorable controls.",
+    "depends_on": [
+      "WP-128"
+    ],
+    "created_at": "2026-10-27T10:33:10.189858+00:00",
+    "selection_receipt": "state/selection-WP129.json",
+    "source_inventory_receipt": "reports/reproducibility/20261027-F181-history/global-coverage-and-selection.json",
+    "body_read_credit": 0,
+    "new_initial_checks": 0,
+    "github_push": false,
+    "retrospective_due": "Global047counter1aftercorrectionoutput;nexttwo substantiveoutputs triggerglobal048 ormajornewproblem earlier.",
+    "next_action": "Resume spherical07-pressure.tex191-560 in small chunks (last output truncated),then08-global-spin.tex1-138. Actual rereads through pressure190 recorded in reports/reproducibility/20261029-F271-spherical/reading-progress.json. Qualify remaining30 source statements/selected proof dependencies;no new family-reading credit. Then history/formal/full-family QA.",
+    "started_at": "2026-10-27T10:40:42.685615+00:00",
+    "execution_state": "Correction23scopeclosurecomplete;88semanticbindings,30sphericalpending;wholefamilyin_progress",
+    "actual_source_lines_read": 14199,
+    "progress_evidence": "state/reading-progress/WP-129.json",
+    "base_commit": "8726fd62b2ad2949ae0588635dba5584aa44bae9",
+    "current_manuscripts_full_body_read": 4,
+    "canonical_credit_added": false,
+    "selected_formal_scope_receipt": "reports/reproducibility/20261027-F271-source/selected-formal-scope.json",
+    "selected_originals_newly_read": 5,
+    "selected_history_scope_receipt": "reports/reproducibility/20261027-F271-source/selected-history-scopes.json",
+    "partial_method_ids": [
+      "PART-271-CONDITIONAL-KERNEL",
+      "PART-271-DUAL-CAPACITY",
+      "PART-271-TORUS-FLOW",
+      "PART-271-CLOSED-CLASSES",
+      "PART-271-STRIP-CURVATURE",
+      "PART-271-CYCLIC-ZERO-FREE",
+      "PART-271-PRESSURE-INCREMENTS",
+      "PART-271-HARMONIC-SELECTION"
+    ],
+    "partial_method_curation_evidence": "reports/reproducibility/20261029-F271-methods/quality.json",
+    "foundation_source_claim_ids": [
+      "CLM-271-F-THM-MAIN",
+      "CLM-271-F-LEM-SLOT-REALIZATION",
+      "CLM-271-F-PROP-SPIN-LOOPS",
+      "CLM-271-F-LEM-DENSE-PINS",
+      "CLM-271-F-LEM-FACTORIAL",
+      "CLM-271-F-PROP-PIN-TEST",
+      "CLM-271-F-LEM-PIN-STABILITY-CLOSURE",
+      "CLM-271-F-LEM-PIN-PARTIAL-SYMMETRIZATION",
+      "CLM-271-F-LEM-PIN-EXCHANGE-SYMBOL",
+      "CLM-271-F-LEM-PIN-SPLICING",
+      "CLM-271-F-LEM-PIN-PRESENCE",
+      "CLM-271-F-PROP-EXPOSURE",
+      "CLM-271-F-LEM-EXTERIOR",
+      "CLM-271-F-PROP-FIRST-MOMENT",
+      "CLM-271-F-LEM-EXPOSURE-DENSE-RETURN",
+      "CLM-271-F-LEM-RETURN-ENERGY",
+      "CLM-271-F-LEM-NONGRID",
+      "CLM-271-F-LEM-COMPONENT-TAIL",
+      "CLM-271-F-PROP-REGULARITY",
+      "CLM-271-F-LEM-LOCAL-CONNECTIVITY",
+      "CLM-271-F-PROP-LOCAL-NASH",
+      "CLM-271-F-LEM-HULLS",
+      "CLM-271-F-PROP-FLOW-DECAY",
+      "CLM-271-F-LEM-FLOW-OVERLAP",
+      "CLM-271-F-PROP-FLOW-ENERGY",
+      "CLM-271-F-LEM-TWO-ENDS",
+      "CLM-271-F-LEM-LOCALIZATION",
+      "CLM-271-F-LEM-REGULAR-TIME-DECAY",
+      "CLM-271-F-PROP-LEAKAGE",
+      "CLM-271-F-THM-PIN-BOOTSTRAP",
+      "CLM-271-F-LEM-SURFACE-COST",
+      "CLM-271-F-PROP-MAGNETIZED-LIMIT",
+      "CLM-271-F-LEM-DEEP-DYNAMICS",
+      "CLM-271-F-LEM-STRIP-LIMIT"
+    ],
+    "foundation_quality_receipt": "reports/reproducibility/20261029-F271-foundation/quality.json",
+    "route_adjustment": {
+      "retrospective": "reports/retrospectives/046-proof-scope-and-replay-evidence.md",
+      "at": "2026-10-29T07:11:05.487037+00:00",
+      "decision": "Bring bounded application mapping forward before exhaustive remaining claim curation; preserve full-family requirements.",
+      "reason": "Two source-curation outputs and one maintenance output produced no application/distant-exploration count increase."
+    },
+    "partial_application_mapping_evidence": "data/provenance/readings/F-271-application-mapping-WP129.json",
+    "application_candidate_ids": [
+      "APP-271-01"
+    ],
+    "additional_semantic_bindings": {
+      "P-e4168cfdc9df4b3b": {
+        "lem:capacity": "CLM-271-CORR-CAPACITY"
+      }
+    },
+    "remaining_October_semantic_locators": 30,
+    "application_mapping_quality_receipt": "reports/reproducibility/20261029-F271-mapping/closure.json",
+    "finite_range_source_claim_ids": [
+      "CLM-271-FR-THM-MAIN",
+      "CLM-271-FR-PROP-LOOP-REPRESENTATION",
+      "CLM-271-FR-LEM-DENSE-BOUNDARY",
+      "CLM-271-FR-LEM-FACTORIAL",
+      "CLM-271-FR-PROP-PIN-IDENTITIES",
+      "CLM-271-FR-PROP-EXPOSURE",
+      "CLM-271-FR-LEM-EXTERIOR-MOMENTS",
+      "CLM-271-FR-PROP-NEXT-PIN-KERNEL",
+      "CLM-271-FR-PROP-FRESH-WALK",
+      "CLM-271-FR-PROP-NASH",
+      "CLM-271-FR-LEM-ROUTED-FLOW",
+      "CLM-271-FR-PROP-SPARSE-ENERGY",
+      "CLM-271-FR-LEM-NEAR-FLOW",
+      "CLM-271-FR-PROP-SPREAD-ENERGY",
+      "CLM-271-FR-LEM-BLOCKING",
+      "CLM-271-FR-LEM-COMPONENT-TAIL",
+      "CLM-271-FR-PROP-IRREGULARITY",
+      "CLM-271-FR-LEM-LOCALIZATION",
+      "CLM-271-FR-PROP-DIFFUSION",
+      "CLM-271-FR-LEM-HITTING-ENERGY",
+      "CLM-271-FR-LEM-SUFFIX-ENERGY",
+      "CLM-271-FR-THM-SPARSE-PINS",
+      "CLM-271-FR-LEM-RETURN-EXPANSION",
+      "CLM-271-FR-PROP-LONG-TAIL",
+      "CLM-271-FR-COR-SINGLETON-BOUND",
+      "CLM-271-FR-LEM-IDEAL-KERNEL",
+      "CLM-271-FR-PROP-FINITE-WORD",
+      "CLM-271-FR-THM-RETURN-BOUNDS",
+      "CLM-271-FR-PROP-PRESSURE-EQUIVALENCE",
+      "CLM-271-FR-LEM-PIN-MIXTURE"
+    ],
+    "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json",
+    "route_adjustment_after_global047": {
+      "at": "2026-10-29T09:01:52.116739+00:00",
+      "decision": "Bounded completion of previously read correction23 and spherical30 before another newfamily/platform expansion;then revisit demand andlowcoverage",
+      "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md"
+    },
+    "correction_source_claim_ids": [
+      "CLM-271-CORR-THM-MAIN",
+      "CLM-271-CORR-COR-EXPANSION",
+      "CLM-271-CORR-PROP-LOOPINPUTS",
+      "CLM-271-CORR-LEM-KERNELENERGY",
+      "CLM-271-CORR-PROP-GEOMETRYINPUTS",
+      "CLM-271-CORR-PROP-SNAPSHOT",
+      "CLM-271-CORR-LEM-ISOLATEDPATH",
+      "CLM-271-CORR-PROP-GOOD",
+      "CLM-271-CORR-LEM-HEATBOUND",
+      "CLM-271-CORR-LEM-LOCALIZATION",
+      "CLM-271-CORR-LEM-FLOWOVERLAP",
+      "CLM-271-CORR-PROP-COMPARISON",
+      "CLM-271-CORR-LEM-FREEBOUNDS",
+      "CLM-271-CORR-LEM-SIGNEDSOURCE",
+      "CLM-271-CORR-LEM-CANCELLATION",
+      "CLM-271-CORR-LEM-SOURCEBINS",
+      "CLM-271-CORR-LEM-DUHAMEL",
+      "CLM-271-CORR-PROP-SCALAR",
+      "CLM-271-CORR-LEM-BOXMOMENT",
+      "CLM-271-CORR-PROP-DUALENERGY",
+      "CLM-271-CORR-LEM-BLOCKFLOW",
+      "CLM-271-CORR-LEM-EARLYSOURCEENERGY",
+      "CLM-271-CORR-LEM-SURFACECOST"
+    ],
+    "correction_curation_evidence": "data/provenance/readings/F-271-correction-claims-WP129.json",
+    "correction_quality_receipt": "reports/reproducibility/20261029-F271-correction/closure.json"
   },
   "publication_work": {
-    "status": "checks_passed_pending_push_readback_ci",
+    "status": "local_checks_passed_pending_audit_push_readback",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/mathweave",
     "official_math_excluded": true,
@@ -757,7 +935,7 @@
     "initial_remote_ci_failure_preserved": true,
     "macos_strict_replay_passed": true,
     "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-    "latest_public_commit": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
+    "latest_public_commit": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
     "latest_ci": [
       {
         "id": 40831475096,
@@ -770,134 +948,19 @@
         "updated_at": "2026-10-29T06:53:01Z"
       }
     ],
-    "current_local_research_not_yet_pushed": "Only post-push receipts/checkpoint updates; partial GEN126/127 is published. WP129 is unfinished.",
+    "current_local_research_not_yet_pushed": "WP130 constructor admission/global047;GEN131 correction23 statements/71 proof interfaces;unfinished spherical reading journal.",
     "synchronization_status": "published_verified",
     "pending_public_commit": null,
     "pending_public_tree": null,
     "active_push_exec_session": null,
     "scientific_local_commit": "9d34ce5",
-    "prepush_audit": "reports/reproducibility/20261029-owner-batch/final-audit.json.gz",
-    "latest_public_tree": "3a0c3580d574d288790d3dd1929523f9e4a72448",
+    "prepush_audit": "reports/reproducibility/20261029-owner-submit/final-audit.json.gz",
+    "latest_public_tree": "be9cacc28611ffd2ad12ca65b9c0767d0bfb5425",
     "latest_verification_receipt": "reports/reproducibility/20261029-publication/verification.json.gz",
     "latest_ci_receipt": "reports/reproducibility/20261029-publication/CI-observation.json.gz",
     "update_policy": "User reaffirmed fewer GitHub updates2026-10-23:local routine checkpoints/commits,meaningful milestone batches only;publication_policy in configs/research.json;no scheduler.",
     "receipt_storage_scope": "Post-push verification and CI saved locally; no extra push solely for receipts.",
-    "current_batch_qa": {
-      "at": "2026-10-29T08:29:10.745287+00:00",
-      "files": 3438,
-      "bytes": 97121033,
-      "official_math_paths": 0,
-      "copy_hashes_verified": true,
-      "core_exit_code": 0,
-      "runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
-      "core_tests": 97,
-      "clean_core_tests": 97,
-      "skips": 0,
-      "clean_directory_removed": true,
-      "science_and_graph_unchanged_from": "9428240",
-      "full_JSON_GraphML_objects_equal": true,
-      "scientific_archives": [
-        {
-          "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
-          "source_members": 18,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
-          "source_members": 15,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-076-002-1f8537b7fd40d564",
-          "source_members": 22,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-097-001-f4db184a4c5e6d4d",
-          "source_members": 9,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-119-001-e9d098be0b1dda8f",
-          "source_members": 24,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-128-001-adf42abc31aca23e",
-          "source_members": 9,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-130-001-eadb2e7b3a00d556",
-          "source_members": 9,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-149-001-e334ac2404104e6a",
-          "source_members": 41,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-200-001-a8300854205212bf",
-          "source_members": 18,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-221-001-be34f84b97b2e9a9",
-          "source_members": 19,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
-          "source_members": 16,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-273-001-28f6d541ddfebd6e",
-          "source_members": 26,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-276-001-b27918614d6d2c9d",
-          "source_members": 31,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-314-001-ce8cf18c32275b81",
-          "source_members": 20,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
-          "source_members": 21,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-332-001-b2607a9926c44586",
-          "source_members": 28,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-337-001-b13e1932a05a4c6a",
-          "source_members": 39,
-          "outputs_and_decompressed_hashes_verified": true
-        },
-        {
-          "run_id": "EXP-374-001-bc1d2887fa6a5d33",
-          "source_members": 13,
-          "outputs_and_decompressed_hashes_verified": true
-        }
-      ],
-      "source_archive_members": 378,
-      "prior_complete_dependency_impact_receipt": "reports/reproducibility/20261029-F271-finite-range/quality.json",
-      "prior_strict_supported_adverse_replays": "reports/reproducibility/20261029-CI119/closure.json",
-      "new_scientific_runs": 0,
-      "WP129_full_family_credit_added": false,
-      "scope": "Publication and reproducibility QA. No new mathematics,application,human/provider or complete-family acceptance.",
-      "helper_members_verified": 3,
-      "helper_compressed_sha256": "53529c8c04ea8c88ea93d5bfa80a50a3e30674b5c0cce6277a8d641b36a47750",
-      "helper_decompressed_sha256": "cceadd03ae5e2632c40f31787b883e6fb66df28bb0d1912107a84910e0ae709d"
-    },
+    "current_batch_qa": "reports/reproducibility/20261029-owner-submit/quality.json",
     "pending_ci_run": null,
     "active_ci_run_id": null,
     "active_ci_job_id": null,
@@ -920,15 +983,44 @@
     "request": "Owner requested one batch submission",
     "output_directory": "reports/reproducibility/20261029-owner-batch",
     "research_resume": "WP130 constructor admission audit, then required global047; WP129 remaining53 source statements retained. No new graph target registered.",
-    "running_research_experiments": []
+    "running_research_experiments": [],
+    "verified_commit": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
+    "verified_tree": "be9cacc28611ffd2ad12ca65b9c0767d0bfb5425",
+    "verification_receipt": "reports/reproducibility/20261029-owner-batch/verification.json.gz",
+    "latest_scoped_ci": {
+      "at": "2026-10-29T08:48:15.894930+00:00",
+      "commit": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
+      "runs": [
+        {
+          "id": 40842772641,
+          "name": "offline-core",
+          "head_sha": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
+          "status": "completed",
+          "conclusion": "failure",
+          "html_url": "https://github.com/yiduo/mathweave/actions/runs/40842772641",
+          "created_at": "2026-10-29T08:31:42Z",
+          "updated_at": "2026-10-29T08:34:20Z",
+          "run_attempt": 1
+        }
+      ],
+      "scope": "97core plus11successful archived replay steps; EXP119strict raw mismatch/summary match. EXP332/export/finalaudit skipped. Failure upload succeeded; full artifact and payload inspection retained separately. No software/scientific acceptance upgrade.",
+      "api_fallbacks": [
+        {
+          "path": "/actions/runs/40842772641",
+          "anonymous_status": 403,
+          "retry": "configured credential helper; secret not logged or saved"
+        }
+      ]
+    },
+    "latest_ci_conclusion": "failure",
+    "postpublication_receipts_local_only": true,
+    "next_action": "Remote3a4d5ce remains published;no routine push. Currententrydocs correctedlocally to distinguish actualpublicsnapshot fromWP130followup. Do not repeat119 or attribute the exactoperation without further evidence."
   },
   "recovery_commands": [
-    "Readgoal/AGENTS/charter/roadmap/status/checkpoint/backlog/global044;checkdisk/knownhandles;previousgoalturnmadeactualprogress.",
-    "WP126completeactualfreeze8a71a29;41inputfilesmatchGitbeforetarget. WP127EXP149001-e334ac2404104e6a actual72case/401transitions/27negative18nonlinear;oldbaselineidentical,zero2026increment. Do notrerunthisknown grid orcurator.",
-    "Strictarchivedsourcefullraw/summary andoriginalresourcegatepassed;18archives378source members/545progress membersverified;95core/clean95/171single2multi/wholeexportsclosed. No newscientificcodechangeafterfreeze.",
-    "WP128selectedonly,originalbodyreadingcredit0;sevenF181unqualifiedrootsremain. Readsource-use locators andboundedactualprimaryoriginals,prioritizeAH2000/Lovasz1968/Krivelevich2019. No repeatedidentical403,no metadata-onlyqualification.",
-    "Global045mandatoryafterWP128. Preservecurrent andpastsource/historical versions;no fullfamily/history/human/providerorproofclaimsfromselectedscope.",
-    "SourceMathreadonly/excluded;no newdependencies or routineGitHubpush. Humans/secondproviderremainuserdeferred. ExistingF076Python3.12strictfailurepreserved;future076useverifiedinstalled3.14.8ifneeded,no routine repeat."
+    "Read AGENTS/charter/roadmap/status/checkpoint/backlog/global047; check disk and project processes.",
+    "Continue WP129 spherical source qualification at07-pressure.tex191-560 in small chunks,then08-global-spin.tex1-138; recorded earlier ranges are rereads,not new family credit.",
+    "Qualify remaining30 spherical statements with sourceC/fullchainunknown; then history/formal/full-family gaps. Counter remains1 after global047; publication maintenance adds no substantive output.",
+    "Use bundled Python3.12.14 with Node PATH and PYTHONDONTWRITEBYTECODE=1; no repeated expensive experiments or routine GitHub push."
   ],
   "recovery_observation": {
     "at": "2026-10-26T04:08:53.951075+00:00",
@@ -1381,7 +1473,41 @@
     "existing_runtime_no_install": true,
     "failed_clean_receipt": "reports/reproducibility/20261022-bernoulli/clean-directory-incompatible-python.json.gz"
   },
-  "last_completed_work_package": "WP-128",
+  "last_completed_work_package": {
+    "id": "WP-130",
+    "priority": 1,
+    "status": "completed",
+    "parent_task": "WP-006",
+    "objective": "Audit actual APP178 source-constructor finite input/cost admission and strongest old prescribed-order/degree baseline before considering any consensus target.",
+    "selection_reason": "After global046, mapping and finite-range qualification are two substantive F271 outputs. Switch to an existing unchecked candidate rather than another53 same-family statements. APP178 explicitly lacks usable n0(d),k_d and implementation/workload admission; this is a concrete source-to-application bottleneck,not a reason to substitute a favorable old small graph.",
+    "inputs": [
+      "APP-178-01",
+      "CLM-178-THM-MAIN",
+      "PART-178-GRAPH",
+      "PART-178-CERTIFICATE",
+      "ANALYSIS-F-178",
+      "experiments/plans/MAP-178-001.json",
+      "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/"
+    ],
+    "resource_limit": "Existing source only:13TeX files6694raw lines inventoried,not newly read. Start main71/introduction286/setup159/accounts150/algorithm153/references206=1025lines,then follow all needed phase/constant definitions within the closure. No upstream copy,new graph solver,large dependencies or numerical target. Any necessary selected original acquired normally with bounded2MiB per item/8MiB total and converted text only if PDF.",
+    "acceptance": "Source-bound constructor phases,finite thresholds/parameter hierarchy,bit/output/spectral certificate costs and exact input degree/order constraints. Compare a genuinely available strong old builder at SAME order/degree and count all construction plus communication costs. Preserve the original10percent-round prediction and full-wall-time gate. Admit only with usable constants/implementation and real or explicitly synthetic workload;otherwise retain missing prerequisites without test credit.",
+    "stop_or_redirect": "No target until separate executable preregistration/source freeze. No old small-graph spectrum check standing in for the new constructor; no weaker graph order/degree or dropped construction overhead to obtain a win. A missing numeric n0/kd is not a formal mathematical rejection or proof that no implementation exists.",
+    "depends_on": [
+      "WP-128"
+    ],
+    "created_at": "2026-10-29T08:11:51.917258+00:00",
+    "retrospective_due": "Third substantive output after global046 triggers global047,even if WP129 remains unfinished.",
+    "new_initial_checks": 0,
+    "body_read_credit_this_package": 0,
+    "github_push": false,
+    "next_action": "RetainAPP178pending;revisit only with actualnew/oldimplementation,numericfiniteinput,budget andfrozenworkload.",
+    "started_at": "2026-10-29T08:51:52.642787+00:00",
+    "execution_state": "Admission audit and global047 complete;consensus target remains unexecuted and pending prerequisites",
+    "progress_evidence": "data/provenance/readings/F-178-constructor-admission-WP130.json",
+    "completed_at": "2026-10-29T09:01:52.116739+00:00",
+    "completion_scope": "Actual constructor/old-baseline finite cost admission audit only; no consensus target executed",
+    "evidence": "reports/reproducibility/20261029-F178-admission/closure.json"
+  },
   "project_goal_prompt": "prompts/continuous-research-goal.md",
   "goal_objective_version_receipt": "state/goal-objective-version.json",
   "storage_receipt": "reports/reproducibility/20261027-F181-history/storage.json",
@@ -1429,9 +1555,8 @@
   },
   "updated_at": "2026-10-29T08:11:51.917258+00:00",
   "current_goal_turn_classification": {
-    "previous_turn": "progress",
     "this_turn": "progress",
-    "evidence": "Thirty finite-range source statements scoped with31records/77edges;97/97 full graph/source/export/impact/archive QA. Independent APP178 constructor admission selected next;no new application counts.",
+    "evidence": "23manuallyqualifiedcorrectionclaims/71proofinterfacescanonical;alloldrows/cards/capacitypreserved;97core/97clean/fullgraph/source/impact/export/18archiveschecked.88bindingswith30remaining;nonewapplication/full-familycredit.",
     "goal": "active_incomplete"
   },
   "implementation_freeze_commit": "8a71a29f39828b0e7c41b279105869c19c8e5135",
@@ -1446,40 +1571,15 @@
     "F271 finite-range30 natural statements/44 selected proof interfaces GEN129"
   ],
   "maintenance_output": {
-    "at": "2026-10-29T07:11:05.487037+00:00",
-    "maintenance_output": "MAINT-CI119-20261029",
-    "local_implementation": "verified; remote deployment and Linux cause still pending",
-    "frozen_controller_commit": "42901e6bad529508ac65e8686ba6621e7c59f688",
-    "core_tests": 97,
-    "clean_core_tests": 97,
-    "new_software_controls": 2,
-    "local119_strict_raw_summary_equal": true,
-    "local119_resources_pass": true,
-    "local119_runtime": "macOS/Python3.14.8",
-    "Linux_failure_reproduced_locally": false,
-    "Linux_cause_localized": false,
-    "strict_supported_adverse_representatives": [
-      "EXP-149-001-e334ac2404104e6a",
-      "EXP-325-001-9bedfaa5ac3a53d0"
-    ],
-    "single_seed_cases": 181,
-    "multi_seed_cases": 2,
-    "method_cases": 8,
-    "foundation_proof_interfaces": 39,
-    "full_graph_and_exports_equal": true,
-    "scientific_archives": 18,
-    "scientific_snapshot_members": 378,
-    "old_tests_byte_preserved": 14,
-    "canonical_and_scientific_data_unchanged": true,
-    "prior_cause_description_corrected_with_old_versions_preserved": true,
-    "dispatch_path_error_preserved": true,
-    "new_scientific_hypotheses": 0,
-    "new_candidates_or_initial_checks": 0,
-    "retrospective": "reports/retrospectives/046-proof-scope-and-replay-evidence.md",
-    "substantive_outputs_since045_closed": 3,
-    "WP129": "in_progress",
-    "github_push": false,
-    "public_CI_still": "failure",
-    "goal": "active_incomplete"
-  }
+    "kind": "owner_requested_publication",
+    "research_counter_increment": 0,
+    "reading_journal": "reports/reproducibility/20261029-F271-spherical/reading-progress.json",
+    "next_action": "Resume pressure191 onward; remaining30 spherical statements not canonically qualified."
+  },
+  "previous_goal_turn_assessment": {
+    "classification": "progress",
+    "evidence": "Localcd96e41completedWP130finiteadmission/global047andretainedactualremote119payload;no research-countincrementorGitHubpush."
+  },
+  "last_quality_closure": "reports/reproducibility/20261029-F271-correction/closure.json",
+  "next_selection_receipt": "state/selection-WP129-spherical.json"
 }

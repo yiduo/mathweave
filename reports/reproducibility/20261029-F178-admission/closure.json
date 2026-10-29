@@ -1,0 +1,62 @@
+{
+  "at": "2026-10-29T09:01:52.116739+00:00",
+  "work_package": "WP-130",
+  "completion_scope": "Actual constructor/old-baseline finite cost admission audit only; no consensus target executed",
+  "generation": "GEN-20261029-130",
+  "new_records": 2,
+  "updated_records": 4,
+  "new_edges": 7,
+  "graph_nodes": 9032,
+  "graph_edges": 26537,
+  "core_citations": 10066,
+  "full_audit_citations": 10079,
+  "source_artifacts": 2132,
+  "original_APP178_plan_prediction_workflow_result_preserved": true,
+  "admission": "not_ready_for_registered_consensus_target",
+  "new_candidates": 0,
+  "new_external_checks": 0,
+  "new_numerical_targets": 0,
+  "new_family_reading_or_complete_family_credit": 0,
+  "core_tests": 97,
+  "clean_core_tests": 97,
+  "skips": 0,
+  "single_seed_cases": 181,
+  "multi_seed_cases": 2,
+  "old_methods_checked": 8,
+  "old_foundation_claims": 34,
+  "old_foundation_interfaces": 39,
+  "old_finite_range_interfaces": 44,
+  "new_admission_edges_checked": 7,
+  "unknown_complete_chain_grades": true,
+  "other47cards_preserved": true,
+  "full_JSON_GraphML_equal": true,
+  "scientific_archives": 18,
+  "archived_source_members": 378,
+  "strict_supported_adverse_replays": {
+    "replay149": {
+      "original_run": "EXP-149-001-e334ac2404104e6a",
+      "raw_summary_equal": {
+        "raw.json": true,
+        "summary.json": true
+      },
+      "resources_pass": true,
+      "runtime": "3.14.8 (main, Sep 30 2026, 17:55:09) [Clang 21.0.0 (clang-2100.3.34.2)]"
+    },
+    "replay325": {
+      "original_run": "EXP-325-001-9bedfaa5ac3a53d0",
+      "raw_summary_equal": {
+        "raw.json": true,
+        "summary.json": true
+      },
+      "resources_pass": true,
+      "runtime": "3.14.8 (main, Sep 30 2026, 17:55:09) [Clang 21.0.0 (clang-2100.3.34.2)]"
+    }
+  },
+  "retrospective": "reports/retrospectives/047-constructor-admission-and-evidence-cost.md",
+  "retrospective_counter": 0,
+  "next_work": "WP129 correction23,then spherical30,history/formal scopes;old capacity binding retained",
+  "public_commit": "3a4d5cef39bfc75a15d41e63405a22974683ee08",
+  "latest_remote_CI": "failure,4one-ULP midpoint differences,all otherraw/summary equal;operation cause unisolated",
+  "github_push": false,
+  "goal": "active_incomplete"
+}
