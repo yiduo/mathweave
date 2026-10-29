@@ -329,7 +329,7 @@
 | [F-268 · The spin-one Haldane gap.](index.html#F-268) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-269 · Uniform Laughlin gap and stability under bounded scalar disorder.](index.html#F-269) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-270 · Threshold and positive-energy bound states of the BFSS matrix model.](index.html#F-270) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-271 · Bloch's law, its lattice correction, and the spherical magnetization law.](index.html#F-271) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-271 · Bloch's law, its lattice correction, and the spherical magnetization law.](index.html#F-271) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 34／8 | 0 |
 | [F-272 · Entanglement without distillable secret key.](index.html#F-272) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-273 · The entropy photon-number inequality.](index.html#F-273) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-273.md) | 17／27 | 2 |
 | [F-274 · Parity is not in QAC<sup>0</sup>.](index.html#F-274) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

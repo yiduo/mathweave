@@ -6,13 +6,13 @@
 
 研究单位是“成果族 + 历史谱系 + 应用问题”。项目使用固定来源、版本化知识图谱和可复现实验，保留适用条件、失败证据与审核缺口。第一阶段仍未完成。
 
-仓库：[yiduo/mathweave](https://github.com/yiduo/mathweave)。本次为2026年10月27日用户要求的合并发布：已整理至WP128／全局复盘045，并包含尚未完成的WP129阅读检查点。实际远端提交、公开核验及CI结果分别记录在[发布状态](state/publication.json)，不继承上一版的成功状态。
+仓库：[yiduo/mathweave](https://github.com/yiduo/mathweave)。本次为2026年10月29日用户要求的合并发布：已整理至WP128／全局复盘045，并包含尚未完成的WP129方法和基础稿命题整理。实际远端提交、公开核验及CI结果分别记录在[发布状态](state/publication.json)，不继承上一版的成功状态。
 
 | 指标 | 当前记录 | 验收边界 |
 | --- | --- | --- |
 | 固定语料 | 372成果族、719篇当前手稿 | 登记不等于研究完成；历史722口径逐项核对 |
 | 原文阅读与草稿 | 64族实际阅读、59族当前稿全文草稿 | 完整成果族、完整历史和六阶段完成均为0 |
-| 知识图谱 | 8,874节点、26,094关系 | 保留来源与版本；图谱规模不代表数学或应用有效性 |
+| 知识图谱 | 8,936节点、26,265关系 | 保留来源与版本；图谱规模不代表数学或应用有效性 |
 | 候选连接 | 47／500 | 十领域尝试与命题绑定不计候选 |
 | 合格初检卡片 | 15／100 | 15个不同假设：7项限定支持、8项不利观察 |
 | 其他检查 | 1项诊断、2项组件检查 | 不额外计入应用假设计数 |
@@ -23,9 +23,9 @@
 - [F149反应网络检验](reports/retrospectives/045-old-method-sufficiency-and-history-scope.md)：72个合成实例、401次精确更新，27例负浓度事件；旧逐坐标基线全部捕获，没有确认2026数学的额外计算收益。
 - [F181历史范围](reports/F181-historical-scope-followup.md)：选定原作由4／11补至8／11；旧局部扩张准则在对应接口上更强。剩余原作、精确转录与递归证明缺口保留。
 - [F337实际AD诊断](reports/F337-AD-execution.md)：192项参考有效，但16个零点后端异常使冻结主预测待定；独立列为诊断，不增加初检。
-- [F271当前阅读检查点](state/reading-progress/WP-129.json)：四当前稿46源文件14,199行均已实际读完，五部历史原作仅核选定范围。命题／方法／跨域关系仍待规范入图，不增加正式阅读族、全文草稿或应用计数。
+- [F271当前阅读检查点](state/reading-progress/WP-129.json)：四当前稿46源文件14,199行均已实际读完，五部历史原作仅核选定范围。已规范整理8个方法接口及九月基础稿34条来源命题；十月三稿84条定位仍待语义整理，历史与跨域探索未完成。不增加完整族、全文草稿或应用计数。见[方法接口](reports/F271-partial-methods.md)和[基础稿命题](reports/F271-foundation-claims.md)。
 
-最新完成包有95项核心检查、无math干净环境检查、18个科学归档／378源码成员及代表性严格重放证据；本批发布检查另见[发布核验目录](reports/reproducibility/20261027-publication/)。软件检查不证明数学结论或业务收益。[验收矩阵](reports/acceptance.md)、[机器指标](reports/metrics.json)、[全局复盘045](reports/retrospectives/045-old-method-sufficiency-and-history-scope.md)保留完整差距。
+最新完成包有95项核心检查、无math干净环境检查、18个科学归档／378源码成员及代表性严格重放证据；本批发布检查另见[发布核验目录](reports/reproducibility/20261029-publication/)。软件检查不证明数学结论或业务收益。[验收矩阵](reports/acceptance.md)、[机器指标](reports/metrics.json)、[全局复盘045](reports/retrospectives/045-old-method-sufficiency-and-history-scope.md)保留完整差距。
 
 **OpenAI官方的 `math/` 目录不包含在本仓库中，也不复制或重新部署。** 原作通过固定[上游提交](https://github.com/openai/math/tree/1581d4cbdd69a0faf34b2089614fe2a814316a6a)、标识和校验清单引用。第三方全文、缓存和批量本地历史同样排除。英文纲领已提供；详细研究账本主要为中文。
 

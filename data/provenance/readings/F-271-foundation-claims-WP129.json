@@ -1,0 +1,727 @@
+{
+  "at": "2026-10-29T06:25:25.160436+00:00",
+  "generation_id": "GEN-20261029-127",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-addb934e37307c35",
+  "scope": "34 manually scoped foundation source statements; not the complete four-manuscript family, proof audit or application validation",
+  "claims": [
+    {
+      "id": "CLM-271-F-THM-MAIN",
+      "label": "thm:main",
+      "title": "低温有序KMS态存在",
+      "statement": "For each integer d>=3 and each positive half-integer S there is finite beta0(d,S)>0; for every finite beta>=beta0 a translation-invariant beta-KMS state has omega(Sz_0)>=S/4.",
+      "conditions": "Nearest-neighbor coupling-one isotropic Heisenberg model on Zd; existential threshold, fixed d,S. A selected state, not the finite zero-field Gibbs mean, rotational average, Bloch coefficient or effective critical temperature.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/00-introduction.tex",
+        "file_sha256": "bf59b3ae4f0fb26d6af16b612c68af35ce3d4c4823268ca5cb521562c64185ed",
+        "label": "thm:main",
+        "kind": "theorem",
+        "title_tex": null,
+        "statement_lines": [
+          64,
+          73
+        ],
+        "statement_sha256": "1ef41bf0e0d4f52f28127eb1f5597707a0cffd32418c54b431b0268c0ea3c71c",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-SLOT-REALIZATION",
+      "label": "lem:slot-realization",
+      "title": "对称槽实现",
+      "statement": "ell=2S spin-one-half slots restricted to the site-symmetric subspace realize spin S; full Hamiltonian and magnetization commute with the symmetrizer, with Hhat=-sum U_edge/2+qLambda I/4.",
+      "conditions": "All ell squared slot pairs per site bond and unordered edges once. Individual edge transpositions need not preserve the symmetric subspace; do not interchange compression and arbitrary products.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+        "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+        "label": "lem:slot-realization",
+        "kind": "lemma",
+        "title_tex": "Symmetric-slot realization",
+        "statement_lines": [
+          42,
+          70
+        ],
+        "statement_sha256": "a1b8ed53a1b440c2c6783d28a3bc8d730b05f38bee5580c5b9236f60f04fc0f5",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-SPIN-LOOPS",
+      "label": "prop:spin-loops",
+      "title": "精确自旋交换表示",
+      "statement": "Finite-cube partition function equals exp(beta qLambda/4) times the base expectation of 2^cycle_count; magnetization spectral observables follow fair independent cycle colors conditional on the weighted picture.",
+      "conditions": "Finite cube, positive finite beta, physical spin spectrum. Color independence is conditional on the picture; the picture itself is cycle weighted. qLambda is the slot-edge count, not the number of physical bonds.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+        "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+        "label": "prop:spin-loops",
+        "kind": "proposition",
+        "title_tex": "Exact spin-to-loop representation",
+        "statement_lines": [
+          132,
+          155
+        ],
+        "statement_sha256": "d9077ae663c6a863d081585fa498e65dfab6ebfad6b342d8f53339b142d58858",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-DENSE-PINS",
+      "label": "lem:dense-pins",
+      "title": "稠密边界钉极限",
+      "statement": "Increasing finite dense boundary cuts eventually give the same pin weights and missing-cycle union per sampled finite picture; the normalized laws converge in total variation and bounded convergent observables converge.",
+      "conditions": "Fixed finite cube and beta, deterministic finite extra pins, grid contains zero. The eventual index is picture dependent and the domination bound is not uniform in volume.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+        "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+        "label": "lem:dense-pins",
+        "kind": "lemma",
+        "title_tex": "Dense boundary pins",
+        "statement_lines": [
+          252,
+          273
+        ],
+        "statement_sha256": "bd1a4fb093df129267fcdbb853e73fcfbf976883a0f4e32d0ae7998ee6e77a08",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-FACTORIAL",
+      "label": "lem:factorial",
+      "title": "无条件钉律阶乘支配",
+      "statement": "Under the normalized pin law, ordered distinct actual marks have factorial measure at most 2^n times the base Poisson product intensity, also with fixed time order or interval.",
+      "conditions": "Finite deterministic pins with optional dense boundary D0. This is an unconditional estimate under the pin law; it is not fresh-clock domination after fixing an exposure.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+        "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+        "label": "lem:factorial",
+        "kind": "lemma",
+        "title_tex": "Factorial-measure domination",
+        "statement_lines": [
+          319,
+          331
+        ],
+        "statement_sha256": "92377838bd3b5281518225e9e8ba9068f08efcbe96a004eeb78dba2984b02794",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-PIN-TEST",
+      "label": "prop:pin-test",
+      "title": "同时钉测试",
+      "statement": "For nonempty single-time T disjoint from E, the missing-cycle event under E has probability <=(2r)^|T|, with r defined by the positive-time next-pin return fraction under P=E union T.",
+      "conditions": "Finite volume, any beta>0, finite E optionally united with D0. The law for r has more pins; replacing it with the smaller-pin law would change the input.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "prop:pin-test",
+        "kind": "proposition",
+        "title_tex": "Simultaneous pin test",
+        "statement_lines": [
+          22,
+          30
+        ],
+        "statement_sha256": "260d2805b085491ba4da03c48577e942e502b00acecc993ef21473ce614310f1",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-PIN-STABILITY-CLOSURE",
+      "label": "lem:pin-stability-closure",
+      "title": "稳定多项式闭包",
+      "statement": "Bounded-degree coefficientwise limits, real specialization and differentiation preserve stability up to zero; variable identification and the stated identify/extract operation preserve stability up to zero.",
+      "conditions": "Fixed finite variable set and common degree bound for limits. Nonzero must be checked separately where a probability polynomial is normalized.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "lem:pin-stability-closure",
+        "kind": "lemma",
+        "title_tex": "Closure operations",
+        "statement_lines": [
+          69,
+          77
+        ],
+        "statement_sha256": "e052b45c0ddc176165a01975876d53e01e7a23c84bfdc06d023fbc6f23814b0c",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-PIN-PARTIAL-SYMMETRIZATION",
+      "label": "lem:pin-partial-symmetrization",
+      "title": "部分对称化",
+      "statement": "A convex mixture (1-u)F+u tau F remains stable and multiaffine for a stable multiaffine F, a variable transposition tau and u in [0,1].",
+      "conditions": "Specific multiaffine class and transposition mixture; not arbitrary convex combinations of stable polynomials or arbitrary conditioning.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "lem:pin-partial-symmetrization",
+        "kind": "lemma",
+        "title_tex": "Partial symmetrization",
+        "statement_lines": [
+          123,
+          127
+        ],
+        "statement_sha256": "a51a64faafcd545a966be19e184f852d9e8eb45a87d440c5d88a5a53d0da4cc4",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-PIN-EXCHANGE-SYMBOL",
+      "label": "lem:pin-exchange-symbol",
+      "title": "交换符号稳定性",
+      "statement": "The expected permutation symbol is stable for independent Bernoulli transposition products and deterministic permutations, and their finite-set distributional limits; independent Poisson and uniform-subset permutation layers admit such limits.",
+      "conditions": "Layers are ordered, not assumed commuting. This concerns the unconditioned base permutation law; all-hit conditioning is a later step.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "lem:pin-exchange-symbol",
+        "kind": "lemma",
+        "title_tex": "Stable exchange symbols",
+        "statement_lines": [
+          172,
+          182
+        ],
+        "statement_sha256": "b487eafc305fee8fe31f1e022104c0474dd2e07edd491d166a1de19aa142fac1",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-PIN-SPLICING",
+      "label": "lem:pin-splicing",
+      "title": "删除非钉与输出抽取",
+      "statement": "Identifying a nonpin input/output variable and extracting its linear coefficient produces the nonzero stable pin symbol weighted by 2^missing_cycles; differentiation and zero specialization yield the generating polynomial of sigma(T).",
+      "conditions": "Layered finite source symbol, fixed pins P and T subset P, positive normalizer ZP. A deleted fixed point contributes factor two. Do not omit the cycle weight.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "lem:pin-splicing",
+        "kind": "lemma",
+        "title_tex": "Splicing and output extraction",
+        "statement_lines": [
+          254,
+          275
+        ],
+        "statement_sha256": "b8d6f644dee795490cd8472672efa4b1bdefab18b137c182c8538ca2c3e40f42",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-PIN-PRESENCE",
+      "label": "lem:pin-presence",
+      "title": "同时出现概率",
+      "statement": "For a finite random subset with stable generating polynomial, Pr(J subset A)<=product_j Pr(j in A), also after positive-probability presence conditioning on disjoint remaining coordinates.",
+      "conditions": "The conditioning is presence of B subset A, not arbitrary exposed trajectories. Pairwise covariance alone is not the stated all-subset input.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+        "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+        "label": "lem:pin-presence",
+        "kind": "lemma",
+        "title_tex": "Presence probabilities",
+        "statement_lines": [
+          316,
+          325
+        ],
+        "statement_sha256": "682796dfa3f0c30e2a87cb1e0b9a3a839b5db044e98bf251c409b39c8f070ce2",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-EXPOSURE",
+      "label": "prop:exposure",
+      "title": "暴露路径分解",
+      "statement": "Under PP, the unexposed law at almost every exposure a is fresh Qa conditioned on all cycles hitting P; gP=Qa(all-hit)>0 almost surely under the actual exposure marginal. That marginal is proportional to 1_FA 2^cA gP muA.",
+      "conditions": "Histories include endpoint maps and actual exposed paths. Retain gP in the outer marginal; do not average proposed unweighted histories or remove the all-hit condition.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+        "label": "prop:exposure",
+        "kind": "proposition",
+        "title_tex": "Exposed-path disintegration",
+        "statement_lines": [
+          74,
+          105
+        ],
+        "statement_sha256": "9e7e5f346112b4d5b099ec1dbeb7b40921c14196d335394d8a6165596e03ffa2",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-EXTERIOR",
+      "label": "lem:exterior",
+      "title": "条件化前外幂矩",
+      "statement": "For a finite permutation law built as independent transposition products and limits, E wedge^k Pi = wedge^k E Pi for every k. It applies to unconditioned fresh layered hole maps.",
+      "conditions": "All exterior moments, not only the full determinant or trace. The lemma does not assert preservation after all-hit conditioning; independent factors are essential to this construction.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+        "label": "lem:exterior",
+        "kind": "lemma",
+        "title_tex": "Exterior moments before conditioning",
+        "statement_lines": [
+          209,
+          229
+        ],
+        "statement_sha256": "9045a873c92d93d7a8e95f050de02d45a8c3287460240ad3f323ea05c62076bd",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-FIRST-MOMENT",
+      "label": "prop:first-moment",
+      "title": "条件下一钉首矩",
+      "statement": "For V=J disjoint union Q, J nonempty and the exterior-moment identities, all-hit probability is det(I-KQQ). If positive, KQQ is transient and the conditional next-pin mean is the Schur-complement first-positive hitting kernel. Arbitrary complex W determinant identity also holds.",
+      "conditions": "Use column-forward matrices. An empty Q is permitted. The probability must be positive for conditioning/inversion; all mean entries are recovered, not only the trace. No full path-law equality follows.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+        "label": "prop:first-moment",
+        "kind": "proposition",
+        "title_tex": "Conditional next-pin first moment",
+        "statement_lines": [
+          289,
+          318
+        ],
+        "statement_sha256": "bf69e4b04fc653049398ba84dcfaa96280cf1e4f641f59432d6fd32afd052c8c",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-EXPOSURE-DENSE-RETURN",
+      "label": "lem:exposure-dense-return",
+      "title": "暴露后的新鲜转移首矩",
+      "statement": "For almost every actual exposure, next-pin return to T equals the corresponding fresh-turn hitting probability tau_T_positive<tau_E; outer averaging uses PP.",
+      "conditions": "Finite pins plus dense boundary handled by the source limit. Fresh transition choices are remade on successive turns; this is an identity of conditional first moments, not of original repeated paths.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+        "label": "lem:exposure-dense-return",
+        "kind": "lemma",
+        "title_tex": "Return identity with boundary pins",
+        "statement_lines": [
+          428,
+          441
+        ],
+        "statement_sha256": "3d902af0d3ad6a78507bb3d78c51ef23291c67d802c4e0bfc83d53d6fad6a4d2",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-RETURN-ENERGY",
+      "label": "lem:return-energy",
+      "title": "最小命中函数与返回能量",
+      "statement": "There is a smallest nonnegative f with f=1 on T, U* f=f off T, 0<=f<=1 and zero boundary. Counting energy equals sum_T(1-U*f), and m(1-r) bounds its actual-outer-law expectation.",
+      "conditions": "Boundary-killed substochastic U and f use the SAME exposure. Closed classes inaccessible to T may have f=0; almost-sure absorption and reversibility are unnecessary.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+        "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+        "label": "lem:return-energy",
+        "kind": "lemma",
+        "title_tex": "Minimal hitting function and return energy",
+        "statement_lines": [
+          555,
+          578
+        ],
+        "statement_sha256": "c1f6673bdfe948764f253d8e696dfbe64fdfd42ac4c13fd1124bbe886691b0e9",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-NONGRID",
+      "label": "lem:nongrid",
+      "title": "非网格确定时刻阻塞",
+      "statement": "Under the larger-pin induction input I_p(P), any prescribed 2d distinct sites are all blocked with probability <=C p^(2d); a nonempty sparse site set has probability <=(C sqrt(p))^|A| at each deterministic time.",
+      "conditions": "Source grid mesh <=p^(4d), p<=1, fixed d,ell. Sparse growth counts slot multiplicity when choosing tests. Not independent-time or all-time blocking bounds.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+        "label": "lem:nongrid",
+        "kind": "lemma",
+        "title_tex": "Blocking at a deterministic time",
+        "statement_lines": [
+          90,
+          102
+        ],
+        "statement_sha256": "1b91e3e54da6a77679e928c66ffc361c5c04154d08e88bc75d72e47e092a3d63",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-COMPONENT-TAIL",
+      "label": "lem:component-tail",
+      "title": "阻塞分量尾",
+      "statement": "For sufficiently small p<=p0 under I_p(P), a blocked component at a prescribed site reaches radius h with probability <=C exp(-c h^gamma), uniformly at every deterministic time.",
+      "conditions": "Components use the source fixed adjacency radius. p0 and sparse-growth choices are fixed before decreasing p; separated sparse witnesses, not arbitrary counted assignments, justify the probability estimate.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+        "label": "lem:component-tail",
+        "kind": "lemma",
+        "title_tex": "Uniform component tail",
+        "statement_lines": [
+          157,
+          170
+        ],
+        "statement_sha256": "573c7e2f847b132e0ceb1b2c4495d77012044a287809be7adbd1885850a41f81",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-REGULARITY",
+      "label": "prop:regularity",
+      "title": "规则性失败概率",
+      "statement": "For fixed local radius Mstar and the source regular-anchor definition, failure at a deterministic time and anchor is <=C R^d p^(2d)+C exp(-c R^xi), xi=nu gamma>0.",
+      "conditions": "Assumes I_p(P), p<=p0, R>=1; constants may depend on fixed local geometry but not volume/grid/pins/anchor. Do not turn fixed-time failure into simultaneous all-time regularity.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+        "label": "prop:regularity",
+        "kind": "proposition",
+        "title_tex": "Probability of irregularity",
+        "statement_lines": [
+          290,
+          300
+        ],
+        "statement_sha256": "15396863dd83e488360e4991219aab331479a01b8428d84753bf4da420729079",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-LOCAL-CONNECTIVITY",
+      "label": "lem:local-connectivity",
+      "title": "局部避障连通",
+      "statement": "For fixed d>=2 and K, a radius rho(d,K)>=K+1 exists: endpoints within K avoiding F can be connected in B_rho if that ball contains fewer than 2d blocked sites, with length <=(2rho+1)^d.",
+      "conditions": "A deterministic lattice statement with strict <2d hypothesis and fixed radii. It does not give global connectivity of arbitrary obstacle graphs.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+        "label": "lem:local-connectivity",
+        "kind": "lemma",
+        "title_tex": "Uniform local connectivity",
+        "statement_lines": [
+          341,
+          351
+        ],
+        "statement_sha256": "0d2eadb6534aa6c00e72d360a8b8e1ae31822d38947224d8f00e5c149cb7d356",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-LOCAL-NASH",
+      "label": "prop:local-nash",
+      "title": "可用槽局部Nash界",
+      "statement": "For d>=3, bounded slot multiplicity and a regular anchor at sufficiently large scale R, a nonnegative slot function supported over B_R satisfies ||v||2^(2+4/d)<=C D(v)||v||1^(4/d).",
+      "conditions": "Counting norms, zero extension beyond support and the stated Dirichlet convention. Available unblocked sites may have any multiplicity 1..ell. Geometry and support restrictions cannot be dropped.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+        "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+        "label": "prop:local-nash",
+        "kind": "proposition",
+        "title_tex": "Local Nash inequality",
+        "statement_lines": [
+          401,
+          413
+        ],
+        "statement_sha256": "dd5ea7208d378780a72591d30a5b420cd860b1905998ad6610dd6e97012d7741",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-HULLS",
+      "label": "lem:hulls",
+      "title": "填充包络拓扑",
+      "statement": "For finite blocked sets with the source radius-four thickening of fixed-range components, hulls are finite connected with connected complement and are disjoint or nested; crossing endpoints have distances four/five and exterior boundary routes avoid blocked sites.",
+      "conditions": "d>=2 and the defined thickening/connectivity. The downstream representative map is applied once; representatives can lie in other hulls, so idempotence must not be presumed.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+        "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+        "label": "lem:hulls",
+        "kind": "lemma",
+        "title_tex": "Hull topology and clearance",
+        "statement_lines": [
+          63,
+          79
+        ],
+        "statement_sha256": "afbaaf01a66bd5ba975ca59f6e2ef19e9693bd2e2896ef33da907c1a337c73a3",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-FLOW-DECAY",
+      "label": "prop:flow-decay",
+      "title": "带衰减的单位流",
+      "statement": "For d>=3, nu=1/(100d), a regular anchor and large enough R, each available source slot within B_R admits a flow of divergence delta_source with envelope C(1+distance)^(-k), k=d-1-d nu, and finite squared energy.",
+      "conditions": "The source extends the finite-volume available graph to the infinite lattice with exterior slots available. A finite graph without a sink cannot have this divergence. Local geometry constants and specified source slots matter.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+        "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+        "label": "prop:flow-decay",
+        "kind": "proposition",
+        "title_tex": "Decay of a routed unit flow",
+        "statement_lines": [
+          171,
+          184
+        ],
+        "statement_sha256": "0a6e7fc780d7d2274f03405c9a8bfda02ced2803abc8e489da31f0ebcd151269",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-FLOW-OVERLAP",
+      "label": "lem:flow-overlap",
+      "title": "流包络重叠",
+      "statement": "Two source-centered flow envelopes with d/2<k<d have sum_e |J(e)Jprime(e)| <=C(1+source_distance)^(-(2k-d)).",
+      "conditions": "Specified lattice/slot growth and bounded envelope constants; this is a deterministic convolution bound, not stochastic independence of flows.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+        "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+        "label": "lem:flow-overlap",
+        "kind": "lemma",
+        "title_tex": "Overlap of two flows",
+        "statement_lines": [
+          315,
+          327
+        ],
+        "statement_sha256": "9153974f0ec12476a852fb90d45cfa50212ac321ab952ef694fa6361870d01ae",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-FLOW-ENERGY",
+      "label": "prop:flow-energy",
+      "title": "稀疏任意注入能量",
+      "statement": "For source anchors with sparse growth L(1+h)^alpha, regular retained subset and arbitrary subunit masses over B_R, a flow realizes their summed divergence with energy <=C m R^alpha; finitely supported real tests obey the resulting Dirichlet pairing bound.",
+      "conditions": "d>=3, alpha=1/100, nu=1/(100d), sufficiently large R. The graph is the extended infinite graph. Masses may depend on the same geometry; no independence assumption or measurable time-continuous flow choice is required.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+        "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+        "label": "prop:flow-energy",
+        "kind": "proposition",
+        "title_tex": "Energy for arbitrary injections",
+        "statement_lines": [
+          346,
+          371
+        ],
+        "statement_sha256": "68dc0bc7db2952cbc127bf16b904dc9e3b1d89e3299a58139a071b332e9ee623",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-TWO-ENDS",
+      "label": "lem:two-ends",
+      "title": "双端泄漏能量",
+      "statement": "For fixed exposed environment, beta>=4s and real zero-boundary v, <v,(I-U)v> bounds half the sum of forward and reversed length-2s norm losses; each partial norm is nonincreasing.",
+      "conditions": "Correct killed propagator factor order and adjoint reversal are required. Instantaneous completion losses remain nonnegative; do not replace inequalities by identities after dropping jumps.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+        "label": "lem:two-ends",
+        "kind": "lemma",
+        "title_tex": "Leakage at both ends",
+        "statement_lines": [
+          130,
+          141
+        ],
+        "statement_sha256": "64f0b9caa6251f13f1829289297b9c408319d65b107fa9964ee8feef8c3bd907",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-LOCALIZATION",
+      "label": "lem:localization",
+      "title": "钉律平均局域化",
+      "statement": "For s>=1, R=ceil(Cstar s), beta>=5s, any allowed cube/pins/single-time test and either direction, expected lost l1 mass under PP is <=C m exp(-c s) up to time 2s.",
+      "conditions": "Actual exposure marginal, fixed distinguished starts and disjoint T; actual and independent fresh factorial measures are separated. No estimate conditional on an arbitrarily fixed exposure is inferred.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+        "label": "lem:localization",
+        "kind": "lemma",
+        "title_tex": "Localization averaged over the pin law",
+        "statement_lines": [
+          234,
+          245
+        ],
+        "statement_sha256": "b342818d550dc911da6f597dc9290048bda6066d6b356a4151e50a540fa3099b",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-REGULAR-TIME-DECAY",
+      "label": "lem:regular-time-decay",
+      "title": "足够规则时间后的扩散",
+      "statement": "Under sparse tests and I_p(P), localized pieces have expected squared l2 norm <=C(s^-d/2+delta) for s<=u<=2s; their sum has bound C m[exp(-c s)+R^alpha(s^-d/2+delta)].",
+      "conditions": "Either direction; source preliminary small-p threshold and regularity delta. Integrated regular-time decay, not independence of time slices or guaranteed good geometry at every time.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+        "label": "lem:regular-time-decay",
+        "kind": "lemma",
+        "title_tex": "Decay after enough regular time",
+        "statement_lines": [
+          332,
+          346
+        ],
+        "statement_sha256": "caab2898b7486ee4e5493fe7c3bf89b282b96fdc800f46cfc884b76d1981de56",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-LEAKAGE",
+      "label": "prop:leakage",
+      "title": "期望泄漏闭合",
+      "statement": "With s=p^-11/10, R=ceil(Cstar s), grid mesh <=p^(4d), larger-pin I_p(P) and beta>=5s, forward and reversed expected norm losses are >=m[1-epsilon(p)], with epsilon=C[exp(-cs)+R^alpha(s^-d/2+delta+s^-1)].",
+      "conditions": "Small p, sparse T and D0 plus finite grid pins. The larger-pin hypothesis only is used; delta retains both polynomial and stretched-exponential terms. Existence of constants is not an effective temperature certificate.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+        "label": "prop:leakage",
+        "kind": "proposition",
+        "title_tex": "Expected leakage",
+        "statement_lines": [
+          403,
+          423
+        ],
+        "statement_sha256": "6d775c4758a289209df81b981c78d23e826d456ca73dd8e0125ff1c437c8493d",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-THM-PIN-BOOTSTRAP",
+      "label": "thm:pin-bootstrap",
+      "title": "统一稀疏钉闭合",
+      "statement": "For each d>=3 and ell>=1, L>=max(2d,ell,4) and pstar in (0,1/4) exist. For p<=pstar, beta>=5p^-11/10 and source grid/sparse conditions, PE(T missing)<=p^|T|; in particular singleton boundary miss<=pstar at zero time.",
+      "conditions": "Downward induction over a finite grid with disjoint nonempty single-time tests; beta remains finite. No arbitrary dense test law, practical pstar or temperature estimate is supplied.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+        "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+        "label": "thm:pin-bootstrap",
+        "kind": "theorem",
+        "title_tex": "Uniform pin estimate",
+        "statement_lines": [
+          553,
+          573
+        ],
+        "statement_sha256": "4918df232e6d88fa886cee950cef704474e2415cba2b0914ba58cc7ca5512841",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-SURFACE-COST",
+      "label": "lem:surface-cost",
+      "title": "边界着色代价与谱尾",
+      "statement": "At fixed sufficiently low-temperature source setup, forcing cycles meeting D0 to be up costs at most a surface exponential; the zero-field magnetization spectral tail above SV_N/2 is >=one-half exp(-C boundary). Missing cycles retain fair colors under the conditioning.",
+      "conditions": "C depends on beta,d,S, not N. A positive tail is not positive zero-field mean, and the mark/color event is not itself a changed Hamiltonian.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+        "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+        "label": "lem:surface-cost",
+        "kind": "lemma",
+        "title_tex": "Boundary coloring and a spectral tail",
+        "statement_lines": [
+          37,
+          52
+        ],
+        "statement_sha256": "d5b7c5622349690f2a91138147fc7351d5a707d479e64ed0d0147425024c7176",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-PROP-MAGNETIZED-LIMIT",
+      "label": "prop:magnetized-limit",
+      "title": "消失场选态",
+      "statement": "With h_N=N^-1/2, finite Hamiltonian H_N-h_N M_N, product-trace exterior extension and translation averaging, there is a pointwise convergent subsequence to a translation-invariant state; every such selected subsequential limit has spin-z expectation >=S/4.",
+      "conditions": "The low-temperature input from earlier sections is retained. This proposition selects the state; its KMS property is a further argument using dynamics/strip limits. Do not claim uniqueness or a convergence rate. Actual Lean uses a different existential box/field sequence.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+        "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+        "label": "prop:magnetized-limit",
+        "kind": "proposition",
+        "title_tex": "An explicit vanishing-field limit",
+        "statement_lines": [
+          118,
+          139
+        ],
+        "statement_sha256": "99028bb57a26b9ba3849f8e07211e20a58237b6d8685f5eb46b6f6e5fd6cf3c7",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-DEEP-DYNAMICS",
+      "label": "lem:deep-dynamics",
+      "title": "深箱动力学逼近",
+      "statement": "For a fixed local observable, local support/origin set and compact real-time interval, finite-cube zero-field dynamics converge uniformly as the support depth grows. For the selected h_N and deep translates, tilted dynamics approach translates of the zero-field limit.",
+      "conditions": "Uniformity is over deep boxes/translates and compact times. Uses established norm-locality input; it does not alone construct an ordered equilibrium state or control imaginary times by the same real-time norm bound.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+        "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+        "label": "lem:deep-dynamics",
+        "kind": "lemma",
+        "title_tex": "Uniform approximation in deep translated boxes",
+        "statement_lines": [
+          236,
+          255
+        ],
+        "statement_sha256": "ccb02c07d7631a4a0791a0d6e3cdcd729022b967af85b6072e2984a97c0b12a6",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    },
+    {
+      "id": "CLM-271-F-LEM-STRIP-LIMIT",
+      "label": "lem:strip-limit",
+      "title": "有界闭条带极限",
+      "statement": "Individually bounded functions analytic inside a fixed closed beta-strip and continuous on it, with common real-edge bounds C, are uniformly bounded by C. Locally uniform convergence on BOTH edges gives closed-strip locally uniform convergence to the corresponding bounded analytic function.",
+      "conditions": "Fixed beta>0. Individual boundedness, common boundary bounds and both edge limits are all required. This is the analytic step preserving both KMS boundary identities for the same limiting state.",
+      "source": {
+        "manuscript_id": "P-addb934e37307c35",
+        "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+        "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+        "label": "lem:strip-limit",
+        "kind": "lemma",
+        "title_tex": "Bounded strip limits",
+        "statement_lines": [
+          319,
+          338
+        ],
+        "statement_sha256": "c74a0aab9b97d5aa3814596d2478e5eee882e0dd8e557ce19f70ba82ae96489f",
+        "semantic_status": "lexical locator only; not automatically accepted claim"
+      }
+    }
+  ],
+  "actual_formal_endpoint_receipt": "reports/reproducibility/20261027-F271-source/selected-formal-scope.json",
+  "formal_scope": "Only source main endpoint B, no local Lean/Comparator/full closure/human review. Other33 source statements C; all full chains unknown.",
+  "whole_family_complete": false,
+  "new_application_checks": 0
+}

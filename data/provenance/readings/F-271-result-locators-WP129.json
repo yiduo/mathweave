@@ -1,0 +1,1662 @@
+{
+  "at": "2026-10-29T06:12:07.666875+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_files_hash_verified": 46,
+  "all_source_lines_read": 14199,
+  "items": [
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/00-introduction.tex",
+      "file_sha256": "bf59b3ae4f0fb26d6af16b612c68af35ce3d4c4823268ca5cb521562c64185ed",
+      "label": "thm:main",
+      "kind": "theorem",
+      "title_tex": null,
+      "statement_lines": [
+        64,
+        73
+      ],
+      "statement_sha256": "1ef41bf0e0d4f52f28127eb1f5597707a0cffd32418c54b431b0268c0ea3c71c",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+      "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+      "label": "lem:slot-realization",
+      "kind": "lemma",
+      "title_tex": "Symmetric-slot realization",
+      "statement_lines": [
+        42,
+        70
+      ],
+      "statement_sha256": "a1b8ed53a1b440c2c6783d28a3bc8d730b05f38bee5580c5b9236f60f04fc0f5",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+      "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+      "label": "prop:spin-loops",
+      "kind": "proposition",
+      "title_tex": "Exact spin-to-loop representation",
+      "statement_lines": [
+        132,
+        155
+      ],
+      "statement_sha256": "d9077ae663c6a863d081585fa498e65dfab6ebfad6b342d8f53339b142d58858",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+      "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+      "label": "lem:dense-pins",
+      "kind": "lemma",
+      "title_tex": "Dense boundary pins",
+      "statement_lines": [
+        252,
+        273
+      ],
+      "statement_sha256": "bd1a4fb093df129267fcdbb853e73fcfbf976883a0f4e32d0ae7998ee6e77a08",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/01-loops.tex",
+      "file_sha256": "dc6dc415eefff274ba423d87bc57be82fa95cb32fac8a73eb7484c2ea56716e0",
+      "label": "lem:factorial",
+      "kind": "lemma",
+      "title_tex": "Factorial-measure domination",
+      "statement_lines": [
+        319,
+        331
+      ],
+      "statement_sha256": "92377838bd3b5281518225e9e8ba9068f08efcbe96a004eeb78dba2984b02794",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "prop:pin-test",
+      "kind": "proposition",
+      "title_tex": "Simultaneous pin test",
+      "statement_lines": [
+        22,
+        30
+      ],
+      "statement_sha256": "260d2805b085491ba4da03c48577e942e502b00acecc993ef21473ce614310f1",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "lem:pin-stability-closure",
+      "kind": "lemma",
+      "title_tex": "Closure operations",
+      "statement_lines": [
+        69,
+        77
+      ],
+      "statement_sha256": "e052b45c0ddc176165a01975876d53e01e7a23c84bfdc06d023fbc6f23814b0c",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "lem:pin-partial-symmetrization",
+      "kind": "lemma",
+      "title_tex": "Partial symmetrization",
+      "statement_lines": [
+        123,
+        127
+      ],
+      "statement_sha256": "a51a64faafcd545a966be19e184f852d9e8eb45a87d440c5d88a5a53d0da4cc4",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "lem:pin-exchange-symbol",
+      "kind": "lemma",
+      "title_tex": "Stable exchange symbols",
+      "statement_lines": [
+        172,
+        182
+      ],
+      "statement_sha256": "b487eafc305fee8fe31f1e022104c0474dd2e07edd491d166a1de19aa142fac1",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "lem:pin-splicing",
+      "kind": "lemma",
+      "title_tex": "Splicing and output extraction",
+      "statement_lines": [
+        254,
+        275
+      ],
+      "statement_sha256": "b8d6f644dee795490cd8472672efa4b1bdefab18b137c182c8538ca2c3e40f42",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/02-pin-test.tex",
+      "file_sha256": "d00fecb5d3fa42c59928c2f4d2b85a27289892dc8e2a3343e9f97bb49ba1b771",
+      "label": "lem:pin-presence",
+      "kind": "lemma",
+      "title_tex": "Presence probabilities",
+      "statement_lines": [
+        316,
+        325
+      ],
+      "statement_sha256": "682796dfa3f0c30e2a87cb1e0b9a3a839b5db044e98bf251c409b39c8f070ce2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+      "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+      "label": "prop:exposure",
+      "kind": "proposition",
+      "title_tex": "Exposed-path disintegration",
+      "statement_lines": [
+        74,
+        105
+      ],
+      "statement_sha256": "9e7e5f346112b4d5b099ec1dbeb7b40921c14196d335394d8a6165596e03ffa2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+      "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+      "label": "lem:exterior",
+      "kind": "lemma",
+      "title_tex": "Exterior moments before conditioning",
+      "statement_lines": [
+        209,
+        229
+      ],
+      "statement_sha256": "9045a873c92d93d7a8e95f050de02d45a8c3287460240ad3f323ea05c62076bd",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+      "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+      "label": "prop:first-moment",
+      "kind": "proposition",
+      "title_tex": "Conditional next-pin first moment",
+      "statement_lines": [
+        289,
+        318
+      ],
+      "statement_sha256": "bf69e4b04fc653049398ba84dcfaa96280cf1e4f641f59432d6fd32afd052c8c",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+      "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+      "label": "lem:exposure-dense-return",
+      "kind": "lemma",
+      "title_tex": "Return identity with boundary pins",
+      "statement_lines": [
+        428,
+        441
+      ],
+      "statement_sha256": "3d902af0d3ad6a78507bb3d78c51ef23291c67d802c4e0bfc83d53d6fad6a4d2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/03-exposure.tex",
+      "file_sha256": "611f09fdca8049349c9ddbebd5ad40379377c600395f01ae19b7ce24c6c0f839",
+      "label": "lem:return-energy",
+      "kind": "lemma",
+      "title_tex": "Minimal hitting function and return energy",
+      "statement_lines": [
+        555,
+        578
+      ],
+      "statement_sha256": "c1f6673bdfe948764f253d8e696dfbe64fdfd42ac4c13fd1124bbe886691b0e9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+      "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+      "label": "lem:nongrid",
+      "kind": "lemma",
+      "title_tex": "Blocking at a deterministic time",
+      "statement_lines": [
+        90,
+        102
+      ],
+      "statement_sha256": "1b91e3e54da6a77679e928c66ffc361c5c04154d08e88bc75d72e47e092a3d63",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+      "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+      "label": "lem:component-tail",
+      "kind": "lemma",
+      "title_tex": "Uniform component tail",
+      "statement_lines": [
+        157,
+        170
+      ],
+      "statement_sha256": "573c7e2f847b132e0ceb1b2c4495d77012044a287809be7adbd1885850a41f81",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+      "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+      "label": "prop:regularity",
+      "kind": "proposition",
+      "title_tex": "Probability of irregularity",
+      "statement_lines": [
+        290,
+        300
+      ],
+      "statement_sha256": "15396863dd83e488360e4991219aab331479a01b8428d84753bf4da420729079",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+      "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+      "label": "lem:local-connectivity",
+      "kind": "lemma",
+      "title_tex": "Uniform local connectivity",
+      "statement_lines": [
+        341,
+        351
+      ],
+      "statement_sha256": "0d2eadb6534aa6c00e72d360a8b8e1ae31822d38947224d8f00e5c149cb7d356",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/04-sparse-geometry.tex",
+      "file_sha256": "f8349b33785c73b2e89f85430e7392ee30f4c7b22253009f3ad7c59ba379ca9a",
+      "label": "prop:local-nash",
+      "kind": "proposition",
+      "title_tex": "Local Nash inequality",
+      "statement_lines": [
+        401,
+        413
+      ],
+      "statement_sha256": "dd5ea7208d378780a72591d30a5b420cd860b1905998ad6610dd6e97012d7741",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+      "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+      "label": "lem:hulls",
+      "kind": "lemma",
+      "title_tex": "Hull topology and clearance",
+      "statement_lines": [
+        63,
+        79
+      ],
+      "statement_sha256": "afbaaf01a66bd5ba975ca59f6e2ef19e9693bd2e2896ef33da907c1a337c73a3",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+      "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+      "label": "prop:flow-decay",
+      "kind": "proposition",
+      "title_tex": "Decay of a routed unit flow",
+      "statement_lines": [
+        171,
+        184
+      ],
+      "statement_sha256": "0a6e7fc780d7d2274f03405c9a8bfda02ced2803abc8e489da31f0ebcd151269",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+      "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+      "label": "lem:flow-overlap",
+      "kind": "lemma",
+      "title_tex": "Overlap of two flows",
+      "statement_lines": [
+        315,
+        327
+      ],
+      "statement_sha256": "9153974f0ec12476a852fb90d45cfa50212ac321ab952ef694fa6361870d01ae",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/05-flows.tex",
+      "file_sha256": "e082024c281b5c45bd4f7a769b010fc29d8a1af6d75218dde00083c346f086c6",
+      "label": "prop:flow-energy",
+      "kind": "proposition",
+      "title_tex": "Energy for arbitrary injections",
+      "statement_lines": [
+        346,
+        371
+      ],
+      "statement_sha256": "68dc0bc7db2952cbc127bf16b904dc9e3b1d89e3299a58139a071b332e9ee623",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+      "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+      "label": "lem:two-ends",
+      "kind": "lemma",
+      "title_tex": "Leakage at both ends",
+      "statement_lines": [
+        130,
+        141
+      ],
+      "statement_sha256": "64f0b9caa6251f13f1829289297b9c408319d65b107fa9964ee8feef8c3bd907",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+      "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+      "label": "lem:localization",
+      "kind": "lemma",
+      "title_tex": "Localization averaged over the pin law",
+      "statement_lines": [
+        234,
+        245
+      ],
+      "statement_sha256": "b342818d550dc911da6f597dc9290048bda6066d6b356a4151e50a540fa3099b",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+      "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+      "label": "lem:regular-time-decay",
+      "kind": "lemma",
+      "title_tex": "Decay after enough regular time",
+      "statement_lines": [
+        332,
+        346
+      ],
+      "statement_sha256": "caab2898b7486ee4e5493fe7c3bf89b282b96fdc800f46cfc884b76d1981de56",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+      "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+      "label": "prop:leakage",
+      "kind": "proposition",
+      "title_tex": "Expected leakage",
+      "statement_lines": [
+        403,
+        423
+      ],
+      "statement_sha256": "6d775c4758a289209df81b981c78d23e826d456ca73dd8e0125ff1c437c8493d",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/06-leakage.tex",
+      "file_sha256": "b804d7293f8decddd151c756463a06361b502b3a096c7f8b061482aa3cd38cb9",
+      "label": "thm:pin-bootstrap",
+      "kind": "theorem",
+      "title_tex": "Uniform pin estimate",
+      "statement_lines": [
+        553,
+        573
+      ],
+      "statement_sha256": "4918df232e6d88fa886cee950cef704474e2415cba2b0914ba58cc7ca5512841",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+      "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+      "label": "lem:surface-cost",
+      "kind": "lemma",
+      "title_tex": "Boundary coloring and a spectral tail",
+      "statement_lines": [
+        37,
+        52
+      ],
+      "statement_sha256": "d5b7c5622349690f2a91138147fc7351d5a707d479e64ed0d0147425024c7176",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+      "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+      "label": "prop:magnetized-limit",
+      "kind": "proposition",
+      "title_tex": "An explicit vanishing-field limit",
+      "statement_lines": [
+        118,
+        139
+      ],
+      "statement_sha256": "99028bb57a26b9ba3849f8e07211e20a58237b6d8685f5eb46b6f6e5fd6cf3c7",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+      "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+      "label": "lem:deep-dynamics",
+      "kind": "lemma",
+      "title_tex": "Uniform approximation in deep translated boxes",
+      "statement_lines": [
+        236,
+        255
+      ],
+      "statement_sha256": "ccb02c07d7631a4a0791a0d6e3cdcd729022b967af85b6072e2984a97c0b12a6",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-addb934e37307c35",
+      "path": "math/preprints/Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026/build/source/sections/07-kms.tex",
+      "file_sha256": "82fe9e76af62b889de7adb68e77df5c7eb86f622197a22faec24921e4a083973",
+      "label": "lem:strip-limit",
+      "kind": "lemma",
+      "title_tex": "Bounded strip limits",
+      "statement_lines": [
+        319,
+        338
+      ],
+      "statement_sha256": "c74a0aab9b97d5aa3814596d2478e5eee882e0dd8e557ce19f70ba82ae96489f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "9c6a45a7a4d564f6cf007d0f742fb1c15c35bcdc74bac0e7ab16ae5b81c0aaaf",
+      "label": "thm:main",
+      "kind": "theorem",
+      "title_tex": "Bloch's law",
+      "statement_lines": [
+        68,
+        77
+      ],
+      "statement_sha256": "872e9e8580fd12b13a334bc12176dc61a51232c8dd1284832eca32c6c080ecde",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+      "label": "thm:main",
+      "kind": "theorem",
+      "title_tex": null,
+      "statement_lines": [
+        45,
+        51
+      ],
+      "statement_sha256": "f2100e8d5773a30ae8ebfa2825021d62b51d5bddea5a4196e17284090284033e",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "7b071a40e16ac21f80ccea229603cb62092494ccc1eaf9c4d506902b387adb8f",
+      "label": "cor:expansion",
+      "kind": "corollary",
+      "title_tex": null,
+      "statement_lines": [
+        55,
+        63
+      ],
+      "statement_sha256": "1631a9fa23792bebaae5356330eccb17ac13c0f12a276c6e8b07f457f11670b4",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/01-introduction.tex",
+      "file_sha256": "1df7a37b7ecc61d7f3360ddda6a12cc090ceb730564272439af4e98e4bbd0031",
+      "label": "thm:main",
+      "kind": "theorem",
+      "title_tex": "Spherical magnetization law",
+      "statement_lines": [
+        45,
+        64
+      ],
+      "statement_sha256": "1e503d018202f0afcb0c91054c98bb086968e2f2f2819368e2f0e0cb8ff55620",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "prop:loop-representation",
+      "kind": "proposition",
+      "title_tex": "Loop representation",
+      "statement_lines": [
+        53,
+        70
+      ],
+      "statement_sha256": "7fba1fd52242c3e5567fdc304e0a09fca55ae936fc766c83ab8955d04a3289a1",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "lem:dense-boundary",
+      "kind": "lemma",
+      "title_tex": "Dense boundary cuts",
+      "statement_lines": [
+        145,
+        159
+      ],
+      "statement_sha256": "63a3dd4f152601418bfa0bf59af905bd048c07eff3c0a326ad225a684c33cd2e",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "lem:factorial",
+      "kind": "lemma",
+      "title_tex": "Factorial domination",
+      "statement_lines": [
+        182,
+        192
+      ],
+      "statement_sha256": "991be867da775b7744020c6bd241e04cfcf8daa32d5713feb65e2fb7ac17f95a",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "prop:pin-identities",
+      "kind": "proposition",
+      "title_tex": "Pin identities",
+      "statement_lines": [
+        248,
+        255
+      ],
+      "statement_sha256": "ea8268b4b11a0aa28de7dd0a4a716400b45d0bb0714546ae560469eb53996fa2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "prop:exposure",
+      "kind": "proposition",
+      "title_tex": "Exposure disintegration",
+      "statement_lines": [
+        414,
+        440
+      ],
+      "statement_sha256": "f3b3c1cfa2247e64cd7b09e7b10b6f9d152084f40eea1175465e58f471dcb998",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "lem:exterior-moments",
+      "kind": "lemma",
+      "title_tex": "Exterior moments",
+      "statement_lines": [
+        504,
+        516
+      ],
+      "statement_sha256": "7e88850b2eb744196567866dced2c148f720e421b32c7f08a8bd8cd0873efbcf",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "prop:next-pin-kernel",
+      "kind": "proposition",
+      "title_tex": "Conditional next-pin kernel",
+      "statement_lines": [
+        550,
+        569
+      ],
+      "statement_sha256": "60840a36aa5c62c8d77223fcbe537d2424d05740f590a5949ab61286ed0f22f7",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/02-pins.tex",
+      "file_sha256": "6f542f0d37b50ce16651e3d71fd056072b2ed76905d06ad90e536a3b5c3c6190",
+      "label": "prop:fresh-walk",
+      "kind": "proposition",
+      "title_tex": "Fresh-walk identity",
+      "statement_lines": [
+        648,
+        657
+      ],
+      "statement_sha256": "b341305a2399ee41af86d1824b8ee5539cf7b279aea3b44731afa27d09618713",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+      "label": "prop:nash",
+      "kind": "proposition",
+      "title_tex": "Local Nash inequality",
+      "statement_lines": [
+        195,
+        203
+      ],
+      "statement_sha256": "fa8a129cdc48a33e361099bc57ea455829a02ce42cb9dd6ba27c9c2af3469f10",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+      "label": "lem:routed-flow",
+      "kind": "lemma",
+      "title_tex": "Routed unit flows: geometric input",
+      "statement_lines": [
+        292,
+        327
+      ],
+      "statement_sha256": "6d4fd018122629026ed5e4d4f1130ede3ff5948f483797e832713da870d01f87",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+      "label": "prop:sparse-energy",
+      "kind": "proposition",
+      "title_tex": "Energy of sparse sources",
+      "statement_lines": [
+        358,
+        369
+      ],
+      "statement_sha256": "e3935716127cb43f2338336159b3c4007d341ee641f54aa364c7e196e3c205ec",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+      "label": "lem:near-flow",
+      "kind": "lemma",
+      "title_tex": "Decay up to the localization radius",
+      "statement_lines": [
+        412,
+        419
+      ],
+      "statement_sha256": "76a3ddd865679d3384403f2e03debbc591dad903a95fe8c1c1833fd2a88e1b1f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "8a08970b06233038c488f9362eee67ddbb14e0c9d83266bc5237a9effab717dd",
+      "label": "prop:spread-energy",
+      "kind": "proposition",
+      "title_tex": "Spread-source energy",
+      "statement_lines": [
+        457,
+        472
+      ],
+      "statement_sha256": "771d075f63e553f140467e26c06c914761b4cb41044ed37e3918f075c37dfcf2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "lem:blocking",
+      "kind": "lemma",
+      "title_tex": "Blocking at deterministic times",
+      "statement_lines": [
+        51,
+        63
+      ],
+      "statement_sha256": "168c79573edede196316ecf7fe91f38e9f648b37039a19bb5faefec57f075e5f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "lem:component-tail",
+      "kind": "lemma",
+      "title_tex": "Component tail",
+      "statement_lines": [
+        108,
+        119
+      ],
+      "statement_sha256": "a83e84d20c79c75251a4c15ee4dd9496ee7cb8b0e3dc62d70ecaa33610823f7b",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "prop:irregularity",
+      "kind": "proposition",
+      "title_tex": "Probability of an irregular slice",
+      "statement_lines": [
+        191,
+        200
+      ],
+      "statement_sha256": "2b987b89006fb8d6c40ef59fea1b2bc8189d92e143c02a1f88ceb9d184f97e05",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "lem:localization",
+      "kind": "lemma",
+      "title_tex": "Localization",
+      "statement_lines": [
+        254,
+        270
+      ],
+      "statement_sha256": "d93fdcae32322f65c5e1235c85356850ecbb4816da8b88df7802edada3326dc0",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "prop:diffusion",
+      "kind": "proposition",
+      "title_tex": "Diffusion on a good exposure",
+      "statement_lines": [
+        320,
+        335
+      ],
+      "statement_sha256": "8ce0e8763d16ecc338392946112a1d960b94633f07c7e56a05ad23eb2e97a2e2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "lem:hitting-energy",
+      "kind": "lemma",
+      "title_tex": "Hitting energy",
+      "statement_lines": [
+        373,
+        388
+      ],
+      "statement_sha256": "2234a8c65296f7bcde3d3118b976c4e25a78762d3fbd39f167ac4e12b69b95e1",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "lem:suffix-energy",
+      "kind": "lemma",
+      "title_tex": "Suffix energy",
+      "statement_lines": [
+        428,
+        437
+      ],
+      "statement_sha256": "615d1100168a81e0926df08652afb24f36df95919b0bfe3905dd9eb94230b328",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/04-bootstrap.tex",
+      "file_sha256": "1601b263886366a0aabd02a13acfc0b704d142cf81d05fe8e06b6f59bdfdcded",
+      "label": "thm:sparse-pins",
+      "kind": "theorem",
+      "title_tex": "Uniform sparse-pin estimate",
+      "statement_lines": [
+        454,
+        465
+      ],
+      "statement_sha256": "03f4c0660366358dabcf733567fd59d38c04bf4ffda8a35fb7becce3b8270516",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex",
+      "file_sha256": "d7f2b758dfb463aa85a9fe0e42a70060e38cee74c153f1add263d3e188976ebf",
+      "label": "lem:return-expansion",
+      "kind": "lemma",
+      "title_tex": "Finite return expansion",
+      "statement_lines": [
+        26,
+        38
+      ],
+      "statement_sha256": "a38a6598df997e61e68ec5336cca75ed5e081402c73bb91f7319dc8bba2159f5",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex",
+      "file_sha256": "d7f2b758dfb463aa85a9fe0e42a70060e38cee74c153f1add263d3e188976ebf",
+      "label": "prop:long-tail",
+      "kind": "proposition",
+      "title_tex": "Long-return bound",
+      "statement_lines": [
+        65,
+        74
+      ],
+      "statement_sha256": "2ca55c4cec3b22d57dc5127212b405400e6c56de1f010e696f13a5c7dc3dff1f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/05-returns.tex",
+      "file_sha256": "d7f2b758dfb463aa85a9fe0e42a70060e38cee74c153f1add263d3e188976ebf",
+      "label": "cor:singleton-bound",
+      "kind": "corollary",
+      "title_tex": "Uniform singleton sparsity",
+      "statement_lines": [
+        175,
+        186
+      ],
+      "statement_sha256": "d1c7caf49f44837f5eebca836ac935acbc972d9c80a983146d897357e316439b",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex",
+      "file_sha256": "2fdc054ec16f47aba3baf9dfba9e984a18305084cfef883844a75f8a429fe826",
+      "label": "lem:ideal-kernel",
+      "kind": "lemma",
+      "title_tex": "Ideal return coefficient",
+      "statement_lines": [
+        50,
+        75
+      ],
+      "statement_sha256": "104509b520b333b75dc297e73f75ba972bf0249354dcf864c5b397f5f725e5df",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex",
+      "file_sha256": "2fdc054ec16f47aba3baf9dfba9e984a18305084cfef883844a75f8a429fe826",
+      "label": "prop:finite-word",
+      "kind": "proposition",
+      "title_tex": "Finite direction words",
+      "statement_lines": [
+        123,
+        134
+      ],
+      "statement_sha256": "05808a9c3b38b3bbeaf639cf73bc2257714561d10f5d481ea31b87dd7d3abc76",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/06-ideal.tex",
+      "file_sha256": "2fdc054ec16f47aba3baf9dfba9e984a18305084cfef883844a75f8a429fe826",
+      "label": "thm:return-bounds",
+      "kind": "theorem",
+      "title_tex": "One-slot bounds with the sharp coefficient",
+      "statement_lines": [
+        314,
+        343
+      ],
+      "statement_sha256": "94773bcf4023394bd23ca1f2f99ec330dc9f64f8d8316549647f475f19c3582a",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "5a6dc9ce689d5b2b97e19e2c50130de6e31a105c4f2326b6ec3fd03bbea3a876",
+      "label": "prop:pressure-equivalence",
+      "kind": "proposition",
+      "title_tex": "Boundary pressure equivalence",
+      "statement_lines": [
+        35,
+        42
+      ],
+      "statement_sha256": "1df1c355843d1724f72e23237e26d51f498bc3fd6ad1e4208117ddfc19296a31",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-9669b6997ff4be58",
+      "path": "math/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "5a6dc9ce689d5b2b97e19e2c50130de6e31a105c4f2326b6ec3fd03bbea3a876",
+      "label": "lem:pin-mixture",
+      "kind": "lemma",
+      "title_tex": "Extra-pin mixture",
+      "statement_lines": [
+        84,
+        100
+      ],
+      "statement_sha256": "430ff38dcd8282877384bade2bc885d786b0a09e3d680254c3d58af2b44917cd",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+      "file_sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+      "label": "prop:loopinputs",
+      "kind": "proposition",
+      "title_tex": "Loop and pin inputs",
+      "statement_lines": [
+        75,
+        108
+      ],
+      "statement_sha256": "c3532ebd6237b179b1a6853cf5588f47bc22a2acf4ed633b5c69f179086baa77",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/02-loops.tex",
+      "file_sha256": "1bd94a824a998564eb6999a525542ead299e7c79f0ac8551120e7958e8475967",
+      "label": "lem:kernelenergy",
+      "kind": "lemma",
+      "title_tex": "Contraction and energy loss",
+      "statement_lines": [
+        141,
+        165
+      ],
+      "statement_sha256": "b5a3fb7ab390429932439fc80c6e4f38309a421e8bf29f3009b296e936ea951e",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "prop:geometryinputs",
+      "kind": "proposition",
+      "title_tex": "Imported geometric estimates",
+      "statement_lines": [
+        31,
+        61
+      ],
+      "statement_sha256": "29de37b9bbf564949331c221f294ba51f33dff432e207c82533910062a845ce9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "prop:snapshot",
+      "kind": "proposition",
+      "title_tex": "Uniform snapshot sparsity",
+      "statement_lines": [
+        93,
+        101
+      ],
+      "statement_sha256": "80cc8ae1eb77d234a5d78706fa16187a70a295a3d04a6c41253fa5477c003516",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "lem:isolatedpath",
+      "kind": "lemma",
+      "title_tex": "Domination of an isolated strand",
+      "statement_lines": [
+        216,
+        235
+      ],
+      "statement_sha256": "6965b92ae3c7998f278c7964406d5a160e0975f3b8352b255bc0eb52c92c2669",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "prop:good",
+      "kind": "proposition",
+      "title_tex": "Good exposures",
+      "statement_lines": [
+        302,
+        325
+      ],
+      "statement_sha256": "cc3fe118ce1432a7a07452e136e95c480102d961a022780ad45549977a79e736",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "lem:heatbound",
+      "kind": "lemma",
+      "title_tex": "Local heat bound",
+      "statement_lines": [
+        404,
+        412
+      ],
+      "statement_sha256": "fd57fd8201840cc256c346f5580612ebad410e059123317f7f9f107e382ff6db",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "lem:localization",
+      "kind": "lemma",
+      "title_tex": "Displacement of the fresh walk",
+      "statement_lines": [
+        428,
+        440
+      ],
+      "statement_sha256": "c4b515bf6033ebb47c58546ce03339f7cf43dae431cf59c95c028d00a84efbd2",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/03-geometry.tex",
+      "file_sha256": "b55c919f97e6b749694d6cc0ecaa6e1b5d6b81142c5938635aa38d3591ecfe32",
+      "label": "lem:flowoverlap",
+      "kind": "lemma",
+      "title_tex": "Flow overlap",
+      "statement_lines": [
+        522,
+        531
+      ],
+      "statement_sha256": "01b82a04e8392df22ad09a2925fbfd516dc62340a699463606f855808b5e1b2b",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+      "file_sha256": "975dfb3e30cd608a57aa0c6022c99415ca652f01c2ecb3e8383f4fed258cd0f8",
+      "label": "prop:comparison",
+      "kind": "proposition",
+      "title_tex": "Uniform comparison away from pins",
+      "statement_lines": [
+        10,
+        26
+      ],
+      "statement_sha256": "5d543db8dc07d7ab89c688e256ec9d234d5a51e3d9887832dc1de7185ef1bade",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-capacity.tex",
+      "file_sha256": "975dfb3e30cd608a57aa0c6022c99415ca652f01c2ecb3e8383f4fed258cd0f8",
+      "label": "lem:capacity",
+      "kind": "lemma",
+      "title_tex": "Finite capacity comparison",
+      "statement_lines": [
+        73,
+        94
+      ],
+      "statement_sha256": "d01e3e0397a448e58d4c080c6f00a6e8b3b1dc846fbc04be06b13204a02ae68c",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/04-profiles.tex",
+      "file_sha256": "bffeec3003069cfaed0cd70b7d86316553965293ff598e607ff8a8c697fc3fa3",
+      "label": "lem:freebounds",
+      "kind": "lemma",
+      "title_tex": "Bounds for the free profiles",
+      "statement_lines": [
+        116,
+        136
+      ],
+      "statement_sha256": "8b3f162afe6b068d63b71bbfb1e95fc850b642f7bf158708fea17288790f2fcf",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+      "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+      "label": "lem:signedsource",
+      "kind": "lemma",
+      "title_tex": "Signed source identity",
+      "statement_lines": [
+        98,
+        110
+      ],
+      "statement_sha256": "5149a4e3241a3504b8843d9833061237d374844c335cec6c6ec3c1b010299c9d",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+      "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+      "label": "lem:cancellation",
+      "kind": "lemma",
+      "title_tex": "Block source bounds",
+      "statement_lines": [
+        148,
+        167
+      ],
+      "statement_sha256": "efdb78de3375dbb8027f39dafd7ef4895616fcb5088457f1b78b0e5c229f9ee5",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+      "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+      "label": "lem:sourcebins",
+      "kind": "lemma",
+      "title_tex": "Bin source bounds",
+      "statement_lines": [
+        212,
+        221
+      ],
+      "statement_sha256": "7491ecf28627acbc0e09441ee714b43067c1b218f485010dd9449db211858330",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/05-sources.tex",
+      "file_sha256": "c3450007d4f6a8dce20970ffe2e31fe9a4bacf7f68d93978dcead2a81a979c83",
+      "label": "lem:duhamel",
+      "kind": "lemma",
+      "title_tex": "Two-source Duhamel identity",
+      "statement_lines": [
+        267,
+        281
+      ],
+      "statement_sha256": "3119bcb344fe9f2f45b5cd1c7f7f710aa72207273735949af06b956e514d0c32",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+      "file_sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+      "label": "prop:scalar",
+      "kind": "proposition",
+      "title_tex": "Scalar estimate",
+      "statement_lines": [
+        11,
+        20
+      ],
+      "statement_sha256": "e4815806c9e8241e5785330004ab7e84b2e99c2207523d15beea620718315029",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/06-scalar.tex",
+      "file_sha256": "a2d95bf4a194efc24320e73991b393fd3a680974799a64bf2adb021dedd85c64",
+      "label": "lem:boxmoment",
+      "kind": "lemma",
+      "title_tex": "Box moment bound",
+      "statement_lines": [
+        139,
+        157
+      ],
+      "statement_sha256": "dff0e1ba6ab4db0f7abe2f413447d3c1e3333c1c2a5476090beb57c31a005d08",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+      "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+      "label": "prop:dualenergy",
+      "kind": "proposition",
+      "title_tex": "Dual energy estimate",
+      "statement_lines": [
+        14,
+        37
+      ],
+      "statement_sha256": "75786aa0e188b6be5035147be69deeb73232d69f55c3ffd9c64d688b0d21127a",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+      "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+      "label": "lem:blockflow",
+      "kind": "lemma",
+      "title_tex": "One-block flow bound",
+      "statement_lines": [
+        118,
+        144
+      ],
+      "statement_sha256": "dfc160379846890ff1674520a5f0e800f5e103e465b13f267d85b6c034a50484",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/07-energy.tex",
+      "file_sha256": "12fb4c5bcf8e648321907e192ec6fdf5edfc20e078b6e4f65ab71632118f58ff",
+      "label": "lem:earlysourceenergy",
+      "kind": "lemma",
+      "title_tex": "Diffusion of the early sources",
+      "statement_lines": [
+        369,
+        382
+      ],
+      "statement_sha256": "4e8fb3c0581c53ac2f048b453006a25128a5717b8631aae67b91b8751a2b3c93",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-e4168cfdc9df4b3b",
+      "path": "math/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/build/sections/08-pressure.tex",
+      "file_sha256": "8d54b4b6539b582b35f82f39df514f08a1cf51f745e33a7e55e2cab01fe63267",
+      "label": "lem:surfacecost",
+      "kind": "lemma",
+      "title_tex": "Surface cost of boundary pins",
+      "statement_lines": [
+        102,
+        111
+      ],
+      "statement_sha256": "73aedad97d8b7410e8e6be7f1dba1c5086ae9f25118e31d57488fc0f44b4d8d9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+      "file_sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+      "label": "lem:pin-inputs",
+      "kind": "lemma",
+      "title_tex": "Finite pin inputs",
+      "statement_lines": [
+        150,
+        175
+      ],
+      "statement_sha256": "3e0905e8dc8b738417f35021c0101c6ba8b7b4d0ed985df7ddfc7281a282c1bf",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+      "file_sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+      "label": "lem:next-pin",
+      "kind": "lemma",
+      "title_tex": "Conditional next-pin kernel",
+      "statement_lines": [
+        267,
+        295
+      ],
+      "statement_sha256": "fdfc3d16624241bf533c08156c3a5640ec7d472c3cb3c8c53a55442fedf7e4e7",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+      "file_sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+      "label": "lem:trace-zero-free",
+      "kind": "lemma",
+      "title_tex": "Zero-free layered traces",
+      "statement_lines": [
+        390,
+        403
+      ],
+      "statement_sha256": "956caa2b1fbe65e2f137188214fc55efcca8265b06a22870eb5c2e726bc65243",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/02-exchange.tex",
+      "file_sha256": "750bb812511c127652a362cf956b488704643f58bc12baf1af0a2a19e92a9cad",
+      "label": "lem:strip-maps",
+      "kind": "lemma",
+      "title_tex": "Single-slot maps",
+      "statement_lines": [
+        440,
+        451
+      ],
+      "statement_sha256": "9c8e21994e9c4039c6a7b026f5ae2966e508adf596c03d8bd9a89de1672fd903",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "prop:sparse-pins",
+      "kind": "proposition",
+      "title_tex": "Sparse-pin bound",
+      "statement_lines": [
+        75,
+        88
+      ],
+      "statement_sha256": "c987b8574088f603c98ca8504f201151da0f450f72643a4415dd9dadb4982112",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "lem:lattice-inputs",
+      "kind": "lemma",
+      "title_tex": "Lattice Nash inequality and unit flows",
+      "statement_lines": [
+        181,
+        204
+      ],
+      "statement_sha256": "2beabcd98fc91935757c631b01283a985ac5dc89c640c8ca91a23a60bd380481",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "lem:torus-blocking",
+      "kind": "lemma",
+      "title_tex": "Blocking and component tails",
+      "statement_lines": [
+        242,
+        259
+      ],
+      "statement_sha256": "5f9580f0ee4a0aefbcc5654cf9661140c277dd4b0b2446b1601309ce0ad6dff9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "lem:torus-diffusion",
+      "kind": "lemma",
+      "title_tex": "Regularity and localized diffusion",
+      "statement_lines": [
+        328,
+        345
+      ],
+      "statement_sha256": "00801036207ee75002038070225295177e234082d1d588b44f28d0f3417a1076",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "lem:torus-flow-pairing",
+      "kind": "lemma",
+      "title_tex": "Sparse-source pairing on the torus",
+      "statement_lines": [
+        414,
+        428
+      ],
+      "statement_sha256": "717157576092b9fc290713034ce1d82618cb714a0ad8ba431fc8b8cffcefb7e9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/03-sparse-pins.tex",
+      "file_sha256": "6cf3d1174f41ca0bc2b342cc9393b02134a3e03c9ae7b1544bd82f2c2efcd586",
+      "label": "cor:positive-magnetization",
+      "kind": "corollary",
+      "title_tex": "Positive spontaneous magnetization",
+      "statement_lines": [
+        644,
+        649
+      ],
+      "statement_sha256": "4a81b7a0d599a4ba56b984f735b1023c63ee6235e888be8c596822f0150a46fc",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "prop:weak-field",
+      "kind": "proposition",
+      "title_tex": "Weak-field spatial estimate",
+      "statement_lines": [
+        12,
+        29
+      ],
+      "statement_sha256": "3a82cebdf10bb17849e26723c0be66171a80591d23750bb942517ba783ab6d06",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:soft-resolvent",
+      "kind": "lemma",
+      "title_tex": "Soft-pin identities",
+      "statement_lines": [
+        58,
+        79
+      ],
+      "statement_sha256": "a53c9267f3cb1466593130744af3acf0439f610ddca400ce3d21c3c24f79bb48",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:hole-cancellation",
+      "kind": "lemma",
+      "title_tex": "Cancellation after exposure",
+      "statement_lines": [
+        175,
+        181
+      ],
+      "statement_sha256": "56b8a5caea95b558e2a9103e40f6f07369e00dfea72f4a673d99bcb4813bf40f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:skeleton-graph",
+      "kind": "lemma",
+      "title_tex": "Communication costs and closed classes",
+      "statement_lines": [
+        234,
+        248
+      ],
+      "statement_sha256": "6dcab8cc813e7d5a8bc4a992322f8d47e5822517e659eda37437d1f82739865b",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:bad-box-tail",
+      "kind": "lemma",
+      "title_tex": "Bad-box tails",
+      "statement_lines": [
+        330,
+        342
+      ],
+      "statement_sha256": "aed90702b9b7cb87044651659be08613cd8488771d393ba8d66dfd06aa1dd9a9",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:good-box-paths",
+      "kind": "lemma",
+      "title_tex": "Local paths near good boxes",
+      "statement_lines": [
+        414,
+        427
+      ],
+      "statement_sha256": "3b54699e2f3c7501eeb4f1214c8d293e70becb3994bcdbd13bcbe826706c5400",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:hull-comparison",
+      "kind": "lemma",
+      "title_tex": "Comparison across a cell and out of a hull",
+      "statement_lines": [
+        537,
+        557
+      ],
+      "statement_sha256": "1ba740da49f7a730fc4d31a6b1afdefe3f5705ba88e3fb959cc562a777bbb4c8",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/04-spatial-comparison.tex",
+      "file_sha256": "e82b46ea919a845e24fe90beef77d8d94fa16d6cbf84c9016a28a6c86df5b430",
+      "label": "lem:cell-resolvent",
+      "kind": "lemma",
+      "title_tex": "Cellwise approximation of the resolvent",
+      "statement_lines": [
+        643,
+        650
+      ],
+      "statement_sha256": "91c8e2b8afd006ad257e8d072ba7c8c52da49da6b65ec617c600784dabd2424f",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+      "file_sha256": "93774be096bc16bdcba9b3738015ca30be8b628f3fe2dd2d964b9cadfec05578",
+      "label": "lem:strip-curvature",
+      "kind": "lemma",
+      "title_tex": "Strip curvature",
+      "statement_lines": [
+        18,
+        42
+      ],
+      "statement_sha256": "2e94856455fd12b4779b51363f273a0a7362bb65c1ec41a295988a0074f4ac73",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+      "file_sha256": "93774be096bc16bdcba9b3738015ca30be8b628f3fe2dd2d964b9cadfec05578",
+      "label": "prop:zero-field",
+      "kind": "proposition",
+      "title_tex": null,
+      "statement_lines": [
+        107,
+        128
+      ],
+      "statement_sha256": "e70a5217b16bdec0e9bbfe28be6920a0dcb585edffa03a39200b76e6dbf3b4ec",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/05-zero-field.tex",
+      "file_sha256": "93774be096bc16bdcba9b3738015ca30be8b628f3fe2dd2d964b9cadfec05578",
+      "label": "prop:scale-comparison",
+      "kind": "proposition",
+      "title_tex": null,
+      "statement_lines": [
+        201,
+        215
+      ],
+      "statement_sha256": "37c1c90aabefe397d3a9c2fd55be14275ceaf7a6ed652fafc65f02727ff75231",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+      "file_sha256": "6defda8ed4ce36097f3470ac5fb8cd388d9aa4ccdfcbd6e22ce0a655881031ee",
+      "label": "prop:variational-framework",
+      "kind": "proposition",
+      "title_tex": null,
+      "statement_lines": [
+        43,
+        64
+      ],
+      "statement_sha256": "d007312c86381ddc965dd40805eba85f1b24e0124d9f44fc2b3d358f4e3fbd55",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+      "file_sha256": "6defda8ed4ce36097f3470ac5fb8cd388d9aa4ccdfcbd6e22ce0a655881031ee",
+      "label": "lem:ergodic-variance",
+      "kind": "lemma",
+      "title_tex": "Ergodic averages",
+      "statement_lines": [
+        130,
+        139
+      ],
+      "statement_sha256": "1ffa21ac631375a04174c0c00076a30f3fe7ff146f1fcdd0c39a1334d9044af5",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/06-equilibrium.tex",
+      "file_sha256": "6defda8ed4ce36097f3470ac5fb8cd388d9aa4ccdfcbd6e22ce0a655881031ee",
+      "label": "lem:replica-cross",
+      "kind": "lemma",
+      "title_tex": "Replica cross terms",
+      "statement_lines": [
+        191,
+        201
+      ],
+      "statement_sha256": "dd26b23d3eaa8118b9423ed07189ad5817c5168c99178ea87f3dffb2f4f3bbdb",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "a8dc4f7a4a0a244dc1eb74987f23be185aa393a53586ffd2299bc4d9ea3ad6ed",
+      "label": "prop:harmonic-tangent",
+      "kind": "proposition",
+      "title_tex": "Harmonic pressure tangent",
+      "statement_lines": [
+        37,
+        48
+      ],
+      "statement_sha256": "e9e632aeecc76353f45f0f884e744732279a20bf8bf5c15aaee53d8f6ab74621",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "a8dc4f7a4a0a244dc1eb74987f23be185aa393a53586ffd2299bc4d9ea3ad6ed",
+      "label": "lem:harmonic-selection",
+      "kind": "lemma",
+      "title_tex": "Selection from moment bounds",
+      "statement_lines": [
+        373,
+        395
+      ],
+      "statement_sha256": "09ae74a52cac02b79b899b96c02df41e92ebc7c8f7b17f957dce3fb107bc0e86",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/07-pressure.tex",
+      "file_sha256": "a8dc4f7a4a0a244dc1eb74987f23be185aa393a53586ffd2299bc4d9ea3ad6ed",
+      "label": "prop:equilibrium-radius",
+      "kind": "proposition",
+      "title_tex": "Equilibrium magnetization radius",
+      "statement_lines": [
+        487,
+        495
+      ],
+      "statement_sha256": "81e04ccd77198b41cc46daba6ccc788eef9908dcc8b9644301c8278850464f83",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/08-global-spin.tex",
+      "file_sha256": "30e8c17b2bbcb921f9065045a24d11181807667680d13b1d4398de48c76d58b2",
+      "label": "lem:local-second-moment",
+      "kind": "lemma",
+      "title_tex": null,
+      "statement_lines": [
+        7,
+        14
+      ],
+      "statement_sha256": "e17b712613ccf0a63da9834c668f6c04c6a942279ada975696804494d04e4e5c",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    },
+    {
+      "manuscript_id": "P-580339d5b914b270",
+      "path": "math/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/build/sections/08-global-spin.tex",
+      "file_sha256": "30e8c17b2bbcb921f9065045a24d11181807667680d13b1d4398de48c76d58b2",
+      "label": "prop:global-second-moment",
+      "kind": "proposition",
+      "title_tex": null,
+      "statement_lines": [
+        32,
+        38
+      ],
+      "statement_sha256": "d66bff1e1a30d1710dd507e768955605100ed958f87032bc0835f9bac359cdea",
+      "semantic_status": "lexical locator only; not automatically accepted claim"
+    }
+  ],
+  "automatic_inventory_not_semantic_acceptance": true,
+  "complete_family": false
+}

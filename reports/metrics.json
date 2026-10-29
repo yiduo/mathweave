@@ -1,8 +1,8 @@
 {
-  "nodes": 8874,
-  "research_nodes": 5622,
-  "edges": 26094,
-  "citations_checked": 9845,
+  "nodes": 8936,
+  "research_nodes": 5666,
+  "edges": 26265,
+  "citations_checked": 9932,
   "candidate_connections": 47,
   "diagnostic_executions_not_initial_checks": 1,
   "externally_checked_cards": 15,

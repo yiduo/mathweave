@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-29T06:25:25.160436+00:00",
+  "new_records": 35,
+  "new_edges": 76,
+  "source_statements": 34,
+  "old_node_bytes_preserved": 11005928,
+  "old_edge_bytes_preserved": 5391556,
+  "old_rows_byte_preserved": true,
+  "old_edges_byte_preserved": true,
+  "metrics": {
+    "nodes": 8936,
+    "research_nodes": 5666,
+    "edges": 26265,
+    "citations_checked": 9932,
+    "candidate_connections": 47,
+    "diagnostic_executions_not_initial_checks": 1,
+    "externally_checked_cards": 15,
+    "effective_leads": 7,
+    "distinct_validation_hypotheses": 15,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "new_full_family_credit": 0,
+  "new_application_checks": 0
+}

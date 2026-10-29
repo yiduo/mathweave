@@ -1,0 +1,108 @@
+{
+  "at": "2026-10-27T11:22:08.254276+00:00",
+  "members": [
+    {
+      "name": "CI-first-observation.json.gz",
+      "bytes": 399,
+      "sha256": "000e860f754151a43125fbcc185db262722fb4bb80f36d0fbd6a9951718d2d5f"
+    },
+    {
+      "name": "CI-jobs-first-observation.json.gz",
+      "bytes": 1097,
+      "sha256": "985009a66e0ecc48ac858eafb87e01119dd32054aa5727ad809e795c26e4d3fc"
+    },
+    {
+      "name": "CI-jobs-observation.json.gz",
+      "bytes": 1095,
+      "sha256": "95987fa3a7de10d95bf84cd63503958b2fa5e24c05be97c99c77f3150304cdc5"
+    },
+    {
+      "name": "CI-observation.json.gz",
+      "bytes": 409,
+      "sha256": "85e0732fe4969d4e385ecc8a80df125827715717ae6608c6ff6d10b716d7588f"
+    },
+    {
+      "name": "ci_status.py",
+      "bytes": 2204,
+      "sha256": "1735a285f8027056c930070d25246c9041e85716bd97592a794e50db10c9cf29"
+    },
+    {
+      "name": "cleanup.py",
+      "bytes": 2426,
+      "sha256": "d4a9d84aac855f13f77ffcc2b611e207bebcf06879d677f029dab8a514871dff"
+    },
+    {
+      "name": "connector-fallback.json",
+      "bytes": 334,
+      "sha256": "6df77c62c13c651a8f898bedfb210ff4dfb3374b94f4eb9a7fc9809ff17b9c47"
+    },
+    {
+      "name": "core.log",
+      "bytes": 15992,
+      "sha256": "95ab5e96cd0fd5086f8e50420519289e0c02dafa29073d9461e81d86d265514d"
+    },
+    {
+      "name": "create_public_commit.py",
+      "bytes": 1375,
+      "sha256": "5a4bb1a6464a222bfd3f5de3898e29d10bc42cbf4aee08a40bcbad95bf62c61d"
+    },
+    {
+      "name": "final-audit.json",
+      "bytes": 444,
+      "sha256": "d471c1742cb8844b26f77d8d1144b469fa4caf61b7c4aec0fa1b6f5d2123369c"
+    },
+    {
+      "name": "final_prepare.py",
+      "bytes": 2482,
+      "sha256": "b7aeeffb19f2bf7c05d07620cf71932775420f0f97f7d12d8d702af34ea919c8"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 5331,
+      "sha256": "b94c39f25665aaa0e26e84c22b87e90455ca78ba8f4656f4c1daf1061342d420"
+    },
+    {
+      "name": "no-math-core.log",
+      "bytes": 15992,
+      "sha256": "032b36f8f009f6ca5d98e43a9ea31e78e63b147157cd094350b99f6fda20d4d4"
+    },
+    {
+      "name": "prepare.py",
+      "bytes": 16781,
+      "sha256": "1a131acb7c4e6dc5a0f3dabed1a87326a46151ba12daa039be1b0d00ad858db8"
+    },
+    {
+      "name": "public-candidate.json",
+      "bytes": 447,
+      "sha256": "7e10aa27bcee27c94620d47c762e994dcfe791b9439ef3aa4de2cedc608a41fa"
+    },
+    {
+      "name": "qa.py",
+      "bytes": 5497,
+      "sha256": "ad7868421b6d6e06dc923d53a7c1d59ac3ddae327117a590de1b123b527ada8c"
+    },
+    {
+      "name": "verification.json.gz",
+      "bytes": 875,
+      "sha256": "4e71ac9e3ad1b8988fac88b760bea0a1cb278983fe648cc955dbff8adae8fd47"
+    },
+    {
+      "name": "verify.py",
+      "bytes": 4618,
+      "sha256": "453e9419ec8dd253397aba913232e3aeae74bee6e21f172a449d5462c480e372"
+    }
+  ],
+  "compressed_sha256": "ce96737f5691b71d17250ea9fe234d1ff77be3095c423ec0e46c184c138573c7",
+  "decompressed_sha256": "d46719ebaaf0d408eb510c9c1b584d0414af63784473cb00e8ac1f637ca87bb6",
+  "gzip_bytes": 25012,
+  "temporary_files_deleted_after_roundtrip": true,
+  "temporary_directory_removed": true,
+  "clean_copy_removed": true,
+  "bulk_math_copy_created": false,
+  "postpush_receipts_local_only": true,
+  "remote_public_commit": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+  "CI_run": 40494856629,
+  "CI_conclusion": "success",
+  "scientific_data_and_graph_unchanged": true,
+  "goal": "active_incomplete"
+}
