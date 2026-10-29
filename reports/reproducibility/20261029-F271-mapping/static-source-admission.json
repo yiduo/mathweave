@@ -1,0 +1,13 @@
+{
+  "source": "deeptime documented3x3 T,A=[0],B=[2] example",
+  "operation": "Transpose to column-forward U and zero killed row/column0",
+  "row_sums": [
+    "0",
+    "1/10",
+    "7/5"
+  ],
+  "failed_row": 2,
+  "failed_row_sum": "7/5",
+  "double_substochastic": false,
+  "scope": "Static exact input-contract check; not a numerical experiment or application validation"
+}

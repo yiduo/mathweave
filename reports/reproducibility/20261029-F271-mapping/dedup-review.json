@@ -1,0 +1,244 @@
+{
+  "at": "2026-10-29T07:45:29.162944+00:00",
+  "old47cards": [
+    {
+      "id": "APP-128-01",
+      "title": "Certified exact-substring assembly lower bounds",
+      "dedup_key": "PART-128-OCCURRENCE|PROB-SCS-CERT|The manuscript Section 2 periodic forced-occurrence lower bound is sound on every tiny oracle instance and increases 2-factor certification coverage of an existing greedy SCS assembler by at least 10 percentage points over extension-only counts."
+    },
+    {
+      "id": "APP-097-01",
+      "title": "Offline batch drift through signing transfer",
+      "dedup_key": "PART-097-TRANSFER|PROB-BATCH-DRIFT|Offline optimal signing followed by positive-forward negative-reverse transfer reduces mean normalized peak cumulative drift by at least 20 percent versus FIFO on the held-out synthetic zero-sum batches, and is no worse on average than one-step greedy reordering."
+    },
+    {
+      "id": "APP-130-01",
+      "title": "Finite-size feasibility of an exact-DFT exponent gain",
+      "dedup_key": "PART-130-EXPONENT|PROB-FFT-PRACTICAL|Under the deliberately favorable assumption of equal constants and no lower-order overhead, the corollary exponent delta=1e-13 supplies at least a 1 percent operation-count reduction for Fourier lengths 2^k with k between 4 and 40."
+    },
+    {
+      "id": "APP-374-01",
+      "title": "Exact three-atom sensitivity fixtures for semi-discrete optimal-transport regression",
+      "dedup_key": "PART-374-THREE-ATOM|PROB-OT-SENSITIVITY|exact-independent-regression-fixture"
+    },
+    {
+      "id": "APP-238-01",
+      "title": "Support-obstruction fixtures for joint permutation randomization audits",
+      "dedup_key": "PART-238-SUPPORT|PROB-PERMUTATION-QA|joint-law-false-assurance-fixture"
+    },
+    {
+      "id": "APP-200-01",
+      "title": "Conditional graded-syzygy budgets from exact-degree lex-plus-powers constraints",
+      "dedup_key": "F-200|PROB-200-SYZYGY-BUDGET|same-Hilbert-exact-degree-budget"
+    },
+    {
+      "id": "APP-221-01",
+      "title": "稀疏二元模型压力上界的符号条件检查：防止偶数交互的错误迁移",
+      "dedup_key": "F-221|PROB-221-INFERENCE|signed-moment-pressure-certificate-guard"
+    },
+    {
+      "id": "APP-314-01",
+      "title": "等变拓扑图谱的子群嵌入与循环链元数据校验",
+      "dedup_key": "F-314|PROB-314-INCLUSION|APP-314-01"
+    },
+    {
+      "id": "APP-149-01",
+      "title": "反应网络模拟报告中的连续永久性与离散步长证书分离",
+      "dedup_key": "F-149|PROB-149-SIMULATION|APP-149-01"
+    },
+    {
+      "id": "APP-124-01",
+      "title": "三工作器单位任务DAG的有界描述动态规划原型",
+      "dedup_key": "F-124|PROB-124-WORKFLOW|APP-124-01"
+    },
+    {
+      "id": "APP-276-01",
+      "title": "热弛豫链路预算中集体容量与固定逐次测量可达率的区分",
+      "dedup_key": "F-276|PROB-276-LINK|APP-276-01"
+    },
+    {
+      "id": "APP-178-01",
+      "title": "精确谱界构图用于固定规模分布式平均共识",
+      "dedup_key": "F-178|PROB-178-COMMUNICATION|exact-prescribed-topology-consensus-full-cost"
+    },
+    {
+      "id": "APP-325-01",
+      "title": "矩阵系数误差的数值域证书预算",
+      "dedup_key": "F-325|PROB-325-BLOCK-ERROR|complete-block-polynomial-certified-error-budget"
+    },
+    {
+      "id": "APP-021-01",
+      "title": "互素区间证书的量词与有限常数审核",
+      "dedup_key": "F-021|PROB-021-COPRIME-CERTIFICATE|signed-interval-quantifier-and-unknown-constant-audit"
+    },
+    {
+      "id": "APP-076-01",
+      "title": "有限二元波形的连续谱与相关能量审核",
+      "dedup_key": "F-076|PROB-076-WAVE-CERTIFICATE|continuous-waveform-certificate-scope-audit"
+    },
+    {
+      "id": "APP-076-02",
+      "title": "假定双相位阵列的缺陷质量联合舍入",
+      "dedup_key": "F-076|PROB-076-ANTIPODAL-APERTURE|defect-aware-antipodal-complex-aperture-rounding"
+    },
+    {
+      "id": "APP-333-01",
+      "title": "周期速度标定的协方差与均值联合修正",
+      "dedup_key": "F-333|PROB-333-PERIODIC-DRIFT|periodic-velocity-mean-energy-covariance-correction"
+    },
+    {
+      "id": "APP-255-01",
+      "title": "受限多项式代理模型的输出覆盖诊断",
+      "dedup_key": "F-255|PROB-255-FILTERED-COVERAGE|polynomial-filtered-image-volume-certificate"
+    },
+    {
+      "id": "APP-131-01",
+      "title": "有限度数网络零模型的采样误差预算",
+      "dedup_key": "F-131|PROB-131-NETWORK-NULL|Availability of a conservative all-degree certificate; no speedup claimed"
+    },
+    {
+      "id": "APP-131-02",
+      "title": "三组配对计数的条件方差预算",
+      "dedup_key": "F-131|PROB-131-PAIRED-COUNT|Conditional transfer of an old mathematical budget to a specified stochastic model; not a new inequality"
+    },
+    {
+      "id": "APP-238-02",
+      "title": "已观测路径下的剩余任务排列审计",
+      "dedup_key": "F-238|PROB-238-OBSERVED-ROUTING|joint-actual-path-environment-and-free-assignment-audit"
+    },
+    {
+      "id": "APP-115-01",
+      "title": "固定吞吐下有界整数流的配置冗余比例",
+      "dedup_key": "F-115|PROB-115-FLOW-REDUNDANCY|fixed-throughput uniform arc-vector retained-count ratio"
+    },
+    {
+      "id": "APP-114-01",
+      "title": "颜色配额生成树的结构选择数与边入选比例",
+      "dedup_key": "F-114|PROB-114-QUOTA-TREE|graphic-partition-commonbase-count-inclusion"
+    },
+    {
+      "id": "APP-366-01",
+      "title": "认证梯度场的固定字宽裁剪误差预算",
+      "dedup_key": "F-366|PROB-366-FIELD-BUDGET|weakL4-certified-field-fixedword-distortion"
+    },
+    {
+      "id": "APP-119-01",
+      "title": "固定均值与初始信息的一比特摘要噪声预算",
+      "dedup_key": "F-119|PROB-119-BINARY-NOISE-BUDGET|fixed-mean-initial-information-integrated-noise-budget"
+    },
+    {
+      "id": "APP-372-01",
+      "title": "全数据静态材料反演的可辨识性假设审查",
+      "dedup_key": "F-372|PROB-372-STATIC-IDENTIFIABILITY|APP-372-01"
+    },
+    {
+      "id": "APP-372-02",
+      "title": "增强弹性代理模型的辅助散度与牵引一致性审计",
+      "dedup_key": "F-372|PROB-372-AUGMENTED-SURROGATE|APP-372-02"
+    },
+    {
+      "id": "APP-120-01",
+      "title": "指定度稀疏图的完美匹配求解器编译接口",
+      "dedup_key": "F-120|perfect-matching-only exact degree compiler|network adapter storage"
+    },
+    {
+      "id": "APP-094-01",
+      "title": "带置信下限的成对偏好聚合噪声证书",
+      "dedup_key": "F-094|complete scaled pairwise preference differences|certified bounded-noise reweighting"
+    },
+    {
+      "id": "APP-094-02",
+      "title": "冻结细胞扰动库的虚拟几何读出压缩",
+      "dedup_key": "F-094|frozen perturbation bank geometry|virtual finite coordinate storage"
+    },
+    {
+      "id": "APP-089-01",
+      "title": "层级合成二元评判场景的接口一致生成",
+      "dedup_key": "F-089|hierarchical synthetic binary scenario interface laws|bounded particle update downstream diversity"
+    },
+    {
+      "id": "APP-243-01",
+      "title": "无序嵌套集合查询执行器的模3一致性能力测试",
+      "dedup_key": "F-243|actual order-free nested-set relational DSL|mod3 consistency capability stress versus rank augmentation"
+    },
+    {
+      "id": "APP-142-01",
+      "title": "有限域符号验证的无随机秩一算子证书",
+      "dedup_key": "F-142|actual modular symbolic verification consumer|rank-one full-parabolic operator certificate without random/factoring backend"
+    },
+    {
+      "id": "APP-122-01",
+      "title": "二元事件流恢复的前缀矩证书与资源核查",
+      "dedup_key": "F-122|actual binary eventstream repeated pure deletion|capped PSD prefix decoder versus strongest eligible old reconstruction"
+    },
+    {
+      "id": "APP-294-01",
+      "title": "连续矩形算子归一化的适用性与总成本核查",
+      "dedup_key": "F-294|compact parameter-dependent rectangular operator normalization|canonical continuous column-I row-cap totalcost audit"
+    },
+    {
+      "id": "APP-025-01",
+      "title": "单位分数工具的精确标记接口与完整输出成本",
+      "dedup_key": "F-025|symbolic unit-fraction denominator-list API|single exact marker retained with admitted tail and full encoded cost"
+    },
+    {
+      "id": "APP-273-01",
+      "title": "线性特征管线的四权重证书迁移",
+      "dedup_key": "F-273|finite weighted linear feature pipeline|reuse four supplied contraction certificates for hyperbolic target metric with full certified cost"
+    },
+    {
+      "id": "APP-273-02",
+      "title": "玻色子混合模拟器的熵下界回归诊断",
+      "dedup_key": "F-273|PROB-273-BOSONIC-REGRESSION|additional-entropy-only-fault-detection"
+    },
+    {
+      "id": "APP-231-01",
+      "title": "共享随机标签的无根森林按需查询",
+      "dedup_key": "F-231|PROB-231-CONSISTENT-FOREST-QUERIES|rootfree-shared-label-joint-query-consistency"
+    },
+    {
+      "id": "APP-332-01",
+      "title": "几何端点期望中位数用于重尾图特征去噪",
+      "dedup_key": "F-332|PROB-332-ROBUST-GRAPH-FEATURE-SMOOTHING|expected-median3-heavy-tail-risk"
+    },
+    {
+      "id": "APP-113-01",
+      "title": "图匹配光子实验的经典标定基线",
+      "dedup_key": "F-113|ideal doubled-graph photon event calibration|simple0/1perfectmatching relativecount with certifiedprefactor and fullcost"
+    },
+    {
+      "id": "APP-058-01",
+      "title": "Certified finite-jet preprocessing for exact joint upper-limit formulas",
+      "dedup_key": "F-058|exact symbolic joint upperlimit|certified finitejet preprocessing with original-family QE and complete old-method cost"
+    },
+    {
+      "id": "APP-256-01",
+      "title": "增量符号群表示的条件系数单射守卫",
+      "dedup_key": "F-256|incremental symbolic group presentations|source-conditional coefficient injectivity from complete exact full-row-rank relators"
+    },
+    {
+      "id": "APP-304-01",
+      "title": "有限正合比较中保守湮灭证书的按需传播",
+      "dedup_key": "F-304|PROB-304-ANNIHILATOR-CERTIFICATE|five-term-certified-annihilator-reuse"
+    },
+    {
+      "id": "APP-239-01",
+      "title": "对称Rademacher两索引张量初始化的条件性精确秩风险元数据",
+      "dedup_key": "F-239|PROB-239-TENSOR-RANK-RISK|raw-two-index-symmetric-rademacher-exact-rank-metadata"
+    },
+    {
+      "id": "APP-020-01",
+      "title": "完整核稳定性条件下的自适应模重构选素数政策",
+      "dedup_key": "F-020|PROB-020-ADAPTIVE-PRIME-GATE|same-S-complete-Q-kernel-variable-prime-batch-policy"
+    },
+    {
+      "id": "APP-337-01",
+      "title": "穿零C1复合在实际自动微分图中的有限准入校准",
+      "dedup_key": "F-337|SCALAR-C1-ZERO-JOIN|ACTUAL-AD-COLLAPSED-GRAPH"
+    }
+  ],
+  "new_hypothesis": "APP-271-01 restricted killed-return dual-certificate workflow",
+  "scope": "Manual source/output/baseline comparison plus exact key check. The software, molecular and other domain attempts are not separate cards.",
+  "candidate_credit": 1,
+  "external_check_credit": 0
+}

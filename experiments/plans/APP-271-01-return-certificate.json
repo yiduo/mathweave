@@ -1,0 +1,41 @@
+{
+  "id": "PLAN-271-01",
+  "version": 1,
+  "status": "conditional_plan_not_executable_preregistration",
+  "registered_at": "2026-10-29T07:31:06.427082+00:00",
+  "source": "F271 correction lem:capacity; sourceC/full chain unknown",
+  "object_mapping": {
+    "input": "Finite nonnegative U acting forward on columns, row/column sums<=1, killed row/columns K zero, i outside K; trial real h_i=1,h_K=0,||h||infinity<=M; real c",
+    "output": "Interval for positive-step return q to i before killing; not the whole committor vector",
+    "bridge": "With row-transition T=U transpose, the hitting potential f of singleton i before K gives q=sum_j T[i,j] f[j], f[i]=1. The stationary backward committor is not silently identified with U transpose/counting adjoint."
+  },
+  "required_certificates": [
+    "Check both residuals mu+=Uh-h+c*eta and mu-=Utranspose*h-h+c*eta",
+    "For BOTH signs and every z vanishing on K with ||z||infinity<=1+M, certify |mu_d dot z|<=X sqrt(z dot(I-U)z)+epsilon; mere sampled z or scalar residual is not a certificate",
+    "Construct an interval-safe delta=|h dot mu+|+2X^2+2epsilon, then intersect [1-c-delta,1-c+delta] with[0,1]",
+    "No almost-sure killing assumption; exact oracle must handle unreachable closed classes by the minimal nonnegative hitting solution"
+  ],
+  "proposed_prediction": "After separate executable registration/freeze of eligible synthetic fixtures and held-out cases, every qualified interval contains an independent exact rational return probability, at least one held-out eligible case has width<=1e-3, and total construction/certificate/solve time and peak memory are no worse than the strongest old qualified error-certificate baseline to claim incremental workflow benefit. Containment alone is a consistency check; an exact old solve already sufficient is a valid no-benefit outcome.",
+  "threshold_provenance": "1e-3 is a proposed engineering trial threshold chosen before fixture outputs, not a requirement of deeptime or a theorem consequence. Benchmark/held-out inputs and timing windows still need registration; no target executed.",
+  "fair_baselines": [
+    "Exact rational harmonic solve after full SCC/reachability preprocessing, selecting minimal nonnegative solution",
+    "Existing forward/backward committor equations on admitted inputs",
+    "Strong old energy/resolvent/residual error certificate on the SAME accessible component and norm; compare total costs, not a deliberately singular global-gap baseline"
+  ],
+  "admission_before_execution": [
+    "Specify deterministic trial-potential construction and complete cost of BOTH dual certificates without using the exact oracle for free",
+    "Freeze fixtures, seeds if any, held-out split, precision, operations, time/memory and success/failure rules in a separate executable spec",
+    "Check transformed real consumer input or label fixtures synthetic; source API example fails the matrix contract",
+    "Do not download a large package/model or claim domain transfer from a finite interface check"
+  ],
+  "current_execution": {
+    "target_runs": 0,
+    "external_check_credit": 0,
+    "actual_domain_data": false,
+    "new_candidate_only": true
+  },
+  "full_dependency_grade": "unknown",
+  "human_specification_review": null,
+  "second_provider_review": null,
+  "resource_proposal": "Before executable freeze, use only small finite synthetic matrices, no dependency installs; choose final resource cap and count all preprocessing/certificate costs before target outputs. This plan authorizes no unregistered numerical target."
+}

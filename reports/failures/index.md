@@ -31,6 +31,7 @@
 - APP-243-01（待定）：降低数值实现优先级：两项实际语言均未建立合格CPT子集与可行紧凑见证；先整理知识图谱适用条件和缺口。；证据及未执行项见对应卡片。
 - APP-255-01（待定）：Specific source component retained with effectiveness gap;not an eleventh check or demonstrated engineering gain；证据及未执行项见对应卡片。
 - APP-256-01（待定）：Lower immediate implementation priority after bounded GAP/Sage/KBMAG audit:actual outputs need stronger semantics or already old-known constructions;no independentguardjudge/realbatch/fullcost. Retain nearconditionalcandidate,notformalrejection.；证据及未执行项见对应卡片。
+- APP-271-01（待定）：One precise conditional hypothesis retained from ten areas. First resolve source-contract and certificate-construction costs; no immediate numerical target or higher priority than broad coverage is granted.；证据及未执行项见对应卡片。
 - APP-273-01（待定）：Conditional far candidate retained;lower immediate implementation priority after bounded LipSDP/CVXPY qualification:exact fourcertificatebank/certifiedjudge and cost advantage still unestablished；证据及未执行项见对应卡片。
 - APP-273-02（观察）：Actual zero incremental detection and full reference already suffices;stop expanding this finite grid andreturn undercovered nonphysics families.；证据及未执行项见对应卡片。
 - APP-294-01（待定）：降低数值优先级：接口部分匹配，但全参数扩张／过滤消费者未建立；旧指定边际路线更强，所选PD与高层通道接口须先核准。；证据及未执行项见对应卡片。

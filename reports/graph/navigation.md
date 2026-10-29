@@ -2,7 +2,7 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；64族有实际阅读记录；60份族分析、59份全文草稿；47候选、15实际检验。
+372族登记；64族有实际阅读记录；60份族分析、59份全文草稿；48候选、15实际检验。
 
 其中21候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。11候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
@@ -45,6 +45,7 @@
 | [APP-243-01](index.html#APP-243-01) | F-243 | 尚未运行 | 3 | [PART-243-CPT-COMPILER-GATE](index.html#PART-243-CPT-COMPILER-GATE)、[PART-243-SPARSE-ENCODING-GATE](index.html#PART-243-SPARSE-ENCODING-GATE) | [卡片](../cards/APP-243-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-255-01](index.html#APP-255-01) | F-255 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-255-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-256-01](index.html#APP-256-01) | F-256 | 尚未运行 | 4 | 未显式标记 | [卡片](../cards/APP-256-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-271-01](index.html#APP-271-01) | F-271 | 尚未运行 | 2 | 未显式标记 | [卡片](../cards/APP-271-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-273-01](index.html#APP-273-01) | F-273 | 尚未运行 | 4 | [PART-273-METRIC-CONSUMER-GATE](index.html#PART-273-METRIC-CONSUMER-GATE)、[PART-273-FINITE-COST-GATE](index.html#PART-273-FINITE-COST-GATE) | [卡片](../cards/APP-273-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-273-02](index.html#APP-273-02) | F-273 | 有run；按原预测结果 | 5 | 未显式标记 | [卡片](../cards/APP-273-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-276-01](index.html#APP-276-01) | F-276 | 有run；按原预测结果 | 2 | 未显式标记 | [卡片](../cards/APP-276-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -329,7 +330,7 @@
 | [F-268 · The spin-one Haldane gap.](index.html#F-268) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-269 · Uniform Laughlin gap and stability under bounded scalar disorder.](index.html#F-269) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-270 · Threshold and positive-energy bound states of the BFSS matrix model.](index.html#F-270) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-271 · Bloch's law, its lattice correction, and the spherical magnetization law.](index.html#F-271) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 34／8 | 0 |
+| [F-271 · Bloch's law, its lattice correction, and the spherical magnetization law.](index.html#F-271) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 65／8 | 1 |
 | [F-272 · Entanglement without distillable secret key.](index.html#F-272) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-273 · The entropy photon-number inequality.](index.html#F-273) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-273.md) | 17／27 | 2 |
 | [F-274 · Parity is not in QAC<sup>0</sup>.](index.html#F-274) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

@@ -6,11 +6,13 @@
 
 The research unit is **result family + historical lineage + application problem**. Versioned records connect source propositions, transferable methods, concrete hypotheses and reproducible checks, retaining conditions and adverse evidence.
 
-**Phase one is incomplete.** Current canonical records contain 47 candidate connections, 15 preliminary checks of distinct hypotheses, seven narrowly supported predictions and eight adverse observations. There are 64 actually read families and 59 current-source drafts. No family has completed its full lineage or all six stages. Real human classification, specification review, second-provider review and pilots remain zero.
+**Phase one is incomplete.** Current canonical records contain 48 candidate connections, 15 preliminary checks of distinct hypotheses, seven narrowly supported predictions and eight adverse observations. There are 64 actually read families and 59 current-source drafts. No family has completed its full lineage or all six stages. Real human classification, specification review, second-provider review and pilots remain zero.
 
-The graph contains **8,936 nodes and 26,265 relations**. Its size measures records, not established mathematics or engineering value. A separate diagnostic and two component checks do not inflate the hypothesis count.
+The graph contains **9,028 nodes and 26,511 relations**. Its size measures records, not established mathematics or engineering value. A separate diagnostic and two component checks do not inflate the hypothesis count.
 
 This October 29, 2026 owner-requested publication batch includes completed work through **WP128 / global review045** and the **unfinished WP129** journal. Four F271 manuscripts, 46 source files and 14,199 lines were read; five historical originals were checked only in selected scopes. Eight method interfaces and 34 September foundation statements are now curated with conditions and source locations. The October companions retain 84 lexical result locators pending semantic curation; historical and application mappings remain unfinished. This partial work adds no complete-family, source-draft or application credit. See [method interfaces](reports/F271-partial-methods.md) and [foundation statements](reports/F271-foundation-claims.md). See [the journal](state/reading-progress/WP-129.json).
+
+Local work after public snapshot f2aa303 adds [ten-domain and three cross-family comparisons](reports/F271-application-mapping.md), one conditional [killed-return certificate candidate](reports/cards/APP-271-01.md), and a selected capacity-lemma binding. No numerical target or new preliminary check was run; current local counts are48 candidates/15 checks. The public snapshot remains47 candidates and its latest CI failed EXP119 raw equality (summary matched). Local failure-retention edits are not deployed.
 
 Recent checks preserve the old-method null hypothesis. The F149 synthetic reaction-network audit found 27 negative-concentration cases among 72 fixtures and 401 exact updates; the old coordinatewise baseline caught every one. F181's historical comparison found an older local expansion criterion already stronger at the selected interface. Neither establishes incremental 2026 engineering benefit. The F337 AD run remains a separate diagnostic because backend exceptions prevent adjudicating its frozen main prediction.
 
@@ -71,3 +73,6 @@ Register numerical specifications before running experiments. Retain adverse and
 Original project code, documentation, and derived records are licensed under [Apache-2.0](LICENSE). Third-party items keep their own licenses and attribution in [NOTICE](NOTICE); this license does not relicense upstream manuscripts or external papers. Sensitive directions are represented only by necessary routing information in the public graph.
 
 Publication status and its verification receipt are recorded in [state/publication.json](state/publication.json). Publication does not complete the research program, grant a mathematical credibility upgrade, or imply approval for engineering deployment. See [publication scope](docs/publication.md).
+
+
+Local generation129 adds [30 finite-range source statements](reports/F271-finite-range-claims.md) with44 selected proof interfaces, all sourceC/full chain unknown. There are65 semantically bound statements and53 October locators still pending. Counts remain48 candidates/15 checks. Next is independent APP178 constructor/cost admission and global047,then remaining F271 scope. These additions are not pushed.

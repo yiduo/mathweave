@@ -7,6 +7,7 @@ import gzip
 import hashlib
 import json
 import os
+import platform
 from pathlib import Path
 import subprocess
 import sys
@@ -111,6 +112,64 @@ def scientific_payload(experiment_id: str, name: str, payload):
     return result
 
 
+def payload_differences(expected, actual, preview_limit=128):
+    """Describe exact comparison failures without changing their acceptance rule.
+
+    Count every differing JSON position, but bound the human-readable preview.
+    Complete payloads remain in the existing compressed failure capsule.
+    """
+    if preview_limit < 0:
+        raise ValueError("Negative comparison preview limit")
+    report = {"different_positions": 0, "preview_limit": preview_limit, "preview": []}
+
+    def excerpt(value):
+        rendered = json.dumps(value, ensure_ascii=False, sort_keys=True)
+        result = {"type": type(value).__name__, "json": rendered[:512],
+                  "truncated": len(rendered) > 512}
+        if isinstance(value, float):
+            result["hex"] = value.hex()
+        return result
+
+    def record(path, kind, left=None, right=None):
+        report["different_positions"] += 1
+        if len(report["preview"]) < preview_limit:
+            entry = {"path": path, "kind": kind}
+            if kind != "actual_only":
+                entry["expected"] = excerpt(left)
+            if kind != "expected_only":
+                entry["actual"] = excerpt(right)
+            report["preview"].append(entry)
+
+    def visit(left, right, path):
+        # Match the existing Python JSON equality semantics, including 1 == 1.0.
+        if left == right:
+            return
+        if isinstance(left, dict) and isinstance(right, dict):
+            for key in sorted(left.keys() | right.keys()):
+                child = path + "/" + key.replace("~", "~0").replace("/", "~1")
+                if key not in right:
+                    record(child, "expected_only", left[key])
+                elif key not in left:
+                    record(child, "actual_only", right=right[key])
+                else:
+                    visit(left[key], right[key], child)
+        elif isinstance(left, list) and isinstance(right, list):
+            for index in range(max(len(left), len(right))):
+                child = path + "/" + str(index)
+                if index >= len(right):
+                    record(child, "expected_only", left[index])
+                elif index >= len(left):
+                    record(child, "actual_only", right=right[index])
+                else:
+                    visit(left[index], right[index], child)
+        else:
+            record(path, "changed", left, right)
+
+    visit(expected, actual, "")
+    report["preview_truncated"] = report["different_positions"] > len(report["preview"])
+    return report
+
+
 def replay(folder: Path) -> dict:
     with replay_directory(folder) as root:
         manifest = json.loads((folder / "manifest.json").read_text())
@@ -136,6 +195,9 @@ def replay(folder: Path) -> dict:
                    max(150, spec.get("resource_limit_seconds", 120) + 60))
         process = subprocess.run(command, cwd=root, env=env, text=True, capture_output=True,
                                  timeout=timeout, check=True)
+        # A successful worker can still fail the later deterministic comparison.
+        (root / "replay-worker.stdout.log").write_text(process.stdout)
+        (root / "replay-worker.stderr.log").write_text(process.stderr)
         new_manifest = json.loads(process.stdout)
         if phase_watchdog:
             if not new_manifest["target_completed"]:
@@ -149,13 +211,24 @@ def replay(folder: Path) -> dict:
                 raise ValueError("Actual external runtime source/binary binding differs")
         new_folder = root / "experiments/runs" / new_manifest["run_id"]
         matched = {}
+        differences = {}
         for name in ("raw.json", "summary.json"):
             def payload(base, name):
                 packed = base / (name + ".gz")
                 return json.loads(gzip.decompress(packed.read_bytes())) if packed.exists() else json.loads((base / name).read_text())
-            matched[name] = (scientific_payload(manifest['experiment_id'], name, payload(folder, name))
-                             == scientific_payload(manifest['experiment_id'], name, payload(new_folder, name)))
+            expected = scientific_payload(manifest['experiment_id'], name, payload(folder, name))
+            actual = scientific_payload(manifest['experiment_id'], name, payload(new_folder, name))
+            matched[name] = expected == actual
+            if not matched[name]:
+                differences[name] = payload_differences(expected, actual)
         if not all(matched.values()):
+            comparison = {"schema_version": 1, "original_run": manifest["run_id"],
+                          "replay_run": new_manifest["run_id"], "runtime": sys.version,
+                          "platform": platform.platform(), "deterministic_outputs_match": matched,
+                          "comparison_rule_unchanged": True, "differences": differences,
+                          "resource_gate": "Not evaluated: deterministic comparison failed first",
+                          "scope": "Diagnostic only; no scientific acceptance or added hypothesis credit"}
+            (root / "replay-comparison.json").write_text(json.dumps(comparison, indent=2) + "\n")
             raise ValueError("Replay differs: " + str(matched))
         resource_origin = require_replay_resources(new_manifest, spec, payload(new_folder, "summary.json"))
         result = {"run_id": manifest["run_id"], "replay_run_id": new_manifest["run_id"],

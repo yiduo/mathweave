@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-29T07:00:35.427493+00:00",
+  "correction": "Earlier statement that replay_run.py itself discarded failed payloads was inaccurate. Existing replay_directory creates experiments/replay-failures/<run>-<uuid>/failure.tar.gz before removing isolated root. Missing CI upload step made those runner-local capsules unavailable after runner teardown.",
+  "code": "scripts/replay_run.py",
+  "locator": "replay_directory, lines24 onward",
+  "code_sha256": "cb31b02b28c37c35d47d2110c6549eb7fc2d1f61fec79e5005e3a80e1d026443",
+  "remote_artifacts_live_observation": {
+    "run_id": 40831475096,
+    "artifacts": [],
+    "source": "GitHub connector fetch_workflow_run_artifacts"
+  },
+  "official_upload_docs": {
+    "repository": "actions/upload-artifact",
+    "read_lines": [
+      1,
+      125
+    ],
+    "blob_sha": "b708eb322c6cbc798af63dc0314eb9f7fb112d95",
+    "version_used": "v7",
+    "retention_days": 7,
+    "deployment": "Local workflow edit only; not pushed, remote upload unverified",
+    "source_path": "README.md",
+    "upload_path": "experiments/replay-failures/"
+  },
+  "prechange_versions": [
+    "publication-state-before-ci-cause-correction.json.gz",
+    "checkpoint-before-ci-cause-correction.json.gz"
+  ]
+}

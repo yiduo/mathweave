@@ -1,0 +1,79 @@
+{
+  "at": "2026-10-29T07:11:05.487037+00:00",
+  "members": [
+    {
+      "name": "core.log",
+      "bytes": 16366,
+      "sha256": "3c10201e81f5f6b24ae843eb264db48e736fdf60c94ce82e25d9853494600543"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 12186,
+      "sha256": "6e93b0ff87cc9900f175f883954f91cb8e873d45cf62bb1ca51057746075d8f6"
+    },
+    {
+      "name": "local119-replay.json",
+      "bytes": 586,
+      "sha256": "581cf3d29fe1132add6f5e244f7babe5288904f38885e326f7d281d548f15d32"
+    },
+    {
+      "name": "local119-replay.log",
+      "bytes": 586,
+      "sha256": "581cf3d29fe1132add6f5e244f7babe5288904f38885e326f7d281d548f15d32"
+    },
+    {
+      "name": "no-math-core.log",
+      "bytes": 16366,
+      "sha256": "e10d0ac92fee6afb1aec96425f553dd62baf023119d59ce57818cfdba6c3f35e"
+    },
+    {
+      "name": "protocol-tests.log",
+      "bytes": 472,
+      "sha256": "55649c0b7b9ceb2c86d0acca14894af5bacfb4eca57d23247a8fe7772eba6a92"
+    },
+    {
+      "name": "qa.log",
+      "bytes": 1313,
+      "sha256": "415d320260e02674cd096a84526823d70d7dd10cf159ed779888aba49234dbe4"
+    },
+    {
+      "name": "qa.py",
+      "bytes": 7548,
+      "sha256": "0e21dcf3f59d5d6ad979fecff07ca1b1a6e1dec4b30972a1021ead015fc4e999"
+    },
+    {
+      "name": "representative149-wrong-path.log",
+      "bytes": 1116,
+      "sha256": "fbab70ebc831c3fb9d63d7338af2d53d1657c99942e636b04f4ededc8dcba945"
+    },
+    {
+      "name": "representative149.json",
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    {
+      "name": "representative149.log",
+      "bytes": 568,
+      "sha256": "74a5a9f89d63371eee322a8eddad372583eea96751c4b206cbd303a42f597af0"
+    },
+    {
+      "name": "representative325.json",
+      "bytes": 568,
+      "sha256": "94bce7fe7d92c4ea5a4adc64c953bb60821cfd5c3ec3cce67f1996f3275dec7e"
+    },
+    {
+      "name": "representative325.log",
+      "bytes": 568,
+      "sha256": "94bce7fe7d92c4ea5a4adc64c953bb60821cfd5c3ec3cce67f1996f3275dec7e"
+    }
+  ],
+  "compressed_sha256": "2f5ec712440ab9900ce2304c77093a21b1b66a113e901fca73edc1fa46e58630",
+  "decompressed_sha256": "288ee185c5a1a97ab01d9444d88f03b3703d12f250a6866850f1d054725d8172",
+  "gzip_bytes": 16351,
+  "roundtrip_verified": true,
+  "temporary_directory_removed": true,
+  "clean_copy_removed": true,
+  "official_math_copied": false,
+  "failed_dispatch_capsule_preserved": "dispatch-path-failure/",
+  "no_GitHub_push": true
+}

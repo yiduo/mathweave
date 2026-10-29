@@ -848,5 +848,15 @@
     "CLM-271-F-LEM-STRIP-LIMIT"
   ],
   "foundation_semantic_curation_complete": true,
-  "whole_family_semantic_curation_complete": false
+  "whole_family_semantic_curation_complete": false,
+  "finite_range_semantic_curation": {
+    "at": "2026-10-29T08:11:51.917258+00:00",
+    "ledger": "data/provenance/readings/F-271-finite-range-claims-WP129.json",
+    "source_claims": 30,
+    "selected_proof_interfaces": 44,
+    "source_grade": "C",
+    "full_dependency_grade": "unknown",
+    "full_family_credit": false,
+    "remaining_October_semantic_locators": 53
+  }
 }

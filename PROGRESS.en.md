@@ -1,6 +1,6 @@
 # MathWeave — Research progress
 
-Snapshot: October 29, 2026. Canonical research is curated through WP128 / generation125 and global review045. WP129 remains unfinished, with eight method interfaces and 34 September foundation statements now curated through generation127. This is an owner-requested publication batch; remote publication and CI are established only by their separate receipts. **Phase one remains incomplete.**
+Snapshot: October 29, 2026. Work packages are closed through WP128; global review046 is complete. WP129 remains unfinished, with eight method interfaces and65 scoped source statements through generation129:34 September statements,one correction capacity lemma and30 finite-range statements. Application mapping and these later source qualifications are local additions after public f2aa303. Remote publication and CI remain limited to their separate receipts. **Phase one remains incomplete.**
 
 | Measure | Current result | Remaining requirement |
 | --- | --- | --- |
@@ -8,16 +8,20 @@ Snapshot: October 29, 2026. Canonical research is curated through WP128 / genera
 | Actual reading | 64 / 372 families | Includes partial reading; WP129 partial curation adds no additional family-count credit |
 | Current-source decomposition drafts | 59 / 372 families | Full family and historical closure remain unachieved |
 | Complete families / full lineages / all six stages | 0 / 0 / 0 | Missing proof dependencies and review gates remain explicit |
-| Candidate connections | 47 / 500 | Deduplicated mappings with conditions; exploration attempts excluded |
+| Candidate connections | 48 / 500 | Deduplicated mappings with conditions; exploration attempts excluded |
 | Real human classification | 0 / 150 | Deferred; model self-review is not a substitute |
 | Preliminary application cards | 15 / 100 | Seven limited predictions supported, eight adverse observations |
 | Distinct reproducible hypothesis checks | 15, target 10 | Only this numerical subtarget is met; the overall milestone is incomplete |
 | Separate diagnostic / component checks | 1 / 2 | Excluded from additional application-hypothesis credit |
 | Scientific archives | 18, containing 378 source members | Includes the diagnostic and component archives; not 18 distinct application hypotheses |
 | Human specification review / second provider / pilots | 0 / 0 / 0 | No reviewed engineering deployment is claimed |
-| Graph | 8,936 nodes; 26,265 relations | 9,932 core citation annotations; record counts are not proof acceptance |
+| Graph | 9,028 nodes; 26,511 relations | 10,047 core citation annotations; record counts are not proof acceptance |
 
-## Research evidence and current publication delta
+## Local additions after the verified public snapshot
+
+GEN128 checked selected sections of11 official consumer documents, retained10 domain and3 cross-family comparisons, and added one restricted killed-return certificate candidate with an unexecuted conditional plan. The source API example fails the matrix contract; no actual molecular data or consumer instance is admitted. GEN129 adds30 finite-range statement scopes, bringing the current semantic bindings to65 with53 October locators still pending. Neither output adds application validation. Local core/clean checks each pass97 tests. These changes are not pushed. Public f2aa303 retains its own47-candidate snapshot and failedCI: EXP119 raw mismatch with matching summary; local failure-upload changes have not been deployed.
+
+## Earlier research evidence and publication context
 
 The October 27 public snapshot already included WP113–WP128 and the WP129 reading journal. This batch adds the following partial F271 curation and its QA; the earlier results below provide context.
 
@@ -39,6 +43,9 @@ The official OpenAI `math/` directory is excluded, as are third-party full texts
 
 ## Next research work
 
-Qualify the remaining 84 October statements (finite range 30, lattice correction 24, spherical law 30), with separate model and limit scopes. The next substantive research output triggers global review046, even while WP129 is unfinished. Then reconcile bibliography/history aliases and ten-domain/cross-family exploration before considering whole-family draft credit. Keep broader coverage and actual application checks in parallel. Old methods may already be sufficient; new numerical work requires a separately frozen specification. Real human and second-provider gates remain deferred, without blocking independent source work or being counted as complete.
+Generation129 completed finite-range30 natural statement scopes, bringing semantic bindings to65;53 remain (correction23,spherical30). Next WP130 checks actual APP178 finite constructor/cost admission and then triggers global047 before resuming F271 bibliography/history/whole-family QA. Ten-domain/three-cross exploration has been performed; only APP27101 is proposed. It needs complete dual-certificate cost admission and a separately frozen executable spec. Global046 is complete; two substantive outputs have followed it, so the next action switches to an existing unchecked candidate. Keep broader coverage and actual application checks in parallel. Old methods may already be sufficient; new numerical work requires a separately frozen specification. Real human and second-provider gates remain deferred, without blocking independent source work or being counted as complete.
 
 [Acceptance matrix](reports/acceptance.md) · [Generated metrics](reports/metrics.json) · [Current state](state/status.md) · [English charter](CHARTER.en.md)
+
+
+Latest local source qualification: generation129,31records/77edges,44 selected proof interfaces; graph9028/26511 and97/clean97 checks. No extra application check or complete-family credit. The full coupled dispersion and fixed-K/limit-order restrictions are in reports/F271-finite-range-claims.md.

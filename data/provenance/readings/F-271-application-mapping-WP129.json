@@ -1,0 +1,529 @@
+{
+  "at": "2026-10-29T07:31:06.427082+00:00",
+  "generation_id": "GEN-20261029-128",
+  "base_commit": "61eb419510720aeac99d1cb0495811f8455cd5b6",
+  "family_id": "F-271",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "Partial application mapping; whole-family curation incomplete",
+  "primary_consumer_scopes": [
+    {
+      "id": "deeptime",
+      "url": "https://deeptime-ml.github.io/latest/api/generated/deeptime.markov.tools.analysis.committor.html",
+      "at": "2026-10-29T07:22:57.303940+00:00",
+      "status": 200,
+      "final_url": "https://deeptime-ml.github.io/latest/api/generated/deeptime.markov.tools.analysis.committor.html",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"67f65c13-4d06\"",
+      "bytes": 19718,
+      "sha256": "c5425a00e041ef9f9bbcc3171c50f9460d4e4835c1f142ee72168c72608a66de",
+      "text_sha256": "7f06b12bb241fc6e8d10b3bffb9cf26a2cca750bb4fb971293a27d82a77f9b37",
+      "text_lines": 121,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          52,
+          121
+        ]
+      ],
+      "selected_scope": "API computes a vector of forward/backward probabilities between A,B. Its example is not a counting-measure doubly-substochastic killed kernel. The backward weighted generator is distinct from the source counting adjoint. No library, molecular dataset or full cited2009 paper was executed/read here.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "circuitscape-usage",
+      "url": "https://docs.circuitscape.org/Circuitscape.jl/latest/usage/",
+      "at": "2026-10-29T07:22:57.304415+00:00",
+      "status": 200,
+      "final_url": "https://docs.circuitscape.org/Circuitscape.jl/latest/usage/",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"6ae153be-50d0\"",
+      "bytes": 20688,
+      "sha256": "b17279b96e53191b368b75bb1b66bf9404ba5f2c6ca9fbde2b6d3e834a6da297",
+      "text_sha256": "35a381491ac10cd2882b42a65eff012222594a9e326610c75dc69fc511b5d58f",
+      "text_lines": 52,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          21,
+          35
+        ]
+      ],
+      "selected_scope": "Inputs are weighted resistance networks or four/eight-neighbor raster graphs; sources and grounds specify finite solves. These do not supply the source regular3D lifted-hole environment.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "circuitscape-compute",
+      "url": "https://docs.circuitscape.org/Circuitscape.jl/latest/compute/",
+      "at": "2026-10-29T07:22:57.304518+00:00",
+      "status": 200,
+      "final_url": "https://docs.circuitscape.org/Circuitscape.jl/latest/compute/",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"6ae153be-71e8\"",
+      "bytes": 29160,
+      "sha256": "eb5441517635cf5164c6b842cbf883e9f8a7af946c09531c9175c4dcc8207eac",
+      "text_sha256": "be20feec3f11eff581bbe63bb30ac8d51c5155991da3e11161eb4baee036a392",
+      "text_lines": 121,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          41,
+          44
+        ],
+        [
+          84,
+          87
+        ]
+      ],
+      "selected_scope": "Selected current docs distinguish true from preconditioned residual and describe existing iterative/direct solvers. No advertised speed/memory benchmark reproduced; a scalar tolerance does not supply both source energy-dual bounds.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "sumo",
+      "url": "https://eclipse.dev/sumo/docs/Demand/Routing_by_Turn_Probabilities.html",
+      "at": "2026-10-29T07:22:58.228030+00:00",
+      "status": 200,
+      "final_url": "https://eclipse.dev/sumo/docs/Demand/Routing_by_Turn_Probabilities.html",
+      "content_type": "text/html",
+      "etag": "\"62c6-65da82b229a72\"",
+      "bytes": 25286,
+      "sha256": "8ab985ebb564adc14987d82e69d2458a289ca6bccd9766a96b3e016faaf6ba8b",
+      "text_sha256": "9c30766ffaccfc2a83bf8aade9eb715703963b5cf20c88e9b47bb4e6d5b071ec",
+      "text_lines": 159,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          42,
+          48
+        ],
+        [
+          67,
+          92
+        ],
+        [
+          102,
+          117
+        ],
+        [
+          134,
+          141
+        ]
+      ],
+      "selected_scope": "Junction turn ratios, traffic flows and sinks generate routes. Incoming probability mass need not be bounded by1; interval-dependent ratios and route cutoffs need separate model treatment. No SUMO network/vehicle simulation run.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "quantecon",
+      "url": "https://dynamics.quantecon.org/markov_asset.html",
+      "at": "2026-10-29T07:22:59.513167+00:00",
+      "status": 200,
+      "final_url": "https://dynamics.quantecon.org/markov_asset.html",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"66343c11-1ef3f\"",
+      "bytes": 126783,
+      "sha256": "e599c16082ed89c0acab7dec6b4e2eb6f9abb79a9dd49a65f69ea8ea33c14d2a",
+      "text_sha256": "c81377d06f60c122ad77432143d3c369561c1bce325994670582d59e6d2d018a",
+      "text_lines": 729,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          207,
+          247
+        ]
+      ],
+      "selected_scope": "K(x,y)=g(y)P(x,y); beta*K spectral radius<1 supports a classical linear solve for value. This does not establish double substochasticity or the soft-pin trace identity. Educational model only, no investment or market prediction.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "dpp",
+      "url": "https://proceedings.mlr.press/r9/kulesza11a.html",
+      "at": "2026-10-29T07:23:00.116381+00:00",
+      "status": 200,
+      "final_url": "https://proceedings.mlr.press/r9/kulesza11a.html",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "\"6ac6311d-3c85\"",
+      "bytes": 15493,
+      "sha256": "8b9ac0a24b9e344876270ae9f7dec482fa7970727a39e4589063fbe9f25cf36c",
+      "text_sha256": "c2f8a078ccce1f3709dbdbc3d4890032e08d12c72b35d7c73392ae9d329aa632",
+      "text_lines": 62,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          9,
+          14
+        ]
+      ],
+      "selected_scope": "Publisher abstract reports diverse subset selection and exact DPP inference for summarization. Only abstract/metadata checked, not full sampler/proof/performance or DUC data. Determinantal language alone does not identify the source conditioned permutation law.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "prism",
+      "url": "https://www.prismmodelchecker.org/benchmarks/props-dtmc.php",
+      "at": "2026-10-29T07:23:00.156694+00:00",
+      "status": 200,
+      "final_url": "https://www.prismmodelchecker.org/benchmarks/props-dtmc.php",
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "bytes": 14722,
+      "sha256": "45a68fc425d2700f0e0c277a1a8aea2236a967b9c73ba19230d90b79b36e72d2",
+      "text_sha256": "5ffb0d5ea72264f38fe491a5ce035311957083b73c0f93924cc37b743c6bf4c7",
+      "text_lines": 152,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          50,
+          66
+        ]
+      ],
+      "selected_scope": "Selected benchmark heading and bounded-retransmission reachability property establish an existing DTMC query interface. No full benchmark model built, no solver or critical-system deployment; arbitrary DTMC is not automatically the source killed-return problem.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "simpy",
+      "url": "https://simpy.readthedocs.io/en/latest/examples/machine_shop.html",
+      "at": "2026-10-29T07:23:00.798201+00:00",
+      "status": 200,
+      "final_url": "https://simpy.readthedocs.io/en/latest/examples/machine_shop.html",
+      "content_type": "text/html; charset=utf-8",
+      "etag": "W/\"f92e681328977ac34769557d76a0c2f3\"",
+      "bytes": 26777,
+      "sha256": "329e9b2021e1618e9224cf909e3192d2d1c5ad0ddb6e8415fc25c737da8926c3",
+      "text_sha256": "64fb2a3addb048112efaed13dd84dc7acb06dab5961a6d02b66c5872c401e675",
+      "text_lines": 179,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          31,
+          49
+        ]
+      ],
+      "selected_scope": "Machine-shop example uses interruptions and a preemptive repair resource. Its event process is not a supplied finite doubly-substochastic matrix; no factory data or simulation executed.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "blender",
+      "url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/point/distribute_points_on_faces.html",
+      "at": "2026-10-29T07:23:01.030489+00:00",
+      "status": 200,
+      "final_url": "https://docs.blender.org/manual/en/5.2/modeling/geometry_nodes/point/distribute_points_on_faces.html",
+      "content_type": "text/html",
+      "etag": null,
+      "bytes": 454299,
+      "sha256": "d5f99474a141cda6f80c28de003ae3e09f73ed6be70116a2ed4a49fcfc9e96e8",
+      "text_sha256": "2c64dbc5d3f55d5eb820b6c4d6c16f6cbc4472e465ffa4d05c10de635cdd66c2",
+      "text_lines": 2505,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          2433,
+          2473
+        ]
+      ],
+      "selected_scope": "Mesh, density, seed and a Poisson-disk minimum distance define joint point-placement requirements. A first-moment kernel identity cannot enforce pairwise distance constraints. Web fetch failed402; ordinary bounded HTTPS retrieval succeeded, and actual converted inputs section was read.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "magenta",
+      "url": "https://raw.githubusercontent.com/magenta/magenta/main/magenta/models/melody_rnn/README.md",
+      "at": "2026-10-29T07:23:01.797528+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/magenta/magenta/main/magenta/models/melody_rnn/README.md",
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"f2e0a992e17011ffd975403a935e28344da7cd3a7efa388912b27f8e18859431\"",
+      "bytes": 10613,
+      "sha256": "f662ad7a24e7b82235d758e1bd2d8ee8699cb9959e9872dc9d22017c9b7b1f3c",
+      "text_sha256": "b3102c7c1cca82c5f31b334788acc89c3b4362629c51a09643e54b0448f75def",
+      "text_lines": 102,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          1,
+          10
+        ],
+        [
+          34,
+          51
+        ]
+      ],
+      "selected_scope": "Selected README describes LSTM melody generation, including history-aware configurations. This is a historical archived consumer, not a current recommendation; no weights or MIDI downloaded. An LSTM conditional law is not an admissible random-permutation circuit.",
+      "full_document_or_proof_read": false
+    },
+    {
+      "id": "pybkt",
+      "url": "https://raw.githubusercontent.com/CAHLR/pyBKT/master/README.md",
+      "at": "2026-10-29T07:23:02.467669+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/CAHLR/pyBKT/master/README.md",
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"70c2d3a3ce8c04adcc743f62f2406cd17f9ddca9b0bfbc3b3b452ad9a0fcf3a9\"",
+      "bytes": 24237,
+      "sha256": "20878d1583e42eee798d664f167057fb012d243ca0b37d316eb04814d9464c43",
+      "text_sha256": "8583e314e5f85a4d78e83662547d14581a8a6b854f731cd883c4399c9b7308d9",
+      "text_lines": 287,
+      "content_read_credit": "Selected sections only; acquisition is not semantic reading",
+      "selected_text_ranges_read": [
+        [
+          59,
+          60
+        ],
+        [
+          171,
+          172
+        ],
+        [
+          244,
+          247
+        ]
+      ],
+      "selected_scope": "Selected docs take ordered responses and estimate a two-state latent mastery model; roster exposes probabilities. No student records, model fitting, interventions or real grading. Evenness, strip width and holomorphic nonvanishing are not supplied.",
+      "full_document_or_proof_read": false
+    }
+  ],
+  "source_example_audit": {
+    "source": "deeptime documented3x3 T,A=[0],B=[2] example",
+    "operation": "Transpose to column-forward U and zero killed row/column0",
+    "row_sums": [
+      "0",
+      "1/10",
+      "7/5"
+    ],
+    "failed_row": 2,
+    "failed_row_sum": "7/5",
+    "double_substochastic": false,
+    "scope": "Static exact input-contract check; not a numerical experiment or application validation"
+  },
+  "ten_domain_attempts": [
+    {
+      "key": "MOLECULAR",
+      "domain": "molecular kinetics",
+      "analogy": "near",
+      "part_ids": [
+        "PART-271-DUAL-CAPACITY"
+      ],
+      "document_ids": [
+        "deeptime"
+      ],
+      "consumer_output": "Forward/backward state-transition hitting probabilities",
+      "mapping": "Use both residuals of one bounded trial potential to certify a positive-step singleton return before killing, after explicit row/column convention conversion.",
+      "gap": "Documented example fails double substochasticity even after killing A. A committor vector is not itself a return probability. Only a restricted finite uniform/counting-measure prototype remains plausible.",
+      "baseline": "SCC decomposition plus exact/minimal nonnegative harmonic solve, including unreachable closed classes.",
+      "outcome": "Conditional restricted candidate APP-271-01; no real molecular input admitted."
+    },
+    {
+      "key": "ECOLOGY",
+      "domain": "landscape ecology",
+      "analogy": "far",
+      "part_ids": [
+        "PART-271-TORUS-FLOW",
+        "PART-271-DUAL-CAPACITY"
+      ],
+      "document_ids": [
+        "circuitscape-usage",
+        "circuitscape-compute"
+      ],
+      "consumer_output": "Weighted landscape connectivity and current/voltage solves",
+      "mapping": "Try energy-dual control of approximate source/ground voltages or domain-truncation error.",
+      "gap": "Current consumer is a finite weighted network or2D raster; source3D lifted-hole regularity, mass bounds, periodic cutoff and ghost-killing absorption are not provided. True scalar residual is not the required dual certificate.",
+      "baseline": "Existing CG+AMG/CHOLMOD with true residual and direct source/ground model.",
+      "outcome": "Retain feasibility question; no transferred bound or new solver admitted."
+    },
+    {
+      "key": "TRANSPORT",
+      "domain": "traffic routing",
+      "analogy": "far",
+      "part_ids": [
+        "PART-271-CONDITIONAL-KERNEL",
+        "PART-271-DUAL-CAPACITY"
+      ],
+      "document_ids": [
+        "sumo"
+      ],
+      "consumer_output": "Turn-ratio route generation until designated sink",
+      "mapping": "Relate eliminated interior road states to a terminal mean transition, or bound return before a sink.",
+      "gap": "Turn-ratio law is not an admissible Bernoulli-transposition permutation. General incoming mass and time intervals break the matrix contract; terminal mean does not give joint route law or congestion.",
+      "baseline": "Existing routing algorithm, absorbing-chain first-step equations where that model is valid, and documented cutoffs.",
+      "outcome": "No direct replacement; retain exact matrix-admission work only."
+    },
+    {
+      "key": "FINANCE",
+      "domain": "financial model computation",
+      "analogy": "far",
+      "part_ids": [
+        "PART-271-CLOSED-CLASSES",
+        "PART-271-PRESSURE-INCREMENTS"
+      ],
+      "document_ids": [
+        "quantecon"
+      ],
+      "consumer_output": "Finite-state discounted value and parameter response",
+      "mapping": "Try resolvent/trace control or integrate finite-parameter changes before a limit.",
+      "gap": "Growth-weighted pricing K has a spectral-radius condition, not double stochasticity or the special soft-pin trace expectation. No matching Gibbs field, uniform derivative bounds or source limit order is present.",
+      "baseline": "Classical resolvent and direct linear solve already supply the documented output.",
+      "outcome": "Old interface already sufficient for shown task; no market or pricing improvement claim."
+    },
+    {
+      "key": "LANGUAGE",
+      "domain": "document summarization",
+      "analogy": "far",
+      "part_ids": [
+        "PART-271-CONDITIONAL-KERNEL",
+        "PART-271-CYCLIC-ZERO-FREE"
+      ],
+      "document_ids": [
+        "dpp"
+      ],
+      "consumer_output": "Relevant and diverse sentence subsets",
+      "mapping": "Try a conditioned determinant identity or zero-free contraction to support diversity-aware conditional inference.",
+      "gap": "DPP subset laws are not the source all-hit permutation law; a conditional first moment cannot recover every subset probability. Strict per-slot disk maps and cyclic tensor structure have not been constructed.",
+      "baseline": "Existing DPP exact inference reported by the publisher abstract; full implementation/proof not audited here.",
+      "outcome": "Keep structural analogy with missing law bridge; no candidate promotion."
+    },
+    {
+      "key": "SOFTWARE",
+      "domain": "probabilistic software verification",
+      "analogy": "near",
+      "part_ids": [
+        "PART-271-DUAL-CAPACITY",
+        "PART-271-CLOSED-CLASSES"
+      ],
+      "document_ids": [
+        "prism"
+      ],
+      "consumer_output": "Quantitative finite-DTMC reachability",
+      "mapping": "Explore a certified scalar return-probability subquery with explicit killed boundaries.",
+      "gap": "Arbitrary reachability set and general row-stochastic DTMC are not the source singleton positive-step return or counting-measure matrix. SCC handling is an existing baseline; source soft-pin trace estimate is absent.",
+      "baseline": "Finite reachability equations with graph/SCC preprocessing; solver performance not measured.",
+      "outcome": "Restricted return-certificate problem is the same APP-271-01 hypothesis, not a second card."
+    },
+    {
+      "key": "GRAPHICS",
+      "domain": "computer graphics",
+      "analogy": "bold",
+      "part_ids": [
+        "PART-271-CONDITIONAL-KERNEL",
+        "PART-271-HARMONIC-SELECTION"
+      ],
+      "document_ids": [
+        "blender"
+      ],
+      "consumer_output": "Surface point distributions with a minimum-distance option",
+      "mapping": "Imagine using conditional moments or samplewise analytic partition controls to place diverse points.",
+      "gap": "Mesh points and hard pairwise spacing require a joint law. Neither admissible cycle permutations nor nonzero holomorphic random functions with all required moment limits are supplied. Existence selection gives no finite point sampler.",
+      "baseline": "Existing Random/Poisson Disk node modes and their stated input constraints.",
+      "outcome": "Preserve idea and input mismatch, no algorithm or art-quality claim."
+    },
+    {
+      "key": "MUSIC",
+      "domain": "music generation",
+      "analogy": "bold",
+      "part_ids": [
+        "PART-271-HARMONIC-SELECTION",
+        "PART-271-CONDITIONAL-KERNEL"
+      ],
+      "document_ids": [
+        "magenta"
+      ],
+      "consumer_output": "History-conditioned melody generation",
+      "mapping": "Imagine a nonvanishing generating-function selection for motif-consistent samples.",
+      "gap": "The checked LSTM configuration has history dependence, not the source permutation circuit. No holomorphic sample functions/dense-product moment limits or finite-budget success theorem are supplied.",
+      "baseline": "Historical LSTM generation interface; no model installed and no current-product recommendation.",
+      "outcome": "Retain as an unqualified far hypothesis, not a usable sampler."
+    },
+    {
+      "key": "MANUFACTURING",
+      "domain": "manufacturing operations",
+      "analogy": "far",
+      "part_ids": [
+        "PART-271-CLOSED-CLASSES",
+        "PART-271-PRESSURE-INCREMENTS"
+      ],
+      "document_ids": [
+        "simpy"
+      ],
+      "consumer_output": "Machine breakdowns and preemptive repair workload",
+      "mapping": "Try closed-class/resolvent bounds for long-run repair states or finite-increment response.",
+      "gap": "Continuous event clocks, residual service times and preemption do not provide a finite doubly-stochastic skeleton. Source expectation of soft-pin trace and field/temperature limit order are missing.",
+      "baseline": "Existing event simulation and separately justified queueing-state models.",
+      "outcome": "No inferred throughput or failure-rate bound; keep modeling gap."
+    },
+    {
+      "key": "EDUCATION",
+      "domain": "educational learning models",
+      "analogy": "bold",
+      "part_ids": [
+        "PART-271-STRIP-CURVATURE",
+        "PART-271-PRESSURE-INCREMENTS"
+      ],
+      "document_ids": [
+        "pybkt"
+      ],
+      "consumer_output": "Sequential responses to posterior mastery/correctness probabilities",
+      "mapping": "Imagine curvature control for a parameterized evidence-normalizer and finite response increments.",
+      "gap": "BKT learning/forgetting and observation likelihoods supply no even zero-free strip with required growth/positivity. Ordinary posterior variance is not automatically the source Duhamel covariance.",
+      "baseline": "Existing latent-state filtering and model fitting; no real student data or decisions.",
+      "outcome": "Retain analytic prerequisites; no calibration, learning-effect or human-grading claim."
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "id": "X-271-CROSS-238",
+      "family_ids": [
+        "F-271",
+        "F-238"
+      ],
+      "parts": [
+        "PART-271-CONDITIONAL-KERNEL",
+        "PART-238-TRACE-TV",
+        "PART-238-SUPPORT"
+      ],
+      "title": "Conditional mean versus full permutation mixing",
+      "mapping": "Try to feed the source next-pin mean into an existing regular-representation trace-to-TV certificate.",
+      "obstacle": "A one-particle conditional mean does not determine the full permutation law or all representation moments. The all-hit law may also lose exterior closure. F238 support obstruction already warns that matching low moments is insufficient.",
+      "baseline": "Full joint law/support and ordered singular-value moment analysis, not matrix-mean replacement.",
+      "next": "Require a proved higher-moment/joint-law bridge before a candidate; do not identify (Q*Q)^v with (Q^v)*Q^v."
+    },
+    {
+      "id": "X-271-CROSS-231",
+      "family_ids": [
+        "F-271",
+        "F-231"
+      ],
+      "parts": [
+        "PART-271-TORUS-FLOW",
+        "PART-231-FINITE-QUERY-ORACLE-GATE"
+      ],
+      "title": "Finite torus error versus consistent infinite-forest queries",
+      "mapping": "Try to use a source finite-domain energy/cutoff bound to quantify a FUSF query truncation.",
+      "obstacle": "F271 uses a particular3D lifted-hole environment and ghost-killing absorption. F231 needs a joint finite posterior, spatial free-boundary error and finite random-bit/integration budgets on a general locally finite graph. These are not provided by the torus bound.",
+      "baseline": "Actual finite-window forest oracle and exhaustion/coupling controls already required by F231.",
+      "next": "No generic exhaustion rate, consistent sampler or runtime claim; select a shared admissible graph and joint-query bridge first."
+    },
+    {
+      "id": "X-271-CROSS-119",
+      "family_ids": [
+        "F-271",
+        "F-119"
+      ],
+      "parts": [
+        "PART-271-STRIP-CURVATURE",
+        "PART-119-PRODUCTION"
+      ],
+      "title": "Pressure curvature versus binary-information production",
+      "mapping": "Try strip curvature control as an auxiliary bound for a biased binary-noise information profile.",
+      "obstacle": "F119 has a uniform finite cube, a fixed noise generator and binary entropy with a merely C1 extension seam. It is not automatically an even holomorphic zero-free pressure satisfying the F271 strip inequalities; Duhamel covariance and ordinary information derivatives differ.",
+      "baseline": "Existing exact finite-channel/interval certificates and strongest old hybrid/full-soft/mixture baseline.",
+      "next": "No replacement of the known119 certificate or claimed2026 gain; require an actual analytic strip representation first."
+    }
+  ],
+  "conditional_candidate": "APP-271-01",
+  "candidate_plan": {
+    "path": "experiments/plans/APP-271-01-return-certificate.json",
+    "sha256": "3457b74277b2184e142a2b4f06869dfe969c9312c096be700dd954512716d5b5",
+    "locator": "Proposed mapping/prediction/baselines and execution admission, not executable registration",
+    "commit": null
+  },
+  "all_conclusions": "Single current OpenAI session source analysis and auxiliary self-check; exact backend unknown, no human or second-provider review",
+  "new_source_claim": "CLM-271-CORR-CAPACITY; statement73-94,setup43-71,selected proof97-128; no complete proof-dependency acceptance",
+  "remaining_October_semantic_locators": 83,
+  "full_family_complete": false,
+  "new_initial_checks": 0,
+  "new_scientific_runs": 0
+}

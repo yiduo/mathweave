@@ -1,0 +1,28 @@
+{
+  "id": "MAINT-CI119-20261029",
+  "status": "registered_before_local_diagnostic",
+  "source_commit": "8805716",
+  "serves": "Goal4 reproducible failure records; no new application hypothesis",
+  "selection_reason": "Actual public CI raw119 mismatch with summary equal; zero uploaded artifacts confirmed by live GitHub connector. Existing replay_directory already compresses failure files, so add useful comparison metadata and CI upload rather than duplicate preservation. Bounded one local replay and protocol controls before returning to F271/application work.",
+  "original_archive": "EXP-119-001-e9d098be0b1dda8f",
+  "observed_remote": {
+    "run_id": 40831475096,
+    "head": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
+    "artifacts": [],
+    "raw_equal": false,
+    "summary_equal": true,
+    "environment": "Ubuntu26.04.1/Python3.14.9/GCC15.2.0"
+  },
+  "local_replay_runtime": "Existing macOS Python3.14.8; exact full raw and summary compare, original environment was3.14.7. No claim of reproducing Linux.",
+  "resource_limit": "Original replay/spec time and memory limits unchanged; one3.14.8 replay, no new runtimes/downloads. Diagnostic diff max128 preview entries, full mismatch count and original/replay payload hashes; complete payload kept in compressed failure capsule. New software-only forced mismatch fixture must retain stdout, raw and report after temp cleanup.",
+  "acceptance": [
+    "Original outputs, inputs, scientific source and specifications unchanged",
+    "Existing comparison and resource gates unchanged",
+    "Any mismatch reports bounded differences and actual runtime, preserves logs and compressed outputs",
+    "Workflow upload runs on failure and picks only experiments/replay-failures, with short retention; not remote-verified until next authorized publication",
+    "Run all core tests, no-math clean copy, representative supported/adverse strict replays, full graph/archive checks; real legacy119 replay one attempt",
+    "Third substantive output triggers global046 before more research"
+  ],
+  "stop_or_redirect": "Do not attribute Linux cause from local match/mismatch alone; do not tune precision/fixtures or loosen exact comparisons; no routine GitHub push; no new candidate/initial-check/full-family credit",
+  "registered_at": "2026-10-29T06:58:02.441155+00:00"
+}

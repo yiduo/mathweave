@@ -1,0 +1,54 @@
+{
+  "at": "2026-10-29T08:11:51.917258+00:00",
+  "members": [
+    {
+      "name": "core.log",
+      "bytes": 16369,
+      "sha256": "e5f5ce0db1b0f0f688f9bf441766756c7b480c6657a3158d9d7636efa4e224ae"
+    },
+    {
+      "name": "curate.log",
+      "bytes": 125,
+      "sha256": "937c45c0a83d26f1a2e1e7171f3978774abf9d16c59f4be6a2b45269698aa36d"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 24226,
+      "sha256": "f51a338c7ad007cf0b0069575494b8f01d2b9fcd3a55202fd9243e425e89ea2c"
+    },
+    {
+      "name": "export.log",
+      "bytes": 543,
+      "sha256": "fa9997cce8ded32dc9c1ff4363573c5a9fd30f9b90f0be39c40888b41b016c3d"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 15166,
+      "sha256": "310a950ead699d46a99584709adf2dfdde67e5700860f2478e5ed4a29693bbac"
+    },
+    {
+      "name": "no-math-core.log",
+      "bytes": 16369,
+      "sha256": "0b2748e3aa00c5d55f9b6e8d40a129c85a8be7ee80411fb7e06834a847022f23"
+    },
+    {
+      "name": "qa.log",
+      "bytes": 1373,
+      "sha256": "b6944cc7498625e446e4e7244ce673e9bc2130f29f9a07bf3a1beb3d6c6f7efe"
+    },
+    {
+      "name": "qa.py",
+      "bytes": 10372,
+      "sha256": "ee89a7faf253e5e19bdabb811352e598b4ae654ca9d1b0a26432d17dece03886"
+    }
+  ],
+  "gzip_bytes": 27649,
+  "compressed_sha256": "a2eaa552c3be5dad59c3449801c5bad1f3ceb190bf965f79a781a4902d2f0576",
+  "decompressed_sha256": "ad8771b4edf93497ddef15db2c881548bf4ee5a079b7cbcbe3deca8ce32169a5",
+  "roundtrip_verified": true,
+  "temporary_directory_removed": true,
+  "clean_copy_removed": true,
+  "official_math_copied": false,
+  "new_numerical_targets": 0,
+  "github_push": false
+}

@@ -1,0 +1,92 @@
+{
+  "at": "2026-10-29T06:54:28.737363+00:00",
+  "members": [
+    {
+      "name": "CI-failed-job.log",
+      "bytes": 53812,
+      "sha256": "76767b6759df689f2fcfbea0e6532cd338efd9a2a2be7d14fb57b9d52e5361dc"
+    },
+    {
+      "name": "CI-first-observation.json",
+      "bytes": 638,
+      "sha256": "4c091cfb7bfd888a16e76744005869e6d15e4932c7ad96ceb52a5bd5862a1feb"
+    },
+    {
+      "name": "CI-jobs-observation.json",
+      "bytes": 4443,
+      "sha256": "d76eb255d1f60ba4e6a4981cdf93dc4d3ba13dcc5f99a374bc6068ab48427d7a"
+    },
+    {
+      "name": "CI-observation.json",
+      "bytes": 1095,
+      "sha256": "c9e5d09dfcebec043b918ad98e45a1f8c94193a47d1c04d29f172f00ed237a05"
+    },
+    {
+      "name": "core.log",
+      "bytes": 15992,
+      "sha256": "fd1471ae321a5653d288ff912d9b15ba89c58ae5f8c40ed025257b40044f7af1"
+    },
+    {
+      "name": "create_public_commit.py",
+      "bytes": 1341,
+      "sha256": "be31050675e7c07ee933381fe5c2b19e589867e0b7e6649192b53d78942d470c"
+    },
+    {
+      "name": "final-audit.json",
+      "bytes": 444,
+      "sha256": "7bbd3b5fa6aa05ac948f67f2570b618478d5deed0dcce8cce74afb64c6680b98"
+    },
+    {
+      "name": "final_prepare.py",
+      "bytes": 2526,
+      "sha256": "6bb7af7ab5cefa4ed055c4779f5456d35103c229bdddea34ee724a9a927a7e7c"
+    },
+    {
+      "name": "finalize.py",
+      "bytes": 7903,
+      "sha256": "71f9ccdac8f2e0264767b96798aba712aba7e48e53f53eb3115aa51daac5856f"
+    },
+    {
+      "name": "no-math-core.log",
+      "bytes": 15992,
+      "sha256": "711864d1fe157a44ebfa7ed166b9075241948d684ae1908d21dcd2180752bede"
+    },
+    {
+      "name": "prepare.py",
+      "bytes": 7988,
+      "sha256": "d904925511ba77808953d451952e757ba0d0e7c508d76d6ab01bb3e03a639990"
+    },
+    {
+      "name": "public-candidate.json",
+      "bytes": 447,
+      "sha256": "e305cb33d32853a30ef44e0caac254ae2919661ee1f45d6fa78a3b425277c593"
+    },
+    {
+      "name": "qa.log",
+      "bytes": 1057,
+      "sha256": "b9d1dd5ef05b0de6a0958fa02bb70863f6fef9f894aa361ac5cacadb99806137"
+    },
+    {
+      "name": "qa.py",
+      "bytes": 5499,
+      "sha256": "9b93b7f4b6a55dd1951ab9c104345b2103d3638ac0ab1e760ba76012a8d48691"
+    },
+    {
+      "name": "verification.json",
+      "bytes": 2288,
+      "sha256": "bc2f539cd43e02f7f932297e0a1b63823c7fb068cc1612d8ad557d7e67914c42"
+    }
+  ],
+  "gzip_bytes": 27314,
+  "compressed_sha256": "c7e2885ada968c59888f4987f604f8bee12c28d17b0ecbec560c0da79cb9c1e8",
+  "decompressed_sha256": "4602219d558e45b82fb0c9708e103964ea218f87ec5d15916c7c1cda6c06c450",
+  "roundtrip_members_verified": true,
+  "temporary_directory_removed": true,
+  "clean_copy_removed": true,
+  "official_math_copied": false,
+  "postpush_receipts_local_only": true,
+  "public_commit": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
+  "CI": "failure",
+  "scientific_data_and_graph_unchanged": true,
+  "goal": "active_incomplete"
+}

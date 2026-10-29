@@ -8,7 +8,7 @@
 | 全文拆解草稿（单列） | 372 | 59 | `data/graph/nodes.jsonl:family_analysis` | 逐命题/方法/常数与规格草案；不等于完整谱系或人工审核 |
 | 完整拆解与谱系 | 372 | 0 | `data/graph/reading_coverage.json` | 未完成，局部阅读与草稿不计为完整研究 |
 | 完整历史谱系 | 372 | 0 | `data/graph/nodes.jsonl` | 局部原始文献核对，依赖闭包仍缺失 |
-| 候选连接 | 500 | 47 | `data/graph/nodes.jsonl` | 未完成 |
+| 候选连接 | 500 | 48 | `data/graph/nodes.jsonl` | 未完成 |
 | 真实人工分级 | 150 | 0 | `state/human_review_queue.json` | 用户要求后续追加，不阻止独立工作 |
 | 完整初检卡片 | 100 | 15 | `reports/cards/` | 含 1 张数值适用性筛查；非算法性能验证 |
 | 不同假设复现闭环 | 10 | 15 | `experiments/runs/` | 支持 7 项的限定预测；其余不计作有效线索 |

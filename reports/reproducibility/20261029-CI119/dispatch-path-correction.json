@@ -1,0 +1,9 @@
+{
+  "at": "2026-10-29T07:11:05.487037+00:00",
+  "error": "Wrong149 run-folder suffix in auxiliary command; manifest missing, no target executed",
+  "corrected_from": "EXP-149-001-5d2e4196482dc8aa",
+  "corrected_to": "EXP-149-001-e334ac2404104e6a",
+  "evidence": "dispatch-path-failure/",
+  "correct_run_strict_raw_summary_and_resources": true,
+  "scientific_failure_or_new_check_credit": false
+}

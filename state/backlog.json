@@ -4453,10 +4453,10 @@
       "body_read_credit": 0,
       "new_initial_checks": 0,
       "github_push": false,
-      "retrospective_due": "Global046 after next substantive curation output, even if WP129 remains in progress;partial-output counter2.",
-      "next_action": "Qualify remaining84 October source statements: finite-range30, correction24, spherical30; preserve separate model/limit/formal scopes. Then reconcile full bibliography/history aliases, ten-domain and crossfamily exploration and whole-family QA. Foundation34 and8method interfaces already canonical; do not recreate or promote to full-family/application credit.",
+      "retrospective_due": "Counter2 after global046;WP130 substantive closure triggers global047 before further same-family expansion.",
+      "next_action": "After independent WP130 and required global047, resume23 correction statements plus30 spherical statements, reusing existing correction lem:capacity binding. Then bibliography aliases/history and whole-family QA. Finite-range30/foundation34/capacity1 and10domain/3cross attempts are already canonical;do not recreate or upgrade to full-family/application acceptance.",
       "started_at": "2026-10-27T10:40:42.685615+00:00",
-      "execution_state": "foundation34_source_claims_and8methods_canonical_remaining84_claims_pending",
+      "execution_state": "Finite-range partial output checkpointed;resume after independent WP130/global047;whole-family still in_progress",
       "actual_source_lines_read": 14199,
       "progress_evidence": "state/reading-progress/WP-129.json",
       "base_commit": "8726fd62b2ad2949ae0588635dba5584aa44bae9",
@@ -4512,8 +4512,87 @@
         "CLM-271-F-LEM-DEEP-DYNAMICS",
         "CLM-271-F-LEM-STRIP-LIMIT"
       ],
-      "foundation_quality_receipt": "reports/reproducibility/20261029-F271-foundation/quality.json"
+      "foundation_quality_receipt": "reports/reproducibility/20261029-F271-foundation/quality.json",
+      "route_adjustment": {
+        "retrospective": "reports/retrospectives/046-proof-scope-and-replay-evidence.md",
+        "at": "2026-10-29T07:11:05.487037+00:00",
+        "decision": "Bring bounded application mapping forward before exhaustive remaining claim curation; preserve full-family requirements.",
+        "reason": "Two source-curation outputs and one maintenance output produced no application/distant-exploration count increase."
+      },
+      "partial_application_mapping_evidence": "data/provenance/readings/F-271-application-mapping-WP129.json",
+      "application_candidate_ids": [
+        "APP-271-01"
+      ],
+      "additional_semantic_bindings": {
+        "P-e4168cfdc9df4b3b": {
+          "lem:capacity": "CLM-271-CORR-CAPACITY"
+        }
+      },
+      "remaining_October_semantic_locators": 53,
+      "application_mapping_quality_receipt": "reports/reproducibility/20261029-F271-mapping/closure.json",
+      "finite_range_source_claim_ids": [
+        "CLM-271-FR-THM-MAIN",
+        "CLM-271-FR-PROP-LOOP-REPRESENTATION",
+        "CLM-271-FR-LEM-DENSE-BOUNDARY",
+        "CLM-271-FR-LEM-FACTORIAL",
+        "CLM-271-FR-PROP-PIN-IDENTITIES",
+        "CLM-271-FR-PROP-EXPOSURE",
+        "CLM-271-FR-LEM-EXTERIOR-MOMENTS",
+        "CLM-271-FR-PROP-NEXT-PIN-KERNEL",
+        "CLM-271-FR-PROP-FRESH-WALK",
+        "CLM-271-FR-PROP-NASH",
+        "CLM-271-FR-LEM-ROUTED-FLOW",
+        "CLM-271-FR-PROP-SPARSE-ENERGY",
+        "CLM-271-FR-LEM-NEAR-FLOW",
+        "CLM-271-FR-PROP-SPREAD-ENERGY",
+        "CLM-271-FR-LEM-BLOCKING",
+        "CLM-271-FR-LEM-COMPONENT-TAIL",
+        "CLM-271-FR-PROP-IRREGULARITY",
+        "CLM-271-FR-LEM-LOCALIZATION",
+        "CLM-271-FR-PROP-DIFFUSION",
+        "CLM-271-FR-LEM-HITTING-ENERGY",
+        "CLM-271-FR-LEM-SUFFIX-ENERGY",
+        "CLM-271-FR-THM-SPARSE-PINS",
+        "CLM-271-FR-LEM-RETURN-EXPANSION",
+        "CLM-271-FR-PROP-LONG-TAIL",
+        "CLM-271-FR-COR-SINGLETON-BOUND",
+        "CLM-271-FR-LEM-IDEAL-KERNEL",
+        "CLM-271-FR-PROP-FINITE-WORD",
+        "CLM-271-FR-THM-RETURN-BOUNDS",
+        "CLM-271-FR-PROP-PRESSURE-EQUIVALENCE",
+        "CLM-271-FR-LEM-PIN-MIXTURE"
+      ],
+      "finite_range_quality_receipt": "reports/reproducibility/20261029-F271-finite-range/closure.json"
+    },
+    {
+      "id": "WP-130",
+      "priority": 1,
+      "status": "ready",
+      "parent_task": "WP-006",
+      "objective": "Audit actual APP178 source-constructor finite input/cost admission and strongest old prescribed-order/degree baseline before considering any consensus target.",
+      "selection_reason": "After global046, mapping and finite-range qualification are two substantive F271 outputs. Switch to an existing unchecked candidate rather than another53 same-family statements. APP178 explicitly lacks usable n0(d),k_d and implementation/workload admission; this is a concrete source-to-application bottleneck,not a reason to substitute a favorable old small graph.",
+      "inputs": [
+        "APP-178-01",
+        "CLM-178-THM-MAIN",
+        "PART-178-GRAPH",
+        "PART-178-CERTIFICATE",
+        "ANALYSIS-F-178",
+        "experiments/plans/MAP-178-001.json",
+        "math/preprints/Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026/build/"
+      ],
+      "resource_limit": "Existing source only:13TeX files6694raw lines inventoried,not newly read. Start main71/introduction286/setup159/accounts150/algorithm153/references206=1025lines,then follow all needed phase/constant definitions within the closure. No upstream copy,new graph solver,large dependencies or numerical target. Any necessary selected original acquired normally with bounded2MiB per item/8MiB total and converted text only if PDF.",
+      "acceptance": "Source-bound constructor phases,finite thresholds/parameter hierarchy,bit/output/spectral certificate costs and exact input degree/order constraints. Compare a genuinely available strong old builder at SAME order/degree and count all construction plus communication costs. Preserve the original10percent-round prediction and full-wall-time gate. Admit only with usable constants/implementation and real or explicitly synthetic workload;otherwise retain missing prerequisites without test credit.",
+      "stop_or_redirect": "No target until separate executable preregistration/source freeze. No old small-graph spectrum check standing in for the new constructor; no weaker graph order/degree or dropped construction overhead to obtain a win. A missing numeric n0/kd is not a formal mathematical rejection or proof that no implementation exists.",
+      "depends_on": [
+        "WP-128"
+      ],
+      "created_at": "2026-10-29T08:11:51.917258+00:00",
+      "retrospective_due": "Third substantive output after global046 triggers global047,even if WP129 remains unfinished.",
+      "new_initial_checks": 0,
+      "body_read_credit_this_package": 0,
+      "github_push": false,
+      "next_action": "Read the actual source constructor and parameter hierarchy from their complete needed definitions; inventory available implementation and old-builder interface; qualify finite admission and total cost. No graph target."
     }
   ],
-  "updated_at": "2026-10-29T06:34:24.354583+00:00"
+  "updated_at": "2026-10-29T08:11:51.917258+00:00"
 }

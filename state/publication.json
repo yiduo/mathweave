@@ -4,17 +4,17 @@
   "repository_url": "https://github.com/yiduo/mathweave",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-27T11:16:26.436760+00:00",
-  "verified_commit": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+  "verified_at": "2026-10-29T06:50:03.352Z",
+  "verified_commit": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "43e80881eee808736d15a9db71d9798b98d0b76c",
+  "verified_tree": "3a0c3580d574d288790d3dd1929523f9e4a72448",
   "anonymous_api_verification": false,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261027-publication/verification.json.gz",
+  "verification_receipt": "reports/reproducibility/20261029-publication/verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -28,7 +28,7 @@
   },
   "linux_ci_scope": "95 core checks plus 13 configured archived replays, graph export and publication audit; no EXP076 strict Linux, optional NumPy, Lean, human/provider or application acceptance",
   "live_ci_url": "https://github.com/yiduo/mathweave/actions",
-  "verification_scope": "Completed WP113-WP128 / global045 plus unfinished WP129 all-current-natural-source and five-selected-original history checkpoint; exact remote3334-blob tree and7anonymous key files verified. No official math or bulk local history; no research phase acceptance.",
+  "verification_scope": "WP129 partial GEN126 eight methods and GEN127 34 foundation statements; complete remote tree SHA matches audited local tree and seven selected public files byte-equal through connected GitHub fetch. No official math or bulk local history; research incomplete.",
   "prior_verifications": [
     {
       "verified_at": "2026-10-22T02:33:01.917778+00:00",
@@ -236,6 +236,33 @@
       },
       "latest_ci_receipt": "reports/reproducibility/20261026-WP112-publication/CI-observation.json.gz",
       "latest_ci_conclusion": "success"
+    },
+    {
+      "verified_at": "2026-10-27T11:16:26.436760+00:00",
+      "verified_commit": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+      "verified_tree": "43e80881eee808736d15a9db71d9798b98d0b76c",
+      "verification_receipt": "reports/reproducibility/20261027-publication/verification.json.gz",
+      "verification_scope": "Completed WP113-WP128 / global045 plus unfinished WP129 all-current-natural-source and five-selected-original history checkpoint; exact remote3334-blob tree and7anonymous key files verified. No official math or bulk local history; no research phase acceptance.",
+      "latest_scoped_ci": {
+        "at": "2026-10-27T11:21:46.784484+00:00",
+        "commit": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+        "runs": [
+          {
+            "id": 40494856629,
+            "name": "offline-core",
+            "head_sha": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/yiduo/mathweave/actions/runs/40494856629",
+            "created_at": "2026-10-27T11:16:07Z",
+            "updated_at": "2026-10-27T11:20:45Z"
+          }
+        ],
+        "api_fallbacks": [],
+        "scope": "95 core checks,13 configured archived replays,exports and publication audit; no EXP076 strict Linux,optional NumPy,Lean,human/provider or research acceptance"
+      },
+      "latest_ci_receipt": "reports/reproducibility/20261027-publication/CI-observation.json.gz",
+      "latest_ci_conclusion": "success"
     }
   ],
   "latest_progress_packages": [
@@ -244,25 +271,33 @@
   ],
   "latest_retrospective": "reports/retrospectives/045-old-method-sufficiency-and-history-scope.md",
   "latest_scoped_ci": {
-    "at": "2026-10-27T11:21:46.784484+00:00",
-    "commit": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+    "at": "2026-10-29T06:53:48.055Z",
+    "commit": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
     "runs": [
       {
-        "id": 40494856629,
+        "id": 40831475096,
         "name": "offline-core",
-        "head_sha": "612e91b800eca969b2b496cde34e5206b3afa4d1",
+        "head_sha": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
         "status": "completed",
-        "conclusion": "success",
-        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40494856629",
-        "created_at": "2026-10-27T11:16:07Z",
-        "updated_at": "2026-10-27T11:20:45Z"
+        "conclusion": "failure",
+        "html_url": "https://github.com/yiduo/mathweave/actions/runs/40831475096",
+        "created_at": "2026-10-29T06:48:43Z",
+        "updated_at": "2026-10-29T06:53:01Z"
       }
     ],
-    "api_fallbacks": [],
-    "scope": "95 core checks,13 configured archived replays,exports and publication audit; no EXP076 strict Linux,optional NumPy,Lean,human/provider or research acceptance"
+    "scope": "Configured 95 core checks and13 archived replays plus export/audit; actual run passed core and11 replays then EXP119 raw mismatch/summary match stopped the job. EXP332, export and final audit did not run remotely.",
+    "failure": {
+      "archive": "EXP-119-001-e9d098be0b1dda8f",
+      "raw_equal": false,
+      "summary_equal": true,
+      "runner": "Ubuntu26.04.1 / Python3.14.9 GCC15.2.0",
+      "cause": "Not localized; remote raw replay payload not retained by the existing job. Runner/runtime changed relative to prior success; no causal conclusion.",
+      "comparison_unchanged": true,
+      "job_id": 123306447789
+    }
   },
-  "latest_ci_receipt": "reports/reproducibility/20261027-publication/CI-observation.json.gz",
-  "latest_ci_conclusion": "success",
+  "latest_ci_receipt": "reports/reproducibility/20261029-publication/CI-observation.json.gz",
+  "latest_ci_conclusion": "failure",
   "receipt_storage_scope": "Post-push verification and CI kept locally until the next meaningful batch; no extra push solely for receipts.",
   "update_policy": {
     "recorded_at": "2026-10-22",
@@ -276,25 +311,46 @@
   "repository_id": 1429150108,
   "renamed_from": "yiduo/ai_paper",
   "renamed_at": "2026-10-23T09:42:44.467813+00:00",
-  "anonymous_public_file_reads": 7,
+  "anonymous_public_file_reads": 0,
   "incomplete_reading_journal": "state/reading-progress/WP-129.json",
   "pending_batch": {
-    "requested_at": "2026-10-29T06:42:25.118785+00:00",
-    "status": "checks_passed_pending_exact_audit_push_readback_ci",
-    "source_commit": "9d34ce5",
-    "scope": "WP129 partial GEN126 eight methods and GEN127 34 foundation statements; whole family unfinished",
-    "qa": "reports/reproducibility/20261029-publication/quality.json",
-    "official_math_excluded": true,
-    "bulk_local_history_excluded": true
+    "requested_at": "2026-10-29T08:23:12.204064+00:00",
+    "status": "checks_passed_pending_push_readback_ci",
+    "local_science_commit": "94282409228efeb67fb5e90797d5085956bd92f3",
+    "expected_remote_parent": "f2aa303cbaf694f48ad08ec4561d0cee85df3670",
+    "scope": "F271 ten-domain mapping, conditional APP27101 plan, 30 finite-range source claims and 44 selected interfaces; global046 and replay failure evidence upload fix. WP129 incomplete; no new external check.",
+    "official_math_included": false,
+    "postpublication_receipts": "Keep local to avoid repeated remote updates.",
+    "quality_receipt": "reports/reproducibility/20261029-owner-batch/quality.json"
   },
-  "latest_snapshot_files": 3334,
-  "latest_snapshot_bytes": 93853010,
-  "local_progress_after_verified_snapshot": "GEN126/127 partial F271 curation is local and pending this explicit publication request; previous verified commit and its CI remain separately scoped.",
+  "latest_snapshot_files": 3372,
+  "latest_snapshot_bytes": 95193906,
+  "local_progress_after_verified_snapshot": "Local after f2aa303: CI119 diagnostics/upload configuration and global046, GEN128 mapping/conditionalAPP271, then GEN12930finite-range source statements and44selected proof interfaces. Current graph9028/26511,48candidates15checks;no new push,math excluded. Last observed public CI failed.",
   "state_value_repair": {
     "at": "2026-10-29T06:30:03.882295+00:00",
     "previous": "public_published_verified",
     "current": "published",
     "reason": "Align existing publication renderer contract using actual saved verification; no new remote-state observation or CI claim.",
     "previous_archive": "reports/reproducibility/20261029-F271-foundation/publication-state-before-schema-repair.json.gz"
+  },
+  "selected_public_file_reads": 7,
+  "public_file_read_access": "Connected GitHub fetch of public raw URLs",
+  "current_public_ci_limitation": {
+    "archive": "EXP-119-001-e9d098be0b1dda8f",
+    "raw_equal": false,
+    "summary_equal": true,
+    "runner": "Ubuntu26.04.1 / Python3.14.9 GCC15.2.0",
+    "cause": "Not localized. Existing replay controller retains compressed runner-local failure capsules; CI did not upload them. Live artifact inventory empty. Environment differences alone do not establish cause.",
+    "comparison_unchanged": true,
+    "job_id": 123306447789
+  },
+  "preservation_correction": "reports/reproducibility/20261029-CI119/preservation-correction.json",
+  "local_followup": {
+    "evidence": "reports/reproducibility/20261029-CI119/closure.json",
+    "status": "local_fix_verified_not_pushed",
+    "local119_strict_match": true,
+    "runtime": "macOS/Python3.14.8",
+    "Linux_cause": "unknown",
+    "workflow_artifact_upload": "local only, not remotely verified"
   }
 }

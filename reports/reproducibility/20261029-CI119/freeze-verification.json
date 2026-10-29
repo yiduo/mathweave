@@ -1,0 +1,17 @@
+{
+  "frozen_controller_commit": "42901e6bad529508ac65e8686ba6621e7c59f688",
+  "controller_inputs": {
+    "scripts/replay_run.py": "cb31b02b28c37c35d47d2110c6549eb7fc2d1f61fec79e5005e3a80e1d026443",
+    "tests/test_replay_diagnostics.py": "68cd1504c5f79679df5806e67a3692c022400de574ec435d29de32b77a3796c7",
+    "reports/reproducibility/20261029-CI119/diagnostic-spec.json": "d53dc15d0950139dd68854404e8220c1650af1114fbd0ee0e56877946425f538"
+  },
+  "original24source_members_verified": 24,
+  "original_outputs_verified": true,
+  "original_resource_limits": {
+    "resource_limit_seconds": 120,
+    "resource_limit_mb": 128,
+    "resource_change_before_outputs": "WP047 proposed60s/64MiB before certification design. Frozen protocol now120s/128MiB for two precisions/interval roots/independent judges. No dependency install/data download; at most3 fields of8points,raw/summary/sourcegzip with decompressed hashes. No fixture outputs existed at change."
+  },
+  "attempts_before_this_dispatch": 0,
+  "scope": "Existing archive diagnostic, not new scientific target"
+}

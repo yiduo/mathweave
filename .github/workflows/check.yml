@@ -26,6 +26,14 @@ jobs:
       - run: python scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586
       - run: PYTHONPATH=src python -m ai_value.cli export-graph
       - run: python scripts/audit_publication.py
+      - name: Preserve failed replay evidence
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: replay-failures-${{ github.run_id }}-${{ github.run_attempt }}
+          path: experiments/replay-failures/
+          if-no-files-found: warn
+          retention-days: 7
 # Replays 13 archives in this Linux job. EXP076's strict raw comparison failed
 # on Linux while its summary matched; its registered scope freezes macOS.
 # The unchanged strict replay passed on the original macOS/Python3.14.7 runtime.
